@@ -1,0 +1,9 @@
+# Which clients and competitors to track.
+# Use codenames for clients, since this repo is public.
+
+clients:
+  - id: client-a
+    name: Client A
+    competitors:
+      - name: Nike
+        domain: www.nike.com/il
