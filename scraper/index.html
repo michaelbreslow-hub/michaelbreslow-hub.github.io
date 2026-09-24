@@ -1,1 +1,1161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Competitor Watch</title>
+<meta name="description" content="Daily tracking of competitor sitemaps: new, removed and changed pages, with an AI brief.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232a78d6'/%3E%3Cpath d='M9 17l4 4 10-10' stroke='white' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f5f4f0;
+  --card: #fcfcfb;
+  --card-2: #f3f2ee;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --ink-3: #6f6d67;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --ring: rgba(11,11,11,0.10);
+  --ring-strong: rgba(11,11,11,0.18);
+  --wash: rgba(11,11,11,0.05);
+  --accent: #2a78d6;
+  --accent-ink: #1c5cab;
+  --accent-wash: rgba(42,120,214,0.10);
+  --t-added: #2a78d6;
+  --t-removed: #eb6834;
+  --t-updated: #1baf7a;
+  --t-seo: #eda100;
+  --t-status: #e87ba4;
+  --good: #0ca30c; --good-ink: #006300;
+  --warn: #fab219; --warn-ink: #8a5a00;
+  --serious: #ec835a; --serious-ink: #a4401a;
+  --critical: #d03b3b; --critical-ink: #b02a2a;
+  --del-bg: rgba(208,59,59,0.12); --ins-bg: rgba(12,163,12,0.14);
+  --shadow: 0 1px 2px rgba(0,0,0,.04), 0 4px 16px rgba(0,0,0,.04);
+  --radius: 14px;
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --page: #0d0d0d; --card: #1a1a19; --card-2: #232321;
+    --ink: #ffffff; --ink-2: #c3c2b7; --ink-3: #9a988f;
+    --grid: #2c2c2a; --axis: #383835;
+    --ring: rgba(255,255,255,0.10); --ring-strong: rgba(255,255,255,0.18); --wash: rgba(255,255,255,0.06);
+    --accent: #3987e5; --accent-ink: #86b6ef; --accent-wash: rgba(57,135,229,0.16);
+    --t-added: #3987e5; --t-removed: #d95926; --t-updated: #199e70; --t-seo: #c98500; --t-status: #d55181;
+    --good-ink: #0ca30c; --warn-ink: #fab219; --serious-ink: #ec835a; --critical-ink: #e66767;
+    --del-bg: rgba(230,103,103,0.18); --ins-bg: rgba(12,163,12,0.22);
+    --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --card: #1a1a19; --card-2: #232321;
+  --ink: #ffffff; --ink-2: #c3c2b7; --ink-3: #9a988f;
+  --grid: #2c2c2a; --axis: #383835;
+  --ring: rgba(255,255,255,0.10); --ring-strong: rgba(255,255,255,0.18); --wash: rgba(255,255,255,0.06);
+  --accent: #3987e5; --accent-ink: #86b6ef; --accent-wash: rgba(57,135,229,0.16);
+  --t-added: #3987e5; --t-removed: #d95926; --t-updated: #199e70; --t-seo: #c98500; --t-status: #d55181;
+  --good-ink: #0ca30c; --warn-ink: #fab219; --serious-ink: #ec835a; --critical-ink: #e66767;
+  --del-bg: rgba(230,103,103,0.18); --ins-bg: rgba(12,163,12,0.22);
+  --shadow: none;
+}
 
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 15px/1.5 var(--font); }
+a { color: var(--accent-ink); text-decoration: none; }
+a:hover { text-decoration: underline; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.wrap { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+@media (max-width: 600px) { .wrap { padding: 0 16px; } }
+
+/* header */
+header.top { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--page) 88%, transparent); backdrop-filter: saturate(1.4) blur(10px); -webkit-backdrop-filter: saturate(1.4) blur(10px); border-bottom: 1px solid var(--ring); }
+.top-inner { display: flex; align-items: center; gap: 12px; min-height: 60px; flex-wrap: wrap; padding-top: 8px; padding-bottom: 8px; }
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 650; letter-spacing: -0.01em; margin-right: auto; }
+.brand-mark { width: 28px; height: 28px; border-radius: 8px; background: var(--accent); display: grid; place-items: center; color: #fff; flex: none; }
+.brand small { display: block; font-weight: 450; color: var(--ink-3); font-size: 12px; line-height: 1.2; }
+.updated { color: var(--ink-3); font-size: 13px; white-space: nowrap; }
+.btn { display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px; border-radius: 9px; border: 1px solid var(--ring-strong); background: var(--card); cursor: pointer; font-size: 14px; white-space: nowrap; color: var(--ink); }
+.btn:hover { background: var(--card-2); text-decoration: none; }
+.btn.icon { width: 34px; padding: 0; justify-content: center; }
+.btn svg { flex: none; }
+.select { height: 34px; border-radius: 9px; border: 1px solid var(--ring-strong); background: var(--card); padding: 0 30px 0 10px; appearance: none; -webkit-appearance: none; cursor: pointer; max-width: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23898781' stroke-width='2.5' stroke-linecap='round'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 10px center; }
+
+@media (max-width: 600px) {
+  header.top { position: static; }
+  .brand small { display: none; }
+  .top-inner { gap: 8px; }
+  .updated { order: 5; width: 100%; font-size: 12.5px; margin-top: -4px; }
+  .day-h { top: 0; }
+}
+
+/* filter row */
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 22px 0 16px; }
+.seg { display: inline-flex; padding: 3px; background: var(--card-2); border-radius: 10px; border: 1px solid var(--ring); }
+.seg button { border: 0; background: transparent; height: 28px; padding: 0 12px; border-radius: 7px; cursor: pointer; font-size: 13.5px; color: var(--ink-2); }
+.seg button[aria-pressed="true"] { background: var(--card); color: var(--ink); font-weight: 600; box-shadow: 0 0 0 1px var(--ring), 0 1px 2px rgba(0,0,0,.06); }
+.filters .spacer { flex: 1; }
+.chip-clear { font-size: 13px; color: var(--ink-3); background: none; border: 0; cursor: pointer; padding: 4px 6px; }
+.chip-clear:hover { color: var(--ink); }
+
+/* cards */
+.card { background: var(--card); border: 1px solid var(--ring); border-radius: var(--radius); box-shadow: var(--shadow); }
+.card-pad { padding: 20px 22px; }
+@media (max-width: 600px) { .card-pad { padding: 16px; } }
+.card-h { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 0 0 14px; }
+.card-h h2 { font-size: 15px; font-weight: 650; margin: 0; letter-spacing: -0.005em; }
+.card-h .meta { color: var(--ink-3); font-size: 13px; }
+.card-h .right { margin-left: auto; display: flex; gap: 8px; align-items: center; }
+section { margin-bottom: 18px; }
+
+/* brief */
+.brief { position: relative; overflow: hidden; }
+.brief::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 3px; background: linear-gradient(90deg, var(--t-added), var(--t-updated), var(--t-seo)); opacity: .8; }
+.eyebrow { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); }
+.brief h3 { font-size: clamp(19px, 2.4vw, 24px); line-height: 1.25; letter-spacing: -0.015em; margin: 8px 0 8px; font-weight: 680; text-wrap: balance; }
+.brief .overall { color: var(--ink-2); margin: 0 0 16px; max-width: 78ch; text-wrap: pretty; }
+.brief-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 10px; }
+.brief-comp { background: var(--card-2); border-radius: 11px; padding: 12px 14px; }
+.brief-comp .name { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: 14px; margin-bottom: 6px; }
+.brief-comp ul { margin: 0; padding-left: 18px; color: var(--ink-2); font-size: 14px; }
+.brief-comp li { margin: 3px 0; }
+.watch { margin-top: 14px; display: flex; gap: 10px; align-items: flex-start; padding: 10px 12px; border-radius: 10px; background: var(--accent-wash); color: var(--ink); font-size: 14px; }
+.watch svg { flex: none; margin-top: 2px; color: var(--accent-ink); }
+.brief-foot { margin-top: 12px; font-size: 12.5px; color: var(--ink-3); }
+.brief-empty { display: flex; gap: 14px; align-items: flex-start; }
+.brief-empty .ico { width: 38px; height: 38px; border-radius: 10px; background: var(--accent-wash); color: var(--accent-ink); display: grid; place-items: center; flex: none; }
+.brief-empty p { margin: 2px 0 0; color: var(--ink-2); font-size: 14px; max-width: 70ch; }
+.pill { display: inline-flex; align-items: center; gap: 5px; height: 22px; padding: 0 8px; border-radius: 999px; font-size: 12px; font-weight: 600; background: var(--wash); color: var(--ink-2); white-space: nowrap; }
+.pill .dot { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+.pill.quiet { color: var(--ink-3); }
+.pill.active { color: var(--accent-ink); background: var(--accent-wash); }
+.pill.major { color: var(--serious-ink); background: color-mix(in srgb, var(--serious) 16%, transparent); }
+
+/* kpis */
+.kpis { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 18px; }
+@media (max-width: 900px) { .kpis { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 520px) { .kpis { grid-template-columns: repeat(2, 1fr); } .kpi:last-child { grid-column: span 2; } }
+.kpi { padding: 14px 16px; text-align: left; cursor: pointer; border: 1px solid var(--ring); background: var(--card); border-radius: 12px; box-shadow: var(--shadow); transition: border-color .15s, background .15s; }
+.kpi:hover { border-color: var(--ring-strong); }
+.kpi[aria-pressed="true"] { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.kpi .lab { display: flex; align-items: center; gap: 7px; font-size: 13px; color: var(--ink-2); }
+.kpi .val { font-size: 28px; font-weight: 680; letter-spacing: -0.02em; line-height: 1.15; margin-top: 4px; }
+.kpi .sub { font-size: 12px; color: var(--ink-3); }
+.swatch { width: 10px; height: 10px; border-radius: 3px; flex: none; }
+
+/* chart */
+.chart-wrap { position: relative; }
+.chart-wrap svg { display: block; width: 100%; overflow: visible; }
+.chart-wrap .bar-hit { cursor: default; }
+.chart-wrap .bar-hit:hover rect.seg-r, .chart-wrap .bar-hit:focus rect.seg-r { filter: brightness(1.12); }
+.chart-wrap .bar-hit:focus { outline: none; }
+.chart-wrap .bar-hit:focus .hit { stroke: var(--accent); stroke-width: 1.5; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--ink-2); margin-top: 10px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.tooltip { position: absolute; pointer-events: none; z-index: 5; min-width: 150px; background: var(--card); border: 1px solid var(--ring-strong); border-radius: 10px; padding: 8px 10px; font-size: 13px; box-shadow: 0 8px 24px rgba(0,0,0,.14); opacity: 0; transform: translateY(4px); transition: opacity .12s, transform .12s; }
+.tooltip.show { opacity: 1; transform: none; }
+.tooltip .tt-h { color: var(--ink-3); font-size: 12px; margin-bottom: 4px; }
+.tooltip .tt-r { display: flex; align-items: center; gap: 8px; line-height: 1.7; }
+.tooltip .tt-r b { min-width: 2.5ch; text-align: right; font-variant-numeric: tabular-nums; }
+.tooltip .tt-r .k { width: 12px; height: 3px; border-radius: 2px; flex: none; }
+.tooltip .tt-r span:last-child { color: var(--ink-2); }
+.table-view { width: 100%; border-collapse: collapse; font-size: 13px; margin-top: 12px; font-variant-numeric: tabular-nums; }
+.table-view th, .table-view td { text-align: right; padding: 5px 8px; border-bottom: 1px solid var(--grid); }
+.table-view th:first-child, .table-view td:first-child { text-align: left; }
+.table-view th { color: var(--ink-3); font-weight: 600; }
+.table-scroll { max-height: 280px; overflow: auto; }
+
+/* competitors */
+.comp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.comp { position: relative; padding: 16px; display: flex; flex-direction: column; gap: 12px; cursor: pointer; text-align: left; border: 1px solid var(--ring); background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); transition: border-color .15s, transform .15s; width: 100%; }
+.comp:hover { border-color: var(--ring-strong); }
+.comp[aria-pressed="true"] { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+.comp-top { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.avatar { width: 34px; height: 34px; border-radius: 9px; background: var(--card-2); display: grid; place-items: center; font-weight: 700; color: var(--ink-2); flex: none; overflow: hidden; border: 1px solid var(--ring); }
+.avatar img { width: 20px; height: 20px; }
+.comp-name { font-weight: 650; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.comp-domain { font-size: 12.5px; color: var(--ink-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.comp-top .txt { min-width: 0; flex: 1; }
+.new-dot { position: absolute; top: 12px; right: 12px; width: 9px; height: 9px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 3px var(--card); }
+.comp-stats { display: flex; align-items: flex-end; justify-content: space-between; gap: 10px; }
+.comp-total { font-size: 24px; font-weight: 680; letter-spacing: -0.02em; line-height: 1; }
+.comp-total small { display: block; font-size: 12px; font-weight: 450; color: var(--ink-3); letter-spacing: 0; margin-top: 4px; }
+.delta { font-size: 12px; font-weight: 600; margin-left: 4px; color: var(--ink-3); }
+.delta.up { color: var(--good-ink); } .delta.down { color: var(--critical-ink); }
+.counts { display: flex; flex-wrap: wrap; gap: 6px; }
+.count { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; color: var(--ink-2); background: var(--card-2); border-radius: 7px; padding: 2px 8px; font-variant-numeric: tabular-nums; }
+.count b { color: var(--ink); font-weight: 650; }
+.status { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 600; }
+.status svg { flex: none; }
+.status.ok { color: var(--good-ink); } .status.baseline { color: var(--accent-ink); } .status.partial { color: var(--warn-ink); }
+.status.blocked { color: var(--serious-ink); } .status.error { color: var(--critical-ink); } .status.pending { color: var(--ink-3); }
+.comp-foot { display: flex; justify-content: space-between; align-items: center; gap: 8px; font-size: 12.5px; color: var(--ink-3); border-top: 1px solid var(--grid); padding-top: 10px; margin-top: auto; }
+.comp-note { font-size: 12.5px; color: var(--ink-2); background: var(--card-2); border-radius: 8px; padding: 7px 9px; }
+
+/* lower */
+.lower { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 18px; align-items: start; }
+@media (max-width: 960px) { .lower { grid-template-columns: minmax(0, 1fr); } }
+.feed-tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 11px; border-radius: 999px; border: 1px solid var(--ring-strong); background: var(--card); cursor: pointer; font-size: 13px; color: var(--ink-2); }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--card); border-color: var(--ink); }
+.chip .n { font-variant-numeric: tabular-nums; opacity: .7; }
+.search { position: relative; flex: 1; min-width: 180px; }
+.search input { width: 100%; height: 34px; border-radius: 9px; border: 1px solid var(--ring-strong); background: var(--card); padding: 0 10px 0 32px; }
+.search svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--ink-3); pointer-events: none; }
+.result-count { font-size: 13px; color: var(--ink-3); margin: 0 0 8px; }
+.day { margin-top: 14px; }
+.day:first-child { margin-top: 0; }
+.day-h { position: sticky; top: 60px; z-index: 2; background: var(--card); display: flex; align-items: baseline; gap: 10px; padding: 6px 0; font-weight: 650; font-size: 14px; border-bottom: 1px solid var(--grid); }
+.day-h .meta { font-weight: 450; color: var(--ink-3); font-size: 12.5px; }
+details.grp { border-bottom: 1px solid var(--grid); }
+details.grp > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 9px 2px; font-size: 13.5px; }
+details.grp > summary::-webkit-details-marker { display: none; }
+details.grp > summary .chev { transition: transform .15s; color: var(--ink-3); flex: none; }
+details.grp[open] > summary .chev { transform: rotate(90deg); }
+details.grp > summary .sec { font-family: var(--mono); font-size: 13px; font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+details.grp > summary .who { color: var(--ink-3); white-space: nowrap; }
+details.grp > summary { flex-wrap: wrap; min-width: 0; }
+details.grp > summary .mini { margin-left: auto; display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 10px; font-size: 12px; color: var(--ink-3); white-space: nowrap; }
+@media (max-width: 600px) { details.grp > summary .mini { margin-left: 22px; width: 100%; justify-content: flex-start; } }
+details.grp > summary:hover { background: var(--wash); border-radius: 8px; }
+.row { display: grid; grid-template-columns: 22px minmax(0,1fr) auto; gap: 10px; align-items: start; padding: 7px 2px 7px 4px; border-radius: 8px; }
+.row:hover { background: var(--wash); }
+.row .ti { width: 22px; height: 22px; border-radius: 6px; display: grid; place-items: center; margin-top: 1px; }
+.row .main { min-width: 0; }
+.row .url { font-family: var(--mono); font-size: 13px; color: var(--ink); overflow-wrap: anywhere; }
+.row .url:hover { color: var(--accent-ink); }
+.row .sub { font-size: 12.5px; color: var(--ink-3); margin-top: 1px; }
+.row .acts { display: flex; gap: 2px; opacity: .5; transition: opacity .15s; }
+.row:hover .acts, .row:focus-within .acts { opacity: 1; }
+.iconbtn { width: 28px; height: 28px; border-radius: 7px; border: 0; background: transparent; cursor: pointer; display: grid; place-items: center; color: var(--ink-3); }
+.iconbtn:hover { background: var(--wash); color: var(--ink); }
+.newtag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--accent-ink); background: var(--accent-wash); padding: 1px 6px; border-radius: 5px; margin-left: 6px; vertical-align: 1px; font-family: var(--font); }
+.diff { margin-top: 6px; display: grid; gap: 4px; }
+.diff .f { display: grid; grid-template-columns: 86px minmax(0,1fr); gap: 8px; font-size: 13px; }
+.diff .f .k { color: var(--ink-3); font-size: 12px; text-transform: uppercase; letter-spacing: .03em; padding-top: 1px; }
+.diff .f .v { overflow-wrap: anywhere; color: var(--ink-2); }
+.diff del { background: var(--del-bg); color: var(--ink); text-decoration: line-through; text-decoration-color: var(--critical-ink); border-radius: 3px; padding: 0 1px; }
+.diff ins { background: var(--ins-bg); color: var(--ink); text-decoration: none; border-radius: 3px; padding: 0 1px; }
+.diff .empty { color: var(--ink-3); font-style: italic; }
+@media (max-width: 520px) { .diff .f { grid-template-columns: 1fr; gap: 0; } }
+.more { display: flex; justify-content: center; margin-top: 14px; }
+.side-list { list-style: none; margin: 0; padding: 0; }
+.side-list li { display: grid; grid-template-columns: minmax(0,1fr) auto; gap: 8px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--grid); }
+.side-list li:last-child { border-bottom: 0; }
+.side-list button { all: unset; cursor: pointer; min-width: 0; }
+.side-list button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+.side-list .sec { font-family: var(--mono); font-size: 13px; font-weight: 600; display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.side-list .who { font-size: 12px; color: var(--ink-3); }
+.side-list .bar { height: 4px; border-radius: 2px; background: var(--t-added); margin-top: 5px; }
+.side-list .n { font-weight: 650; font-variant-numeric: tabular-nums; }
+
+/* states */
+.empty-state { text-align: center; padding: 34px 16px; color: var(--ink-2); }
+.empty-state .ico { width: 44px; height: 44px; border-radius: 12px; background: var(--card-2); display: grid; place-items: center; margin: 0 auto 10px; color: var(--ink-3); }
+.empty-state h3 { margin: 0 0 4px; font-size: 15px; color: var(--ink); }
+.empty-state p { margin: 0 auto; max-width: 52ch; font-size: 14px; }
+.banner { display: flex; gap: 10px; align-items: flex-start; padding: 12px 14px; border-radius: 12px; margin: 18px 0 0; font-size: 14px; background: color-mix(in srgb, var(--critical) 10%, var(--card)); border: 1px solid color-mix(in srgb, var(--critical) 30%, transparent); }
+.banner svg { color: var(--critical-ink); flex: none; margin-top: 2px; }
+.skel { background: linear-gradient(90deg, var(--card-2), var(--wash), var(--card-2)); background-size: 200% 100%; animation: sh 1.4s infinite linear; border-radius: 8px; }
+@keyframes sh { to { background-position: -200% 0; } }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); background: var(--ink); color: var(--card); padding: 8px 14px; border-radius: 10px; font-size: 13.5px; opacity: 0; transition: opacity .2s, transform .2s; pointer-events: none; z-index: 50; }
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+footer { color: var(--ink-3); font-size: 12.5px; padding: 26px 0 40px; }
+.loading-dim { opacity: .55; transition: opacity .2s; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+@media (forced-colors: active) { .swatch, .pill .dot, .row .ti { forced-color-adjust: none; } }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></div>
+      <div>Competitor Watch<small>Sitemap &amp; SEO change tracking</small></div>
+    </div>
+    <label class="sr-only" for="client">Client</label>
+    <select id="client" class="select" aria-label="Client"></select>
+    <span class="updated" id="updated"></span>
+    <a class="btn" id="runs-link" href="#" target="_blank" rel="noopener noreferrer" title="Open GitHub Actions to run a scan now or view past runs">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg><span>Runs</span>
+    </a>
+    <button class="btn icon" id="theme" type="button" aria-label="Toggle theme" title="Theme"></button>
+  </div>
+</header>
+
+<main class="wrap" id="app" aria-busy="true">
+  <div id="banner"></div>
+
+  <div class="filters" role="toolbar" aria-label="Filters">
+    <div class="seg" id="range" role="group" aria-label="Date range">
+      <button type="button" data-v="7">7 days</button>
+      <button type="button" data-v="30">30 days</button>
+      <button type="button" data-v="90">90 days</button>
+    </div>
+    <label class="sr-only" for="comp-filter">Competitor</label>
+    <select id="comp-filter" class="select" aria-label="Competitor"></select>
+    <button type="button" class="chip-clear" id="clear-filters" hidden>Clear filters</button>
+  </div>
+
+  <section id="brief" class="card card-pad brief" aria-label="AI brief">
+    <div class="skel" style="height:14px;width:120px"></div>
+    <div class="skel" style="height:26px;width:70%;margin:12px 0"></div>
+    <div class="skel" style="height:14px;width:90%"></div>
+  </section>
+
+  <div class="kpis" id="kpis" role="group" aria-label="Change totals. Select one to filter the feed">
+    <div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div>
+  </div>
+
+  <section class="card card-pad" aria-labelledby="act-h">
+    <div class="card-h">
+      <h2 id="act-h">Activity</h2><span class="meta" id="act-meta"></span>
+      <div class="right"><button type="button" class="btn" id="table-toggle" aria-expanded="false">Table view</button></div>
+    </div>
+    <div class="chart-wrap" id="chart"><div class="skel" style="height:190px"></div></div>
+    <div class="legend" id="legend"></div>
+    <div id="table-wrap" hidden></div>
+  </section>
+
+  <section aria-labelledby="comp-h">
+    <div class="card-h" style="margin-top:26px"><h2 id="comp-h">Competitors</h2><span class="meta" id="comp-meta"></span></div>
+    <div class="comp-grid" id="comps"></div>
+  </section>
+
+  <div class="lower" style="margin-top:26px">
+    <section class="card card-pad" aria-labelledby="feed-h">
+      <div class="card-h">
+        <h2 id="feed-h">Change feed</h2>
+        <div class="right"><button type="button" class="btn" id="export"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M5 21h14"/></svg>Export CSV</button></div>
+      </div>
+      <div class="feed-tools">
+        <div class="chips" id="type-chips" role="group" aria-label="Change type"></div>
+        <div class="search">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <label class="sr-only" for="q">Search URLs and titles</label>
+          <input id="q" type="search" placeholder="Search URLs, titles, sections…" autocomplete="off">
+        </div>
+      </div>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+      <div id="feed"></div>
+    </section>
+    <aside>
+      <section class="card card-pad" aria-labelledby="sec-h">
+        <div class="card-h"><h2 id="sec-h">Where pages are being added</h2></div>
+        <div id="sections"></div>
+      </section>
+      <section class="card card-pad" aria-labelledby="about-h">
+        <div class="card-h"><h2 id="about-h">How this works</h2></div>
+        <p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)">A GitHub Action scans each competitor's XML sitemap every day. It records pages that were <b>added</b>, <b>removed</b> or had their <b>lastmod</b> date change. For new and changed pages it also checks the title, meta description, H1, canonical and HTTP status.</p>
+        <p style="margin:0;font-size:13.5px;color:var(--ink-2)">To add competitors, edit <code>scraper/clients.yaml</code>. You can track up to 5 per client.</p>
+      </section>
+    </aside>
+  </div>
+
+  <footer id="foot"></footer>
+</main>
+<div class="tooltip" id="tt" role="status" aria-hidden="true"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(() => {
+"use strict";
+
+// ---------------------------------------------------------------- constants
+const TYPES = [
+  { key: "added",          label: "Added",        plural: "added",        color: "var(--t-added)" },
+  { key: "removed",        label: "Removed",      plural: "removed",      color: "var(--t-removed)" },
+  { key: "updated",        label: "Updated",      plural: "updated",      color: "var(--t-updated)" },
+  { key: "seo_changed",    label: "SEO changes",  plural: "SEO changes",  color: "var(--t-seo)" },
+  { key: "status_changed", label: "HTTP status",  plural: "status changes", color: "var(--t-status)" },
+];
+const TYPE = Object.fromEntries(TYPES.map(t => [t.key, t]));
+const FIELD_LABEL = { title: "Title", description: "Meta desc.", h1: "H1", canonical: "Canonical" };
+const PAGE_SIZE = 120;
+const SVGNS = "http://www.w3.org/2000/svg";
+// ?data=dev/demo/data points the dashboard at local demo data. Only same-origin relative paths are allowed.
+const DATA_BASE = (() => {
+  const p = new URLSearchParams(location.search).get("data");
+  return p && /^[\w\-/]+$/.test(p) && !p.startsWith("/") ? p.replace(/\/$/, "") : "data";
+})();
+
+const ICONS = {
+  added:   '<path d="M12 5v14M5 12h14"/>',
+  removed: '<path d="M5 12h14"/>',
+  updated: '<path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>',
+  seo_changed: '<path d="M4 7V5h16v2"/><path d="M9 19h6"/><path d="M12 5v14"/>',
+  status_changed: '<path d="M5 12h14"/><path d="M13 6l6 6-6 6"/>',
+  ok: '<path d="M20 6L9 17l-5-5"/>',
+  baseline: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+  partial: '<path d="M12 9v4"/><path d="M12 17h.01"/><path d="M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/>',
+  blocked: '<circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/>',
+  error: '<circle cx="12" cy="12" r="9"/><path d="M12 8v4"/><path d="M12 16h.01"/>',
+  pending: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5"/>',
+  copy: '<rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/>',
+  ext: '<path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>',
+  chev: '<path d="M9 6l6 6-6 6"/>',
+  spark: '<path d="M12 3l1.9 5.6L19.5 10l-5.6 1.9L12 17.5l-1.9-5.6L4.5 10l5.6-1.4z"/>',
+  eye: '<path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/>',
+  inbox: '<path d="M22 12h-6l-2 3h-4l-2-3H2"/><path d="M5.5 5h13L22 12v6a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-6z"/>',
+  search: '<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>',
+  sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',
+  moon: '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>',
+  auto: '<circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/>',
+  alert: '<circle cx="12" cy="12" r="9"/><path d="M12 8v4"/><path d="M12 16h.01"/>',
+};
+const STATUS = {
+  ok:       { label: "Healthy" },
+  baseline: { label: "Baseline captured" },
+  partial:  { label: "Partial fetch" },
+  blocked:  { label: "Blocked" },
+  error:    { label: "Error" },
+  pending:  { label: "Waiting for first scan" },
+};
+
+// ---------------------------------------------------------------- tiny DOM helpers (textContent only for data)
+function h(tag, attrs, ...kids) {
+  const el = document.createElement(tag);
+  if (attrs) for (const [k, v] of Object.entries(attrs)) {
+    if (v == null || v === false) continue;
+    if (k === "class") el.className = v;
+    else if (k === "style") el.style.cssText = v;
+    else if (k.startsWith("on")) el.addEventListener(k.slice(2), v);
+    else el.setAttribute(k, v === true ? "" : v);
+  }
+  for (const kid of kids.flat()) {
+    if (kid == null || kid === false) continue;
+    el.append(kid instanceof Node ? kid : document.createTextNode(String(kid)));
+  }
+  return el;
+}
+function icon(name, size = 14, sw = 2.2) {
+  const s = document.createElementNS(SVGNS, "svg");
+  s.setAttribute("width", size); s.setAttribute("height", size); s.setAttribute("viewBox", "0 0 24 24");
+  s.setAttribute("fill", "none"); s.setAttribute("stroke", "currentColor"); s.setAttribute("stroke-width", sw);
+  s.setAttribute("stroke-linecap", "round"); s.setAttribute("stroke-linejoin", "round"); s.setAttribute("aria-hidden", "true");
+  s.innerHTML = ICONS[name] || ""; // static, trusted markup only
+  return s;
+}
+function svg(tag, attrs) {
+  const el = document.createElementNS(SVGNS, tag);
+  for (const [k, v] of Object.entries(attrs || {})) el.setAttribute(k, v);
+  return el;
+}
+const $ = (id) => document.getElementById(id);
+function safeHref(url) {
+  try { const u = new URL(url); return (u.protocol === "https:" || u.protocol === "http:") ? u.href : null; } catch { return null; }
+}
+const store = {
+  get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch { /* storage unavailable */ } },
+};
+const nf = new Intl.NumberFormat();
+const fmt = (n) => nf.format(n || 0);
+
+// ---------------------------------------------------------------- dates
+const dayKey = (iso) => iso.slice(0, 10);
+const rtf = new Intl.RelativeTimeFormat(undefined, { numeric: "auto" });
+function relTime(iso) {
+  if (!iso) return "never";
+  const diff = (new Date(iso) - Date.now()) / 1000;
+  const units = [["year", 31536000], ["month", 2592000], ["week", 604800], ["day", 86400], ["hour", 3600], ["minute", 60]];
+  for (const [u, s] of units) if (Math.abs(diff) >= s) return rtf.format(Math.round(diff / s), u);
+  return "just now";
+}
+const fullTime = (iso) => iso ? new Date(iso).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" }) : "";
+function dayLabel(key, opts) {
+  const d = new Date(key + "T12:00:00Z");
+  return d.toLocaleDateString(undefined, opts || { weekday: "short", month: "short", day: "numeric" });
+}
+function friendlyDay(key) {
+  const today = new Date().toISOString().slice(0, 10);
+  const yest = new Date(Date.now() - 864e5).toISOString().slice(0, 10);
+  if (key === today) return "Today";
+  if (key === yest) return "Yesterday";
+  return dayLabel(key);
+}
+function rangeDays(n) {
+  const out = [];
+  const base = new Date(); base.setUTCHours(12, 0, 0, 0);
+  for (let i = n - 1; i >= 0; i--) out.push(new Date(base - i * 864e5).toISOString().slice(0, 10));
+  return out;
+}
+
+// ---------------------------------------------------------------- state
+const state = {
+  index: null, client: null, changes: {}, summary: null,
+  range: 30, comp: "all", types: new Set(), q: "", shown: PAGE_SIZE,
+  lastVisit: null, showTable: false,
+};
+
+function readHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  return { client: p.get("client"), comp: p.get("comp"), range: +p.get("range") || null, type: p.get("type"), q: p.get("q") };
+}
+function writeHash() {
+  const p = new URLSearchParams();
+  if (state.client) p.set("client", state.client.id);
+  if (state.comp !== "all") p.set("comp", state.comp);
+  if (state.range !== 30) p.set("range", state.range);
+  if (state.types.size) p.set("type", [...state.types].join(","));
+  if (state.q) p.set("q", state.q);
+  const s = p.toString();
+  history.replaceState(null, "", s ? "#" + s : location.pathname + location.search);
+}
+
+// ---------------------------------------------------------------- data
+async function getJSON(path, { bust, noStore } = {}) {
+  const url = bust ? `${path}?v=${encodeURIComponent(bust)}` : path;
+  const res = await fetch(url, noStore ? { cache: "no-store" } : {});
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return res.json();
+}
+
+async function loadClient(id) {
+  const client = state.index.clients.find(c => c.id === id) || state.index.clients[0];
+  state.client = client;
+  const bust = state.index.generated_at;
+  $("app").classList.add("loading-dim");
+  const [summary, ...logs] = await Promise.all([
+    getJSON(`${DATA_BASE}/summaries/${client.id}.json`, { bust }).catch(() => null),
+    ...client.competitors.map(c => getJSON(`${DATA_BASE}/changes/${client.id}/${c.slug}.json`, { bust }).catch(() => null)),
+  ]);
+  state.summary = summary;
+  state.changes = {};
+  client.competitors.forEach((c, i) => { state.changes[c.slug] = logs[i] || { events: [], runs: [] }; });
+  const key = `cw:lastVisit:${client.id}`;
+  state.lastVisit = store.get(key);
+  store.set(key, state.index.generated_at || new Date().toISOString());
+  $("app").classList.remove("loading-dim");
+}
+
+// ---------------------------------------------------------------- derived data
+function comps() {
+  const all = state.client ? state.client.competitors : [];
+  return state.comp === "all" ? all : all.filter(c => c.slug === state.comp);
+}
+const compBySlug = (slug) => state.client.competitors.find(c => c.slug === slug);
+function sinceKey() { return rangeDays(state.range)[0]; }
+
+function runCounts(list, since) {
+  // Exact totals come from run records, since the event log is capped per run.
+  const byDay = {}, totals = Object.fromEntries(TYPES.map(t => [t.key, 0]));
+  for (const c of list) {
+    for (const r of (state.changes[c.slug]?.runs || [])) {
+      const d = dayKey(r.date);
+      if (d < since) continue;
+      byDay[d] = byDay[d] || Object.fromEntries(TYPES.map(t => [t.key, 0]));
+      for (const [k, v] of Object.entries(r.counts || {})) {
+        if (k in totals) { byDay[d][k] += v; totals[k] += v; }
+      }
+    }
+  }
+  return { byDay, totals };
+}
+
+function eventsInScope() {
+  const since = sinceKey();
+  const out = [];
+  for (const c of comps()) {
+    for (const e of (state.changes[c.slug]?.events || [])) {
+      if (dayKey(e.date) >= since) out.push({ ...e, _comp: c.slug });
+    }
+  }
+  out.sort((a, b) => b.date.localeCompare(a.date) || a.type.localeCompare(b.type) || a.url.localeCompare(b.url));
+  return out;
+}
+function matchesQuery(e, q) {
+  if (!q) return true;
+  const hay = [e.url, e.section, compBySlug(e._comp)?.name,
+    ...Object.values(e.before || {}), ...Object.values(e.after || {})].filter(Boolean).join(" ").toLowerCase();
+  return q.toLowerCase().split(/\s+/).every(w => hay.includes(w));
+}
+function filteredEvents() {
+  return eventsInScope().filter(e => (!state.types.size || state.types.has(e.type)) && matchesQuery(e, state.q));
+}
+function pathOf(url) {
+  try { const u = new URL(url); return decodeURIComponent(u.pathname) + u.search; } catch { return url; }
+}
+
+// ---------------------------------------------------------------- render: header & filters
+function renderHeader() {
+  const sel = $("client");
+  sel.replaceChildren(...state.index.clients.map(c => h("option", { value: c.id }, c.name)));
+  sel.value = state.client.id;
+  const up = $("updated");
+  up.textContent = `Updated ${relTime(state.index.generated_at)}`;
+  up.title = fullTime(state.index.generated_at);
+  const repo = state.index.repo || "";
+  $("runs-link").href = repo ? `https://github.com/${repo}/actions/workflows/scrape.yml` : "#";
+}
+function renderFilters() {
+  for (const b of $("range").querySelectorAll("button")) b.setAttribute("aria-pressed", String(+b.dataset.v === state.range));
+  const cf = $("comp-filter");
+  cf.replaceChildren(h("option", { value: "all" }, "All competitors"),
+    ...state.client.competitors.map(c => h("option", { value: c.slug }, c.name)));
+  cf.value = state.comp;
+  $("clear-filters").hidden = !(state.comp !== "all" || state.types.size || state.q);
+}
+
+// ---------------------------------------------------------------- render: brief
+function renderBrief() {
+  const el = $("brief");
+  const s = state.summary;
+  const repo = state.index.repo;
+  if (!s || !s.headline) {
+    const secretUrl = repo ? `https://github.com/${repo}/settings/secrets/actions` : null;
+    el.replaceChildren(h("div", { class: "brief-empty" },
+      h("div", { class: "ico" }, icon("spark", 18)),
+      h("div", null,
+        h("div", { class: "eyebrow" }, "AI brief"),
+        h("h3", { style: "font-size:18px;margin:4px 0 2px" }, "No AI brief yet"),
+        h("p", null,
+          "Once changes are detected, Claude writes a weekly brief on what each competitor is doing. To turn it on, add an ",
+          h("code", null, "ANTHROPIC_API_KEY"), " secret to the repo",
+          secretUrl ? [" (", h("a", { href: secretUrl, target: "_blank", rel: "noopener noreferrer" }, "Settings → Secrets → Actions"), ")"] : "",
+          ". The next daily scan will then generate it."))));
+    return;
+  }
+  const list = state.comp === "all" ? state.client.competitors : comps();
+  const compCards = list.filter(c => s.competitors?.[c.slug]).map(c => {
+    const sc = s.competitors[c.slug];
+    return h("div", { class: "brief-comp" },
+      h("div", { class: "name" }, c.name, h("span", { class: `pill ${sc.signal}` }, h("span", { class: "dot" }), { quiet: "Quiet", active: "Active", major: "Major move" }[sc.signal] || sc.signal)),
+      h("ul", null, (sc.bullets || []).map(b => h("li", null, b))));
+  });
+  const w = s.window || {};
+  el.replaceChildren(
+    h("div", { class: "eyebrow" }, icon("spark", 13), "AI brief · last ", String(w.days || 7), " days"),
+    h("h3", null, s.headline),
+    s.overall ? h("p", { class: "overall" }, s.overall) : null,
+    compCards.length ? h("div", { class: "brief-grid" }, compCards) : null,
+    s.watch_next ? h("div", { class: "watch" }, icon("eye", 16), h("div", null, h("b", null, "Watch next: "), s.watch_next)) : null,
+    h("div", { class: "brief-foot", title: fullTime(s.generated_at) },
+      `Generated ${relTime(s.generated_at)}`,
+      w.from ? ` · covers ${dayLabel(dayKey(w.from), { month: "short", day: "numeric" })}–${dayLabel(dayKey(w.to), { month: "short", day: "numeric" })}` : "",
+      s.event_count != null ? ` · ${fmt(s.event_count)} changes analysed` : "",
+      s.model ? ` · ${s.model}` : ""));
+}
+
+// ---------------------------------------------------------------- render: KPIs
+function renderKPIs() {
+  const { totals } = runCounts(comps(), sinceKey());
+  $("kpis").replaceChildren(...TYPES.map(t => h("button", {
+      type: "button", class: "kpi", "aria-pressed": String(state.types.size === 1 && state.types.has(t.key)),
+      title: `Show only ${t.plural} in the feed`,
+      onclick: () => { toggleSoloType(t.key); },
+    },
+    h("div", { class: "lab" }, h("span", { class: "swatch", style: `background:${t.color}` }), t.label),
+    h("div", { class: "val" }, fmt(totals[t.key])),
+    h("div", { class: "sub" }, `last ${state.range} days`))));
+}
+function toggleSoloType(key) {
+  if (state.types.size === 1 && state.types.has(key)) state.types.clear();
+  else state.types = new Set([key]);
+  state.shown = PAGE_SIZE;
+  update({ scrollFeed: true });
+}
+
+// ---------------------------------------------------------------- render: activity chart
+let chartData = null;
+function renderChart() {
+  const days = rangeDays(state.range);
+  const { byDay } = runCounts(comps(), days[0]);
+  chartData = days.map(d => ({ d, ...(byDay[d] || {}) }));
+  const total = chartData.reduce((s, r) => s + TYPES.reduce((a, t) => a + (r[t.key] || 0), 0), 0);
+  $("act-meta").textContent = total ? `${fmt(total)} changes · daily` : "";
+  const wrap = $("chart");
+  wrap.replaceChildren();
+  if (!total) {
+    wrap.append(h("div", { class: "empty-state", style: "padding:26px 16px" },
+      h("div", { class: "ico" }, icon("inbox", 20)),
+      h("h3", null, "No changes in this period"),
+      h("p", null, hasOnlyBaselines() ? "The baselines are captured. The daily scan will chart changes here as it finds them." : "Nothing moved on the selected competitors' sitemaps in this range.")));
+    $("legend").replaceChildren();
+    renderTable();
+    return;
+  }
+  const W = Math.max(280, wrap.clientWidth), H = 200, padL = 34, padR = 4, padT = 10, padB = 24;
+  const iw = W - padL - padR, ih = H - padT - padB;
+  const max = Math.max(1, ...chartData.map(r => TYPES.reduce((a, t) => a + (r[t.key] || 0), 0)));
+  const nice = niceMax(max);
+  const band = iw / chartData.length;
+  const bw = Math.max(2, Math.min(24, band * 0.62));
+  const s = svg("svg", { viewBox: `0 0 ${W} ${H}`, height: H, role: "img", "aria-label": `Stacked bar chart of daily changes over the last ${state.range} days` });
+  // grid + y ticks
+  for (const v of [0, nice / 2, nice]) {
+    const y = padT + ih - (v / nice) * ih;
+    s.append(svg("line", { x1: padL, x2: W - padR, y1: y, y2: y, stroke: v === 0 ? "var(--axis)" : "var(--grid)", "stroke-width": 1 }));
+    const t = svg("text", { x: padL - 8, y: y + 4, "text-anchor": "end", "font-size": 11, fill: "var(--ink-3)", style: "font-variant-numeric:tabular-nums" });
+    t.textContent = fmt(v); s.append(t);
+  }
+  // x labels
+  const step = Math.ceil(chartData.length / Math.max(2, Math.floor(iw / 70)));
+  chartData.forEach((r, i) => {
+    if ((chartData.length - 1 - i) % step !== 0) return;
+    const t = svg("text", { x: padL + band * i + band / 2, y: H - 6, "text-anchor": "middle", "font-size": 11, fill: "var(--ink-3)" });
+    t.textContent = dayLabel(r.d, { month: "short", day: "numeric" }); s.append(t);
+  });
+  // bars
+  const gap = 2;
+  chartData.forEach((r, i) => {
+    const sum = TYPES.reduce((a, t) => a + (r[t.key] || 0), 0);
+    const g = svg("g", { class: "bar-hit", tabindex: sum ? 0 : -1, "data-i": i });
+    const x = padL + band * i + (band - bw) / 2;
+    g.append(svg("rect", { class: "hit", x: padL + band * i, y: padT, width: band, height: ih, fill: "transparent" }));
+    let y = padT + ih;
+    const segs = TYPES.filter(t => r[t.key]);
+    segs.forEach((t, j) => {
+      const hgt = Math.max(1.5, (r[t.key] / nice) * ih);
+      const top = j === segs.length - 1;
+      const hh = Math.max(1, hgt - (j > 0 ? gap : 0));
+      y -= hgt;
+      const rr = Math.min(4, bw / 2, hh);
+      g.append(svg("path", { class: "seg-r", d: roundTopRect(x, y + (j > 0 ? 0 : 0), bw, hh, top ? rr : 0), fill: t.color }));
+    });
+    if (sum) {
+      const title = svg("title"); title.textContent = `${dayLabel(r.d)}: ` + segs.map(t => `${r[t.key]} ${t.plural}`).join(", ");
+      g.append(title);
+    }
+    g.addEventListener("pointerenter", (ev) => showTip(i, g));
+    g.addEventListener("pointerleave", hideTip);
+    g.addEventListener("focus", () => showTip(i, g));
+    g.addEventListener("blur", hideTip);
+    s.append(g);
+  });
+  wrap.append(s);
+  $("legend").replaceChildren(...TYPES.map(t => h("span", null, h("span", { class: "swatch", style: `background:${t.color}` }), t.label)));
+  renderTable();
+}
+function roundTopRect(x, y, w, hgt, r) {
+  if (!r) return `M${x},${y}h${w}v${hgt}h${-w}z`;
+  return `M${x},${y + hgt}V${y + r}Q${x},${y} ${x + r},${y}H${x + w - r}Q${x + w},${y} ${x + w},${y + r}V${y + hgt}z`;
+}
+function niceMax(v) {
+  const p = Math.pow(10, Math.floor(Math.log10(v)));
+  for (const m of [1, 2, 2.5, 5, 10]) if (m * p >= v) return Math.max(2, m * p);
+  return v;
+}
+function showTip(i, g) {
+  const r = chartData[i];
+  const sum = TYPES.reduce((a, t) => a + (r[t.key] || 0), 0);
+  if (!sum) return hideTip();
+  const tt = $("tt");
+  tt.replaceChildren(h("div", { class: "tt-h" }, dayLabel(r.d, { weekday: "long", month: "short", day: "numeric" })),
+    ...TYPES.filter(t => r[t.key]).map(t => h("div", { class: "tt-r" }, h("span", { class: "k", style: `background:${t.color}` }), h("b", null, fmt(r[t.key])), h("span", null, t.label))));
+  const box = g.getBoundingClientRect();
+  tt.classList.add("show"); tt.setAttribute("aria-hidden", "false");
+  const tw = tt.offsetWidth, th = tt.offsetHeight;
+  let left = box.left + box.width / 2 - tw / 2 + window.scrollX;
+  left = Math.max(8 + window.scrollX, Math.min(left, window.scrollX + document.documentElement.clientWidth - tw - 8));
+  const top = box.top + window.scrollY - th - 6 + 30;
+  tt.style.left = left + "px"; tt.style.top = Math.max(window.scrollY + 64, top) + "px";
+}
+function hideTip() { const tt = $("tt"); tt.classList.remove("show"); tt.setAttribute("aria-hidden", "true"); }
+function renderTable() {
+  const wrap = $("table-wrap");
+  wrap.hidden = !state.showTable;
+  $("table-toggle").setAttribute("aria-expanded", String(state.showTable));
+  $("table-toggle").textContent = state.showTable ? "Hide table" : "Table view";
+  if (!state.showTable || !chartData) { wrap.replaceChildren(); return; }
+  const rows = chartData.filter(r => TYPES.some(t => r[t.key])).reverse();
+  wrap.replaceChildren(h("div", { class: "table-scroll" }, h("table", { class: "table-view" },
+    h("thead", null, h("tr", null, h("th", null, "Day"), TYPES.map(t => h("th", null, t.label)))),
+    h("tbody", null, rows.length ? rows.map(r => h("tr", null, h("td", null, dayLabel(r.d)), TYPES.map(t => h("td", null, fmt(r[t.key])))))
+      : h("tr", null, h("td", { colspan: TYPES.length + 1 }, "No changes in this range"))))));
+}
+
+// ---------------------------------------------------------------- render: competitor cards
+function hasOnlyBaselines() {
+  return comps().every(c => (state.changes[c.slug]?.runs || []).every(r => !Object.keys(r.counts || {}).length));
+}
+function renderComps() {
+  const since = sinceKey();
+  const list = state.client.competitors;
+  $("comp-meta").textContent = `${list.length} of 5 tracked`;
+  if (!list.length) {
+    $("comps").replaceChildren(h("div", { class: "card empty-state" }, h("h3", null, "No competitors configured"),
+      h("p", null, "Add up to 5 competitors for this client in scraper/clients.yaml.")));
+    return;
+  }
+  $("comps").replaceChildren(...list.map(c => {
+    const log = state.changes[c.slug] || { runs: [], events: [] };
+    const { totals } = runCounts([c], since);
+    const runs = log.runs || [];
+    const delta = runs.length > 1 ? (runs[0].total_urls - runs[1].total_urls) : 0;
+    const hasNew = state.lastVisit && (log.events || []).some(e => e.date > state.lastVisit);
+    const st = STATUS[c.status] ? c.status : "pending";
+    const avatar = h("div", { class: "avatar", "aria-hidden": "true" }, (c.name || "?").trim()[0].toUpperCase());
+    const host = hostOf(c.domain);
+    if (host) {
+      const img = h("img", { src: `https://${host}/favicon.ico`, alt: "", loading: "lazy", referrerpolicy: "no-referrer" });
+      img.addEventListener("load", () => { if (img.naturalWidth > 1) avatar.replaceChildren(img); });
+      img.addEventListener("error", () => img.remove());
+    }
+    const note = (c.notes || [])[0];
+    const counts = TYPES.filter(t => totals[t.key]).map(t => h("span", { class: "count" }, h("span", { class: "swatch", style: `background:${t.color};width:8px;height:8px` }), h("b", null, fmt(totals[t.key])), t.plural));
+    return h("button", {
+        type: "button", class: "comp", "aria-pressed": String(state.comp === c.slug),
+        "aria-label": `${c.name}: ${STATUS[st].label}. ${fmt(c.total_urls)} URLs. Select to focus the dashboard on this competitor.`,
+        onclick: () => { state.comp = state.comp === c.slug ? "all" : c.slug; state.shown = PAGE_SIZE; update(); },
+      },
+      hasNew ? h("span", { class: "new-dot", title: "New changes since your last visit" }) : null,
+      h("div", { class: "comp-top" }, avatar, h("div", { class: "txt" }, h("div", { class: "comp-name" }, c.name), h("div", { class: "comp-domain" }, c.domain))),
+      h("div", { class: "comp-stats" },
+        h("div", { class: "comp-total" }, fmt(c.total_urls),
+          delta ? h("span", { class: `delta ${delta > 0 ? "up" : "down"}` }, (delta > 0 ? "+" : "−") + fmt(Math.abs(delta))) : null,
+          h("small", null, "URLs in sitemap")),
+        sparkline(c)),
+      counts.length ? h("div", { class: "counts" }, counts) : h("div", { class: "counts" }, h("span", { class: "count" }, st === "baseline" || st === "pending" ? "Watching for changes" : `No changes in ${state.range} days`)),
+      note ? h("div", { class: "comp-note" }, note) : null,
+      h("div", { class: "comp-foot" },
+        h("span", { class: `status ${st}` }, icon(st, 13, 2.4), STATUS[st].label),
+        h("span", { title: fullTime(c.last_checked) }, c.last_checked ? `Checked ${relTime(c.last_checked)}` : "")));
+  }));
+}
+function hostOf(domain) {
+  try { return new URL(domain.includes("://") ? domain : "https://" + domain).hostname; } catch { return null; }
+}
+function sparkline(c) {
+  const days = rangeDays(Math.min(state.range, 30));
+  const { byDay } = runCounts([c], days[0]);
+  const vals = days.map(d => TYPES.reduce((a, t) => a + ((byDay[d] || {})[t.key] || 0), 0));
+  const max = Math.max(...vals);
+  const W = 96, H = 30;
+  const s = svg("svg", { width: W, height: H, viewBox: `0 0 ${W} ${H}`, "aria-hidden": "true" });
+  const bw = W / vals.length;
+  s.append(svg("line", { x1: 0, x2: W, y1: H - 0.5, y2: H - 0.5, stroke: "var(--axis)", "stroke-width": 1 }));
+  if (!max) return s;
+  vals.forEach((v, i) => {
+    if (!v) return;
+    const hh = Math.max(2, (v / max) * (H - 2));
+    s.append(svg("rect", { x: i * bw + 0.5, y: H - 1 - hh, width: Math.max(1, bw - 1.5), height: hh, rx: 1, fill: "var(--accent)" }));
+  });
+  return s;
+}
+
+// ---------------------------------------------------------------- render: type chips
+function renderChips() {
+  const scoped = eventsInScope().filter(e => matchesQuery(e, state.q));
+  const n = {}; for (const e of scoped) n[e.type] = (n[e.type] || 0) + 1;
+  $("type-chips").replaceChildren(
+    h("button", { type: "button", class: "chip", "aria-pressed": String(!state.types.size), onclick: () => { state.types.clear(); state.shown = PAGE_SIZE; update(); } }, "All", h("span", { class: "n" }, fmt(scoped.length))),
+    ...TYPES.map(t => h("button", {
+        type: "button", class: "chip", "aria-pressed": String(state.types.has(t.key)),
+        onclick: () => { state.types.has(t.key) ? state.types.delete(t.key) : state.types.add(t.key); state.shown = PAGE_SIZE; update(); },
+      }, h("span", { class: "swatch", style: `background:${t.color};width:8px;height:8px;border-radius:50%` }), t.label, h("span", { class: "n" }, fmt(n[t.key] || 0)))));
+}
+
+// ---------------------------------------------------------------- render: feed
+function wordDiff(a, b) {
+  const A = (a || "").split(/(\s+)/).filter(Boolean), B = (b || "").split(/(\s+)/).filter(Boolean);
+  if (A.length * B.length > 40000) return [{ t: "del", s: a || "" }, { t: "ins", s: b || "" }];
+  const dp = Array.from({ length: A.length + 1 }, () => new Uint16Array(B.length + 1));
+  for (let i = A.length - 1; i >= 0; i--) for (let j = B.length - 1; j >= 0; j--)
+    dp[i][j] = A[i] === B[j] ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+  const ops = []; let i = 0, j = 0;
+  const push = (t, s) => { const last = ops[ops.length - 1]; if (last && last.t === t) last.s += s; else ops.push({ t, s }); };
+  while (i < A.length && j < B.length) {
+    if (A[i] === B[j]) { push("eq", A[i]); i++; j++; }
+    else if (dp[i + 1][j] >= dp[i][j + 1]) push("del", A[i++]);
+    else push("ins", B[j++]);
+  }
+  while (i < A.length) push("del", A[i++]);
+  while (j < B.length) push("ins", B[j++]);
+  return ops;
+}
+function diffView(e) {
+  const fields = e.fields || Object.keys(e.after || {});
+  return h("div", { class: "diff" }, fields.map(f => {
+    const a = (e.before || {})[f], b = (e.after || {})[f];
+    let v;
+    if (!a && !b) v = h("span", { class: "empty" }, "empty");
+    else if (!a) v = [h("span", { class: "empty" }, "(was empty) "), h("ins", null, b)];
+    else if (!b) v = [h("del", null, a), h("span", { class: "empty" }, " (now empty)")];
+    else v = wordDiff(a, b).map(op => op.t === "eq" ? document.createTextNode(op.s) : h(op.t, null, op.s));
+    return h("div", { class: "f" }, h("span", { class: "k" }, FIELD_LABEL[f] || f), h("span", { class: "v" }, v));
+  }));
+}
+function httpLabel(x) {
+  if (!x) return "unknown";
+  return x.redirect ? `${x.status} → ${pathOf(x.redirect)}` : String(x.status);
+}
+function eventSub(e) {
+  switch (e.type) {
+    case "added": return e.lastmod ? `First seen in the sitemap · lastmod ${e.lastmod.slice(0, 10)}` : "First seen in the sitemap";
+    case "removed": return "No longer listed in the sitemap";
+    case "updated": return `lastmod ${(e.before || "?").slice(0, 10)} → ${(e.after || "?").slice(0, 10)}`;
+    case "status_changed": return `HTTP ${httpLabel(e.before)} → ${httpLabel(e.after)}`;
+    case "seo_changed": return `Changed: ${(e.fields || []).map(f => FIELD_LABEL[f] || f).join(", ")}`;
+    default: return "";
+  }
+}
+function copyText(text) {
+  const done = () => toast("Link copied");
+  if (navigator.clipboard) navigator.clipboard.writeText(text).then(done, () => toast("Couldn't copy"));
+  else toast("Copy isn't supported here");
+}
+function eventRow(e, showComp) {
+  const t = TYPE[e.type] || { label: e.type, color: "var(--ink-3)" };
+  const href = safeHref(e.url);
+  const isNew = state.lastVisit && e.date > state.lastVisit;
+  const link = href ? h("a", { class: "url", href, target: "_blank", rel: "noopener noreferrer", title: e.url }, pathOf(e.url))
+                    : h("span", { class: "url" }, e.url);
+  return h("div", { class: "row" },
+    h("span", { class: "ti", style: `background:color-mix(in srgb, ${t.color} 16%, transparent);color:${t.color}`, title: t.label }, icon(e.type, 13, 2.6)),
+    h("div", { class: "main" },
+      h("div", null, link, isNew ? h("span", { class: "newtag" }, "New") : null),
+      h("div", { class: "sub" }, showComp ? `${compBySlug(e._comp)?.name || e._comp} · ` : "", eventSub(e)),
+      e.type === "seo_changed" ? diffView(e) : null),
+    h("div", { class: "acts" },
+      h("button", { type: "button", class: "iconbtn", title: "Copy URL", "aria-label": "Copy URL", onclick: () => copyText(e.url) }, icon("copy", 14)),
+      href ? h("a", { class: "iconbtn", href, target: "_blank", rel: "noopener noreferrer", title: "Open page", "aria-label": "Open page in a new tab" }, icon("ext", 14)) : null));
+}
+function renderFeed() {
+  const all = filteredEvents();
+  const feed = $("feed");
+  const scopedTotal = eventsInScope().length;
+  $("result-count").textContent = all.length
+    ? (all.length === scopedTotal ? `${fmt(all.length)} changes in the last ${state.range} days` : `${fmt(all.length)} of ${fmt(scopedTotal)} changes match`)
+    : "";
+  if (!all.length) {
+    const baseline = hasOnlyBaselines();
+    const since = comps().map(c => c.baseline_at).filter(Boolean).sort()[0];
+    feed.replaceChildren(h("div", { class: "empty-state" },
+      h("div", { class: "ico" }, icon(scopedTotal ? "search" : "inbox", 20)),
+      scopedTotal
+        ? [h("h3", null, "No changes match those filters"), h("p", null, "Try another change type or clear the search."),
+           h("div", { style: "margin-top:12px" }, h("button", { type: "button", class: "btn", onclick: clearFilters }, "Clear filters"))]
+        : baseline
+          ? [h("h3", null, "Baseline captured"), h("p", null, `The sitemaps were first scanned ${since ? "on " + dayLabel(dayKey(since), { month: "long", day: "numeric" }) : "recently"}. New, removed and changed pages will show up here after the next daily scan.`)]
+          : [h("h3", null, "All quiet"), h("p", null, `No sitemap changes in the last ${state.range} days. Try a longer range.`)]));
+    return;
+  }
+  const slice = all.slice(0, state.shown);
+  const showComp = state.comp === "all" && state.client.competitors.length > 1;
+  const byDay = new Map();
+  for (const e of slice) {
+    const d = dayKey(e.date);
+    if (!byDay.has(d)) byDay.set(d, new Map());
+    const gk = `${e._comp}|${e.section || "/"}`;
+    const m = byDay.get(d);
+    if (!m.has(gk)) m.set(gk, []);
+    m.get(gk).push(e);
+  }
+  const dayCounts = {};
+  for (const e of all) { const d = dayKey(e.date); dayCounts[d] = (dayCounts[d] || 0) + 1; }
+  const out = [];
+  for (const [d, groups] of byDay) {
+    const sorted = [...groups.entries()].sort((a, b) => b[1].length - a[1].length);
+    const multi = sorted.length > 1;
+    out.push(h("div", { class: "day" },
+      h("div", { class: "day-h" }, friendlyDay(d), h("span", { class: "meta" }, `${fmt(dayCounts[d])} change${dayCounts[d] === 1 ? "" : "s"}`)),
+      sorted.map(([gk, evs]) => {
+        const [slug, sec] = gk.split("|");
+        const tc = {}; for (const e of evs) tc[e.type] = (tc[e.type] || 0) + 1;
+        const open = !multi || evs.length <= 8 || sorted.length <= 2;
+        return h("details", { class: "grp", open },
+          h("summary", null, icon("chev", 14, 2.4),
+            h("span", { class: "sec" }, sec),
+            showComp ? h("span", { class: "who" }, `· ${compBySlug(slug)?.name || slug}`) : null,
+            h("span", { class: "mini" }, TYPES.filter(t => tc[t.key]).map(t => h("span", { style: "display:inline-flex;align-items:center;gap:4px" },
+              h("span", { class: "swatch", style: `background:${t.color};width:7px;height:7px;border-radius:50%` }), `${tc[t.key]} ${t.plural}`)))),
+          evs.map(e => eventRow(e, false)));
+      })));
+  }
+  if (all.length > state.shown) {
+    out.push(h("div", { class: "more" }, h("button", { type: "button", class: "btn", onclick: () => { state.shown += PAGE_SIZE; renderFeed(); } },
+      `Show ${fmt(Math.min(PAGE_SIZE, all.length - state.shown))} more`, h("span", { style: "color:var(--ink-3)" }, ` · ${fmt(all.length - state.shown)} left`))));
+  }
+  feed.replaceChildren(...out);
+}
+
+// ---------------------------------------------------------------- render: sections side panel
+function renderSections() {
+  const added = eventsInScope().filter(e => e.type === "added");
+  const m = new Map();
+  for (const e of added) { const k = `${e._comp}|${e.section || "/"}`; m.set(k, (m.get(k) || 0) + 1); }
+  const top = [...m.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
+  const el = $("sections");
+  if (!top.length) {
+    el.replaceChildren(h("p", { style: "margin:0;color:var(--ink-3);font-size:13.5px" }, `No new pages in the last ${state.range} days.`));
+    return;
+  }
+  const max = top[0][1];
+  el.replaceChildren(h("ul", { class: "side-list" }, top.map(([k, n]) => {
+    const [slug, sec] = k.split("|");
+    return h("li", null,
+      h("button", { type: "button", title: `Show added pages under ${sec}`, onclick: () => {
+          state.comp = state.client.competitors.length > 1 ? slug : state.comp;
+          state.types = new Set(["added"]); state.q = sec === "/" ? "" : sec; $("q").value = state.q;
+          state.shown = PAGE_SIZE; update({ scrollFeed: true });
+        } },
+        h("span", { class: "sec" }, sec),
+        h("span", { class: "who" }, compBySlug(slug)?.name || slug),
+        h("div", { class: "bar", style: `width:${Math.max(6, (n / max) * 100)}%` })),
+      h("span", { class: "n" }, `+${fmt(n)}`));
+  })));
+}
+
+// ---------------------------------------------------------------- export
+function exportCSV() {
+  const rows = filteredEvents();
+  if (!rows.length) return toast("Nothing to export");
+  const cell = (v) => {
+    let s = v == null ? "" : String(v);
+    if (/^[=+\-@\t\r]/.test(s)) s = "'" + s; // guard against spreadsheet formula injection
+    return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+  };
+  const head = ["date", "competitor", "type", "url", "section", "details", "before", "after"];
+  const lines = [head.join(",")].concat(rows.map(e => [
+    e.date, compBySlug(e._comp)?.name || e._comp, e.type, e.url, e.section, eventSub(e),
+    typeof e.before === "object" ? JSON.stringify(e.before) : e.before,
+    typeof e.after === "object" ? JSON.stringify(e.after) : e.after,
+  ].map(cell).join(",")));
+  const blob = new Blob(["﻿" + lines.join("\n")], { type: "text/csv;charset=utf-8" });
+  const a = h("a", { href: URL.createObjectURL(blob), download: `${state.client.id}-${state.comp}-changes-${new Date().toISOString().slice(0, 10)}.csv` });
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 2000);
+  toast(`Exported ${fmt(rows.length)} rows`);
+}
+
+// ---------------------------------------------------------------- misc UI
+let toastTimer;
+function toast(msg) {
+  const t = $("toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 1800);
+}
+function clearFilters() {
+  state.comp = "all"; state.types.clear(); state.q = ""; $("q").value = ""; state.shown = PAGE_SIZE; update();
+}
+function banner(msg, detail) {
+  $("banner").replaceChildren(h("div", { class: "banner", role: "alert" }, icon("alert", 16), h("div", null, h("b", null, msg), detail ? h("div", { style: "color:var(--ink-2)" }, detail) : null)));
+}
+const THEMES = ["auto", "light", "dark"];
+function applyTheme(t) {
+  if (t === "auto") document.documentElement.removeAttribute("data-theme");
+  else document.documentElement.setAttribute("data-theme", t);
+  const b = $("theme");
+  b.replaceChildren(icon(t === "dark" ? "moon" : t === "light" ? "sun" : "auto", 16, 2));
+  b.title = `Theme: ${t}`; b.setAttribute("aria-label", `Theme: ${t}. Select to change.`);
+}
+
+function update(opts = {}) {
+  writeHash();
+  renderFilters();
+  renderBrief();
+  renderKPIs();
+  renderChart();
+  renderComps();
+  renderChips();
+  renderFeed();
+  renderSections();
+  if (opts.scrollFeed) $("feed-h").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+}
+
+function renderNoData() {
+  $("app").setAttribute("aria-busy", "false");
+  for (const id of ["brief", "kpis"]) $(id).replaceChildren();
+  $("brief").hidden = true;
+  const empty = h("div", { class: "card empty-state", style: "padding:48px 20px" },
+    h("div", { class: "ico" }, icon("baseline", 22)),
+    h("h3", null, "No scan data yet"),
+    h("p", null, "The scanner runs every day at 05:00 UTC. To run it now, open GitHub Actions, choose ‘Competitor sitemap scan’ and press ‘Run workflow’. This page fills in once it finishes, usually within a few minutes."),
+    h("div", { style: "margin-top:14px" }, h("a", { class: "btn", href: "https://github.com/michaelbreslow-hub/michaelbreslow-hub.github.io/actions", target: "_blank", rel: "noopener noreferrer" }, "Open GitHub Actions")));
+  $("app").replaceChildren($("banner"), empty);
+}
+
+// ---------------------------------------------------------------- boot
+async function boot() {
+  const saved = store.get("cw:theme") || "auto";
+  applyTheme(THEMES.includes(saved) ? saved : "auto");
+  $("theme").addEventListener("click", () => {
+    const cur = document.documentElement.getAttribute("data-theme") || "auto";
+    const next = THEMES[(THEMES.indexOf(cur) + 1) % THEMES.length];
+    store.set("cw:theme", next); applyTheme(next);
+  });
+
+  let index;
+  try {
+    index = await getJSON(`${DATA_BASE}/index.json`, { noStore: true });
+  } catch (err) {
+    banner("Couldn't load the dashboard data.", `${err.message}. Refresh to try again.`);
+    $("app").setAttribute("aria-busy", "false");
+    return;
+  }
+  if (!index || !(index.clients || []).length) return renderNoData();
+  state.index = index;
+
+  const hs = readHash();
+  if (hs.range && [7, 30, 90].includes(hs.range)) state.range = hs.range;
+  if (hs.type) state.types = new Set(hs.type.split(",").filter(t => TYPE[t]));
+  if (hs.q) { state.q = hs.q; $("q").value = hs.q; }
+  const initialClient = hs.client || store.get("cw:client") || index.clients[0].id;
+  try { await loadClient(initialClient); }
+  catch (err) { banner("Some data failed to load.", err.message); }
+  if (hs.comp && state.client.competitors.some(c => c.slug === hs.comp)) state.comp = hs.comp;
+
+  renderHeader();
+  update();
+  $("app").setAttribute("aria-busy", "false");
+
+  $("client").addEventListener("change", async (e) => {
+    store.set("cw:client", e.target.value);
+    state.comp = "all"; state.shown = PAGE_SIZE;
+    try { await loadClient(e.target.value); } catch (err) { banner("Some data failed to load.", err.message); }
+    renderHeader(); update();
+  });
+  $("range").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.range = +b.dataset.v; state.shown = PAGE_SIZE; update();
+  });
+  $("comp-filter").addEventListener("change", (e) => { state.comp = e.target.value; state.shown = PAGE_SIZE; update(); });
+  $("clear-filters").addEventListener("click", clearFilters);
+  let qt;
+  $("q").addEventListener("input", (e) => {
+    clearTimeout(qt);
+    qt = setTimeout(() => { state.q = e.target.value.trim(); state.shown = PAGE_SIZE; writeHash(); renderFilters(); renderChips(); renderFeed(); }, 140);
+  });
+  $("export").addEventListener("click", exportCSV);
+  $("table-toggle").addEventListener("click", () => { state.showTable = !state.showTable; renderTable(); });
+  // writeHash uses replaceState, so this only fires for links pasted or clicked by the viewer.
+  window.addEventListener("hashchange", async () => {
+    const n = readHash();
+    if (n.client && n.client !== state.client.id && state.index.clients.some(c => c.id === n.client)) {
+      await loadClient(n.client).catch(err => banner("Some data failed to load.", err.message));
+      renderHeader();
+    }
+    state.comp = n.comp && state.client.competitors.some(c => c.slug === n.comp) ? n.comp : "all";
+    state.range = [7, 30, 90].includes(n.range) ? n.range : 30;
+    state.types = new Set((n.type || "").split(",").filter(t => TYPE[t]));
+    state.q = n.q || ""; $("q").value = state.q;
+    state.shown = PAGE_SIZE;
+    update();
+  });
+  let rt;
+  window.addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(renderChart, 120); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement.tagName !== "INPUT" && document.activeElement.tagName !== "SELECT") { e.preventDefault(); $("q").focus(); }
+    if (e.key === "Escape") hideTip();
+  });
+  setInterval(() => {
+    $("updated").textContent = `Updated ${relTime(state.index.generated_at)}`;
+  }, 60000);
+}
+boot();
+})();
+</script>
+</body>
+</html>

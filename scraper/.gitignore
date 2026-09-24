@@ -1,0 +1,4 @@
+dev/demo/
+__pycache__/
+*.tmp
+.claude/
