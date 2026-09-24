@@ -1,0 +1,25 @@
+{
+ "clients": [
+  {
+   "competitors": [
+    {
+     "baseline_at": "2026-09-24T08:34:55Z",
+     "domain": "www.nike.com/il",
+     "last_checked": "2026-09-24T08:34:55Z",
+     "last_counts": {},
+     "name": "Nike",
+     "notes": [],
+     "sitemap_errors": [],
+     "sitemaps_fetched": 13,
+     "slug": "nike",
+     "status": "baseline",
+     "total_urls": 14118
+    }
+   ],
+   "id": "client-a",
+   "name": "Client A"
+  }
+ ],
+ "generated_at": "2026-09-24T08:34:55Z",
+ "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
+}

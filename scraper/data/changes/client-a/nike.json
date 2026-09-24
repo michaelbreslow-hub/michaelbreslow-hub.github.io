@@ -1,0 +1,16 @@
+{
+ "competitor": {
+  "domain": "www.nike.com/il",
+  "name": "Nike",
+  "slug": "nike"
+ },
+ "events": [],
+ "runs": [
+  {
+   "counts": {},
+   "date": "2026-09-24T08:34:55Z",
+   "status": "baseline",
+   "total_urls": 14118
+  }
+ ]
+}
