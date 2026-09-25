@@ -38,6 +38,8 @@ clients:
 
 You can track up to 5 competitors per client. Commit the change, then run the workflow or wait for the next daily scan.
 
+**Tip:** many global sites (for example Asics or Hoka) publish every country in one sitemap. Add the country or language path to the domain, such as `www.asics.com/us/en-us` or `www.newbalance.co.il/en`. Otherwise the changes mix every locale, and bilingual sites log each change twice.
+
 ## Enabling the AI brief
 
 Add the repo secret under **Settings → Secrets and variables → Actions → New repository secret**, named `ANTHROPIC_API_KEY`. It uses `claude-opus-5` by default. You can override that with a `SUMMARY_MODEL` env var in the workflow.

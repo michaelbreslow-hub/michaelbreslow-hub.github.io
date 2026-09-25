@@ -17,10 +17,11 @@ now = dt.datetime.now(dt.timezone.utc).replace(hour=5, minute=4, second=0, micro
 iso = lambda d: d.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 COMPETITORS = [
-    ("nike", "Nike", "www.nike.com/il", ["/w", "/t", "/a", "/launch", "/retail", "/running"], 14118, "ok"),
-    ("adidas", "Adidas", "www.adidas.co.il", ["/he/men", "/he/women", "/he/blog", "/he/running", "/he/outlet"], 8203, "ok"),
-    ("puma", "Puma", "il.puma.com", ["/shoes", "/sale", "/collections", "/stories"], 3120, "partial"),
-    ("new-balance", "New Balance", "www.newbalance.co.il", ["/products", "/pages"], 1876, "blocked"),
+    ("nike", "Nike", "www.nike.com/il", ["/w", "/t", "/a", "/launch", "/retail"], 14131, "ok"),
+    ("new-balance", "New Balance", "www.newbalance.co.il/en", ["/shop", "(other pages)"], 227, "ok"),
+    ("asics", "Asics", "www.asics.com/us/en-us", ["(product pages)", "/blog", "/athletic-gear", "/women"], 11931, "ok"),
+    ("reebok", "Reebok", "www.reebok.com", ["/collections", "/products", "/pages", "/blogs"], 6012, "partial"),
+    ("skechers", "Skechers", "www.skechers.com", ["(product pages)", "/technologies", "/women", "/men"], 5478, "ok"),
 ]
 SLUGS = ["pegasus-41", "air-max-dn", "vomero-18", "invincible-3", "journey-run", "structure-26",
          "trail-ultrafly", "zoom-fly-6", "alphafly-3", "cortez-leather", "dunk-low-retro", "tech-fleece-hoodie"]
@@ -31,6 +32,8 @@ TITLES = ["Running Shoes", "Men's Road Running Shoes", "Trail Shoes", "Winter Co
 def url(domain, section):
     host, _, prefix = domain.partition("/")
     prefix = "/" + prefix if prefix else ""
+    if section.startswith("("):  # a bucket, not a folder: make a top-level product URL
+        return f"https://{host}{prefix}/{random.choice(SLUGS)}/p/{random.randint(1000000, 9999999)}.html"
     return f"https://{host}{prefix}{section}/{random.choice(SLUGS)}-{random.randint(100, 999)}"
 
 
@@ -45,7 +48,7 @@ def main():
             day = now - dt.timedelta(days=back)
             counts = {}
             burst = 1 if random.random() > 0.15 else 0
-            if slug == "adidas" and 8 <= back <= 10:
+            if slug == "asics" and 8 <= back <= 10:
                 burst = 6  # a content push
             plan = {
                 "added": random.randint(0, 6) * burst,
@@ -58,9 +61,9 @@ def main():
                 plan = {}
             for t, n in plan.items():
                 for _ in range(n):
-                    sec = "/he/blog" if slug == "adidas" and burst == 6 and t == "added" else random.choice(sections)
+                    sec = "/blog" if slug == "asics" and burst == 6 and t == "added" else random.choice(sections)
                     u = url(domain, sec)
-                    ev = {"date": iso(day), "type": t, "url": u, "section": "/" + sec.strip("/").split("/")[-1] if slug == "adidas" else sec}
+                    ev = {"date": iso(day), "type": t, "url": u, "section": sec}
                     if t == "updated":
                         ev.update(before=(day - dt.timedelta(days=30)).date().isoformat(), after=day.date().isoformat())
                     elif t == "seo_changed":
@@ -97,15 +100,16 @@ def main():
         ],
     })
     write(OUT / "summaries" / "client-a.json", {
-        "headline": "Adidas launched a 40-page running content hub while Nike quietly rewrote product titles.",
-        "overall": "Adidas was the most active competitor this week. Its /blog section grew by roughly 40 pages in three days, almost all running-training guides, which points to a deliberate organic push ahead of marathon season. Nike's sitemap stayed steady, but it rewrote titles on several product pages to add \"Free Delivery\". Puma's data is incomplete because some sitemaps failed, and New Balance blocked the scanner.",
+        "headline": "Asics launched a 40-page running content hub while Nike quietly rewrote product titles.",
+        "overall": "Asics was the most active competitor this week. Its /blog section grew by roughly 40 pages in three days, almost all running-training guides, which points to a deliberate organic push ahead of marathon season. Nike's sitemap stayed steady, but it rewrote titles on several product pages to add \"Free Delivery\". Reebok's data is incomplete because some sitemaps failed this week.",
         "competitors": {
             "nike": {"signal": "active", "bullets": ["Rewrote titles on 6 product pages to add \"2026 | Free Delivery\" (e.g. /t/pegasus-41-412).", "Added 18 pages, mostly under /w and /launch.", "Retired 5 pages under /retail, which fits store-page consolidation."]},
-            "adidas": {"signal": "major", "bullets": ["Published about 40 new pages under /blog in a 3-day burst, all running and training guides.", "That pattern suggests a coordinated content push targeting running queries.", "Minor product churn under /men and /women."]},
-            "puma": {"signal": "quiet", "bullets": ["Limited activity. Some sitemaps failed this week, so removals may be missing."]},
-            "new-balance": {"signal": "quiet", "bullets": ["No data. The site is blocking the scanner (HTTP 403)."]},
+            "asics": {"signal": "major", "bullets": ["Published about 40 new pages under /blog in a 3-day burst, all running and training guides.", "That pattern suggests a coordinated content push targeting running queries.", "Steady product churn across its top-level product pages."]},
+            "new-balance": {"signal": "quiet", "bullets": ["A handful of product changes under /shop and no structural moves."]},
+            "reebok": {"signal": "quiet", "bullets": ["Limited activity. Some sitemaps failed this week, so removals may be missing."]},
+            "skechers": {"signal": "active", "bullets": ["Added about 20 product pages and updated its /technologies pages."]},
         },
-        "watch_next": "Check whether Adidas's new /blog guides start ranking for the running terms we target, and consider a counter-piece.",
+        "watch_next": "Check whether Asics's new /blog guides start ranking for the running terms we target, and consider a counter-piece.",
         "generated_at": iso(now + dt.timedelta(minutes=3)),
         "model": "claude-opus-5",
         "window": {"from": iso(now - dt.timedelta(days=7)), "to": iso(now), "days": 7},

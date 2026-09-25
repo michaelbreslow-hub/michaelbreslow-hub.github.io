@@ -7,3 +7,11 @@ clients:
     competitors:
       - name: Nike
         domain: www.nike.com/il
+      - name: New Balance
+        domain: www.newbalance.co.il/en
+      - name: Asics
+        domain: www.asics.com/us/en-us
+      - name: Reebok
+        domain: www.reebok.com
+      - name: Skechers
+        domain: www.skechers.com

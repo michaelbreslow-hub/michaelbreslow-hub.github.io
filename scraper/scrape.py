@@ -162,12 +162,48 @@ def in_scope(url: str, host: str, prefix: str) -> bool:
     return path == prefix or path.startswith(prefix + "/")
 
 
-def section_of(url: str, prefix: str) -> str:
+PRODUCT_SECTION = "(product pages)"
+OTHER_SECTION = "(other pages)"
+MIN_SECTION_SIZE = 3
+# Product URLs that sit at the top level instead of under a folder, e.g.
+# /gel-nimbus-26/p/1011B794-001.html or /2-pack-socks/Z600278.html
+_PRODUCT_PATH = re.compile(r"/p/|/[^/]*\d{4,}[^/]*\.html?$", re.I)
+
+
+def _segments(url: str, prefix: str) -> list[str]:
     path = urlsplit(url).path or "/"
     if prefix and path.startswith(prefix):
         path = path[len(prefix):] or "/"
-    seg = [s for s in path.split("/") if s]
+    return [s for s in path.split("/") if s]
+
+
+def section_of(url: str, prefix: str) -> str:
+    seg = _segments(url, prefix)
     return "/" + seg[0] if seg else "/"
+
+
+def make_sectioner(urls, prefix: str):
+    """Groups URLs by their first folder, but only when that folder holds at
+    least MIN_SECTION_SIZE of the site's URLs. Top-level product pages and
+    one-off pages go into shared buckets, so a site that puts every product
+    at the root doesn't produce thousands of one-page sections."""
+    counts: dict[str, int] = {}
+    for u in urls:
+        seg = _segments(u, prefix)
+        if len(seg) > 1:
+            counts[seg[0]] = counts.get(seg[0], 0) + 1
+
+    def sectioner(url: str) -> str:
+        seg = _segments(url, prefix)
+        if not seg:
+            return "/"
+        if len(seg) > 1 and counts.get(seg[0], 0) >= MIN_SECTION_SIZE and not _PRODUCT_PATH.search("/" + "/".join(seg)):
+            return "/" + seg[0]
+        if _PRODUCT_PATH.search("/" + "/".join(seg)):
+            return PRODUCT_SECTION
+        return OTHER_SECTION
+
+    return sectioner
 
 
 # --------------------------------------------------------------------------- http
@@ -278,7 +314,9 @@ def discover_sitemaps(fetcher: Fetcher, comp: dict) -> tuple[list[str], dict]:
         found = candidates
         info["guesses"] = set(candidates)  # a missing guess isn't an error
     found = [u for u in dict.fromkeys(found) if _bare_host((urlsplit(u).hostname or "").lower()) == _bare_host(comp["host"])]
-    return prioritize_children(found, comp["prefix"]), info
+    # Only a sitemap index's children are narrowed by locale. Every sitemap that
+    # robots.txt lists is kept, because the main index often doesn't name a locale.
+    return found, info
 
 
 def collect_urls(fetcher: Fetcher, comp: dict):
@@ -575,13 +613,14 @@ def process_competitor(client: dict, comp: dict, run_at: str) -> dict:
     # Stamp, section, cap and persist.
     counts: dict[str, int] = {}
     kept, per_type = [], {}
+    sectioner = make_sectioner(set(merged) | set(prev_urls), comp["prefix"])
     for ev in events:
         counts[ev["type"]] = counts.get(ev["type"], 0) + 1
         per_type[ev["type"]] = per_type.get(ev["type"], 0) + 1
         if per_type[ev["type"]] > MAX_EVENTS_PER_TYPE_PER_RUN:
             continue
         ev["date"] = run_at
-        ev["section"] = section_of(ev["url"], comp["prefix"])
+        ev["section"] = sectioner(ev["url"])
         kept.append(ev)
     if len(kept) < len(events):
         notes.append(f"Only the first {MAX_EVENTS_PER_TYPE_PER_RUN} events of each type were logged. The totals are still exact")

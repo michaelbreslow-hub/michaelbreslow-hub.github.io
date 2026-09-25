@@ -80,6 +80,22 @@ class NormalizeTests(unittest.TestCase):
         self.assertEqual(scrape.section_of("https://x.com/il/running/shoe-1", "/il"), "/running")
         self.assertEqual(scrape.section_of("https://x.com/il", "/il"), "/")
 
+    def test_sectioner_buckets_top_level_products_and_one_offs(self):
+        b = "https://x.com/us"
+        urls = [f"{b}/blog/post-{i}" for i in range(5)] + [
+            f"{b}/gel-nimbus/p/1011B794-001.html",
+            f"{b}/2-pack-socks/Z600278.html",
+            f"{b}/about/team",
+            f"{b}/help-center.html",
+        ]
+        sec = scrape.make_sectioner(urls, "/us")
+        self.assertEqual(sec(f"{b}/blog/post-1"), "/blog")
+        self.assertEqual(sec(f"{b}/gel-nimbus/p/1011B794-001.html"), scrape.PRODUCT_SECTION)
+        self.assertEqual(sec(f"{b}/2-pack-socks/Z600278.html"), scrape.PRODUCT_SECTION)
+        self.assertEqual(sec(f"{b}/about/team"), scrape.OTHER_SECTION)
+        self.assertEqual(sec(f"{b}/help-center.html"), scrape.OTHER_SECTION)
+        self.assertEqual(sec(b), "/")
+
     def test_parse_domain(self):
         self.assertEqual(scrape.parse_domain("www.nike.com/il/"), ("https", "www.nike.com", "/il"))
         with self.assertRaises(ValueError):
@@ -101,6 +117,16 @@ class SitemapTests(unittest.TestCase):
         self.assertTrue(meta["complete"])
         # The locale heuristic skips the US child sitemap entirely.
         self.assertNotIn(f"{base}/sitemap-us.xml", f.calls)
+
+    def test_robots_roots_are_not_narrowed_by_locale(self):
+        base = "https://www.example.com"
+        pages = {
+            f"{base}/robots.txt": f"Sitemap: {base}/sitemap_index_all.xml\nSitemap: {base}/extra-il.xml\n".encode(),
+            f"{base}/sitemap_index_all.xml": urlset((f"{base}/il/main", None)),
+            f"{base}/extra-il.xml": urlset((f"{base}/il/extra", None)),
+        }
+        urls, _, _ = scrape.collect_urls(FakeFetcher(pages), comp("www.example.com/il"))
+        self.assertEqual(set(urls), {f"{base}/il/main", f"{base}/il/extra"})
 
     def test_fallback_and_partial(self):
         base = "https://www.example.com"
