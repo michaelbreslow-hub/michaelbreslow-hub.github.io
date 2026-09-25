@@ -5,21 +5,24 @@
     {
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-24T08:34:55Z",
-     "last_counts": {},
+     "last_checked": "2026-09-25T05:05:45Z",
+     "last_counts": {
+      "added": 17,
+      "removed": 4
+     },
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 13,
      "slug": "nike",
-     "status": "baseline",
-     "total_urls": 14118
+     "status": "ok",
+     "total_urls": 14131
     }
    ],
    "id": "client-a",
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-24T08:34:55Z",
+ "generated_at": "2026-09-25T05:05:45Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

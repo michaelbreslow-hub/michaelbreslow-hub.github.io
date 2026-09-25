@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-09-24T08:34:55Z",
+  "last_run": "2026-09-25T05:05:45Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -168,43 +168,163 @@
   },
   "https://www.nike.com/il/a/6-simple-meditation-tips": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/6-simple-meditation-tips",
+    "description": "Find that present moment and stay there, whether you're sitting, training or competing with these 6 tips from the experts.",
+    "h1": "The Fundamentals: 6 Simple Meditation Tips",
+    "title": "6 Simple Meditation Tips. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "abe271db7e5e"
   },
   "https://www.nike.com/il/a/6-ways-to-wake-up-happier-more-alert": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/6-ways-to-wake-up-happier-more-alert",
+    "description": "Start your day with more energy and motivation by incorporating these habits into your wake-up routine.",
+    "h1": "6 Ways To Wake Up Happier And More Alert",
+    "title": "6 Ways To Wake Up Happier and More Alert. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "ee3ab80e8305"
   },
   "https://www.nike.com/il/a/7-ways-to-become-a-better-runner-without-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/7-ways-to-become-a-better-runner-without-running",
+    "description": "7 simple lifestyle tweaks that can help you run stronger, faster and more efficiently — without adding a mile to your workouts. Learn exactly how to make that happen.",
+    "h1": "7 Habits That Will Make You a Stronger Runner",
+    "title": "Become a Better Runner Without Running. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "9d6806516ce8"
   },
   "https://www.nike.com/il/a/8-healthy-eating-tips-for-runners": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/8-healthy-eating-tips-for-runners",
+    "description": "Running nutrition doesn't have to be complicated. Fuel smarter with these small nutrition tips from the experts at Nike.",
+    "h1": "8 Easy Eating Tips for Runners",
+    "title": "8 Healthy Eating Tips for Runners. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "6bd174bda3fc"
   },
   "https://www.nike.com/il/a/a-safe-space-for-women-to-work-out": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/a-safe-space-for-women-to-work-out",
+    "description": "This episode of Points of Play features a female-only yoga studio in Kabul, Afghanistan. It’s a tranquil oasis for more than 500 yogis, but more importantly, it’s a safe haven in a city full of violence, war and the Taliban.",
+    "h1": "A Safe Space in Kabul for Women to Work Out Together",
+    "title": "Points of Play: A Safe Space for Women to Work Out . Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "cb16be7afe04"
   },
   "https://www.nike.com/il/a/a-strength-routine-for-runners": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/a-strength-routine-for-runners",
+    "description": "Even if you'd rather be running, adding strength training to your routine is crucial. The stronger you are, the easier it is to carry your body weight over any distance.",
+    "h1": "Give Your Runs Some Muscle",
+    "title": "A Strength Routine For Runners. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "c5f74ca58ee7"
   },
   "https://www.nike.com/il/a/aarmy-cofounder-angela-manuel-davis-on-living-your-best-life": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/aarmy-cofounder-angela-manuel-davis-on-living-your-best-life",
+    "description": "When Angela Manuel-Davis was a SoulCycle instructor, she saw how motivating people in the studio led to positive changes in their everyday lives. Now the former track star and co-founder and chief motivational officer of digital cycling and boot camp studio AARMY is fostering a community where peopl",
+    "h1": "Trained Podcast: Ground Yourself in Purpose with Angela Manuel Davis",
+    "title": "What It Really Means to Live Your Best Life, According to AARMY Co-founder Angela Manuel-Davis. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "43368870bd00"
   },
   "https://www.nike.com/il/a/abcs-nike-acg": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/abcs-nike-acg",
+    "description": "We have a process. Before we create something, we seek inspiration. Follow along with these guiding principles of Nike All Conditions Gear.",
+    "h1": null,
+    "title": "The ABCs of Nike ACG. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "e61d12da67be"
   },
   "https://www.nike.com/il/a/acg-crater-lake-2021": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-crater-lake-2021",
+    "description": "Wizards, volcanoes and GORE-TEX materials. Must be Spring 2021 for Nike All Conditions Gear.",
+    "h1": null,
+    "title": "Behind the Design: ACG Crater Lake. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "4e7b7dd66a57"
   },
   "https://www.nike.com/il/a/acg-evelynn-escobar-eve-meets-west": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-evelynn-escobar-eve-meets-west",
+    "description": "Evelynn Escobar-Thomas is the founder of Hike Clerb, dedicated to making the outdoors an accessible and welcoming space. She's bringing peace to LA with Nike ACG.",
+    "h1": null,
+    "title": "Nike ACG: Evelynn Escobar-Thomas. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "5f23675032b1"
   },
   "https://www.nike.com/il/a/acg-goat-1000-vertical-kilometre": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -3915,10 +4035,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/a/kobe-9-release-info": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/a/kobe-ad-protro-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -10917,6 +11033,22 @@
   "https://www.nike.com/il/launch/t/street-snkrs-district-23": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/launch/t/street-snkrs-dolce-xoxo-milan-x-air-max-dolce": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/street-snkrs-dolce-xoxo-milan-x-air-max-dolce",
+    "description": null,
+    "h1": "Shox R4",
+    "title": "Street SNKRS: Dolce XOXO Milan x Air Max Dolce. Nike SNKRS"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "349b522505a8"
   },
   "https://www.nike.com/il/launch/t/street-snkrs-düsseldorf-central-unity-event-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -23362,10 +23494,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/acg-radical-airflow-mens-dri-fit-short-sleeve-trail-running-top-EZgl58fO": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/acg-radical-airflow-nxt-mens-dri-fit-long-sleeve-trail-running-top-2YpjJWH2": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23469,6 +23597,22 @@
   "https://www.nike.com/il/t/acg-womens-dri-fit-high-waisted-7-8-trail-running-leggings-FDn6XukV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/acg-womens-dri-fit-long-sleeve-top-ObEamqzi": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-womens-dri-fit-long-sleeve-top-ObEamqzi",
+    "description": "Find the ACG Women's Dri-FIT Long-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG",
+    "title": "ACG Women's Dri-FIT Long-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "8cef26ab0dc2"
   },
   "https://www.nike.com/il/t/acg-womens-dri-fit-short-sleeve-top-TGp7oZ85": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -23606,6 +23750,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/afc-richmond-2026-stadium-third-womens-nike-dri-fit-football-replica-shirt-CCtFynlZ": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/afc-richmond-2026-stadium-third-womens-nike-dri-fit-football-replica-shirt-CCtFynlZ",
+    "description": "Find the AFC Richmond 2026 Stadium Third Women's Nike Dri-FIT Football Replica Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "AFC Richmond 2026 Stadium Third",
+    "title": "AFC Richmond 2026 Stadium Third Women's Nike Dri-FIT Football Replica Shirt. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "cce3c5db9cf8"
+  },
   "https://www.nike.com/il/t/after-dark-tour-unstructured-dri-fit-club-cap-L9NtTz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23697,6 +23857,22 @@
   "https://www.nike.com/il/t/air-force-1-07-mens-shoes-xxH1Sh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-force-1-07-mid-womens-shoe-FJgWFP": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-force-1-07-mid-womens-shoe-FJgWFP",
+    "description": "Find the Nike Air Force 1 '07 Mid Women's Shoe at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Force 1 '07 Mid",
+    "title": "Nike Air Force 1 '07 Mid Women's Shoe. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "69f100aa6ece"
   },
   "https://www.nike.com/il/t/air-force-1-07-next-nature-womens-shoes-lkVhs6": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -28186,6 +28362,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/gt-cut-4-cade-cunningham-basketball-shoes-dQdFSLQM": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/gt-cut-4-cade-cunningham-basketball-shoes-dQdFSLQM",
+    "description": "Find the Nike G.T. Cut 4 'Cade Cunningham' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike G.T. Cut 4 'Cade Cunningham'",
+    "title": "Nike G.T. Cut 4 'Cade Cunningham' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "ddfba27ad45a"
+  },
   "https://www.nike.com/il/t/gt-cut-4-jordan-poole-basketball-shoes-FKbbcf7R": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -28321,6 +28513,22 @@
   "https://www.nike.com/il/t/heritage-waistpack-q3knRf": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/houston-rockets-icon-edition-kevin-durant-mens-dri-fit-nba-swingman-jersey-fhjuDpOx": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/houston-rockets-icon-edition-kevin-durant-mens-dri-fit-nba-swingman-jersey-fhjuDpOx",
+    "description": "Find the Houston Rockets Icon Edition Kevin Durant Men's Dri-FIT NBA Swingman Jersey at Nike.com. Shop online at Nike.com.",
+    "h1": "Houston Rockets Icon Edition Kevin Durant",
+    "title": "Houston Rockets Icon Edition Kevin Durant Men's Dri-FIT NBA Swingman Jersey. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "896757c805bc"
   },
   "https://www.nike.com/il/t/hybrid-rn-mens-training-shoes-pxCEblh5": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -29157,6 +29365,22 @@
   "https://www.nike.com/il/t/jordan-brooklyn-mens-t-shirt-4OYMss0P": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-brooklyn-mens-t-shirt-794KmFom": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-mens-t-shirt-794KmFom",
+    "description": "Find the Jordan Brooklyn Men's T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Men's T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "3870ba5b3716"
   },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-t-shirt-B9LxxSD1": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -30326,6 +30550,38 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-sam-kerr-older-kids-multi-ground-high-top-football-boots-3rSXFuAJ": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-sam-kerr-older-kids-multi-ground-high-top-football-boots-3rSXFuAJ",
+    "description": "Find the Nike Jr Mercurial Superfly 11 Academy 'Sam Kerr' Older Kids' Multi-Ground High-Top Football Boots at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Jr Mercurial Superfly 11 Academy 'Sam Kerr'",
+    "title": "Nike Jr Mercurial Superfly 11 Academy 'Sam Kerr' Older Kids' Multi-Ground High-Top Football Boots. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "54b1cff1da6e"
+  },
+  "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-sam-kerr-younger-kids-multi-ground-high-top-football-boots-x7oyUnT8": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-sam-kerr-younger-kids-multi-ground-high-top-football-boots-x7oyUnT8",
+    "description": "Find the Nike Jr Mercurial Superfly 11 Academy 'Sam Kerr' Younger Kids' Multi-Ground High-Top Football Boots at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Jr Mercurial Superfly 11 Academy 'Sam Kerr'",
+    "title": "Nike Jr Mercurial Superfly 11 Academy 'Sam Kerr' Younger Kids' Multi-Ground High-Top Football Boots. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "162e2360d6e9"
+  },
   "https://www.nike.com/il/t/jr-mercurial-superfly-11-club-kylian-mbappe-older-kids-indoor-court-high-top-football-shoes-xpwP9z9e": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30741,6 +30997,22 @@
   "https://www.nike.com/il/t/lahar-low-womens-shoe-NSFKD0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/lahar-low-womens-shoes-r6MkXr": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/lahar-low-womens-shoes-r6MkXr",
+    "description": "Find the Nike Lahar Low Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Lahar Low",
+    "title": "Nike Lahar Low Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "f237f2d6a60a"
   },
   "https://www.nike.com/il/t/ld-1000-by-you-custom-shoes-5fcRXD1C": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31274,6 +31546,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/mercurial-lite-sam-kerr-football-shin-guards-iEJ746wG": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/mercurial-lite-sam-kerr-football-shin-guards-iEJ746wG",
+    "description": "Find the Nike Mercurial Lite 'Sam Kerr' Football Shin Guards at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Mercurial Lite 'Sam Kerr'",
+    "title": "Nike Mercurial Lite 'Sam Kerr' Football Shin Guards. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "1732cc3fd14f"
+  },
   "https://www.nike.com/il/t/mercurial-superfly-11-academy-artificial-grass-high-top-football-boots-pyzDzex4": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -31305,6 +31593,22 @@
   "https://www.nike.com/il/t/mercurial-superfly-11-academy-multi-ground-high-top-football-boots-bEdZHrpK": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/mercurial-superfly-11-academy-sam-kerr-multi-ground-high-top-football-boots-MdgG7pXH": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/mercurial-superfly-11-academy-sam-kerr-multi-ground-high-top-football-boots-MdgG7pXH",
+    "description": "Find the Nike Mercurial Superfly 11 Academy 'Sam Kerr' Multi-Ground High-Top Football Boots at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Mercurial Superfly 11 Academy 'Sam Kerr'",
+    "title": "Nike Mercurial Superfly 11 Academy 'Sam Kerr' Multi-Ground High-Top Football Boots. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "5461d81eaba8"
   },
   "https://www.nike.com/il/t/mercurial-superfly-11-academy-soft-ground-high-top-football-boots-q8PChEse": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31677,6 +31981,22 @@
   "https://www.nike.com/il/t/minnesota-timberwolves-standard-issue-nike-mens-fleece-basketball-shorts-oLaYPdQr": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/minnesota-timberwolves-statement-edition-anthony-edwards-mens-nike-dri-fit-nba-swingman-jersey-aQL7ZHFf": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/minnesota-timberwolves-statement-edition-anthony-edwards-mens-nike-dri-fit-nba-swingman-jersey-aQL7ZHFf",
+    "description": "Find the Minnesota Timberwolves Statement Edition Anthony Edwards Men's Nike Dri-FIT NBA Swingman Jersey at Nike.com. Shop online at Nike.com.",
+    "h1": "Minnesota Timberwolves Statement Edition Anthony Edwards",
+    "title": "Minnesota Timberwolves Statement Edition Anthony Edwards Men's Nike Dri-FIT NBA Swingman Jersey. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "7a8c3ac0cb02"
   },
   "https://www.nike.com/il/t/modern-plaque-womens-golf-belt-EoLzqG": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -34542,6 +34862,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sam-kerr-academy-older-kids-girls-nike-dri-fit-football-top-gjIGID2k": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sam-kerr-academy-older-kids-girls-nike-dri-fit-football-top-gjIGID2k",
+    "description": "Find the Sam Kerr Academy Older Kids' (Girls') Nike Dri-FIT Football Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Sam Kerr Academy",
+    "title": "Sam Kerr Academy Older Kids' (Girls') Nike Dri-FIT Football Top. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "1a2ed9cce360"
+  },
   "https://www.nike.com/il/t/sam-kerr-strike-womens-nike-dri-fit-football-shorts-JjSGmADU": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -34738,9 +35074,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sb-zoom-tennis-classic-skate-shoes-L88yxXZE": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/sb-zoom-tennis-classic-xl-skate-shoes-L88yxXZE": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sb-zoom-tennis-classic-xl-skate-shoes-L88yxXZE",
+    "description": "Find the Nike SB Zoom Tennis Classic XL Skate Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike SB Zoom Tennis Classic XL",
+    "title": "Nike SB Zoom Tennis Classic XL Skate Shoes. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "b45e978baed4"
   },
   "https://www.nike.com/il/t/sc-corinthians-2025-26-stadium-third-mens-nike-dri-fit-total-90-football-replica-shirt-pT6hc1": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -36073,6 +36421,22 @@
   "https://www.nike.com/il/t/sportswear-womens-oversized-t-shirt-W3N8kY1V": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-womens-oversized-therma-fit-chore-jacket-tXnK144x": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-oversized-therma-fit-chore-jacket-tXnK144x",
+    "description": "Find the Nike Sportswear Women's Oversized Therma-FIT Chore Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Therma-FIT Chore Jacket. Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "ad39d1903dbc"
   },
   "https://www.nike.com/il/t/sportswear-womens-oversized-tracksuit-jacket-3G0d220t": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -37642,9 +38006,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/v5-rnr-younger-kids-shoes-nLwxFM8x": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/v5-rnr-younger-kids-shoes-classic-laces-nLwxFM8x": {
+   "first_seen": "2026-09-25T05:05:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/v5-rnr-younger-kids-shoes-classic-laces-nLwxFM8x",
+    "description": "Find the Nike V5 RNR Younger Kids' Shoes (Classic laces) at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike V5 RNR",
+    "title": "Nike V5 RNR Younger Kids' Shoes (Classic laces). Nike IL"
+   },
+   "seo_checked": "2026-09-25T05:05:45Z",
+   "seo_hash": "9e2a302ae8bd"
   },
   "https://www.nike.com/il/t/v5-runner-suede-younger-kids-shoes-rSdkUaZr": {
    "first_seen": "2026-09-24T08:34:55Z",
