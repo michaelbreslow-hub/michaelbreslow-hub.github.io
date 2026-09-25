@@ -5,11 +5,8 @@
     {
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-25T05:05:45Z",
-     "last_counts": {
-      "added": 17,
-      "removed": 4
-     },
+     "last_checked": "2026-09-25T11:29:53Z",
+     "last_counts": {},
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
@@ -17,12 +14,66 @@
      "slug": "nike",
      "status": "ok",
      "total_urls": 14131
+    },
+    {
+     "baseline_at": "2026-09-25T11:29:53Z",
+     "domain": "www.newbalance.co.il/en",
+     "last_checked": "2026-09-25T11:29:53Z",
+     "last_counts": {},
+     "name": "New Balance",
+     "notes": [],
+     "sitemap_errors": [],
+     "sitemaps_fetched": 4,
+     "slug": "new-balance",
+     "status": "baseline",
+     "total_urls": 227
+    },
+    {
+     "baseline_at": "2026-09-25T11:29:53Z",
+     "domain": "www.asics.com/us/en-us",
+     "last_checked": "2026-09-25T11:29:53Z",
+     "last_counts": {},
+     "name": "Asics",
+     "notes": [
+      "Page fetches were blocked, so the SEO fields weren't updated"
+     ],
+     "sitemap_errors": [],
+     "sitemaps_fetched": 4,
+     "slug": "asics",
+     "status": "baseline",
+     "total_urls": 11931
+    },
+    {
+     "baseline_at": "2026-09-25T11:29:53Z",
+     "domain": "www.reebok.com",
+     "last_checked": "2026-09-25T11:29:53Z",
+     "last_counts": {},
+     "name": "Reebok",
+     "notes": [],
+     "sitemap_errors": [],
+     "sitemaps_fetched": 8,
+     "slug": "reebok",
+     "status": "baseline",
+     "total_urls": 6012
+    },
+    {
+     "baseline_at": "2026-09-25T11:29:53Z",
+     "domain": "www.skechers.com",
+     "last_checked": "2026-09-25T11:29:53Z",
+     "last_counts": {},
+     "name": "Skechers",
+     "notes": [],
+     "sitemap_errors": [],
+     "sitemaps_fetched": 9,
+     "slug": "skechers",
+     "status": "baseline",
+     "total_urls": 5478
     }
    ],
    "id": "client-a",
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-25T05:05:45Z",
+ "generated_at": "2026-09-25T11:29:53Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

@@ -1,0 +1,16 @@
+{
+ "competitor": {
+  "domain": "www.asics.com/us/en-us",
+  "name": "Asics",
+  "slug": "asics"
+ },
+ "events": [],
+ "runs": [
+  {
+   "counts": {},
+   "date": "2026-09-25T11:29:53Z",
+   "status": "baseline",
+   "total_urls": 11931
+  }
+ ]
+}

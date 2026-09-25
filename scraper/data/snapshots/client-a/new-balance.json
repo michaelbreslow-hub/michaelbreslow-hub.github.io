@@ -1,0 +1,1026 @@
+{
+ "meta": {
+  "baseline_at": "2026-09-25T11:29:53Z",
+  "last_run": "2026-09-25T11:29:53Z",
+  "pending_drop": null,
+  "sitemaps_fetched": 4
+ },
+ "urls": {
+  "https://www.newbalance.co.il/en/FAQ": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2021-12-14T08:50:57+00:00",
+   "seo": {
+    "canonical": null,
+    "description": "Commerce Cloud Storefront Reference Architecture",
+    "h1": "Frequently Asked Questions",
+    "title": "FAQ"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "517deb3d8f5e"
+  },
+  "https://www.newbalance.co.il/en/blog": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2021-12-05T12:48:58+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/blog",
+    "description": "Commerce Cloud Storefront Reference Architecture",
+    "h1": "Blog",
+    "title": "Blog"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "4261666ab251"
+  },
+  "https://www.newbalance.co.il/en/category": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2022-06-07T09:23:04+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/category?cgid=undefined",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על ראשי, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "We are sorry, but no results were found",
+    "title": "ראשי - New Balance"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "76bd572a273c"
+  },
+  "https://www.newbalance.co.il/en/contact-us": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2021-12-05T12:45:08+00:00",
+   "seo": {
+    "canonical": null,
+    "description": "Commerce Cloud Storefront Reference Architecture",
+    "h1": "Contact Us",
+    "title": "Contact us"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "1e3e4438230a"
+  },
+  "https://www.newbalance.co.il/en/home": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-25T11:00:03+00:00",
+   "seo": {
+    "canonical": null,
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": null,
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "9aecbc3943db"
+  },
+  "https://www.newbalance.co.il/en/inst": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2021-12-14T08:51:04+00:00"
+  },
+  "https://www.newbalance.co.il/en/root/WCH696V6.html": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-24T06:12:57+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/root/WCH696V6.html",
+    "description": "Buy 696v6 Tennis Shoes at New Balance.",
+    "h1": "696v6 Tennis Shoes",
+    "title": "696v6 Tennis Shoes"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "4adfc7e33c1b"
+  },
+  "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-04-29T06:38:38+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Matching sets, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Matching sets",
+    "title": "Matching sets - New Balance"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "e0c7f9847d4b"
+  },
+  "https://www.newbalance.co.il/en/shop/1080_Collection": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-12-22T12:54:20+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/1080_Collection",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1080, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1080",
+    "title": "1080 - New Balance"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "80287ecb5f18"
+  },
+  "https://www.newbalance.co.il/en/shop/1906": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-11T05:38:28+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/1906",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1906, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1906",
+    "title": "1906 - New Balance"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "ddb1369f8f07"
+  },
+  "https://www.newbalance.co.il/en/shop/1906L_August_sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-22T08:08:36+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/1906_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-11T05:38:28+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/2000": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-02-03T09:38:54+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/2002": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:40:56+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/327_Online_Only": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-18T09:02:36+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/471_August_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-21T10:54:57+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/530": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:36:32+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/650_August_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-21T10:23:33+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/740_August_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-21T11:09:06+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/All%20white": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:41:17+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/All_Clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T12:05:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/All_Lifestyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/All_Running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-24T06:34:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Back%20to%20School": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Back%20to%20School/Accessories_BTS": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T08:05:48+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Back%20to%20School/Clothing_BTS": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T08:05:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Back%20to%20School/Shoes_BTS": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Best_seller_men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-03-29T18:15:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Best_seller_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-03-30T07:14:46+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Best_sellers": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:33:03+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/BlackFriday_TECH": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-29T06:38:38+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Blue_friday_lifestye": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:31:49+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Clothing_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-29T06:38:38+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Clothing_Summer_25": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:10:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Clothing_men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T09:53:00+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Clothing_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:10:57+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Diabetes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:30:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Everyday%20Running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/F%2FW_Look": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-10-16T07:30:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Gray_Days26": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T05:47:41+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Gray_Days_Men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T05:47:41+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Gray_Days_Women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:09:39+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Holiday": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-06T07:47:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Kids_passover": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-29T06:38:38+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Last_call": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-29T06:38:38+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Leggings%20%26%20bras": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:10:57+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Lifestyle_Clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-03-24T08:35:26+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Lifestyle_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:42:41+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Made_UK%26US": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T06:09:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/New_Collection_FW2026": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-23T10:17:02+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/New_Collection_apparel": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T12:05:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/New_Collection_clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T12:05:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Numeric_August_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-21T11:07:23+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/RYW_WINTER": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-12-28T09:22:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Race%20Day": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T09:53:00+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Retro": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T06:09:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/Distance": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/Distance/Long_distance_run": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/Distance/Mid_distance_run": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/Distance/Short_distance_run": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-findyourperfectrunningshoe": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-03-31T10:28:15+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/800series": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-07T09:48:17+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/freshfoam": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/fuelcell": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-04-22T09:52:29+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/Ellipse": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20Rebel": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:36:37+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20SC%20Elite": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:53:29+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20SuperComp%20Trainer": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T07:02:46+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-1080": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:30:03+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-860": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:56:59+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-880": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:56:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-hierro%20%28%D7%A9%D7%98%D7%97%29": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:55:56+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-more": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-30T06:57:49+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Running_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-14T05:14:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Shoes_327": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-16T06:28:31+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Shoes_9060": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-27T06:19:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Shop_grey": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:30:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Special%20Price": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-11T05:38:28+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Tennis_shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-11-05T07:47:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Trail": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T11:43:03+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Triple%20Black": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-12T07:05:17+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/U204L_Sale": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:42:33+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Woman_health_day": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:12:26+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/Women_winter_collection": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T09:03:47+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/club": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T06:18:24+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-06T07:47:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-06T07:47:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes/Allshoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-06T07:47:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes/Infants": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:55:48+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes/Kids": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-06T07:47:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes/kids-lifestyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-06T07:47:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes/kids-running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:54:13+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/Shoes/youth": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:56:04+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T11:16:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-530": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-08-21T11:30:46+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-9060": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-09-21T13:16:13+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-327": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-02-23T07:50:27+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-574": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T08:46:32+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-996": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T08:46:33+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/Accessories": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-07-13T13:22:39+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/Accessories/Bags": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-07-13T13:22:39+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/Accessories/Hats": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-04-02T06:41:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/Accessories/Socks": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2023-11-22T07:37:15+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-23T14:32:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/Matching%20Sets": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-12-15T09:21:15+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/New%20Collection": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-23T14:32:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/Tech%20Collection": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-12-15T09:21:15+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/allclothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T12:05:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/hoodies%26sweatshirts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/jackets": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/longsleeveshirts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/pants%26tights": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/shorts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/clothing/shortsleeveshirts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T12:05:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/%D7%A1%D7%9B%D7%A8%D7%AA": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T09:06:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/Big_Size": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-07T07:50:00+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/Lifestyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/MadeinUK%26US": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T06:09:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/Sandals": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-19T13:00:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/TrailRunning": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T11:44:58+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/Training": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/Work%20Shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-11-27T08:52:29+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/allshoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/running/Competition": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-10T11:52:39+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/running/Motion%20Control": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/running/Neutral%20Cushioned": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/running/Stability": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:50:02+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/spikes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/walking": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T06:09:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shoes/wideshoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T06:09:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-11T05:38:28+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/1080": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-07T07:47:24+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/327": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:42:22+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/550": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:41:17+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/574": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-10T06:55:23+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/860": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-10T11:56:56+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/880": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:35:32+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/9060": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-27T06:19:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/990": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-13T06:09:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/shopbystyle/men_shopbystyle_1906": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-11T05:38:28+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports/sport-football": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports/sport-skate": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-15T10:12:15+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports/sports-athletics": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports/sports-basketball": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T08:24:19+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports/sports-running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/men/sports/sports-tennis": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new/new-kids": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new/new-men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new/new-women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-27T06:19:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new_clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-04-13T10:21:58+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new_lifestyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-27T06:19:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/new_running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-12T12:11:16+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/online_only": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-12T07:05:50+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/running20%25-1": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T09:19:20+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/running20%25-2": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-14T05:14:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-kids": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:55:48+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-kids/sale-kids-shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:55:48+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-men": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:33:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-men/sale-men-clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T09:46:45+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-men/sale-men-shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:33:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:53:12+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-women/sale-women-clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:11:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/sale-women/sale-women-shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:53:12+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/shoes_550": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:41:17+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/shoes_574": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-06-03T07:15:43+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/spring_Mwardrobe": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:41:48+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/spring_Wwardrobe": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:41:48+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/unisex": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/Accessories_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-07-13T13:22:39+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/Accessories_women/Bags_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2025-07-13T13:22:39+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/Accessories_women/Hats_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-04-02T06:41:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/Accessories_women/Socks_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2023-11-22T08:00:23+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-23T14:15:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_%20New%20Collection": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-23T14:15:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_Matching%20Sets": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-04-02T06:41:55+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/woman-dresses": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-02-15T08:29:22+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-allclothing": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:12:26+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-hoodies%26sweatshirts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-04-02T06:41:53+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-jackets": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T09:03:47+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-pants%26tights": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-04-02T06:41:50+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shorts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:12:26+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shortsleeveshirts": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:10:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-clothing/women-sportsbras": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:10:57+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/%D7%A1%D7%9B%D7%A8%D7%AA-W": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:30:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/Sandals_women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-19T13:00:34+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-allshoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-lifestyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-09-24T06:03:42+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-madeinuk%26us": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T11:51:57+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-24T06:34:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-running/Competition%20W": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2022-07-21T10:19:19+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-running/Motion%20Control%20W": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2022-11-21T07:48:18+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-running/Neutral%20Cushioned%20W": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-24T06:34:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-running/stability%20W": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:34:22+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-spikes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2021-10-21T06:00:44+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-trailrunning": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T09:03:22+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-training": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-12T07:04:20+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-walking": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:30:01+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shoes/women-wideshoes": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-11T11:46:47+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-11T05:38:28+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/550__women": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:36:06+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-1080": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-07T07:47:37+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-327": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-05T08:59:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-373": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-01-28T13:22:09+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-530": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:36:32+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-574": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-12T07:06:07+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-860": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:34:22+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-880": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-07T07:59:40+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-9060": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-07-27T06:19:08+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-990": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:30:23+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women_shopbystyle_1906": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-08-11T05:38:28+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-sports": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-24T06:34:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-sports/women-sport-athletics": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2022-04-28T10:50:25+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-sports/women-sport-running": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-24T06:34:05+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-sports/women-sport-tennis": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2024-07-02T10:09:49+00:00"
+  },
+  "https://www.newbalance.co.il/en/shop/women/women-sports/women-sport-training": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2026-05-13T10:10:57+00:00"
+  },
+  "https://www.newbalance.co.il/en/stores-israel": {
+   "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": "2021-12-14T08:51:31+00:00"
+  }
+ }
+}

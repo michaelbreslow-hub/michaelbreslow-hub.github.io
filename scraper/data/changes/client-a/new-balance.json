@@ -1,0 +1,16 @@
+{
+ "competitor": {
+  "domain": "www.newbalance.co.il/en",
+  "name": "New Balance",
+  "slug": "new-balance"
+ },
+ "events": [],
+ "runs": [
+  {
+   "counts": {},
+   "date": "2026-09-25T11:29:53Z",
+   "status": "baseline",
+   "total_urls": 227
+  }
+ ]
+}

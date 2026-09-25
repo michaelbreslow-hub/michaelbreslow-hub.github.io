@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-09-25T05:05:45Z",
+  "last_run": "2026-09-25T11:29:53Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -328,43 +328,163 @@
   },
   "https://www.nike.com/il/a/acg-goat-1000-vertical-kilometre": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-goat-1000-vertical-kilometre",
+    "description": "1,000 metres straight up above Chamonix. Learn more about the ACG GOAT 1000 vertical kilometre race and get inspired for your next trail run.",
+    "h1": null,
+    "title": "ACG GOAT 1000: Vertical Kilometre Chamonix. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "0a67067292f5"
   },
   "https://www.nike.com/il/a/acg-guide-to-peace-on-earth": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-guide-to-peace-on-earth",
+    "description": "Peace means different things to different people. But at Nike ACG, we are committed to helping you find it this season.",
+    "h1": null,
+    "title": "The ACG Guide to Peace on Earth. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "9354c981c336"
   },
   "https://www.nike.com/il/a/acg-holiday-lookbook-2020": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-holiday-lookbook-2020",
+    "description": "This season, Nike ACG went out to Smith Rock, Oregon for our new collection. It was inspired by this place, but it was also worn there.",
+    "h1": null,
+    "title": "ACG Holiday 2020: Smith Rock Lookbook. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "abac5512ba74"
   },
   "https://www.nike.com/il/a/acg-keith-charles-upstate": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-keith-charles-upstate",
+    "description": "Get away from it all with Keith Charles, Kari Faux and the rest of their crew as they trek to the Adirondacks in Upstate New York.",
+    "h1": null,
+    "title": "Nike ACG: Upstate of Mind. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "6c31cadd5556"
   },
   "https://www.nike.com/il/a/acg-smith-rock-2020": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-smith-rock-2020",
+    "description": "Transport yourself to Smith Rock and go behind the design of the latest ACG collection.",
+    "h1": null,
+    "title": "Behind the Design: ACG Smith Rock. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "2dea760d84fc"
   },
   "https://www.nike.com/il/a/acg-spring-lookbook-2021": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acg-spring-lookbook-2021",
+    "description": "The ACG Spring 2021 Lookbook, inspired by the wonders of Crater Lake.",
+    "h1": null,
+    "title": "ACG Spring 2021: Crater Lake, Oregon. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "f6a2e6667b38"
   },
   "https://www.nike.com/il/a/achieve-a-goal-worth-the-effort": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/achieve-a-goal-worth-the-effort",
+    "description": "Why does the motivation to go after a goal often come easily at first, then peter out—or disappear altogether? Read more.",
+    "h1": "To Achieve a Goal, Decide Whether the Process Is Actually Worth It",
+    "title": "To Achieve a Goal, Decide If the Process Is Worth It. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "da0c0589764a"
   },
   "https://www.nike.com/il/a/acl-tear-symptoms": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/acl-tear-symptoms",
+    "description": "Physiotherapists explain how an ACL tear occurs, what its symptoms are and what the healing process looks like.",
+    "h1": "What Is an ACL Tear, Exactly?",
+    "title": "What Is an ACL Tear, Exactly?. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "5ad204d0b527"
   },
   "https://www.nike.com/il/a/ada-hegerberg-football-stories": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/ada-hegerberg-football-stories",
+    "description": "Discover how a devastating injury halted Ada Hegerberg’s professional football career, and how she overcame the setback to shine once again.",
+    "h1": null,
+    "title": "Football Stories: Ada Hegerberg. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "9b0e9e9acc94"
   },
   "https://www.nike.com/il/a/ada-hegerberg-get-ada-her-way": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/ada-hegerberg-get-ada-her-way",
+    "description": "Get up to speed on Norway's Ada Hegerberg, known for her wicked kicks and unstoppable attacks. Find out what it takes to defend against her.",
+    "h1": null,
+    "title": "Ada Hegerberg: Get Ada Her Way. Nike IL"
+   },
+   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_hash": "179f44368304"
   },
   "https://www.nike.com/il/a/adam-grant-on-questioning-beliefs-and-assumptions": {
    "first_seen": "2026-09-24T08:34:55Z",
