@@ -5,33 +5,36 @@
     {
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-25T11:29:53Z",
-     "last_counts": {},
+     "last_checked": "2026-09-26T05:05:40Z",
+     "last_counts": {
+      "added": 11,
+      "removed": 48
+     },
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 14131
+     "total_urls": 14094
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.newbalance.co.il/en",
-     "last_checked": "2026-09-25T11:29:53Z",
+     "last_checked": "2026-09-26T05:05:40Z",
      "last_counts": {},
      "name": "New Balance",
      "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 4,
      "slug": "new-balance",
-     "status": "baseline",
+     "status": "ok",
      "total_urls": 227
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.asics.com/us/en-us",
-     "last_checked": "2026-09-25T11:29:53Z",
+     "last_checked": "2026-09-26T05:05:40Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -40,40 +43,50 @@
      "sitemap_errors": [],
      "sitemaps_fetched": 4,
      "slug": "asics",
-     "status": "baseline",
+     "status": "ok",
      "total_urls": 11931
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.reebok.com",
-     "last_checked": "2026-09-25T11:29:53Z",
-     "last_counts": {},
+     "last_checked": "2026-09-26T05:05:40Z",
+     "last_counts": {
+      "added": 6,
+      "removed": 1,
+      "updated": 5496
+     },
      "name": "Reebok",
-     "notes": [],
+     "notes": [
+      "Only the first 2000 events of each type were logged. The totals are still exact"
+     ],
      "sitemap_errors": [],
      "sitemaps_fetched": 8,
      "slug": "reebok",
-     "status": "baseline",
-     "total_urls": 6012
+     "status": "ok",
+     "total_urls": 6017
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.skechers.com",
-     "last_checked": "2026-09-25T11:29:53Z",
-     "last_counts": {},
+     "last_checked": "2026-09-26T05:05:40Z",
+     "last_counts": {
+      "added": 73,
+      "removed": 77,
+      "updated": 53
+     },
      "name": "Skechers",
      "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 9,
      "slug": "skechers",
-     "status": "baseline",
-     "total_urls": 5478
+     "status": "ok",
+     "total_urls": 5474
     }
    ],
    "id": "client-a",
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-25T11:29:53Z",
+ "generated_at": "2026-09-26T05:05:40Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

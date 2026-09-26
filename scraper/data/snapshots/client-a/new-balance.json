@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-09-25T11:29:53Z",
+  "last_run": "2026-09-26T05:05:40Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -156,39 +156,147 @@
   },
   "https://www.newbalance.co.il/en/shop/1906L_August_sale": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-22T08:08:36+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-22T08:08:36+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/1906L_August_sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1906L Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1906L Sale",
+    "title": "1906L Sale - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "2fb6a63c0ecf"
   },
   "https://www.newbalance.co.il/en/shop/1906_Sale": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-11T05:38:28+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-11T05:38:28+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/1906_Sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1906 Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1906 Sale",
+    "title": "1906 Sale - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "7090da0df7d3"
   },
   "https://www.newbalance.co.il/en/shop/2000": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-02-03T09:38:54+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-02-03T09:38:54+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/2000",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על ABZORB 2000, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "ABZORB 2000",
+    "title": "ABZORB 2000 - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "a76e0c23f2db"
   },
   "https://www.newbalance.co.il/en/shop/2002": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:40:56+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:40:56+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/2002",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 2002, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "2002",
+    "title": "2002 - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "9285590d0f68"
   },
   "https://www.newbalance.co.il/en/shop/327_Online_Only": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-18T09:02:36+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-18T09:02:36+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/327_Online_Only",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 327 Sale Online Only, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "327 Sale Online Only",
+    "title": "327 Sale Online Only - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "5d5e6e8a1890"
   },
   "https://www.newbalance.co.il/en/shop/471_August_Sale": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-21T10:54:57+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-21T10:54:57+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/471_August_Sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 471 Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "471 Sale",
+    "title": "471 Sale - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "122b1dbaa436"
   },
   "https://www.newbalance.co.il/en/shop/530": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:36:32+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:36:32+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/530",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 530, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "530",
+    "title": "530 - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "d5d60b54bb0f"
   },
   "https://www.newbalance.co.il/en/shop/650_August_Sale": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-21T10:23:33+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-21T10:23:33+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/650_August_Sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 650 Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "650 Sale",
+    "title": "650 Sale - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "2f9367f1635c"
   },
   "https://www.newbalance.co.il/en/shop/740_August_Sale": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-21T11:09:06+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-21T11:09:06+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/740_August_Sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 740 Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "740 Sale",
+    "title": "740 Sale - New Balance"
+   },
+   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_hash": "8d597660610e"
   },
   "https://www.newbalance.co.il/en/shop/All%20white": {
    "first_seen": "2026-09-25T11:29:53Z",
