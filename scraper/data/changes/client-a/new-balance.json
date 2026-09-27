@@ -4,8 +4,25 @@
   "name": "New Balance",
   "slug": "new-balance"
  },
- "events": [],
+ "events": [
+  {
+   "after": "2026-09-26T11:00:03+00:00",
+   "before": "2026-09-25T11:00:03+00:00",
+   "date": "2026-09-27T05:05:38Z",
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  }
+ ],
  "runs": [
+  {
+   "counts": {
+    "updated": 1
+   },
+   "date": "2026-09-27T05:05:38Z",
+   "status": "ok",
+   "total_urls": 227
+  },
   {
    "counts": {},
    "date": "2026-09-26T05:05:40Z",

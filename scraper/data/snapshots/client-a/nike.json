@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-09-26T05:05:40Z",
+  "last_run": "2026-09-27T05:05:38Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -648,43 +648,163 @@
   },
   "https://www.nike.com/il/a/air-jordan-10-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-10-history",
+    "description": "The Air Jordan 10 was initially created as a tribute shoe, but it coincided perfectly with MJ's basketball comeback. Dive into the history of this icon.",
+    "h1": null,
+    "title": "The History of the Air Jordan 10. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "2666471bd482"
   },
   "https://www.nike.com/il/a/air-jordan-11-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-11-history",
+    "description": "The Air Jordan 11 became an instant favourite among players even before its debut in the film Space Jam. Discover more about the legacy of this icon.",
+    "h1": null,
+    "title": "The History of the Air Jordan 11. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "6880815659f1"
   },
   "https://www.nike.com/il/a/air-jordan-12-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-12-history",
+    "description": "Michael Jordan's superb performance on the court served as inspiration for the AJ12. Learn more about the history of the Air Jordan 12.",
+    "h1": null,
+    "title": "The History of the Air Jordan 12. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "de6dbc031971"
   },
   "https://www.nike.com/il/a/air-jordan-13-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-13-history",
+    "description": "MJ earned the nickname \"Black Cat\" for his unmatched strength and stealth, which inspired the Air Jordan 13. Learn more about its history and design.",
+    "h1": null,
+    "title": "The History of the Air Jordan 13. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "db49be739a65"
   },
   "https://www.nike.com/il/a/air-jordan-14-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-14-history",
+    "description": "Discover the design and history behind the Air Jordan 14—the shoe Michael Jordan famously wore when he scored the iconic \"Last Shot\".",
+    "h1": null,
+    "title": "The History of the Air Jordan 14. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "832af9bb0d60"
   },
   "https://www.nike.com/il/a/air-jordan-15-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-15-history",
+    "description": "Discover the story of the Air Jordan 15. With its woven Kevlar® upper and X-15 fighter jet inspiration, it's a shoe fit for a legend.",
+    "h1": null,
+    "title": "The History of the Air Jordan 15. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "75a291c6005c"
   },
   "https://www.nike.com/il/a/air-jordan-16-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-16-history",
+    "description": "Jump into the world of the Air Jordan 16, a shoe that captured Michael Jordan's journey from Washington Wizards president to player.",
+    "h1": null,
+    "title": "The History of the Air Jordan 16. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "57701a0d2f64"
   },
   "https://www.nike.com/il/a/air-jordan-17-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-17-history",
+    "description": "Experience the magic of the Air Jordan 17, the shoe that celebrated MJ's second return to the game—this time, as a member of the Washington Wizards.",
+    "h1": null,
+    "title": "The History of the Air Jordan 17. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "725f30d376a1"
   },
   "https://www.nike.com/il/a/air-jordan-18-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-18-history",
+    "description": "Learn more about the AJ18, which embodies the breadth of Jordan's phenomenal legacy and was the last Air Jordan shoe worn by MJ on the court.",
+    "h1": null,
+    "title": "The History of the Air Jordan 18. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "7f596396179d"
   },
   "https://www.nike.com/il/a/air-jordan-19-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-19-history",
+    "description": "Michael Jordan may never have worn the AJ19, but his unyielding performance inspired the design. Find out more about the history of the bold Air Jordan 19.",
+    "h1": null,
+    "title": "The History of the Air Jordan 19. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "97c5386c9034"
   },
   "https://www.nike.com/il/a/air-jordan-2-h-wings-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27683,6 +27803,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/fc-barcelona-energy-mens-nike-dri-fit-football-shirt-620jL7QQ": {
+   "first_seen": "2026-09-27T05:05:38Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/fc-barcelona-energy-mens-nike-dri-fit-football-shirt-620jL7QQ",
+    "description": "Find the F.C. Barcelona Energy Men's Nike Dri-FIT Football Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "F.C. Barcelona Energy",
+    "title": "F.C. Barcelona Energy Men's Nike Dri-FIT Football Shirt. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "278250c82141"
+  },
   "https://www.nike.com/il/t/fc-barcelona-energy-third-mens-nike-dri-fit-football-long-sleeve-shirt-bA8hhRQ3": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -37214,6 +37350,22 @@
   "https://www.nike.com/il/t/swift-butterfly-womens-dri-fit-sleeveless-running-t-shirt-ZiwhGVIn": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/swift-flash-womens-running-gilet-4F3Yj7PG": {
+   "first_seen": "2026-09-27T05:05:38Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/swift-flash-womens-running-gilet-4F3Yj7PG",
+    "description": "Find the Nike Swift Flash Women's Running Gilet at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Swift Flash",
+    "title": "Nike Swift Flash Women's Running Gilet. Nike IL"
+   },
+   "seo_checked": "2026-09-27T05:05:38Z",
+   "seo_hash": "887f2e25c168"
   },
   "https://www.nike.com/il/t/swift-run-in-berlin-womens-dri-fit-short-sleeve-running-top-k8Ol5e43": {
    "first_seen": "2026-09-24T08:34:55Z",

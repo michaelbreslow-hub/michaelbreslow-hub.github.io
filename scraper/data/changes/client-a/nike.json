@@ -6,6 +6,20 @@
  },
  "events": [
   {
+   "date": "2026-09-27T05:05:38Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/fc-barcelona-energy-mens-nike-dri-fit-football-shirt-620jL7QQ"
+  },
+  {
+   "date": "2026-09-27T05:05:38Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/swift-flash-womens-running-gilet-4F3Yj7PG"
+  },
+  {
    "date": "2026-09-26T05:05:40Z",
    "lastmod": null,
    "section": "/t",
@@ -567,6 +581,14 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 2
+   },
+   "date": "2026-09-27T05:05:38Z",
+   "status": "ok",
+   "total_urls": 14096
+  },
   {
    "counts": {
     "added": 11,
