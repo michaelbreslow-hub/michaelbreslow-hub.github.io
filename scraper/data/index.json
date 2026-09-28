@@ -5,10 +5,8 @@
     {
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-27T05:05:38Z",
-     "last_counts": {
-      "added": 2
-     },
+     "last_checked": "2026-09-28T05:06:28Z",
+     "last_counts": {},
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
@@ -20,7 +18,7 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.newbalance.co.il/en",
-     "last_checked": "2026-09-27T05:05:38Z",
+     "last_checked": "2026-09-28T05:06:28Z",
      "last_counts": {
       "updated": 1
      },
@@ -35,7 +33,7 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.asics.com/us/en-us",
-     "last_checked": "2026-09-27T05:05:38Z",
+     "last_checked": "2026-09-28T05:06:28Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -50,11 +48,10 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.reebok.com",
-     "last_checked": "2026-09-27T05:05:38Z",
+     "last_checked": "2026-09-28T05:06:28Z",
      "last_counts": {
-      "added": 10,
-      "removed": 1,
-      "updated": 5677
+      "seo_changed": 4,
+      "updated": 5695
      },
      "name": "Reebok",
      "notes": [
@@ -69,10 +66,10 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.skechers.com",
-     "last_checked": "2026-09-27T05:05:38Z",
+     "last_checked": "2026-09-28T05:06:28Z",
      "last_counts": {
-      "added": 42,
-      "removed": 37,
+      "added": 6,
+      "removed": 6,
       "updated": 51
      },
      "name": "Skechers",
@@ -88,6 +85,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-27T05:05:38Z",
+ "generated_at": "2026-09-28T05:06:28Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

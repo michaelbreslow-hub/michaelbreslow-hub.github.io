@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-09-27T05:05:38Z",
+  "last_run": "2026-09-28T05:06:28Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -808,43 +808,163 @@
   },
   "https://www.nike.com/il/a/air-jordan-2-h-wings-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-2-h-wings-release-info",
+    "description": "The limited-edition shoe is inspired by H's storied career with the Jordan Brand and his contributions to the global basketball community.",
+    "h1": "Jordan Brand launches Air Jordan 2 \"H\" Wings honouring Howard \"H\" White",
+    "title": "Jordan Brand launches Air Jordan 2 silhouette honouring basketball legend Howard \"H\" White . Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "d9e33fba5f1a"
   },
   "https://www.nike.com/il/a/air-jordan-2-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-2-history",
+    "description": "Air Jordan 2 marked a new era in footwear, combining fashion and basketball for the first time. Learn more about the release and history of the AJ2.",
+    "h1": null,
+    "title": "The History of the Air Jordan 2. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "c6023a1f501e"
   },
   "https://www.nike.com/il/a/air-jordan-20-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-20-history",
+    "description": "Celebrate Michael Jordan's legacy with the Air Jordan 20, designed by the renowned Tinker Hatfield and serving as MJ's autobiography.",
+    "h1": null,
+    "title": "The History of the Air Jordan 20. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "7100319ce0fa"
   },
   "https://www.nike.com/il/a/air-jordan-3-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-3-history",
+    "description": "The Air Jordan 3 is one of the most well-known sneaker silhouettes in the world, and it marks the start of Jumpman. Find out more about its release and history.",
+    "h1": null,
+    "title": "The History of the Air Jordan 3. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "df2c8add53bb"
   },
   "https://www.nike.com/il/a/air-jordan-36-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-36-release-info",
+    "description": "Get the details on the 2021 release from the inimitable Nike Air Jordan line.",
+    "h1": "Everything you need to know about the iconic Air Jordan XXXVI",
+    "title": "Everything to know about the iconic Air Jordan XXXVI. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "a125f61f1c25"
   },
   "https://www.nike.com/il/a/air-jordan-4-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-4-history",
+    "description": "From the court to the fashion scene, the Air Jordan 4 continued to revolutionise global sneaker culture. Learn more about the AJ4's release and history.",
+    "h1": null,
+    "title": "The History of the Air Jordan 4. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "8b8ae34723fa"
   },
   "https://www.nike.com/il/a/air-jordan-4-retro-sizing-guide": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-4-retro-sizing-guide",
+    "description": "Here's what you need to know about sizing when buying this timeless Air Jordan Retro.",
+    "h1": "Official Air Jordan 4 sizing guide and tips",
+    "title": "Official Air Jordan 4 sizing guide and tips. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "678daec09939"
   },
   "https://www.nike.com/il/a/air-jordan-40-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-40-release-info",
+    "description": "Nike just launched the Air Jordan 40. Here's what you need to know about the AJ40, along with the AJ40 launch date and colourways.",
+    "h1": "AJ40 Is designed for the Next Generation of Ballers",
+    "title": "Nike debuts the cutting-edge Air Jordan 40. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "cb73ae8448c9"
   },
   "https://www.nike.com/il/a/air-jordan-5-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-5-history",
+    "description": "The AJ5 was inspired by Michael Jordan's style and ferocity when he was at the top of his game. Learn more about the Air Jordan 5's release and history.",
+    "h1": null,
+    "title": "The History of the Air Jordan 5. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "518fb2b6a3f4"
   },
   "https://www.nike.com/il/a/air-jordan-6-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/air-jordan-6-history",
+    "description": "Sporting the Air Jordan 6, Michael Jordan led the Chicago Bulls to their first ever championship title. Learn more about the AJ6 and its history.",
+    "h1": null,
+    "title": "The History of the Air Jordan 6. Nike IL"
+   },
+   "seo_checked": "2026-09-28T05:06:28Z",
+   "seo_hash": "ceb0f3ec780f"
   },
   "https://www.nike.com/il/a/air-jordan-6-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
