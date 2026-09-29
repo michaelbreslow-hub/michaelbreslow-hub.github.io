@@ -5,20 +5,23 @@
     {
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-28T05:06:28Z",
-     "last_counts": {},
+     "last_checked": "2026-09-29T05:06:47Z",
+     "last_counts": {
+      "added": 33,
+      "removed": 44
+     },
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 14096
+     "total_urls": 14085
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.newbalance.co.il/en",
-     "last_checked": "2026-09-28T05:06:28Z",
+     "last_checked": "2026-09-29T05:06:47Z",
      "last_counts": {
       "updated": 1
      },
@@ -33,7 +36,7 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.asics.com/us/en-us",
-     "last_checked": "2026-09-28T05:06:28Z",
+     "last_checked": "2026-09-29T05:06:47Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -48,10 +51,10 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.reebok.com",
-     "last_checked": "2026-09-28T05:06:28Z",
+     "last_checked": "2026-09-29T05:06:47Z",
      "last_counts": {
-      "seo_changed": 4,
-      "updated": 5695
+      "seo_changed": 2,
+      "updated": 5686
      },
      "name": "Reebok",
      "notes": [
@@ -66,10 +69,10 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.skechers.com",
-     "last_checked": "2026-09-28T05:06:28Z",
+     "last_checked": "2026-09-29T05:06:47Z",
      "last_counts": {
-      "added": 6,
-      "removed": 6,
+      "added": 3,
+      "removed": 10,
       "updated": 51
      },
      "name": "Skechers",
@@ -78,13 +81,13 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5479
+     "total_urls": 5472
     }
    ],
    "id": "client-a",
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-28T05:06:28Z",
+ "generated_at": "2026-09-29T05:06:47Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
