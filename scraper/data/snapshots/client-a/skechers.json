@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-09-30T05:07:22Z",
+  "last_run": "2026-09-30T05:14:49Z",
   "pending_drop": null,
   "sitemaps_fetched": 9
  },
@@ -968,43 +968,163 @@
   },
   "https://www.skechers.com/6-pack-boys-no-show-socks/Z108264.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-boys-no-show-socks/Z108264_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Give them an extra layer of comfort and style with Skechers 6 Pack Boys' Full Terry No Show Socks. This low-cut ankle sock features cushioning from heel to toe, arch support, and a Skechers&reg; logo detail at the toe seam.",
+    "h1": "6 Pack Boys' No Show Socks",
+    "title": "6 Pack Boys' No Show Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "32eb47512b00"
   },
   "https://www.skechers.com/6-pack-boys-no-show-socks/Z108264_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-boys-no-show-socks/Z108264_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Give them an extra layer of comfort and style with Skechers 6 Pack Boys' Full Terry No Show Socks. This low-cut ankle sock features cushioning from heel to toe, arch support, and a Skechers&reg; logo detail at the toe seam.",
+    "h1": "6 Pack Boys' No Show Socks",
+    "title": "6 Pack Boys' No Show Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "32eb47512b00"
   },
   "https://www.skechers.com/6-pack-core-low-cut-large-socks/Z118210.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-core-low-cut-large-socks/Z118210_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Enjoy cushioned comfort in a style basic wearing Skechers 6 Pack Core Low Cut Large Socks. These poly/cotton blend low cut socks come in a pack of 3 pairs in a single color and feature a cushioned footbed, mesh ventilation, moisture control, and arch supp",
+    "h1": "6 Pack Core Low Cut Large Socks",
+    "title": "6 Pack Core Low Cut Large Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "abeb88b2d867"
   },
   "https://www.skechers.com/6-pack-core-low-cut-medium-socks/Z118209.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-core-low-cut-medium-socks/Z118209_MLT.html",
+    "description": "Free Shipping with our free loyalty program. Enjoy cushioned comfort in a style basic wearing Skechers 6 Pack Core Low Cut Medium Socks. These poly/cotton blend low cut socks come in a pack of 3 pairs in a single color and feature a cushioned footbed, mesh ventilation, moisture control, and arch sup",
+    "h1": "6 Pack Core Low Cut Medium Socks",
+    "title": "6 Pack Core Low Cut Medium Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "60709856cd2e"
   },
   "https://www.skechers.com/6-pack-core-quarter-large-socks/Z118215.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-core-quarter-large-socks/Z118215_WHT.html",
+    "description": "Free Shipping with our free loyalty program. Enjoy cushioned comfort in a style basic wearing Skechers 6 Pack Core Quarter Large Socks. These poly/cotton blend quarter length socks come in a pack of 3 pairs in a single color and feature a cushioned footbed, mesh ventilation, moisture control, and ar",
+    "h1": "6 Pack Core Quarter Large Socks",
+    "title": "6 Pack Core Quarter Large Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "6ac9901928c0"
   },
   "https://www.skechers.com/6-pack-core-quarter-medium-socks/Z118214.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-core-quarter-medium-socks/Z118214_WHT.html",
+    "description": "Free Shipping with our free loyalty program. Enjoy cushioned comfort in a style basic wearing Skechers 6 Pack Core Quarter Medium Socks. These poly/cotton blend quarter length socks come in a pack of 3 pairs in a single color and feature a cushioned footbed, mesh ventilation, moisture control, and a",
+    "h1": "6 Pack Core Quarter Medium Socks",
+    "title": "6 Pack Core Quarter Medium Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "71640b2c134a"
   },
   "https://www.skechers.com/6-pack-girls-low-cut-color-stripe-socks/Z108744.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-girls-low-cut-color-stripe-socks/Z108744_PUR.html",
+    "description": "Free Shipping with our free loyalty program. Set them up for all-day comfort and style with the Skechers Accessories 6 Pack of Girls' Low Cut Color Stripe Socks. This casual ankle sock is made from a stretchy poly-blend fabric in a tonal stripe design and features a super soft feel, mesh ventilation",
+    "h1": "6 Pack Girls' Low Cut Color Stripe Socks",
+    "title": "6 Pack Girls' Low Cut Color Stripe Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "5a46380075e2"
   },
   "https://www.skechers.com/6-pack-girls-tie-dye-fashion-socks/Z107679.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-girls-tie-dye-fashion-socks/Z107679_MULT.html",
+    "description": "Free Shipping with our free loyalty program. Comfort comes in an endless variety of colorful choices with Skechers 6 Pack Girls' Tie Dye Fashion Socks. This lowcut ankle sock features a soft poly-blend fabric in an allover tie-dye print, a lightweight construction, and comfort stretch for the perfec",
+    "h1": "6 Pack Girls' Tie Dye Fashion Socks",
+    "title": "6 Pack Girls' Tie Dye Fashion Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "daf27c017189"
   },
   "https://www.skechers.com/6-pack-girls-tie-dye-fashion-socks/Z107679_MULT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-girls-tie-dye-fashion-socks/Z107679_MULT.html",
+    "description": "Free Shipping with our free loyalty program. Comfort comes in an endless variety of colorful choices with Skechers 6 Pack Girls' Tie Dye Fashion Socks. This lowcut ankle sock features a soft poly-blend fabric in an allover tie-dye print, a lightweight construction, and comfort stretch for the perfec",
+    "h1": "6 Pack Girls' Tie Dye Fashion Socks",
+    "title": "6 Pack Girls' Tie Dye Fashion Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "daf27c017189"
   },
   "https://www.skechers.com/6-pack-large-core-crew-socks/Z118220.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/6-pack-large-core-crew-socks/Z118220_WHT.html",
+    "description": "Free Shipping with our free loyalty program. Fix up your sock drawer with style and comfort wearing Skechers 6 Pack Large Core Crew Socks. Poly blend fabric in a crew length sport casual comfort sock.",
+    "h1": "6 Pack Large Core Crew Socks",
+    "title": "6 Pack Large Core Crew Socks"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "194305927414"
   },
   "https://www.skechers.com/6-pack-low-cut-marled-stripe-socks/Z115304.html": {
    "first_seen": "2026-09-25T11:29:53Z",

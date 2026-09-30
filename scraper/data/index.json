@@ -3,28 +3,44 @@
   {
    "competitors": [
     {
+     "asset_types": {
+      "/a": "blog",
+      "/launch": "product",
+      "/t": "product",
+      "/w": "category"
+     },
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-30T05:07:22Z",
-     "last_counts": {
-      "added": 17,
-      "removed": 3
-     },
+     "exclude": [
+      "/careers",
+      "/privacy",
+      "/terms",
+      "/retail",
+      "/size-fit"
+     ],
+     "excluded_urls": 2570,
+     "last_checked": "2026-09-30T05:14:49Z",
+     "last_counts": {},
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 14099
+     "total_urls": 11540
     },
     {
+     "asset_types": {},
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.newbalance.co.il/en",
-     "last_checked": "2026-09-30T05:07:22Z",
-     "last_counts": {
-      "updated": 1
-     },
+     "exclude": [
+      "/careers",
+      "/privacy",
+      "/terms"
+     ],
+     "excluded_urls": 0,
+     "last_checked": "2026-09-30T05:14:49Z",
+     "last_counts": {},
      "name": "New Balance",
      "notes": [],
      "sitemap_errors": [],
@@ -34,9 +50,16 @@
      "total_urls": 227
     },
     {
+     "asset_types": {},
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.asics.com/us/en-us",
-     "last_checked": "2026-09-30T05:07:22Z",
+     "exclude": [
+      "/careers",
+      "/privacy",
+      "/terms"
+     ],
+     "excluded_urls": 0,
+     "last_checked": "2026-09-30T05:14:49Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -49,19 +72,23 @@
      "total_urls": 11931
     },
     {
+     "asset_types": {},
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.reebok.com",
-     "last_checked": "2026-09-30T05:07:22Z",
+     "exclude": [
+      "/careers",
+      "/privacy",
+      "/terms"
+     ],
+     "excluded_urls": 0,
+     "last_checked": "2026-09-30T05:14:49Z",
      "last_counts": {
-      "added": 8,
-      "removed": 7,
-      "seo_changed": 2,
-      "updated": 5691
+      "keyword_hits": 117,
+      "seo_changed": 1,
+      "updated": 1333
      },
      "name": "Reebok",
-     "notes": [
-      "Only the first 2000 events of each type were logged. The totals are still exact"
-     ],
+     "notes": [],
      "sitemap_errors": [],
      "sitemaps_fetched": 8,
      "slug": "reebok",
@@ -69,15 +96,17 @@
      "total_urls": 6027
     },
     {
+     "asset_types": {},
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.skechers.com",
-     "last_checked": "2026-09-30T05:07:22Z",
-     "last_counts": {
-      "added": 24,
-      "removed": 32,
-      "seo_changed": 24,
-      "updated": 50
-     },
+     "exclude": [
+      "/careers",
+      "/privacy",
+      "/terms"
+     ],
+     "excluded_urls": 0,
+     "last_checked": "2026-09-30T05:14:49Z",
+     "last_counts": {},
      "name": "Skechers",
      "notes": [],
      "sitemap_errors": [],
@@ -88,9 +117,15 @@
     }
    ],
    "id": "client-a",
+   "keywords": [
+    "running",
+    "basketball",
+    "pickleball",
+    "jordan"
+   ],
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-30T05:07:22Z",
+ "generated_at": "2026-09-30T05:14:49Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

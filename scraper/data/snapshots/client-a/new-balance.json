@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-09-30T05:07:22Z",
+  "last_run": "2026-09-30T05:14:49Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -876,39 +876,147 @@
   },
   "https://www.newbalance.co.il/en/shop/Retro": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-13T06:09:08+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-13T06:09:08+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Retro",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Retro Sneakers, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Retro Sneakers",
+    "title": "Retro Sneakers - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "4984bcce9e8e"
   },
   "https://www.newbalance.co.il/en/shop/Running": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Running, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "3223c041b10f"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/Distance",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על DISTANCE, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "DISTANCE",
+    "title": "DISTANCE - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "8e9e812b6a17"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance/Long_distance_run": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/Distance/Long_distance_run",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Long distance run (Half marathons and beyond), צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Long distance run (Half marathons and beyond)",
+    "title": "Long distance run (Half marathons and beyond) - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "830bfc643e7e"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance/Mid_distance_run": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/Distance/Mid_distance_run",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Mid distance run (5ks to half marathons), צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Mid distance run (5ks to half marathons)",
+    "title": "Mid distance run (5ks to half marathons) - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "4207580a6df5"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance/Short_distance_run": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/Distance/Short_distance_run",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Short distance run (Up to 5k), צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Short distance run (Up to 5k)",
+    "title": "Short distance run (Up to 5k) - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "ab1ca8e07474"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-findyourperfectrunningshoe": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2024-03-31T10:28:15+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2024-03-31T10:28:15+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-findyourperfectrunningshoe",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Find your perfect running shoe, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Find your perfect running shoe",
+    "title": "Find your perfect running shoe - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "c89d48602d17"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-men": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-men",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shop men, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shop men",
+    "title": "Shop men - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "c8571cad1a8f"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOP BY COLLECTION, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOP BY COLLECTION",
+    "title": "SHOP BY COLLECTION - New Balance"
+   },
+   "seo_checked": "2026-09-30T05:14:49Z",
+   "seo_hash": "262a71a68539"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/800series": {
    "first_seen": "2026-09-25T11:29:53Z",
