@@ -21,7 +21,9 @@ The first scan of a competitor only captures a baseline. Changes start showing u
 
 ## Adding competitors
 
-Edit `clients.yaml`:
+**From the dashboard:** click **Settings** to edit the current client's competitors, keywords and ignored paths, or open the client picker and choose **+ New client**. Saving commits `clients.yaml` through the GitHub API and starts a scan for that client. The first time, the dashboard asks for a fine-grained GitHub token limited to this repo, with **Contents** and **Actions** set to read and write. The token is kept only in that browser. `clients.yaml` is written in JSON style (which is valid YAML) so the dashboard can read it, so keep that style if you edit it by hand.
+
+**By hand:** edit `clients.yaml`:
 
 ```yaml
 clients:

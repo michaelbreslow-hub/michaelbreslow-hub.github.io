@@ -1,46 +1,69 @@
 # Which clients and competitors to track.
 # Use codenames for clients, since this repo is public.
 #
-# Optional settings (all can be left out):
-#   keywords:     topics this client cares about. Any added, removed or changed page
-#                 whose URL, title or H1 contains one gets flagged as a keyword alert.
-#   exclude:      paths to ignore. At client level they apply to every competitor;
-#                 under a competitor they apply to that site only. '/careers' ignores
-#                 /careers and everything under it; '*' is a wildcard ('*/jobs/*').
-#                 Paths are relative to the competitor's domain path.
-#   asset_types:  per competitor, tells the content-type report what a folder holds
-#                 when the URL doesn't say (e.g. Nike's articles live under /a).
-#                 Types: webinar, whitepaper, case_study, podcast, video, event, news,
-#                 blog, resource, docs, careers, legal, product, category, other.
-
-clients:
-  - id: client-a
-    name: Client A
-    keywords:
-      - running
-      - basketball
-      - pickleball
-      - jordan
-    exclude:
-      - /careers
-      - /privacy
-      - /terms
-    competitors:
-      - name: Nike
-        domain: www.nike.com/il
-        exclude:
-          - /retail        # store-locator pages
-          - /size-fit      # size charts
-        asset_types:
-          /a: blog         # Nike articles, e.g. /a/what-is-cadence-running
-          /t: product
-          /w: category
-          /launch: product
-      - name: New Balance
-        domain: www.newbalance.co.il/en
-      - name: Asics
-        domain: www.asics.com/us/en-us
-      - name: Reebok
-        domain: www.reebok.com
-      - name: Skechers
-        domain: www.skechers.com
+# You can edit this from the dashboard (Settings) or by hand. It's written in
+# JSON style, which is valid YAML, so the dashboard can read and save it.
+# Keep full-line comments only, at the top.
+#
+# Optional settings per client:
+#   keywords:  topics the client cares about. Pages added, removed or changed
+#              with one of them in the URL, title or H1 become keyword alerts.
+#   exclude:   paths to ignore on every competitor ('/careers' covers everything
+#              under it; '*' is a wildcard, e.g. '*/jobs/*').
+# Optional settings per competitor:
+#   exclude:      paths to ignore on that site only.
+#   asset_types:  what a folder holds when the URL doesn't say, e.g. {"/a": "blog"}.
+#                 Types: webinar, whitepaper, case_study, podcast, video, event,
+#                 news, blog, resource, docs, careers, legal, product, category, other.
+#   sitemaps:     sitemap URLs to use instead of discovering them.
+{
+  "clients": [
+    {
+      "id": "client-a",
+      "name": "Client A",
+      "keywords": [
+        "running",
+        "basketball",
+        "pickleball",
+        "jordan"
+      ],
+      "exclude": [
+        "/careers",
+        "/privacy",
+        "/terms"
+      ],
+      "competitors": [
+        {
+          "name": "Nike",
+          "domain": "www.nike.com/il",
+          "exclude": [
+            "/retail",
+            "/size-fit"
+          ],
+          "asset_types": {
+            "/a": "blog",
+            "/t": "product",
+            "/w": "category",
+            "/launch": "product"
+          }
+        },
+        {
+          "name": "New Balance",
+          "domain": "www.newbalance.co.il/en"
+        },
+        {
+          "name": "Asics",
+          "domain": "www.asics.com/us/en-us"
+        },
+        {
+          "name": "Reebok",
+          "domain": "www.reebok.com"
+        },
+        {
+          "name": "Skechers",
+          "domain": "www.skechers.com"
+        }
+      ]
+    }
+  ]
+}

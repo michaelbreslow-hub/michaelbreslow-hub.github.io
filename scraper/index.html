@@ -301,6 +301,8 @@ details.grp > summary:hover { background: var(--wash); border-radius: 8px; }
 .empty-state p { margin: 0 auto; max-width: 52ch; font-size: 14px; }
 .banner { display: flex; gap: 10px; align-items: flex-start; padding: 12px 14px; border-radius: 12px; margin: 18px 0 0; font-size: 14px; background: color-mix(in srgb, var(--critical) 10%, var(--card)); border: 1px solid color-mix(in srgb, var(--critical) 30%, transparent); }
 .banner svg { color: var(--critical-ink); flex: none; margin-top: 2px; }
+.banner.ok { background: var(--accent-wash); border-color: transparent; }
+.banner.ok svg { color: var(--good-ink); }
 .skel { background: linear-gradient(90deg, var(--card-2), var(--wash), var(--card-2)); background-size: 200% 100%; animation: sh 1.4s infinite linear; border-radius: 8px; }
 @keyframes sh { to { background-position: -200% 0; } }
 .toast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); background: var(--ink); color: var(--card); padding: 8px 14px; border-radius: 10px; font-size: 13.5px; opacity: 0; transition: opacity .2s, transform .2s; pointer-events: none; z-index: 50; }
@@ -443,6 +445,44 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
 .fchip { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 6px 0 11px; border-radius: 999px; background: var(--accent-wash); color: var(--accent-ink); font-size: 13px; font-weight: 600; border: 0; cursor: pointer; }
 .fchip span.x { width: 18px; height: 18px; border-radius: 50%; display: grid; place-items: center; background: rgba(0,0,0,.08); }
 
+/* client picker */
+.picker { position: relative; }
+.picker-btn { display: inline-flex; align-items: center; min-width: 150px; text-align: left; }
+.picker-pop { position: absolute; right: 0; top: calc(100% + 6px); z-index: 30; width: 280px; max-width: calc(100vw - 32px); background: var(--card); color: var(--ink); border: 1px solid var(--ring-strong); border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,.18); padding: 8px; }
+.picker-pop input { width: 100%; height: 34px; border-radius: 8px; border: 1px solid var(--ring-strong); background: var(--card); padding: 0 10px; }
+.picker-pop ul { list-style: none; margin: 6px 0; padding: 0; max-height: 260px; overflow: auto; }
+.picker-pop li button { all: unset; box-sizing: border-box; display: flex; justify-content: space-between; gap: 8px; width: 100%; padding: 8px 10px; border-radius: 8px; cursor: pointer; font-size: 14px; }
+.picker-pop li button:hover, .picker-pop li button:focus-visible, .picker-pop li button.cur { background: var(--wash); }
+.picker-pop li button small { color: var(--ink-3); white-space: nowrap; }
+.picker-pop .none { padding: 8px 10px; color: var(--ink-3); font-size: 13.5px; }
+.picker-new { all: unset; box-sizing: border-box; width: 100%; padding: 8px 10px; border-radius: 8px; cursor: pointer; font-size: 14px; font-weight: 600; color: var(--accent-ink); border-top: 1px solid var(--grid); }
+.picker-new:hover, .picker-new:focus-visible { background: var(--accent-wash); }
+
+/* settings dialog */
+dialog.settings { width: min(720px, calc(100vw - 24px)); max-height: calc(100vh - 40px); border: 0; border-radius: var(--radius); padding: 0; background: var(--card); color: var(--ink); box-shadow: 0 24px 60px rgba(0,0,0,.3); }
+dialog.settings::backdrop { background: rgba(0,0,0,.45); }
+.set-h { display: flex; align-items: center; gap: 10px; padding: 18px 22px 12px; border-bottom: 1px solid var(--grid); }
+.set-h h2 { margin: 0; font-size: 19px; font-family: var(--display); font-weight: 750; }
+.set-h .x { margin-left: auto; }
+.set-b { padding: 16px 22px; overflow: auto; max-height: calc(100vh - 190px); }
+.set-f { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 12px 22px 16px; border-top: 1px solid var(--grid); }
+.set-f .msg { flex: 1 1 200px; font-size: 13px; color: var(--ink-2); }
+.set-f .msg.err { color: var(--critical-ink); }
+.fld { display: grid; gap: 4px; margin-bottom: 14px; }
+.fld > span { font-size: 12.5px; font-weight: 600; color: var(--ink-2); }
+.fld small { color: var(--ink-3); font-size: 12px; }
+.fld input, .crow input { height: 36px; border-radius: 9px; border: 1px solid var(--ring-strong); background: var(--card); padding: 0 10px; width: 100%; min-width: 0; }
+.crows { display: grid; gap: 8px; margin: 6px 0 8px; }
+.crow { display: grid; grid-template-columns: 22px minmax(0,1fr) minmax(0,1.3fr) minmax(0,1.1fr) 34px; gap: 8px; align-items: center; }
+.crow .num { font-size: 12px; color: var(--ink-3); text-align: center; font-variant-numeric: tabular-nums; }
+.crow-head { font-size: 12px; font-weight: 600; color: var(--ink-3); }
+@media (max-width: 640px) { .crow { grid-template-columns: minmax(0,1fr) minmax(0,1fr) 34px; } .crow .num, .crow .ign, .crow-head .ign, .crow-head .num { display: none; } }
+.set-note { font-size: 13px; color: var(--ink-2); background: var(--card-2); border-radius: 10px; padding: 10px 12px; margin: 0 0 14px; }
+.set-note ol { margin: 6px 0 0; padding-left: 20px; }
+.set-note li { margin: 3px 0; }
+.linkbtn { all: unset; cursor: pointer; font-size: 13px; color: var(--ink-3); text-decoration: underline; text-underline-offset: 2px; }
+.linkbtn:hover { color: var(--ink); }
+
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
 @media (forced-colors: active) { .swatch, .pill .dot, .row .ti { forced-color-adjust: none; } }
 </style>
@@ -455,8 +495,17 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
       <span class="divider" aria-hidden="true"></span>
       <div class="product">Competitor Watch<small>Sitemap &amp; SEO change tracking</small></div>
     </div>
-    <label class="sr-only" for="client">Client</label>
-    <select id="client" class="select" aria-label="Client"></select>
+    <div class="picker" id="picker">
+      <button type="button" class="select picker-btn" id="client-btn" aria-haspopup="dialog" aria-expanded="false" aria-label="Client"><span id="client-name">Client</span></button>
+      <div class="picker-pop" id="picker-pop" hidden>
+        <input id="client-q" type="search" placeholder="Search clients…" autocomplete="off" aria-label="Search clients">
+        <ul id="client-list"></ul>
+        <button type="button" class="picker-new" id="client-new">+ New client</button>
+      </div>
+    </div>
+    <button class="btn" id="settings-btn" type="button" title="Edit this client's competitors, keywords and ignored paths">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg><span>Settings</span>
+    </button>
     <span class="updated" id="updated"></span>
     <a class="btn cta" id="runs-link" href="#" target="_blank" rel="noopener noreferrer" title="Open GitHub Actions to run a scan now or view past runs">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg><span>Run a scan</span>
@@ -574,6 +623,11 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
     <div class="fine"><a href="https://wadidigital.com/" target="_blank" rel="noopener noreferrer">wadidigital.com</a></div>
   </div>
 </footer>
+<dialog class="settings" id="settings" aria-labelledby="set-title">
+  <div class="set-h"><h2 id="set-title">Settings</h2><button type="button" class="btn icon x" id="set-close" aria-label="Close">×</button></div>
+  <div class="set-b" id="set-body"></div>
+  <div class="set-f" id="set-foot"></div>
+</dialog>
 <div class="tooltip" id="tt" role="status" aria-hidden="true"></div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
@@ -884,9 +938,7 @@ function pathOf(url) {
 
 // ---------------------------------------------------------------- render: header & filters
 function renderHeader() {
-  const sel = $("client");
-  sel.replaceChildren(...state.index.clients.map(c => h("option", { value: c.id }, c.name)));
-  sel.value = state.client.id;
+  $("client-name").textContent = state.client.name;
   const up = $("updated");
   renderUpdated();
   const repo = state.index.repo || "";
@@ -1479,6 +1531,254 @@ function exportCSV() {
   toast(`Exported ${fmt(rows.length)} rows`);
 }
 
+// ---------------------------------------------------------------- client picker
+async function selectClient(id) {
+  store.set("cw:client", id);
+  state.comp = "all"; state.shown = PAGE_SIZE; state.asset = null; state.kw = null;
+  try { await loadClient(id); } catch (err) { banner("Some data failed to load.", err.message); }
+  renderHeader(); update();
+}
+function setupPicker() {
+  const btn = $("client-btn"), pop = $("picker-pop"), q = $("client-q");
+  const close = () => { pop.hidden = true; btn.setAttribute("aria-expanded", "false"); };
+  const renderList = () => {
+    const words = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const list = state.index.clients.filter(c => {
+      const hay = [c.name, c.id, ...(c.competitors || []).map(x => x.name)].join(" ").toLowerCase();
+      return words.every(w => hay.includes(w));
+    });
+    $("client-list").replaceChildren(...(list.length ? list.map(c => h("li", null, h("button", {
+        type: "button", class: c.id === state.client.id ? "cur" : null,
+        onclick: () => { close(); if (c.id !== state.client.id) selectClient(c.id); },
+      }, h("span", null, c.name), h("small", null, `${(c.competitors || []).length} competitor${(c.competitors || []).length === 1 ? "" : "s"}`))))
+      : [h("li", { class: "none" }, "No clients match")]));
+  };
+  btn.addEventListener("click", () => {
+    if (!pop.hidden) return close();
+    pop.hidden = false; btn.setAttribute("aria-expanded", "true");
+    q.value = ""; renderList(); q.focus();
+  });
+  q.addEventListener("input", renderList);
+  q.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); $("client-list").querySelector("button")?.click(); }
+    if (e.key === "Escape") { close(); btn.focus(); }
+    if (e.key === "ArrowDown") { e.preventDefault(); $("client-list").querySelector("button")?.focus(); }
+  });
+  $("client-new").addEventListener("click", () => { close(); openSettings("new"); });
+  document.addEventListener("click", (e) => { if (!pop.hidden && !$("picker").contains(e.target)) close(); });
+}
+
+// ---------------------------------------------------------------- settings (saves clients.yaml through the GitHub API)
+// The dashboard is a static page, so edits are saved as a commit to scraper/clients.yaml
+// using a GitHub access key that each editor pastes once. The key stays in their browser.
+const CONFIG_PATH = "scraper/clients.yaml";
+const MAX_COMPS = 5;
+const repoName = () => state.index.repo || "michaelbreslow-hub/michaelbreslow-hub.github.io";
+const ghToken = () => store.get("cw:ghToken");
+async function gh(path, opts = {}) {
+  const res = await fetch(`https://api.github.com/repos/${repoName()}${path}`, {
+    ...opts,
+    cache: "no-store",
+    headers: { Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28", Authorization: `Bearer ${ghToken()}`,
+      ...(opts.body ? { "Content-Type": "application/json" } : {}) },
+  });
+  if (!res.ok) {
+    let msg = ""; try { msg = (await res.json()).message || ""; } catch { /* no body */ }
+    const err = new Error(msg || `HTTP ${res.status}`); err.status = res.status; throw err;
+  }
+  return res.status === 204 ? null : res.json();
+}
+const b64decode = (s) => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\s/g, "")), c => c.charCodeAt(0)));
+function b64encode(text) {
+  let bin = ""; for (const b of new TextEncoder().encode(text)) bin += String.fromCharCode(b);
+  return btoa(bin);
+}
+function parseConfigText(text) {
+  const lines = text.split("\n"); let i = 0;
+  while (i < lines.length && (lines[i].startsWith("#") || !lines[i].trim())) i++;
+  const header = lines.slice(0, i).join("\n").replace(/\s+$/, "");
+  try { return { header, data: JSON.parse(lines.slice(i).join("\n")) }; }
+  catch { throw new Error("clients.yaml was edited by hand in a format the dashboard can't read. Keep it in the JSON style it uses now, or fix it on GitHub."); }
+}
+async function loadRemoteConfig() {
+  const f = await gh(`/contents/${CONFIG_PATH}?ref=main`);
+  return { sha: f.sha, ...parseConfigText(b64decode(f.content)) };
+}
+const slugify = (t) => (String(t).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "")) || "site";
+const splitList = (v) => String(v || "").split(/[,\n]/).map(x => x.trim()).filter(Boolean);
+function cleanDomain(v) {
+  let d = String(v || "").trim().replace(/^https?:\/\//i, "").replace(/[?#].*$/, "").replace(/\/+$/, "");
+  return d;
+}
+
+let settingsCtx = null;
+function setMsg(text, isErr) {
+  const m = $("set-foot").querySelector(".msg");
+  if (m) { m.textContent = text || ""; m.classList.toggle("err", !!isErr); }
+}
+function openSettings(mode) {
+  settingsCtx = { mode };
+  const dlg = $("settings");
+  if (!dlg.open) dlg.showModal();
+  $("set-title").textContent = mode === "new" ? "New client" : `Settings · ${state.client.name}`;
+  if (!ghToken()) return renderKeyStep();
+  renderLoading();
+  loadRemoteConfig().then(cfg => { settingsCtx.cfg = cfg; renderSettingsForm(); }).catch(err => {
+    if (err.status === 401) { store.set("cw:ghToken", ""); return renderKeyStep("That access key didn't work (it may have expired). Please add a new one."); }
+    if (err.status === 404 || err.status === 403) return renderKeyStep(`Your key can't open ${repoName()}. Make sure the repository is selected and Contents is set to “Read and write”.`);
+    renderLoading(err.message, true);
+  });
+}
+function renderLoading(text, isErr) {
+  $("set-body").replaceChildren(h("p", { style: `margin:8px 0;color:var(--${isErr ? "critical-ink" : "ink-2"})` }, text || "Loading the current settings from GitHub…"));
+  $("set-foot").replaceChildren(h("span", { class: "msg" }), h("button", { type: "button", class: "btn", onclick: () => $("settings").close() }, "Close"));
+}
+function renderKeyStep(problem) {
+  const repo = repoName();
+  const input = h("input", { type: "password", id: "gh-key", placeholder: "github_pat_…", autocomplete: "off", spellcheck: "false" });
+  $("set-body").replaceChildren(
+    problem ? h("p", { class: "set-note", style: "color:var(--critical-ink)" }, problem) : null,
+    h("div", { class: "set-note" },
+      h("b", null, "One-time setup: add a GitHub access key"),
+      h("div", { style: "margin-top:4px" }, "Saving settings updates the tracker's settings file on GitHub, so the dashboard needs a key. It's stored only in this browser. People without a key can still view the dashboard."),
+      h("ol", null,
+        h("li", null, h("a", { href: "https://github.com/settings/personal-access-tokens/new", target: "_blank", rel: "noopener noreferrer" }, "Open GitHub’s new-token page"), " (fine-grained token)."),
+        h("li", null, "Name it “Competitor Watch”. Under ", h("b", null, "Repository access"), " choose ", h("b", null, "Only select repositories"), " → ", h("code", null, repo.split("/")[1]), "."),
+        h("li", null, "Under ", h("b", null, "Permissions"), " set ", h("b", null, "Contents"), " and ", h("b", null, "Actions"), " to ", h("b", null, "Read and write"), "."),
+        h("li", null, "Click ", h("b", null, "Generate token"), ", copy it and paste it below."))),
+    h("label", { class: "fld" }, h("span", null, "GitHub access key"), input));
+  $("set-foot").replaceChildren(h("span", { class: "msg" }),
+    h("button", { type: "button", class: "btn", onclick: () => $("settings").close() }, "Cancel"),
+    h("button", { type: "button", class: "btn primary", onclick: () => {
+      const v = input.value.trim();
+      if (!v) return setMsg("Paste the key first.", true);
+      store.set("cw:ghToken", v);
+      if (!ghToken()) return setMsg("This browser won't let the page store the key (private window?).", true);
+      openSettings(settingsCtx.mode);
+    } }, "Save key"));
+  setTimeout(() => input.focus(), 30);
+}
+function compRow(c, i) {
+  const row = h("div", { class: "crow", "data-orig": c._orig == null ? "" : String(c._orig) },
+    h("span", { class: "num" }, String(i + 1)),
+    h("input", { class: "c-name", value: c.name || "", placeholder: "Name, e.g. Hoka", "aria-label": `Competitor ${i + 1} name` }),
+    h("input", { class: "c-domain", value: c.domain || "", placeholder: "Domain, e.g. www.hoka.com", "aria-label": `Competitor ${i + 1} domain`, spellcheck: "false" }),
+    h("input", { class: "c-excl ign", value: (c.exclude || []).join(", "), placeholder: "Ignore paths (optional)", "aria-label": `Competitor ${i + 1} paths to ignore`, spellcheck: "false" }),
+    h("button", { type: "button", class: "iconbtn", title: "Remove this competitor", "aria-label": `Remove competitor ${i + 1}`, onclick: () => { row.remove(); renumber(); } }, "×"));
+  return row;
+}
+function renumber() {
+  const rows = [...$("set-body").querySelectorAll(".crow:not(.crow-head)")];
+  rows.forEach((r, i) => { r.querySelector(".num").textContent = String(i + 1); });
+  const add = $("add-comp"); if (add) { add.disabled = rows.length >= MAX_COMPS; add.textContent = rows.length >= MAX_COMPS ? `Maximum of ${MAX_COMPS} competitors` : "+ Add competitor"; }
+}
+function renderSettingsForm() {
+  const { mode, cfg } = settingsCtx;
+  const existing = mode === "edit" ? (cfg.data.clients || []).find(c => c.id === state.client.id) : null;
+  if (mode === "edit" && !existing) return renderLoading(`${state.client.name} isn't in the settings file any more. Refresh the page.`, true);
+  const cl = existing || { name: "", competitors: [], keywords: [], exclude: [] };
+  const comps = (cl.competitors || []).map((c, i) => ({ ...c, _orig: i }));
+  if (!comps.length) comps.push({});
+  const rows = h("div", { class: "crows" },
+    h("div", { class: "crow crow-head", "aria-hidden": "true" }, h("span", { class: "num" }, "#"), h("span", null, "Name"), h("span", null, "Domain"), h("span", { class: "ign" }, "Paths to ignore"), h("span")),
+    comps.map(compRow));
+  $("set-body").replaceChildren(
+    h("label", { class: "fld" }, h("span", null, "Client name"),
+      h("input", { id: "s-name", value: cl.name || "", placeholder: "e.g. Client B" }),
+      h("small", null, "This repo is public, so use a codename rather than the real client name.")),
+    h("div", { class: "fld" }, h("span", null, `Competitors (up to ${MAX_COMPS})`),
+      h("small", null, "To replace a competitor, type the new name and domain over the old one. Add a path to track only one section, e.g. www.nike.com/il."),
+      rows,
+      h("div", null, h("button", { type: "button", class: "btn", id: "add-comp", onclick: () => {
+        const n = $("set-body").querySelectorAll(".crow:not(.crow-head)").length;
+        if (n >= MAX_COMPS) return;
+        const r = compRow({}, n); rows.append(r); renumber(); r.querySelector(".c-name").focus();
+      } }, "+ Add competitor"))),
+    h("label", { class: "fld" }, h("span", null, "Keywords for alerts"),
+      h("input", { id: "s-kw", value: (cl.keywords || []).join(", "), placeholder: "e.g. running, pickleball, gore-tex" }),
+      h("small", null, "Separate with commas. Pages added, removed or changed with one of these in the URL, title or H1 get flagged.")),
+    h("label", { class: "fld" }, h("span", null, "Paths to ignore on every competitor"),
+      h("input", { id: "s-excl", value: (cl.exclude || []).join(", "), placeholder: "e.g. /careers, /privacy, */jobs/*", spellcheck: "false" }),
+      h("small", null, "Separate with commas. /careers also covers everything under it; * is a wildcard.")));
+  renumber();
+  $("set-foot").replaceChildren(
+    h("span", { class: "msg" }, "Saving starts a scan for this client. New competitors show up in about 5 minutes."),
+    h("button", { type: "button", class: "linkbtn", title: "Remove the GitHub key from this browser", onclick: () => { store.set("cw:ghToken", ""); renderKeyStep(); } }, "Forget key"),
+    h("button", { type: "button", class: "btn", onclick: () => $("settings").close() }, "Cancel"),
+    h("button", { type: "button", class: "btn primary", id: "s-save", onclick: saveSettings }, mode === "new" ? "Create & scan" : "Save & scan"));
+  setTimeout(() => (mode === "new" ? $("s-name") : $("set-body").querySelector(".c-name"))?.focus(), 30);
+}
+function collectForm() {
+  const { mode, cfg } = settingsCtx;
+  const name = $("s-name").value.trim();
+  if (!name) throw new Error("Give the client a name.");
+  const existing = mode === "edit" ? cfg.data.clients.find(c => c.id === state.client.id) : null;
+  const id = existing ? existing.id : slugify(name);
+  if (!/^[a-z0-9][a-z0-9-]*$/.test(id)) throw new Error("The client name needs at least one letter or number.");
+  if (!existing && cfg.data.clients.some(c => c.id === id)) throw new Error(`There's already a client called “${name}”.`);
+  const comps = [], slugs = new Set();
+  for (const r of $("set-body").querySelectorAll(".crow:not(.crow-head)")) {
+    const cname = r.querySelector(".c-name").value.trim();
+    const domain = cleanDomain(r.querySelector(".c-domain").value);
+    const excl = splitList(r.querySelector(".c-excl").value);
+    if (!cname && !domain) continue;
+    if (!domain) throw new Error(`Add a domain for ${cname}.`);
+    if (!/^[^\s/]+\.[^\s/]+(\/\S*)?$/.test(domain)) throw new Error(`“${domain}” doesn't look like a domain. Use something like www.example.com.`);
+    const display = cname || domain.split("/")[0].replace(/^www\./, "");
+    const orig = r.dataset.orig !== "" && existing ? existing.competitors[+r.dataset.orig] : null;
+    // Same site as before: keep its advanced settings. New site: start fresh.
+    const base = orig && cleanDomain(orig.domain) === domain ? { ...orig } : {};
+    const comp = { ...base, name: display, domain };
+    if (excl.length) comp.exclude = excl; else delete comp.exclude;
+    const slug = comp.slug || slugify(display);
+    if (slugs.has(slug)) throw new Error(`Two competitors are called “${display}”. Give them different names.`);
+    slugs.add(slug);
+    comps.push(comp);
+  }
+  if (!comps.length) throw new Error("Add at least one competitor.");
+  if (comps.length > MAX_COMPS) throw new Error(`You can track up to ${MAX_COMPS} competitors per client.`);
+  const client = { ...(existing || {}), id, name, competitors: comps };
+  const kw = splitList($("s-kw").value), ex = splitList($("s-excl").value);
+  if (kw.length) client.keywords = kw; else delete client.keywords;
+  if (ex.length) client.exclude = ex; else delete client.exclude;
+  // Keep a stable key order so diffs on GitHub stay readable.
+  const { id: _i, name: _n, keywords: _k, exclude: _e, competitors: _c, ...rest } = client;
+  return { id, name, isNew: !existing, client: { id, name, ...(client.keywords ? { keywords: client.keywords } : {}), ...(client.exclude ? { exclude: client.exclude } : {}), ...rest, competitors: comps } };
+}
+async function saveSettings() {
+  const btn = $("s-save");
+  let out;
+  try { out = collectForm(); } catch (err) { return setMsg(err.message, true); }
+  const { cfg } = settingsCtx;
+  const data = { ...cfg.data, clients: [...(cfg.data.clients || [])] };
+  const idx = data.clients.findIndex(c => c.id === out.id);
+  if (idx >= 0) data.clients[idx] = out.client; else data.clients.push(out.client);
+  btn.disabled = true; setMsg("Saving to GitHub…");
+  try {
+    const text = (cfg.header ? cfg.header + "\n" : "") + JSON.stringify(data, null, 2) + "\n";
+    await gh(`/contents/${CONFIG_PATH}`, { method: "PUT", body: JSON.stringify({
+      message: `${out.isNew ? "Add client" : "Update settings for"} ${out.name} from the dashboard`,
+      content: b64encode(text), sha: cfg.sha, branch: "main" }) });
+  } catch (err) {
+    btn.disabled = false;
+    if (err.status === 409 || err.status === 422) { setMsg("Someone else changed the settings just now. Reloading them, then try saving again.", true); settingsCtx.cfg = await loadRemoteConfig().catch(() => cfg); return; }
+    if (err.status === 401) { store.set("cw:ghToken", ""); return renderKeyStep("That access key didn't work (it may have expired). Please add a new one."); }
+    if (err.status === 403 || err.status === 404) return setMsg("Your key can't save to this repo. Check that Contents is set to “Read and write”.", true);
+    return setMsg(`Couldn't save: ${err.message}`, true);
+  }
+  setMsg("Saved. Starting a scan…");
+  let scanNote = "A scan is running. Refresh in about 5 minutes to see the changes.";
+  try {
+    await gh(`/actions/workflows/scrape.yml/dispatches`, { method: "POST", body: JSON.stringify({ ref: "main", inputs: { client: out.id } }) });
+  } catch {
+    scanNote = "Couldn't start a scan (the key needs Actions set to “Read and write”), so the changes apply at the next daily scan.";
+  }
+  $("settings").close();
+  toast("Settings saved");
+  $("banner").replaceChildren(h("div", { class: "banner ok", role: "status" },
+    icon("ok", 16), h("div", null, h("b", null, `${out.isNew ? "Client created" : "Settings saved"} for ${out.name}. `), scanNote)));
+}
+
 // ---------------------------------------------------------------- misc UI
 let toastTimer;
 function toast(msg) {
@@ -1565,12 +1865,9 @@ async function boot() {
   update();
   $("app").setAttribute("aria-busy", "false");
 
-  $("client").addEventListener("change", async (e) => {
-    store.set("cw:client", e.target.value);
-    state.comp = "all"; state.shown = PAGE_SIZE;
-    try { await loadClient(e.target.value); } catch (err) { banner("Some data failed to load.", err.message); }
-    renderHeader(); update();
-  });
+  setupPicker();
+  $("settings-btn").addEventListener("click", () => openSettings("edit"));
+  $("set-close").addEventListener("click", () => $("settings").close());
   $("range").addEventListener("click", (e) => {
     const b = e.target.closest("button"); if (!b) return;
     state.range = +b.dataset.v; state.shown = PAGE_SIZE; update();
