@@ -233,9 +233,10 @@ section { margin-bottom: 18px; }
 .search input { width: 100%; height: 34px; border-radius: 9px; border: 1px solid var(--ring-strong); background: var(--card); padding: 0 10px 0 32px; }
 .search svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--ink-3); pointer-events: none; }
 .result-count { font-size: 13px; color: var(--ink-3); margin: 0 0 8px; }
+#feed { max-height: min(720px, 75vh); overflow-y: auto; overscroll-behavior: contain; padding-right: 4px; border-top: 1px solid var(--grid); }
 .day { margin-top: 14px; }
 .day:first-child { margin-top: 0; }
-.day-h { position: sticky; top: 60px; z-index: 2; background: var(--card); display: flex; align-items: baseline; gap: 10px; padding: 6px 0; font-weight: 650; font-size: 14px; border-bottom: 1px solid var(--grid); }
+.day-h { position: sticky; top: 0; z-index: 2; background: var(--card); display: flex; align-items: baseline; gap: 10px; padding: 6px 0; font-weight: 650; font-size: 14px; border-bottom: 1px solid var(--grid); }
 .day-h .meta { font-weight: 450; color: var(--ink-3); font-size: 12.5px; }
 details.grp { border-bottom: 1px solid var(--grid); }
 details.grp > summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 9px 2px; font-size: 13.5px; }
@@ -645,7 +646,7 @@ const TYPES = [
 ];
 const TYPE = Object.fromEntries(TYPES.map(t => [t.key, t]));
 const FIELD_LABEL = { title: "Title", description: "Meta desc.", h1: "H1", canonical: "Canonical" };
-const PAGE_SIZE = 120;
+const PAGE_SIZE = 30;
 const SVGNS = "http://www.w3.org/2000/svg";
 // ?data=dev/demo/data points the dashboard at local demo data. Only same-origin relative paths are allowed.
 const DATA_BASE = (() => {
@@ -1443,10 +1444,11 @@ function renderFeed() {
           : [h("h3", null, "All quiet"), h("p", null, `No sitemap changes in the last ${state.range} days. Try a longer range.`)]));
     return;
   }
-  const slice = all.slice(0, state.shown);
+  // Group every matching change by day → competitor + section, show each group as one
+  // collapsed line (new/removed/SEO groups first), and page through groups, not rows.
   const showComp = state.comp === "all" && state.client.competitors.length > 1;
   const byDay = new Map();
-  for (const e of slice) {
+  for (const e of all) {
     const d = dayKey(e.date);
     if (!byDay.has(d)) byDay.set(d, new Map());
     const gk = `${e._comp}|${e.section || "/"}`;
@@ -1454,30 +1456,44 @@ function renderFeed() {
     if (!m.has(gk)) m.set(gk, []);
     m.get(gk).push(e);
   }
-  const dayCounts = {};
-  for (const e of all) { const d = dayKey(e.date); dayCounts[d] = (dayCounts[d] || 0) + 1; }
+  const ROWS_PER_GROUP = 40;
+  const minor = (evs) => evs.every(e => e.type === "updated") ? 1 : 0;
   const out = [];
+  let groupsShown = 0, groupsTotal = 0;
+  for (const g of byDay.values()) groupsTotal += g.size;
   for (const [d, groups] of byDay) {
-    const sorted = [...groups.entries()].sort((a, b) => b[1].length - a[1].length);
-    const multi = sorted.length > 1;
+    if (groupsShown >= state.shown) break;
+    const sorted = [...groups.entries()].sort((a, b) => minor(a[1]) - minor(b[1]) || b[1].length - a[1].length);
+    const dayTotal = sorted.reduce((n, [, evs]) => n + evs.length, 0);
+    const take = sorted.slice(0, state.shown - groupsShown);
+    groupsShown += take.length;
     out.push(h("div", { class: "day" },
-      h("div", { class: "day-h" }, friendlyDay(d), h("span", { class: "meta" }, `${fmt(dayCounts[d])} change${dayCounts[d] === 1 ? "" : "s"}`)),
-      sorted.map(([gk, evs]) => {
+      h("div", { class: "day-h" }, friendlyDay(d), h("span", { class: "meta" }, `${fmt(dayTotal)} change${dayTotal === 1 ? "" : "s"} · ${sorted.length} group${sorted.length === 1 ? "" : "s"}`)),
+      take.map(([gk, evs]) => {
         const [slug, sec] = gk.split("|");
         const tc = {}; for (const e of evs) tc[e.type] = (tc[e.type] || 0) + 1;
-        const open = !multi || evs.length <= 8 || sorted.length <= 2;
-        return h("details", { class: "grp", open },
+        const det = h("details", { class: "grp", open: sorted.length === 1 && evs.length <= 5 },
           h("summary", null, icon("chev", 14, 2.4),
             h("span", { class: "sec" }, sec),
             showComp ? h("span", { class: "who" }, `· ${compBySlug(slug)?.name || slug}`) : null,
             h("span", { class: "mini" }, TYPES.filter(t => tc[t.key]).map(t => h("span", { style: "display:inline-flex;align-items:center;gap:4px" },
-              h("span", { class: "swatch", style: `background:${t.color};width:7px;height:7px;border-radius:50%` }), `${tc[t.key]} ${t.plural}`)))),
-          evs.map(e => eventRow(e, false)));
+              h("span", { class: "swatch", style: `background:${t.color};width:7px;height:7px;border-radius:50%` }), `${fmt(tc[t.key])} ${t.plural}`)))));
+        // Rows are built when a group is opened, so big groups don't slow the page.
+        const fill = () => {
+          if (det.dataset.filled) return; det.dataset.filled = "1";
+          const ordered = evs.slice().sort((x, y) => (TYPE_ORDER[x.type] ?? 9) - (TYPE_ORDER[y.type] ?? 9));
+          det.append(...ordered.slice(0, ROWS_PER_GROUP).map(e => eventRow(e, false)));
+          if (evs.length > ROWS_PER_GROUP) det.append(h("p", { class: "result-count", style: "margin:6px 4px 10px" },
+            `Showing ${ROWS_PER_GROUP} of ${fmt(evs.length)}. Search or pick a change type above to narrow it down, or use Export CSV for the full list.`));
+        };
+        if (det.open) fill();
+        det.addEventListener("toggle", () => { if (det.open) fill(); });
+        return det;
       })));
   }
-  if (all.length > state.shown) {
+  if (groupsTotal > groupsShown) {
     out.push(h("div", { class: "more" }, h("button", { type: "button", class: "btn", onclick: () => { state.shown += PAGE_SIZE; renderFeed(); } },
-      `Show ${fmt(Math.min(PAGE_SIZE, all.length - state.shown))} more`, h("span", { style: "color:var(--ink-3)" }, ` · ${fmt(all.length - state.shown)} left`))));
+      `Show ${fmt(Math.min(PAGE_SIZE, groupsTotal - groupsShown))} more groups`, h("span", { style: "color:var(--ink-3)" }, ` · ${fmt(groupsTotal - groupsShown)} left`))));
   }
   feed.replaceChildren(...out);
 }
