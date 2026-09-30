@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-09-30T05:14:49Z",
+  "last_run": "2026-09-30T07:10:04Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -1448,43 +1448,163 @@
   },
   "https://www.nike.com/il/a/ankle-pain-after-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/ankle-pain-after-running",
+    "description": "Plus, learn what causes discomfort in the joint.",
+    "h1": "How to prevent ankle pain after running",
+    "title": "How to prevent ankle pain after running. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "4848734766a5"
   },
   "https://www.nike.com/il/a/ankle-weights-are-back": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/ankle-weights-are-back",
+    "description": "Can this ’80s fitness accessory improve your workout? Read what the ankle weight experts have to say!",
+    "h1": "The Return of the Ankle Weight",
+    "title": "Ankle Weights Are Back. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "44a25b99a4cd"
   },
   "https://www.nike.com/il/a/anna-kessel-journalist-on-women-sport": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/anna-kessel-journalist-on-women-sport",
+    "description": "Anna Kessel, the author of Eat Sweat Play and a journalist who’s written for The Guardian, The Daily Telegraph and The Observer, has spent her career fighting against sexism in sport. Learn about the history of women's sports, societal barriers to entry, how the media often portrays female athletes ",
+    "h1": "Trained Podcast: Elevate Women in Sports With Anna Kessel",
+    "title": "Journalist Anna Kessel on Women in Sports and Fitness. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "9fb567864b92"
   },
   "https://www.nike.com/il/a/arch-support-inserts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/arch-support-inserts",
+    "description": "Looking for extra arch support or cushioning in your shoes? Here’s what podiatrists say to bear in mind if you’re considering arch support inserts.",
+    "h1": "How to Choose Arch Support Inserts, According to Podiatrists",
+    "title": "How to Choose Arch Support Inserts, According to Podiatrists. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "77a417924c91"
   },
   "https://www.nike.com/il/a/are-eggs-good-for-me": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/are-eggs-good-for-me",
+    "description": "The latest research and expert intel, on the good, the not-so-good, and the best way to incorporate eggs into your training diet.",
+    "h1": "How Healthy Are Eggs, Really?",
+    "title": "Are Eggs Good For Me?. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "48b11e9a4bc8"
   },
   "https://www.nike.com/il/a/are-naps-good-for-you": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/are-naps-good-for-you",
+    "description": "Sleep specialists offer the possible benefits of naps as well as provide insight into how long a nap should be so that you don't hinder sleep quality at bedtime.",
+    "h1": "Are Naps Good for You? Experts Explain",
+    "title": "Are Naps Good for You? Experts Explain. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "fa57029311e7"
   },
   "https://www.nike.com/il/a/are-vegan-diets-sustainable": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/are-vegan-diets-sustainable",
+    "description": "New research shows how plant-based runners compare to their omnivore counterparts.",
+    "h1": "Can a Vegan Diet Really Sustain Ambitious Exercisers?",
+    "title": "Is a Vegan Diet Sustainable for Runners?. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "ca46cc6b897f"
   },
   "https://www.nike.com/il/a/are-you-getting-enough-sleep": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/are-you-getting-enough-sleep",
+    "description": "The recovery experts talk sleep and the best way to tell if you're getting enough.",
+    "h1": "Are You Getting Enough Sleep?",
+    "title": "Are You Getting Enough Sleep?. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "8d46c8567077"
   },
   "https://www.nike.com/il/a/arshay-cooper-on-overcoming-adversity-through-sport": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/arshay-cooper-on-overcoming-adversity-through-sport",
+    "description": "When Arshay Cooper joined the Manley High School rowing team, the first all-Black crew team in the country, it changed his life forever. As the author of A Most Beautiful Thing, now an award-winning documentary, he has dedicated his life to helping kids from low-income communities by sharing his sto",
+    "h1": "Trained Podcast: Heal Through Sport With Arshay Cooper",
+    "title": "Rower Arshay Cooper on How Sports Help Overcome Adversity. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "49849a635f63"
   },
   "https://www.nike.com/il/a/asisat-oshoala-football-stories": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/asisat-oshoala-football-stories",
+    "description": "Read about how Asisat Oshoala forged her own path and defied tradition to pursue football, going on to win the prize for best player at a major tournament.",
+    "h1": null,
+    "title": "Football Stories: Asisat Oshoala. Nike IL"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "c61b0b299347"
   },
   "https://www.nike.com/il/a/at-home-hiit-workouts": {
    "first_seen": "2026-09-24T08:34:55Z",

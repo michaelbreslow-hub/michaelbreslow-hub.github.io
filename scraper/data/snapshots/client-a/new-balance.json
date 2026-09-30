@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-09-30T05:14:49Z",
+  "last_run": "2026-09-30T07:10:04Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -1020,39 +1020,147 @@
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/800series": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-07T09:48:17+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-07T09:48:17+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/800series",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 800 Series, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "800 Series",
+    "title": "800 Series - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "a1188786be02"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/freshfoam": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/freshfoam",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Fresh Foam, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Fresh Foam",
+    "title": "Fresh Foam - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "e00d9cfafa68"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/fuelcell": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-04-22T09:52:29+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-04-22T09:52:29+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbycollection/fuelcell",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על FuelCell, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "FuelCell",
+    "title": "FuelCell - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "105d388b92c1"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOP BY STYLE, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "b1cddf796164"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/Ellipse": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/Ellipse",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Ellipse, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Ellipse",
+    "title": "Ellipse - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "15ce2eedc8ec"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20Rebel": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-04-30T06:36:37+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-04-30T06:36:37+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20Rebel",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על FuelCell Rebel, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "FuelCell Rebel",
+    "title": "FuelCell Rebel - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "9aa8c599d2a6"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20SC%20Elite": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-04-30T06:53:29+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-04-30T06:53:29+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20SC%20Elite",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על FuelCell SC Elite, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "FuelCell SC Elite",
+    "title": "FuelCell SC Elite - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "f006e7aa9efe"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20SuperComp%20Trainer": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-04-30T07:02:46+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-04-30T07:02:46+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/FuelCell%20SuperComp%20Trainer",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על FuelCell SC Trainer, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "FuelCell SC Trainer",
+    "title": "FuelCell SC Trainer - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "75ab73fa0e84"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-1080": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-04-30T06:30:03+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-04-30T06:30:03+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-1080",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1080, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1080",
+    "title": "1080 - New Balance"
+   },
+   "seo_checked": "2026-09-30T07:10:04Z",
+   "seo_hash": "bb7dc2af5e17"
   },
   "https://www.newbalance.co.il/en/shop/Running/running-shopbystyle/running-shopbystyle-860": {
    "first_seen": "2026-09-25T11:29:53Z",

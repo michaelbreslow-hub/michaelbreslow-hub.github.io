@@ -19,7 +19,7 @@
       "/size-fit"
      ],
      "excluded_urls": 2570,
-     "last_checked": "2026-09-30T05:14:49Z",
+     "last_checked": "2026-09-30T07:10:04Z",
      "last_counts": {},
      "name": "Nike",
      "notes": [],
@@ -39,7 +39,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-09-30T05:14:49Z",
+     "last_checked": "2026-09-30T07:10:04Z",
      "last_counts": {},
      "name": "New Balance",
      "notes": [],
@@ -59,7 +59,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-09-30T05:14:49Z",
+     "last_checked": "2026-09-30T07:10:04Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -81,14 +81,15 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-09-30T05:14:49Z",
+     "last_checked": "2026-09-30T07:10:04Z",
      "last_counts": {
-      "keyword_hits": 117,
-      "seo_changed": 1,
-      "updated": 1333
+      "keyword_hits": 174,
+      "updated": 2526
      },
      "name": "Reebok",
-     "notes": [],
+     "notes": [
+      "Only the first 2000 events of each type were logged. The totals are still exact"
+     ],
      "sitemap_errors": [],
      "sitemaps_fetched": 8,
      "slug": "reebok",
@@ -105,7 +106,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-09-30T05:14:49Z",
+     "last_checked": "2026-09-30T07:10:04Z",
      "last_counts": {},
      "name": "Skechers",
      "notes": [],
@@ -121,11 +122,12 @@
     "running",
     "basketball",
     "pickleball",
-    "jordan"
+    "jordan",
+    "trail"
    ],
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-30T05:14:49Z",
+ "generated_at": "2026-09-30T07:10:04Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
