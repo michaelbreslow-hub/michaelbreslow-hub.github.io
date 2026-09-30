@@ -38,6 +38,27 @@ clients:
 
 You can track up to 5 competitors per client. Commit the change, then run the workflow or wait for the next daily scan.
 
+## Keywords, ignored paths and content types
+
+All three are optional settings in `clients.yaml`:
+
+```yaml
+clients:
+  - id: client-a
+    keywords: [running, pickleball]   # flag pages with these words in the URL, title or H1
+    exclude: [/careers, /privacy]     # ignore these paths on every competitor
+    competitors:
+      - name: Nike
+        domain: www.nike.com/il
+        exclude: [/retail]            # ignore store-locator pages on this site only
+        asset_types:                  # tell the content-type report what a folder holds
+          /a: blog
+```
+
+- **Keyword alerts.** Pages that are added, removed, retitled or redirected and contain a keyword show up in the Keyword alerts panel and in the AI brief. Matching ignores case and treats dashes, underscores and slashes as spaces, so `air max` matches `/air-max-90`.
+- **Ignored paths.** `/careers` covers `/careers` and everything under it, and `*` is a wildcard (`*/jobs/*`). Paths are relative to the competitor's domain path. Newly ignored pages drop out quietly rather than showing up as "removed", and the dashboard hides their past changes too.
+- **Content types.** Every change is labelled blog, webinar, whitepaper, case study, news, event, product, category and so on, using the rules in `asset_types.json` (URL first, then title and H1). The "What competitors are publishing" panel counts them per competitor.
+
 **Tip:** many global sites (for example Asics or Hoka) publish every country in one sitemap. Add the country or language path to the domain, such as `www.asics.com/us/en-us` or `www.newbalance.co.il/en`. Otherwise the changes mix every locale, and bilingual sites log each change twice.
 
 ## Enabling the AI brief

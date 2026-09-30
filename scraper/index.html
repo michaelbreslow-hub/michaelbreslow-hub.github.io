@@ -403,6 +403,46 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
 .site-footer a { color: #000; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
 .site-footer .fine { font-size: 12.5px; color: #212121; }
 
+/* keyword alerts & content types */
+.kw-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.kw-chip { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--ring-strong); background: var(--card); cursor: pointer; font-size: 13px; color: var(--ink); font-family: var(--display); font-weight: 600; }
+.kw-chip .n { font-variant-numeric: tabular-nums; background: var(--wadi-orange); color: #000; border-radius: 999px; padding: 0 7px; font-size: 12px; line-height: 18px; }
+.kw-chip.zero { color: var(--ink-3); font-weight: 500; }
+.kw-chip.zero .n { background: var(--card-2); color: var(--ink-3); }
+.kw-chip[aria-pressed="true"] { background: var(--ink); color: var(--card); border-color: var(--ink); }
+.kw-list { list-style: none; margin: 0; padding: 0; }
+.kw-list li { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 10px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--grid); font-size: 13.5px; }
+.kw-list li:last-child { border-bottom: 0; }
+.kw-list .type-pill { min-width: 70px; justify-content: center; }
+.kw-list .url { font-family: var(--mono); font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink); }
+.kw-list .meta { font-size: 12.5px; color: var(--ink-3); white-space: nowrap; }
+.tag-kw { display: inline-block; font-size: 11px; font-weight: 700; color: #000; background: var(--wadi-yellow); padding: 1px 6px; border-radius: 5px; margin-left: 6px; vertical-align: 1px; font-family: var(--font); }
+.tag-type { display: inline-block; font-size: 11px; font-weight: 600; color: var(--ink-2); background: var(--card-2); border: 1px solid var(--ring); padding: 0 6px; border-radius: 5px; margin-left: 6px; vertical-align: 1px; font-family: var(--font); }
+.type-pill { display: inline-flex; align-items: center; height: 20px; padding: 0 7px; border-radius: 6px; font-size: 11.5px; font-weight: 600; white-space: nowrap; }
+.ct-table { width: 100%; border-collapse: collapse; font-size: 13.5px; font-variant-numeric: tabular-nums; }
+.ct-table th, .ct-table td { padding: 8px 8px; border-bottom: 1px solid var(--grid); text-align: right; white-space: nowrap; }
+.ct-table th { font-size: 12px; color: var(--ink-3); font-weight: 600; }
+.ct-table th:first-child, .ct-table td:first-child { text-align: left; }
+.ct-table tbody tr { cursor: pointer; }
+.ct-table tbody tr:hover { background: var(--wash); }
+.ct-table tbody tr[aria-selected="true"] { background: var(--accent-wash); }
+.ct-table td.z { color: var(--ink-3); opacity: .55; }
+.ct-table .cell { display: inline-block; min-width: 2.6em; padding: 2px 7px; border-radius: 6px; }
+.ct-table .tot { font-weight: 700; }
+.ct-name { display: flex; align-items: center; gap: 8px; }
+.ct-bar { height: 6px; border-radius: 3px; background: var(--wadi-orange); min-width: 2px; }
+.ct-barwrap { width: 90px; }
+.table-x { overflow-x: auto; }
+.ct-insights { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 14px; }
+.ct-ins { background: var(--card-2); border-radius: 11px; padding: 10px 12px; font-size: 13.5px; }
+.ct-ins .who { font-weight: 650; }
+.ct-ins .what { color: var(--ink-2); }
+.hint { font-size: 13px; color: var(--ink-3); margin: 10px 0 0; }
+.hint code, .kw-empty code { font-size: 12.5px; }
+.kw-empty { font-size: 14px; color: var(--ink-2); margin: 0; }
+.fchip { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 6px 0 11px; border-radius: 999px; background: var(--accent-wash); color: var(--accent-ink); font-size: 13px; font-weight: 600; border: 0; cursor: pointer; }
+.fchip span.x { width: 18px; height: 18px; border-radius: 50%; display: grid; place-items: center; background: rgba(0,0,0,.08); }
+
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
 @media (forced-colors: active) { .swatch, .pill .dot, .row .ti { forced-color-adjust: none; } }
 </style>
@@ -453,6 +493,12 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
     <div class="skel" style="height:14px;width:90%"></div>
   </section>
 
+  <section id="kw" class="card card-pad" aria-labelledby="kw-h">
+    <div class="card-h"><h2 id="kw-h">Keyword alerts</h2><span class="meta" id="kw-meta"></span>
+      <div class="right"><button type="button" class="btn" id="kw-all" hidden>Show all in feed</button></div></div>
+    <div id="kw-body"></div>
+  </section>
+
   <div class="kpis" id="kpis" role="group" aria-label="Change totals. Select one to filter the feed">
     <div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div><div class="skel" style="height:86px"></div>
   </div>
@@ -472,6 +518,20 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
     <div class="comp-grid" id="comps"></div>
   </section>
 
+  <section class="card card-pad" aria-labelledby="ct-h" style="margin-top:8px">
+    <div class="card-h">
+      <h2 id="ct-h">What competitors are publishing</h2><span class="meta" id="ct-meta"></span>
+      <div class="right">
+        <div class="seg" id="ct-mode" role="group" aria-label="Count">
+          <button type="button" data-v="added">New pages</button>
+          <button type="button" data-v="updated">Updated</button>
+          <button type="button" data-v="both">Both</button>
+        </div>
+      </div>
+    </div>
+    <div id="ct-body"></div>
+  </section>
+
   <div class="lower" style="margin-top:26px">
     <section class="card card-pad" aria-labelledby="feed-h">
       <div class="card-h">
@@ -480,6 +540,7 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
       </div>
       <div class="feed-tools">
         <div class="chips" id="type-chips" role="group" aria-label="Change type"></div>
+        <div class="chips" id="extra-filters"></div>
         <div class="search">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
           <label class="sr-only" for="q">Search URLs and titles</label>
@@ -497,7 +558,8 @@ header.top :focus-visible { outline-color: var(--wadi-orange); }
       <section class="card card-pad" aria-labelledby="about-h">
         <div class="card-h"><h2 id="about-h">How this works</h2></div>
         <p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)">A GitHub Action scans each competitor's XML sitemap every day. It records pages that were <b>added</b>, <b>removed</b> or had their <b>lastmod</b> date change. For new and changed pages it also checks the title, meta description, H1, canonical and HTTP status.</p>
-        <p style="margin:0;font-size:13.5px;color:var(--ink-2)">To add competitors, edit <code>scraper/clients.yaml</code>. You can track up to 5 per client.</p>
+        <p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)">Each page is labelled with a <b>content type</b> (blog, webinar, whitepaper, product…) from its URL, title and H1. Pages whose URL, title or H1 contain one of the client's <b>keywords</b> are flagged as alerts.</p>
+        <p style="margin:0;font-size:13.5px;color:var(--ink-2)">To add competitors, keywords or <b>paths to ignore</b>, edit <code>scraper/clients.yaml</code>. You can track up to 5 competitors per client.</p>
       </section>
     </aside>
   </div>
@@ -650,11 +712,12 @@ const state = {
   index: null, client: null, changes: {}, summary: null,
   range: 30, comp: "all", types: new Set(), q: "", shown: PAGE_SIZE,
   lastVisit: null, showTable: false,
+  asset: null, kw: null, ctMode: "added", assetCfg: [],
 };
 
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
-  return { client: p.get("client"), comp: p.get("comp"), range: +p.get("range") || null, type: p.get("type"), q: p.get("q") };
+  return { client: p.get("client"), comp: p.get("comp"), range: +p.get("range") || null, type: p.get("type"), q: p.get("q"), asset: p.get("asset"), kw: p.get("kw") };
 }
 function writeHash() {
   const p = new URLSearchParams();
@@ -663,6 +726,8 @@ function writeHash() {
   if (state.range !== 30) p.set("range", state.range);
   if (state.types.size) p.set("type", [...state.types].join(","));
   if (state.q) p.set("q", state.q);
+  if (state.asset) p.set("asset", state.asset);
+  if (state.kw) p.set("kw", state.kw);
   const s = p.toString();
   history.replaceState(null, "", s ? "#" + s : location.pathname + location.search);
 }
@@ -688,11 +753,83 @@ async function loadClient(id) {
   state.summary = summary;
   state.changes = {};
   client.competitors.forEach((c, i) => { state.changes[c.slug] = logs[i] || { events: [], runs: [] }; });
+  prepareClient(client);
   const key = `cw:lastVisit:${client.id}`;
   state.lastVisit = store.get(key);
   store.set(key, state.index.generated_at || new Date().toISOString());
   $("app").classList.remove("loading-dim");
 }
+
+// ---------------------------------------------------------------- content types, keywords, excluded paths
+// These mirror scrape.py, so events logged before the settings existed are labelled too.
+const reEsc = (x) => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+function compilePathPattern(pattern) {
+  let p = String(pattern).trim();
+  if (!p.startsWith("/") && !p.startsWith("*")) p = "/" + p;
+  if (p.includes("*")) return new RegExp("^" + p.split("*").map(reEsc).join(".*") + "$", "i");
+  const base = p.replace(/\/+$/, "") || "/";
+  return base === "/" ? /^\// : new RegExp("^" + reEsc(base) + "(/|$)", "i");
+}
+function prefixOf(domain) {
+  try { return new URL(domain.includes("://") ? domain : "https://" + domain).pathname.replace(/\/+$/, ""); } catch { return ""; }
+}
+function relPath(url, prefix) {
+  let p; try { p = new URL(url).pathname; } catch { p = url; }
+  if (prefix && p.startsWith(prefix)) p = p.slice(prefix.length) || "/";
+  return "/" + p.split("/").filter(Boolean).join("/");
+}
+function kwText(v) {
+  let t = v || ""; try { t = decodeURIComponent(t); } catch { /* keep raw */ }
+  return t.replace(/[\s\-_/+.]+/g, " ").toLowerCase();
+}
+function compileKeywords(list) {
+  return (list || []).map(kw => {
+    const words = kwText(String(kw)).split(" ").filter(Boolean).map(reEsc);
+    return words.length ? [String(kw), new RegExp("(?<![a-z0-9])" + words.join("\\s+") + "(?![a-z0-9])")] : null;
+  }).filter(Boolean);
+}
+function compileAssetCfg(cfg) {
+  const types = (cfg && cfg.types) || [];
+  const out = types.map(t => ({ key: t.key, label: t.label, path: t.path ? new RegExp(t.path, "i") : null, title: t.title ? new RegExp(t.title, "i") : null }));
+  out.push({ key: (cfg && cfg.other && cfg.other.key) || "other", label: (cfg && cfg.other && cfg.other.label) || "Other pages" });
+  return out;
+}
+function assetLabel(key) { return (state.assetCfg.find(t => t.key === key) || {}).label || key; }
+function pageTexts(e) {
+  const out = [];
+  if (e.page) out.push(e.page.title, e.page.h1);
+  for (const side of ["before", "after"]) if (e[side] && typeof e[side] === "object") out.push(e[side].title, e[side].h1);
+  return out.filter(v => typeof v === "string" && v);
+}
+function classifyAsset(path, overrides, texts) {
+  const lp = path.toLowerCase();
+  for (const [rx, key] of overrides) if (rx.test(lp)) return key;
+  for (const t of state.assetCfg) if (t.path && t.path.test(lp)) return t.key;
+  const text = texts.join(" ");
+  if (text) for (const t of state.assetCfg) if (t.title && t.title.test(text)) return t.key;
+  return "other";
+}
+function prepareClient(client) {
+  const kws = compileKeywords(client.keywords);
+  for (const c of client.competitors) {
+    const prefix = prefixOf(c.domain || "");
+    const excl = (c.exclude || []).map(compilePathPattern);
+    const over = Object.entries(c.asset_types || {}).map(([k, v]) => [compilePathPattern(k), v]);
+    for (const e of (state.changes[c.slug]?.events || [])) {
+      const path = relPath(e.url, prefix);
+      const texts = pageTexts(e);
+      e._excluded = excl.some(rx => rx.test(path));
+      e._asset = e.asset_type || classifyAsset(path, over, texts);
+      if (e.keywords) e._kw = e.keywords;
+      else {
+        const hay = [path, ...texts].map(kwText).join(" | ");
+        const hits = kws.filter(([, rx]) => rx.test(hay)).map(([k]) => k);
+        e._kw = hits.length ? hits : null;
+      }
+    }
+  }
+}
+const kwMatch = (e) => state.kw === "*" ? !!(e._kw && e._kw.length) : !!(e._kw && e._kw.includes(state.kw));
 
 // ---------------------------------------------------------------- derived data
 function comps() {
@@ -723,7 +860,7 @@ function eventsInScope() {
   const out = [];
   for (const c of comps()) {
     for (const e of (state.changes[c.slug]?.events || [])) {
-      if (dayKey(e.date) >= since) out.push({ ...e, _comp: c.slug });
+      if (dayKey(e.date) >= since && !e._excluded) out.push({ ...e, _comp: c.slug });
     }
   }
   out.sort((a, b) => b.date.localeCompare(a.date) || a.type.localeCompare(b.type) || a.url.localeCompare(b.url));
@@ -731,12 +868,15 @@ function eventsInScope() {
 }
 function matchesQuery(e, q) {
   if (!q) return true;
-  const hay = [e.url, e.section, compBySlug(e._comp)?.name,
-    ...Object.values(e.before || {}), ...Object.values(e.after || {})].filter(Boolean).join(" ").toLowerCase();
+  const hay = [e.url, e.section, compBySlug(e._comp)?.name, assetLabel(e._asset), ...(e._kw || []), ...pageTexts(e),
+    ...Object.values(typeof e.before === "object" && e.before || {}), ...Object.values(typeof e.after === "object" && e.after || {})].filter(v => typeof v === "string").join(" ").toLowerCase();
   return q.toLowerCase().split(/\s+/).every(w => hay.includes(w));
 }
+function extraMatch(e) {
+  return (!state.asset || e._asset === state.asset) && (!state.kw || kwMatch(e));
+}
 function filteredEvents() {
-  return eventsInScope().filter(e => (!state.types.size || state.types.has(e.type)) && matchesQuery(e, state.q));
+  return eventsInScope().filter(e => (!state.types.size || state.types.has(e.type)) && extraMatch(e) && matchesQuery(e, state.q));
 }
 function pathOf(url) {
   try { const u = new URL(url); return decodeURIComponent(u.pathname) + u.search; } catch { return url; }
@@ -776,7 +916,13 @@ function renderFilters() {
   cf.replaceChildren(h("option", { value: "all" }, "All competitors"),
     ...state.client.competitors.map(c => h("option", { value: c.slug }, c.name)));
   cf.value = state.comp;
-  $("clear-filters").hidden = !(state.comp !== "all" || state.types.size || state.q);
+  $("clear-filters").hidden = !(state.comp !== "all" || state.types.size || state.q || state.asset || state.kw);
+  const fx = [];
+  if (state.asset) fx.push(h("button", { type: "button", class: "fchip", title: "Remove this filter", onclick: () => { state.asset = null; state.shown = PAGE_SIZE; update(); } },
+    `Content: ${assetLabel(state.asset)}`, h("span", { class: "x", "aria-hidden": "true" }, "×")));
+  if (state.kw) fx.push(h("button", { type: "button", class: "fchip", title: "Remove this filter", onclick: () => { state.kw = null; state.shown = PAGE_SIZE; update(); } },
+    state.kw === "*" ? "Any keyword" : `Keyword: ${state.kw}`, h("span", { class: "x", "aria-hidden": "true" }, "×")));
+  $("extra-filters").replaceChildren(...fx);
 }
 
 // ---------------------------------------------------------------- render: brief
@@ -817,6 +963,109 @@ function renderBrief() {
       w.from ? ` · covers ${dayLabel(dayKey(w.from), { month: "short", day: "numeric" })}–${dayLabel(dayKey(w.to), { month: "short", day: "numeric" })}` : "",
       s.event_count != null ? ` · ${fmt(s.event_count)} changes analysed` : "",
       s.model ? ` · ${s.model}` : ""));
+}
+
+// ---------------------------------------------------------------- render: keyword alerts
+const TYPE_ORDER = { added: 0, removed: 1, seo_changed: 2, status_changed: 3, updated: 4 };
+// A sitemap lastmod bump alone isn't news, so alerts cover pages added, removed, retitled or redirected.
+const ALERT_TYPES = ["added", "removed", "seo_changed", "status_changed"];
+function typePill(type) {
+  const t = TYPE[type] || { label: type, color: "var(--ink-3)" };
+  return h("span", { class: "type-pill", style: `background:color-mix(in srgb, ${t.color} 16%, transparent);color:${t.color}` }, t.label);
+}
+function renderKeywords() {
+  const kws = state.client.keywords || [];
+  const body = $("kw-body");
+  $("kw-all").hidden = true;
+  if (!kws.length) {
+    $("kw-meta").textContent = "";
+    body.replaceChildren(h("p", { class: "kw-empty" },
+      `No keywords set for ${state.client.name} yet. Add a `, h("code", null, "keywords:"), " list for this client in ",
+      h("code", null, "scraper/clients.yaml"), " (for example running, pickleball). Any competitor page that is added, removed or changed with one of them in its URL, title or H1 is flagged here."));
+    return;
+  }
+  const hits = eventsInScope().filter(e => e._kw && e._kw.length && ALERT_TYPES.includes(e.type));
+  const n = {}; for (const e of hits) for (const k of e._kw) n[k] = (n[k] || 0) + 1;
+  $("kw-meta").textContent = hits.length ? `${fmt(hits.length)} matching change${hits.length === 1 ? "" : "s"} in the last ${state.range} days` : `Nothing matched in the last ${state.range} days`;
+  $("kw-all").hidden = !hits.length;
+  const chips = h("div", { class: "kw-chips", role: "group", "aria-label": "Keywords. Select one to filter the feed" }, kws.map(k => h("button", {
+      type: "button", class: `kw-chip${n[k] ? "" : " zero"}`, "aria-pressed": String(state.kw === k),
+      title: n[k] ? `Show the ${n[k]} change${n[k] === 1 ? "" : "s"} matching “${k}” in the feed` : `No matches for “${k}” in this range`,
+      onclick: () => { state.kw = state.kw === k ? null : k; state.types = state.kw ? new Set(ALERT_TYPES) : new Set(); state.shown = PAGE_SIZE; update({ scrollFeed: state.kw != null }); },
+    }, k, h("span", { class: "n" }, fmt(n[k] || 0)))));
+  const top = hits.slice().sort((a, b) => b.date.localeCompare(a.date) || (TYPE_ORDER[a.type] ?? 9) - (TYPE_ORDER[b.type] ?? 9)).slice(0, 8);
+  const list = top.length ? h("ul", { class: "kw-list" }, top.map(e => {
+    const href = safeHref(e.url);
+    return h("li", null,
+      typePill(e.type),
+      h("div", { style: "min-width:0" },
+        href ? h("a", { class: "url", href, target: "_blank", rel: "noopener noreferrer", title: e.url, style: "display:block" }, pathOf(e.url)) : h("span", { class: "url" }, e.url),
+        h("div", { class: "meta", style: "white-space:normal" }, e._kw.map(k => h("span", { class: "tag-kw", style: "margin:0 4px 0 0" }, k)),
+          e._asset && e._asset !== "other" ? assetLabel(e._asset) : "")),
+      h("span", { class: "meta" }, `${compBySlug(e._comp)?.name || e._comp} · ${friendlyDay(dayKey(e.date))}`));
+  })) : h("p", { class: "kw-empty" }, `No competitor page mentioning these keywords changed in the last ${state.range} days.`);
+  body.replaceChildren(chips, list);
+}
+
+// ---------------------------------------------------------------- render: content types
+function renderContentTypes() {
+  for (const b of $("ct-mode").querySelectorAll("button")) b.setAttribute("aria-pressed", String(b.dataset.v === state.ctMode));
+  const want = state.ctMode === "both" ? ["added", "updated"] : [state.ctMode];
+  const list = comps();
+  const evs = eventsInScope().filter(e => want.includes(e.type));
+  const m = {}; const colTot = {};
+  for (const e of evs) {
+    m[e._asset] = m[e._asset] || {};
+    m[e._asset][e._comp] = (m[e._asset][e._comp] || 0) + 1;
+    colTot[e._comp] = (colTot[e._comp] || 0) + 1;
+  }
+  const rows = Object.entries(m).map(([k, byComp]) => ({ k, byComp, tot: Object.values(byComp).reduce((a, b) => a + b, 0) }))
+    .sort((a, b) => (a.k === "other") - (b.k === "other") || b.tot - a.tot);
+  const noun = { added: "new pages", updated: "updated pages", both: "new or updated pages" }[state.ctMode];
+  $("ct-meta").textContent = evs.length ? `${fmt(evs.length)} ${noun} · last ${state.range} days` : "";
+  const body = $("ct-body");
+  if (!rows.length) {
+    body.replaceChildren(h("p", { class: "kw-empty" }, `No ${noun} in the last ${state.range} days${hasOnlyBaselines() ? ". Baselines are captured, so this fills in after the next scans" : ""}.`));
+    return;
+  }
+  // One line per competitor: which kind of content it's putting out most.
+  const insights = list.map(c => {
+    const ranked = rows.filter(r => r.k !== "other" && r.byComp[c.slug]).sort((a, b) => b.byComp[c.slug] - a.byComp[c.slug]);
+    if (!ranked.length) return null;
+    const [first, second] = ranked;
+    const share = Math.round((first.byComp[c.slug] / colTot[c.slug]) * 100);
+    return h("div", { class: "ct-ins" }, h("div", { class: "who" }, c.name),
+      h("div", { class: "what" }, `Mostly ${assetLabel(first.k).toLowerCase()} (${fmt(first.byComp[c.slug])}, ${share}%)`,
+        second ? `, then ${assetLabel(second.k).toLowerCase()} (${fmt(second.byComp[c.slug])})` : ""));
+  }).filter(Boolean);
+  const max = Math.max(...rows.map(r => r.tot));
+  const cellMax = Math.max(1, ...rows.flatMap(r => Object.values(r.byComp)));
+  const multi = list.length > 1;
+  const table = h("div", { class: "table-x" }, h("table", { class: "ct-table" },
+    h("thead", null, h("tr", null, h("th", null, "Content type"), multi ? list.map(c => h("th", null, c.name)) : null, h("th", null, "Total"), h("th", { "aria-hidden": "true" }))),
+    h("tbody", null, rows.map(r => h("tr", {
+        tabindex: 0, "aria-selected": String(state.asset === r.k),
+        title: `Show ${assetLabel(r.k).toLowerCase()} in the change feed`,
+        onclick: () => pickAsset(r.k),
+        onkeydown: (ev) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pickAsset(r.k); } },
+      },
+      h("td", null, h("span", { class: "ct-name" }, assetLabel(r.k))),
+      multi ? list.map(c => {
+        const v = r.byComp[c.slug] || 0;
+        return h("td", { class: v ? "" : "z" }, h("span", { class: "cell", style: v ? `background:color-mix(in srgb, var(--wadi-orange) ${Math.round(8 + (v / cellMax) * 42)}%, transparent)` : "" }, v ? fmt(v) : "–"));
+      }) : null,
+      h("td", { class: "tot" }, fmt(r.tot)),
+      h("td", { class: "ct-barwrap", "aria-hidden": "true" }, h("div", { class: "ct-bar", style: `width:${Math.max(3, (r.tot / max) * 100)}%` })))))));
+  body.replaceChildren(
+    insights.length ? h("div", { class: "ct-insights" }, insights) : null,
+    table,
+    h("p", { class: "hint" }, "Content types are read from each page's URL, title and H1. Select a row to see those pages in the change feed. If a competitor keeps, say, articles in an unusual folder, map it under ", h("code", null, "asset_types"), " in clients.yaml."));
+}
+function pickAsset(k) {
+  state.asset = state.asset === k ? null : k;
+  if (state.asset) state.types = new Set(state.ctMode === "both" ? ["added", "updated"] : [state.ctMode]);
+  state.shown = PAGE_SIZE;
+  update({ scrollFeed: state.asset != null });
 }
 
 // ---------------------------------------------------------------- render: KPIs
@@ -1014,6 +1263,8 @@ function renderComps() {
         sparkline(c)),
       counts.length ? h("div", { class: "counts" }, counts) : h("div", { class: "counts" }, h("span", { class: "count" }, st === "baseline" || st === "pending" ? "Watching for changes" : `No changes in ${state.range} days`)),
       note ? h("div", { class: "comp-note" }, note) : null,
+      (c.exclude || []).length ? h("div", { class: "comp-domain", title: `Ignored paths: ${c.exclude.join(", ")}` },
+        `Ignoring ${c.exclude.length} path${c.exclude.length === 1 ? "" : "s"}${c.excluded_urls ? ` · ${fmt(c.excluded_urls)} URLs` : ""}`) : null,
       h("div", { class: "comp-foot" },
         h("span", { class: `status ${st}` }, icon(st, 13, 2.4), STATUS[st].label),
         h("span", { title: fullTime(c.last_checked) }, c.last_checked ? `Checked ${relTime(c.last_checked)}` : "")));
@@ -1042,7 +1293,7 @@ function sparkline(c) {
 
 // ---------------------------------------------------------------- render: type chips
 function renderChips() {
-  const scoped = eventsInScope().filter(e => matchesQuery(e, state.q));
+  const scoped = eventsInScope().filter(e => extraMatch(e) && matchesQuery(e, state.q));
   const n = {}; for (const e of scoped) n[e.type] = (n[e.type] || 0) + 1;
   $("type-chips").replaceChildren(
     h("button", { type: "button", class: "chip", "aria-pressed": String(!state.types.size), onclick: () => { state.types.clear(); state.shown = PAGE_SIZE; update(); } }, "All", h("span", { class: "n" }, fmt(scoped.length))),
@@ -1110,7 +1361,10 @@ function eventRow(e, showComp) {
   return h("div", { class: "row" },
     h("span", { class: "ti", style: `background:color-mix(in srgb, ${t.color} 16%, transparent);color:${t.color}`, title: t.label }, icon(e.type, 13, 2.6)),
     h("div", { class: "main" },
-      h("div", null, link, isNew ? h("span", { class: "newtag" }, "New") : null),
+      h("div", null, link, isNew ? h("span", { class: "newtag" }, "New") : null,
+        e._asset && e._asset !== "other" ? h("span", { class: "tag-type", title: "Content type" }, assetLabel(e._asset)) : null,
+        (e._kw || []).map(k => h("span", { class: "tag-kw", title: "Keyword alert" }, k))),
+      e.page && e.page.title && e.type !== "seo_changed" ? h("div", { class: "sub", style: "color:var(--ink-2)" }, e.page.title) : null,
       h("div", { class: "sub" }, showComp ? `${compBySlug(e._comp)?.name || e._comp} · ` : "", eventSub(e)),
       e.type === "seo_changed" ? diffView(e) : null),
     h("div", { class: "acts" },
@@ -1212,9 +1466,9 @@ function exportCSV() {
     if (/^[=+\-@\t\r]/.test(s)) s = "'" + s; // guard against spreadsheet formula injection
     return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
   };
-  const head = ["date", "competitor", "type", "url", "section", "details", "before", "after"];
+  const head = ["date", "competitor", "type", "content_type", "keywords", "url", "section", "details", "before", "after"];
   const lines = [head.join(",")].concat(rows.map(e => [
-    e.date, compBySlug(e._comp)?.name || e._comp, e.type, e.url, e.section, eventSub(e),
+    e.date, compBySlug(e._comp)?.name || e._comp, e.type, assetLabel(e._asset), (e._kw || []).join("; "), e.url, e.section, eventSub(e),
     typeof e.before === "object" ? JSON.stringify(e.before) : e.before,
     typeof e.after === "object" ? JSON.stringify(e.after) : e.after,
   ].map(cell).join(",")));
@@ -1232,7 +1486,7 @@ function toast(msg) {
   clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 1800);
 }
 function clearFilters() {
-  state.comp = "all"; state.types.clear(); state.q = ""; $("q").value = ""; state.shown = PAGE_SIZE; update();
+  state.comp = "all"; state.types.clear(); state.q = ""; $("q").value = ""; state.asset = null; state.kw = null; state.shown = PAGE_SIZE; update();
 }
 function banner(msg, detail) {
   $("banner").replaceChildren(h("div", { class: "banner", role: "alert" }, icon("alert", 16), h("div", null, h("b", null, msg), detail ? h("div", { style: "color:var(--ink-2)" }, detail) : null)));
@@ -1251,9 +1505,11 @@ function update(opts = {}) {
   renderHero();
   renderFilters();
   renderBrief();
+  renderKeywords();
   renderKPIs();
   renderChart();
   renderComps();
+  renderContentTypes();
   renderChips();
   renderFeed();
   renderSections();
@@ -1297,6 +1553,9 @@ async function boot() {
   if (hs.range && [7, 30, 90].includes(hs.range)) state.range = hs.range;
   if (hs.type) state.types = new Set(hs.type.split(",").filter(t => TYPE[t]));
   if (hs.q) { state.q = hs.q; $("q").value = hs.q; }
+  if (hs.asset) state.asset = hs.asset;
+  if (hs.kw) state.kw = hs.kw;
+  state.assetCfg = compileAssetCfg(await getJSON("asset_types.json", { bust: index.generated_at }).catch(() => null));
   const initialClient = hs.client || store.get("cw:client") || index.clients[0].id;
   try { await loadClient(initialClient); }
   catch (err) { banner("Some data failed to load.", err.message); }
@@ -1324,6 +1583,11 @@ async function boot() {
     qt = setTimeout(() => { state.q = e.target.value.trim(); state.shown = PAGE_SIZE; writeHash(); renderFilters(); renderChips(); renderFeed(); }, 140);
   });
   $("export").addEventListener("click", exportCSV);
+  $("ct-mode").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.ctMode = b.dataset.v; renderContentTypes();
+  });
+  $("kw-all").addEventListener("click", () => { state.kw = "*"; state.types = new Set(ALERT_TYPES); state.shown = PAGE_SIZE; update({ scrollFeed: true }); });
   $("table-toggle").addEventListener("click", () => { state.showTable = !state.showTable; renderTable(); });
   // writeHash uses replaceState, so this only fires for links pasted or clicked by the viewer.
   window.addEventListener("hashchange", async () => {
@@ -1336,6 +1600,7 @@ async function boot() {
     state.range = [7, 30, 90].includes(n.range) ? n.range : 30;
     state.types = new Set((n.type || "").split(",").filter(t => TYPE[t]));
     state.q = n.q || ""; $("q").value = state.q;
+    state.asset = n.asset || null; state.kw = n.kw || null;
     state.shown = PAGE_SIZE;
     update();
   });

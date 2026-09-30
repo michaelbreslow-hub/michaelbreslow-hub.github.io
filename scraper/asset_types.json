@@ -1,0 +1,20 @@
+{
+ "_comment": "Content-type rules shared by scrape.py and the dashboard. Checked top to bottom; the first match wins. 'path' is a case-insensitive regex tested against the URL path (after the competitor's domain path). 'title' is tested against the page title and H1 when the path gives no match. Per-competitor overrides go in clients.yaml under asset_types.",
+ "types": [
+  {"key": "webinar",    "label": "Webinars",            "path": "(^|/)(webinars?|webcasts?|on-demand|virtual-events?)(/|$|-)", "title": "\\bwebinars?\\b|\\bwebcasts?\\b|\\bon-demand\\b"},
+  {"key": "whitepaper", "label": "Whitepapers & ebooks", "path": "(^|/)(white-?papers?|e-?books?|reports?|research|datasheets?|data-sheets?)(/|$|-)", "title": "\\bwhite ?papers?\\b|\\be-?books?\\b|\\breport\\b"},
+  {"key": "case_study", "label": "Case studies",         "path": "(^|/)(case-stud(y|ies)|customer-stories|success-stories|customers)(/|$|-)", "title": "\\bcase stud(y|ies)\\b|\\bsuccess story\\b"},
+  {"key": "podcast",    "label": "Podcasts",             "path": "(^|/)(podcasts?|episodes?)(/|$|-)", "title": "\\bpodcast\\b|\\bepisode\\b"},
+  {"key": "video",      "label": "Videos",               "path": "(^|/)(videos?|watch|tv)(/|$)"},
+  {"key": "event",      "label": "Events",               "path": "(^|/)(events?|conferences?|summits?|meetups?)(/|$|-)"},
+  {"key": "news",       "label": "News & press",         "path": "(^|/)(news|newsroom|press|press-releases?|media|announcements?)(/|$|-)"},
+  {"key": "blog",       "label": "Blog & articles",      "path": "(^|/)(blogs?|articles?|stories|story|insights?|magazine|journal|learn|posts?|guides?)(/|$)"},
+  {"key": "resource",   "label": "Resources",            "path": "(^|/)(resources?|library|downloads?|toolkits?|templates?)(/|$)"},
+  {"key": "docs",       "label": "Docs & help",          "path": "(^|/)(docs|documentation|help|support|faqs?|kb|knowledge-base)(/|$)"},
+  {"key": "careers",    "label": "Careers",              "path": "(^|/)(careers?|jobs?|join-us|vacancies)(/|$)"},
+  {"key": "legal",      "label": "Legal",                "path": "(^|/)(privacy|terms|legal|cookies?|accessibility|imprint)(/|$|-)"},
+  {"key": "product",    "label": "Product pages",        "path": "(^|/)(products?|p|item|sku)/|/[^/]*\\d{4,}[^/]*\\.html?$"},
+  {"key": "category",   "label": "Category pages",       "path": "(^|/)(collections?|categor(y|ies)|shop|c)(/|$)"}
+ ],
+ "other": {"key": "other", "label": "Other pages"}
+}

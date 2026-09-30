@@ -91,6 +91,43 @@ def parse_domain(domain: str):
     return parts.scheme or "https", parts.hostname.lower(), prefix
 
 
+def _str_list(value, what: str) -> list[str]:
+    if value is None:
+        return []
+    if isinstance(value, str):
+        value = [value]
+    if not isinstance(value, list) or not all(isinstance(v, (str, int, float)) for v in value):
+        raise ValueError(f"{what} must be a list of text values")
+    return [str(v).strip() for v in value if str(v).strip()]
+
+
+def compile_path_pattern(pattern: str):
+    """'/careers' matches /careers and everything under it. '*' is a wildcard,
+    so '*/jobs/*' matches a jobs folder at any depth. Paths are relative to
+    the competitor's domain path (for www.nike.com/il, '/a' means /il/a)."""
+    p = pattern.strip()
+    if not p.startswith("/") and not p.startswith("*"):
+        p = "/" + p
+    if "*" in p:
+        rx = "^" + ".*".join(re.escape(part) for part in p.split("*")) + "$"
+        return re.compile(rx, re.I)
+    base = p.rstrip("/") or "/"
+    if base == "/":
+        return re.compile(r"^/", re.I)
+    return re.compile("^" + re.escape(base) + r"(/|$)", re.I)
+
+
+def rel_path(url: str, prefix: str) -> str:
+    return "/" + "/".join(_segments(url, prefix))
+
+
+def is_excluded(url: str, prefix: str, patterns) -> bool:
+    if not patterns:
+        return False
+    path = rel_path(url, prefix)
+    return any(p.search(path) for p in patterns)
+
+
 def load_config(path: Path = CONFIG_PATH) -> list[dict]:
     with open(path, encoding="utf-8") as fh:
         cfg = yaml.safe_load(fh) or {}
@@ -104,6 +141,8 @@ def load_config(path: Path = CONFIG_PATH) -> list[dict]:
         if cid in seen_clients:
             raise ValueError(f"Duplicate client id: {cid}")
         seen_clients.add(cid)
+        client_exclude = _str_list(c.get("exclude"), f"{cid}: exclude")
+        keywords = _str_list(c.get("keywords"), f"{cid}: keywords")
         comps = c.get("competitors") or []
         if len(comps) > MAX_COMPETITORS:
             raise ValueError(f"{cid}: at most {MAX_COMPETITORS} competitors allowed, found {len(comps)}")
@@ -116,6 +155,14 @@ def load_config(path: Path = CONFIG_PATH) -> list[dict]:
             if slug in seen_slugs:
                 raise ValueError(f"{cid}: duplicate competitor slug {slug!r}")
             seen_slugs.add(slug)
+            exclude = client_exclude + _str_list(comp.get("exclude"), f"{cid}/{slug}: exclude")
+            overrides = comp.get("asset_types") or {}
+            if not isinstance(overrides, dict):
+                raise ValueError(f"{cid}/{slug}: asset_types must map a path to a content type, e.g. '/a': blog")
+            valid = {k for k, _, _ in ASSET_RULES} | {ASSET_OTHER}
+            for path_pat, key in overrides.items():
+                if key not in valid:
+                    raise ValueError(f"{cid}/{slug}: unknown content type {key!r}. Use one of: {', '.join(sorted(valid))}")
             parsed.append({
                 "name": name,
                 "slug": slug,
@@ -124,9 +171,92 @@ def load_config(path: Path = CONFIG_PATH) -> list[dict]:
                 "host": host,
                 "prefix": prefix,
                 "sitemaps": comp.get("sitemaps") or [],
+                "exclude": exclude,
+                "exclude_rx": [compile_path_pattern(p) for p in exclude],
+                "asset_types": {str(k): v for k, v in overrides.items()},
+                "asset_rx": [(compile_path_pattern(str(k)), v) for k, v in overrides.items()],
             })
-        out.append({"id": cid, "name": c.get("name") or cid, "competitors": parsed})
+        out.append({"id": cid, "name": c.get("name") or cid, "keywords": keywords, "exclude": client_exclude, "competitors": parsed})
     return out
+
+
+# --------------------------------------------------------------------------- content types & keywords
+
+ASSET_TYPES_PATH = ROOT / "asset_types.json"
+
+
+def load_asset_rules(path: Path = ASSET_TYPES_PATH):
+    with open(path, encoding="utf-8") as fh:
+        cfg = json.load(fh)
+    rules = [
+        (t["key"], re.compile(t["path"], re.I) if t.get("path") else None, re.compile(t["title"], re.I) if t.get("title") else None)
+        for t in cfg["types"]
+    ]
+    return rules, cfg["other"]["key"]
+
+
+ASSET_RULES, ASSET_OTHER = load_asset_rules()
+
+
+def classify_asset(url: str, prefix: str, overrides=(), page: dict | None = None) -> str:
+    """What kind of page this is (blog, webinar, whitepaper, product…), judged
+    from the URL path first and then from the title and H1."""
+    path = rel_path(url, prefix).lower()
+    for rx, key in overrides:
+        if rx.search(path):
+            return key
+    for key, path_rx, _ in ASSET_RULES:
+        if path_rx and path_rx.search(path):
+            return key
+    text = " ".join(v for v in ((page or {}).get("title"), (page or {}).get("h1")) if v)
+    if text:
+        for key, _, title_rx in ASSET_RULES:
+            if title_rx and title_rx.search(text):
+                return key
+    return ASSET_OTHER
+
+
+def _kw_text(value: str) -> str:
+    from urllib.parse import unquote
+    return re.sub(r"[\s\-_/+.]+", " ", unquote(value or "")).lower()
+
+
+def compile_keywords(keywords):
+    out = []
+    for kw in keywords:
+        words = [re.escape(w) for w in _kw_text(kw).split()]
+        if words:
+            out.append((kw, re.compile(r"(?<![a-z0-9])" + r"\s+".join(words) + r"(?![a-z0-9])")))
+    return out
+
+
+def match_keywords(compiled, url: str, prefix: str, texts=()) -> list[str]:
+    """Keywords found in the URL path, title, H1 or other page text."""
+    if not compiled:
+        return []
+    hay = " | ".join(_kw_text(t) for t in (rel_path(url, prefix), *texts) if t)
+    return [kw for kw, rx in compiled if rx.search(hay)]
+
+
+def event_page(ev: dict, merged: dict, prev_urls: dict) -> dict:
+    rec = (prev_urls if ev["type"] == "removed" else merged).get(ev["url"]) or prev_urls.get(ev["url"]) or {}
+    seo = rec.get("seo") or {}
+    return {k: seo.get(k) for k in ("title", "h1") if seo.get(k)}
+
+
+def enrich_event(ev: dict, comp: dict, merged: dict, prev_urls: dict, keywords) -> None:
+    """Adds the content type, the page's title/H1 and any matching keywords."""
+    page = event_page(ev, merged, prev_urls)
+    if page and ev["type"] in ("added", "removed", "updated", "status_changed"):
+        ev["page"] = page
+    texts = [page.get("title"), page.get("h1")]
+    for side in ("before", "after"):
+        if isinstance(ev.get(side), dict):
+            texts += [ev[side].get("title"), ev[side].get("h1")]
+    ev["asset_type"] = classify_asset(ev["url"], comp["prefix"], comp.get("asset_rx", ()), page)
+    hits = match_keywords(keywords, ev["url"], comp["prefix"], [t for t in texts if isinstance(t, str)])
+    if hits:
+        ev["keywords"] = hits
 
 
 # --------------------------------------------------------------------------- urls
@@ -329,6 +459,8 @@ def collect_urls(fetcher: Fetcher, comp: dict):
     fetched = 0
     ok_any = False
     truncated = False
+    excluded = 0
+    exclude_rx = comp.get("exclude_rx") or []
     while queue:
         sm = queue.pop(0)
         if sm in seen:
@@ -356,6 +488,9 @@ def collect_urls(fetcher: Fetcher, comp: dict):
         for loc, lastmod in entries:
             norm = normalize_url(loc)
             if norm and in_scope(norm, comp["host"], comp["prefix"]):
+                if exclude_rx and is_excluded(norm, comp["prefix"], exclude_rx):
+                    excluded += 1
+                    continue
                 urls[norm] = lastmod
                 if len(urls) >= MAX_URLS:
                     truncated = True
@@ -369,6 +504,7 @@ def collect_urls(fetcher: Fetcher, comp: dict):
         "complete": ok_any and not errors and not truncated,
         "truncated": truncated,
         "any_ok": ok_any,
+        "excluded": excluded,
     }
     return urls, meta, info.get("robots_txt")
 
@@ -551,6 +687,10 @@ def process_competitor(client: dict, comp: dict, run_at: str) -> dict:
     snap = read_json(snap_path, None)
     changes = read_json(log_path, {"events": [], "runs": []})
     prev_urls = (snap or {}).get("urls", {})
+    if comp.get("exclude_rx"):
+        # Paths that were just excluded drop out quietly instead of showing up as "removed".
+        prev_urls = {u: r for u, r in prev_urls.items() if not is_excluded(u, comp["prefix"], comp["exclude_rx"])}
+    keywords = compile_keywords(client.get("keywords") or [])
     prev_meta = (snap or {}).get("meta", {})
     fetcher = Fetcher()
     label = f"[{client['id']}/{comp['slug']}]"
@@ -621,6 +761,9 @@ def process_competitor(client: dict, comp: dict, run_at: str) -> dict:
             continue
         ev["date"] = run_at
         ev["section"] = sectioner(ev["url"])
+        enrich_event(ev, comp, merged, prev_urls, keywords)
+        if ev.get("keywords"):
+            counts["keyword_hits"] = counts.get("keyword_hits", 0) + 1
         kept.append(ev)
     if len(kept) < len(events):
         notes.append(f"Only the first {MAX_EVENTS_PER_TYPE_PER_RUN} events of each type were logged. The totals are still exact")
@@ -659,6 +802,7 @@ def process_competitor(client: dict, comp: dict, run_at: str) -> dict:
         "baseline_at": baseline_at,
         "sitemaps_fetched": fmeta.get("sitemaps_fetched", 0),
         "sitemap_errors": fmeta.get("sitemap_errors", [])[:10],
+        "excluded_urls": fmeta.get("excluded", 0),
         "last_counts": counts,
     }
 
@@ -697,14 +841,15 @@ def main(argv=None):
         comps = []
         for comp in client["competitors"]:
             key = (client["id"], comp["slug"])
-            base = {"name": comp["name"], "slug": comp["slug"], "domain": comp["domain"]}
+            base = {"name": comp["name"], "slug": comp["slug"], "domain": comp["domain"],
+                    "exclude": comp["exclude"], "asset_types": comp["asset_types"]}
             if key in results:
                 comps.append({**prev_comps.get(comp["slug"], {}), **base, **results[key]})
             elif comp["slug"] in prev_comps:
                 comps.append({**prev_comps[comp["slug"]], **base})
             else:
                 comps.append({**base, "status": "pending", "notes": [], "total_urls": 0})
-        index_clients.append({"id": client["id"], "name": client["name"], "competitors": comps})
+        index_clients.append({"id": client["id"], "name": client["name"], "keywords": client["keywords"], "competitors": comps})
 
     write_json(index_path, {
         "generated_at": run_at,

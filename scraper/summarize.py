@@ -17,12 +17,14 @@ import os
 import sys
 from collections import Counter, defaultdict
 
-from scrape import DATA_DIR, load_config, now_utc, parse_ts, read_json, write_json
+from scrape import (DATA_DIR, classify_asset, compile_keywords, is_excluded, load_config, match_keywords,
+                    now_utc, parse_ts, read_json, write_json)
 
 MODEL = os.environ.get("SUMMARY_MODEL", "claude-opus-5")
 WINDOW_DAYS = 7
 MAX_SAMPLES = {"added": 15, "removed": 10, "updated": 8, "seo_changed": 12, "status_changed": 8}
 MAX_SECTIONS = 12
+MAX_KEYWORD_HITS = 20
 
 SYSTEM_PROMPT = """You are a competitive-intelligence analyst at an SEO agency. \
 You get structured data about changes detected on competitors' websites over the past week, \
@@ -34,6 +36,8 @@ Write a brief for the account team. Guidelines:
 (for example many new /blog/ pages), site sections being pruned or consolidated, \
 redirects that suggest migrations, and SEO rewrites such as title patterns changing across many pages.
 - Quantify ("34 new pages under /running") and cite one or two example URL paths for each claim.
+- "content_types" counts pages by kind (blog, webinar, whitepaper, product…). Point out which kinds of content a competitor is investing in.
+- "client_keywords" are topics the client cares about. Always mention any "keyword_hits" first, since the client asked to hear about them.
 - If a competitor had little or no activity, set signal to "quiet" and give a single short bullet saying so.
 - A scrape status of "blocked", "error" or "partial" means the data is incomplete. Say that briefly rather than reading meaning into the missing data.
 - Use plain, direct language. No marketing fluff."""
@@ -71,11 +75,22 @@ def path_of(url: str) -> str:
 
 def build_payload(client: dict, index_client: dict, since: dt.datetime):
     status_by_slug = {c["slug"]: c for c in (index_client or {}).get("competitors", [])}
-    payload = {"client": client["name"], "window_days": WINDOW_DAYS, "competitors": []}
+    payload = {"client": client["name"], "window_days": WINDOW_DAYS,
+               "client_keywords": client.get("keywords") or [], "competitors": []}
     all_events = []
+    keywords = compile_keywords(client.get("keywords") or [])
     for comp in client["competitors"]:
         log = read_json(DATA_DIR / "changes" / client["id"] / f"{comp['slug']}.json", {"events": [], "runs": []})
-        events = [e for e in log.get("events", []) if parse_ts(e["date"]) >= since]
+        events = [e for e in log.get("events", []) if parse_ts(e["date"]) >= since
+                  and not is_excluded(e["url"], comp["prefix"], comp.get("exclude_rx"))]
+        # Events logged before content types and keywords existed get labelled here.
+        for e in events:
+            if "asset_type" not in e:
+                e["asset_type"] = classify_asset(e["url"], comp["prefix"], comp.get("asset_rx", ()))
+            if "keywords" not in e:
+                hits = match_keywords(keywords, e["url"], comp["prefix"])
+                if hits:
+                    e["keywords"] = hits
         all_events.extend(events)
         # Exact counts come from run records, since the event log is capped per run.
         counts = Counter()
@@ -92,9 +107,21 @@ def build_payload(client: dict, index_client: dict, since: dt.datetime):
             if len(samples[t]) >= MAX_SAMPLES.get(t, 5):
                 continue
             item = {"path": path_of(e["url"])}
+            if e.get("asset_type"):
+                item["content_type"] = e["asset_type"]
+            if e.get("keywords"):
+                item["keywords"] = e["keywords"]
             if t in ("seo_changed", "status_changed"):
                 item["before"], item["after"] = e.get("before"), e.get("after")
             samples[t].append(item)
+        content_types = defaultdict(Counter)
+        for e in events:
+            if e.get("asset_type") and e["type"] in ("added", "updated", "removed"):
+                content_types[e["asset_type"]][e["type"]] += 1
+        keyword_hits = [
+            {"keywords": e["keywords"], "type": e["type"], "path": path_of(e["url"])}
+            for e in events if e.get("keywords") and e["type"] != "updated"
+        ][:MAX_KEYWORD_HITS]
         st = status_by_slug.get(comp["slug"], {})
         payload["competitors"].append({
             "slug": comp["slug"],
@@ -105,6 +132,8 @@ def build_payload(client: dict, index_client: dict, since: dt.datetime):
             "counts": dict(counts),
             "sections": [{"section": s, **dict(c)} for s, c in top_sections],
             "samples": dict(samples),
+            "content_types": {k: dict(v) for k, v in content_types.items()},
+            "keyword_hits": keyword_hits,
         })
     return payload, all_events
 
