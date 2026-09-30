@@ -607,9 +607,10 @@ dialog.settings::backdrop { background: rgba(0,0,0,.45); }
       </section>
       <section class="card card-pad" aria-labelledby="about-h">
         <div class="card-h"><h2 id="about-h">How this works</h2></div>
-        <p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)">A GitHub Action scans each competitor's XML sitemap every day. It records pages that were <b>added</b>, <b>removed</b> or had their <b>lastmod</b> date change. For new and changed pages it also checks the title, meta description, H1, canonical and HTTP status.</p>
-        <p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)">Each page is labelled with a <b>content type</b> (blog, webinar, whitepaper, product…) from its URL, title and H1. Pages whose URL, title or H1 contain one of the client's <b>keywords</b> are flagged as alerts.</p>
-        <p style="margin:0;font-size:13.5px;color:var(--ink-2)">To add competitors, keywords or <b>paths to ignore</b>, edit <code>scraper/clients.yaml</code>. You can track up to 5 competitors per client.</p>
+        <p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)"><b>Daily scan.</b> Every morning (05:00 UTC, early morning in Israel) the tool reads each competitor's XML sitemap and records pages that were <b>added</b>, <b>removed</b> or <b>updated</b>. For new and changed pages it also checks the title, meta description, H1, canonical and HTTP status. Use <b>Run a scan</b> to check right away.</p>
+<p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)"><b>Content types &amp; keywords.</b> Each page is labelled as a blog, webinar, whitepaper, product and so on from its URL, title and H1. Pages that mention one of the client's <b>keywords</b> show up as <b>keyword alerts</b>, and ignored paths are left out entirely.</p>
+<p style="margin:0 0 8px;font-size:13.5px;color:var(--ink-2)"><b>AI brief.</b> Claude summarises the week's changes per competitor once a company API key is added.</p>
+<p style="margin:0;font-size:13.5px;color:var(--ink-2)"><b>Managing clients.</b> Click the client name to search clients or add a new one. Use <b>Settings</b> to add, replace or remove competitors (up to 5), and to edit keywords and paths to ignore. Saving starts a scan, and changes appear in about 5 minutes. Editing needs a GitHub access key; viewing doesn't.</p>
       </section>
     </aside>
   </div>
