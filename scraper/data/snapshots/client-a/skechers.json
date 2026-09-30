@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-09-29T05:06:47Z",
+  "last_run": "2026-09-30T05:07:22Z",
   "pending_drop": null,
   "sitemaps_fetched": 9
  },
@@ -12,7 +12,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T16:19:12+00:00",
+   "lastmod": "2026-09-29T16:21:40+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/",
     "description": "Shop Skechers, The Comfort Technology Company®, for the Hands Free Slip-ins, work shoes, and boots for the whole family. Join Skechers Plus for 20% off and free shipping on any order.",
@@ -774,6 +774,22 @@
    "seo_checked": "2026-09-29T05:06:47Z",
    "seo_hash": "a8674e9bae0f"
   },
+  "https://www.skechers.com/3-pack-womens-performance-low-cut-golf-socks/Z01164HG.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/3-pack-womens-performance-low-cut-golf-socks/Z01164HG_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Elevate your game with Skechers 3 Pack Women's Performance Low Cut Golf Socks. These sport-specific low-cut socks are designed for the demands of the golf course, featuring advanced moisture management and odor control technologies to keep you comfortable",
+    "h1": "3 Pack Women's Performance Low Cut Golf Socks",
+    "title": "3 Pack Women's Performance Low Cut Golf Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "ac7cd1e00868"
+  },
   "https://www.skechers.com/3-pack-womens-performance-low-cut-textured-socks/Z601259H.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "http": {
@@ -808,39 +824,147 @@
   },
   "https://www.skechers.com/3-pack-womens-performance-stripe-low-cut-running-heel-tab-socks/Z602639H.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/3-pack-womens-performance-stripe-low-cut-running-heel-tab-socks/Z602639H_TURQ.html",
+    "description": "Free Shipping with our free loyalty program. Go the extra mile in supreme comfort wearing Skechers 3 Pack Women's Performance Stripe Low Cut Running Heel Tab Socks. This low-cut extended-cushioning sock features a reflective logo heel tab for achilles protection, thermoregulation, and antimicrobial ",
+    "h1": "3 Pack Women's Performance Stripe Low Cut Running Heel Tab Socks",
+    "title": "3 Pack Women's Performance Stripe Low Cut Running Heel Tab Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "e8b616195b91"
   },
   "https://www.skechers.com/3-pack-womens-reflective-performance-quarter-socks/Z600458H.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/3-pack-womens-reflective-performance-quarter-socks/Z600458H_WGY.html",
+    "description": "Free Shipping with our free loyalty program. Be seen in pure performance comfort wearing Skechers 3 Pack Women's Reflective Performance Quarter Socks. This quarter length crew sock comes in 3 different colors with a gradient geo print and features a cushioned toe and heel, antimicrobial odor protect",
+    "h1": "3 Pack Women's Reflective Performance Quarter Socks",
+    "title": "3 Pack Women's Reflective Performance Quarter Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "25cbd666725c"
   },
   "https://www.skechers.com/3-pack-womens-slouch-socks/Z601249.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/3-pack-womens-slouch-socks/Z601249_WHT.html",
+    "description": "Free Shipping with our free loyalty program. Pair comfort and on-trend style together wearing Skechers 3 Pack Women's Slouch Socks. These white mid-calf socks feature fixed slouching, arch support, and a cushioned footbed.",
+    "h1": "3 Pack Women's Slouch Socks",
+    "title": "3 Pack Women's Slouch Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "a48b8f94afcd"
   },
   "https://www.skechers.com/30w-usb-c-car-charging-kit/ZK7046.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/30w-usb-c-car-charging-kit/ZK7046_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Power up in the fast lane with Skechers 30W USB-C Car Charging Kit. This USB-C to USB-C car charger delivers power up to 4 times faster than standard chargers and includes an auxiliary power outlet base and a 4-foot charge cable with durable braiding. Com",
+    "h1": "30W USB-C Car Charging Kit",
+    "title": "30W USB-C Car Charging Kit"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "02da1aa4655c"
   },
   "https://www.skechers.com/3m-scotchgard-work-shoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-05-20T22:42:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-05-20T22:42:09+00:00",
+   "seo": {
+    "canonical": "https://www.skechers.com/3m-scotchgard-work-shoes",
+    "description": "Work confidently in Skechers footwear featuring 3M Scotchgard. Get durable protection on the jobsite. Shop our work collection today!",
+    "h1": "3M Scotchgard Work Shoes",
+    "title": "3M Scotchgard Work Shoes | SKECHERS"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "11e75bd77968"
   },
   "https://www.skechers.com/4-wheeler---24k-gold/150502.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/4-wheeler---24k-gold/150502_GLD.html",
+    "description": "Free Shipping with our free loyalty program. Roll into your next adventure with retro vibes and a touch of glam in Skechers 4 Wheeler 24K Gold. This roller skate sneaker features a lace-up suede and duraleather upper with a glitter trim, Skechers Air-Cooled Memory Foam&reg; insole, and solid urethan",
+    "h1": "4 Wheeler - 24K Gold",
+    "title": "4 Wheeler - 24K Gold"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "1cd6c9e41087"
   },
   "https://www.skechers.com/5-pack-non-terry-solid-liner-socks/Z110703.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/5-pack-non-terry-solid-liner-socks/Z110703_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Find the perfect pair for invisible comfort in the Skechers 5 Pack of Women's Non Terry Solid Liner Socks. Soft poly knit fabric in a no-show liner-style sock with padded toe and stay-put heel pad.",
+    "h1": "5 Pack Non Terry Solid Liner Socks",
+    "title": "5 Pack Non Terry Solid Liner Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "bf51a9cefeb8"
   },
   "https://www.skechers.com/5-pack-non-terry-solid-liner-socks/Z110703_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/5-pack-non-terry-solid-liner-socks/Z110703_BLK.html",
+    "description": "Free Shipping with our free loyalty program. Find the perfect pair for invisible comfort in the Skechers 5 Pack of Women's Non Terry Solid Liner Socks. Soft poly knit fabric in a no-show liner-style sock with padded toe and stay-put heel pad.",
+    "h1": "5 Pack Non Terry Solid Liner Socks",
+    "title": "5 Pack Non Terry Solid Liner Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "bf51a9cefeb8"
   },
   "https://www.skechers.com/5-pack-womens-liner-socks/Z113836.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/5-pack-womens-liner-socks/Z113836_PNK.html",
+    "description": "Free Shipping with our free loyalty program. Less is more 5 days a week with Skechers 5 Pack Women's Liner Socks. This no-show shoe liner features mesh ventilation, a lightweight construction, and a stay-put heel pad.",
+    "h1": "5 Pack Women's Liner Socks",
+    "title": "5 Pack Women's Liner Socks"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "b4c44f60a682"
   },
   "https://www.skechers.com/6-pack-boys-no-show-socks/Z108264.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -904,7 +1028,7 @@
   },
   "https://www.skechers.com/6-pack-low-cut-non-terry-socks/Z112222.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:24+00:00"
+   "lastmod": "2026-09-29T13:06:52+00:00"
   },
   "https://www.skechers.com/6-pack-low-cut-non-terry-socks/Z112222_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -924,7 +1048,7 @@
   },
   "https://www.skechers.com/6-pack-mens-low-cut-texture-knit-socks/Z601841.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:31+00:00"
+   "lastmod": "2026-09-29T13:07:00+00:00"
   },
   "https://www.skechers.com/6-pack-mens-sneaker-liner-socks/Z117773.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -1036,15 +1160,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:04:00+00:00",
+   "lastmod": "2026-09-29T13:06:26+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/ace-performance-tank/TT118.html",
+    "canonical": "https://www.skechers.com/ace-performance-tank/TT118_GYLM.html",
     "description": "Free Shipping with our free loyalty program. Stay motivated in court-ready comfort wearing Skechers Performance&#153; Ace Performance Tank. This athletic style is made from our stretchy, moisture-wicking GO SCULPT&#153; fabric and features a scoop-neck front, a built-in shelf bra with removable cups",
     "h1": "Ace Performance Tank",
     "title": "Ace Performance Tank"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "1d726da8c75d"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "f96e90e86147"
   },
   "https://www.skechers.com/ace-performance-tank/TT118_BLGD.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -2082,10 +2206,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/bobs-cozy-kiss--%C2%A0boho-bliss/113667.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/bobs-cozy-kiss--%C2%A0wag-worthy/113666.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -2656,7 +2776,7 @@
   },
   "https://www.skechers.com/cinch-bag/SKSP7635.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:03:36+00:00"
+   "lastmod": "2026-09-29T13:05:57+00:00"
   },
   "https://www.skechers.com/citywalk-backpack/ZKH30192.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -2675,10 +2795,6 @@
    "lastmod": "2025-02-18T21:10:33+00:00"
   },
   "https://www.skechers.com/cleo-driver---power-couples/158812.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/cleo-driver---power-couples/158812_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -3060,7 +3176,7 @@
   },
   "https://www.skechers.com/collegiate-baseball-hat/ZBB56.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:33+00:00"
+   "lastmod": "2026-09-29T13:07:02+00:00"
   },
   "https://www.skechers.com/colors-of-life-tee/AWG047.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -3276,15 +3392,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:59+00:00",
+   "lastmod": "2026-09-29T13:05:15+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/cozy-luxe-1%2F4-zip/LT321.html",
+    "canonical": "https://www.skechers.com/cozy-luxe-1%2F4-zip/LT321_BUPK.html",
     "description": "Free Shipping with our free loyalty program. Enjoy a soft-to-the-touch everyday choice with Skechers Cozy Luxe 1/4 Zip. This mock neck 1/4 zip sweatshirt is made from our remarkably soft SKECHLUXE ELEVATE&#153; fabric and features long sleeves with piping detail and raglan seams.",
     "h1": "Cozy Luxe 1/4 Zip",
     "title": "Cozy Luxe 1/4 Zip"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "aa4b547ae727"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "8fd340c91817"
   },
   "https://www.skechers.com/cozy-luxe-crewneck/LT152.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -3332,14 +3448,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:44+00:00",
+   "lastmod": "2026-09-29T13:04:55+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-track-jacket/JA378_BLK.html",
     "description": "Free Shipping with our free loyalty program. Keep a clean sporty profile wearing Skechers Cozy Luxe Track Jacket. This full zip track jacket is made with our ultra soft SKECHLUXE Elevate&#153; double knit fabric and features a ribbed interior collar, cuffs, and bottom hem, front hand welt pockets, a",
     "h1": "Cozy Luxe Track Jacket",
     "title": "Cozy Luxe Track Jacket"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
+   "seo_checked": "2026-09-30T05:07:22Z",
    "seo_hash": "5ffccd37cd73"
   },
   "https://www.skechers.com/cozy-luxe-track-pant/PT320.html": {
@@ -3348,14 +3464,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:15+00:00",
+   "lastmod": "2026-09-29T13:05:34+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-track-pant/PT320_BLK.html",
     "description": "Free Shipping with our free loyalty program. Take it easy in premium comfort wearing Skechers Cozy Luxe Relaxed Pant. These wide-leg lounge pants are made from our remarkably soft SKECHLUXE ELEVATE&#153; fabric and feature a midrise waist with an elasticated comfort fit, front slash hand pockets, an",
     "h1": "Cozy Luxe Track Pant",
     "title": "Cozy Luxe Track Pant"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
+   "seo_checked": "2026-09-30T05:07:22Z",
    "seo_hash": "7bd8b96b67c5"
   },
   "https://www.skechers.com/cozy-luxe-tunic-jacket/JA352.html": {
@@ -3368,15 +3484,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:32+00:00",
+   "lastmod": "2026-09-29T13:04:43+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/cozy-luxe-velour-hoodie/HD74.html",
+    "canonical": "https://www.skechers.com/cozy-luxe-velour-hoodie/HD74_BLK.html",
     "description": "Free Shipping with our free loyalty program. Discover effortless everyday comfort with the Skechers Cozy Luxe Velour&#153; Hoodie. Crafted from our signature Cozy Luxe Velour&#153; fabric, this hooded pullover features long sleeves, banded cuffs and hem, and an adjustable drawcord hood. Part of a co",
     "h1": "Cozy Luxe Velour Hoodie",
     "title": "Cozy Luxe Velour Hoodie"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "da7d4e077e4b"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "56879a83c60b"
   },
   "https://www.skechers.com/cozy-luxe-velour-pant/PT178.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -3384,15 +3500,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:11+00:00",
+   "lastmod": "2026-09-29T13:05:30+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/cozy-luxe-velour-pant/PT178.html",
+    "canonical": "https://www.skechers.com/cozy-luxe-velour-pant/PT178_BLK.html",
     "description": "Free Shipping with our free loyalty program. Discover effortless everyday comfort with the Skechers Cozy Luxe Velour&#153; Pant. Crafted from our signature Cozy Luxe Velour&#153; fabric, this mid-rise pant features an elastic waistband and on-seam pockets. Part of a coordinating apparel collection.",
     "h1": "Cozy Luxe Velour Pant",
     "title": "Cozy Luxe Velour Pant"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "215886093400"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "a5e7dbabd6ea"
   },
   "https://www.skechers.com/creature-splash---bugtacular/402121L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -3822,6 +3938,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/edgeride--%C2%A0zonverdex/404803L.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/edgeride--%C2%A0zonverdex/404803WL_BBK.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/edgeride---rekze/404801L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -3924,7 +4048,7 @@
   },
   "https://www.skechers.com/essential-backpack/ZKCH8442.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:43+00:00"
+   "lastmod": "2026-09-29T13:07:14+00:00"
   },
   "https://www.skechers.com/essential-backpack/ZKCH8442_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -4092,6 +4216,10 @@
   },
   "https://www.skechers.com/foamies-go-walk-7---joyous/111482_BKW.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/foamies-go-walk-7---joyous/111482_NVW.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/foamies-go-walk-7---joyous/111482_TPE.html": {
@@ -4582,12 +4710,32 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-29T13:05:04+00:00",
+   "seo": {
+    "canonical": "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115_NVY.html",
+    "description": "Free Shipping with our free loyalty program. Keep your style smooth and your comfort dry wearing Skechers GO DRI&reg; All Day Long Sleeve Tee. This monochromatic long-sleeve crewneck features our soft moisture-wicking and quick-drying GO DRI&reg; All Day fabric with flatlock seams for a sleek and po",
+    "h1": "GO DRI All Day Long Sleeve Tee",
+    "title": "GO DRI All Day Long Sleeve Tee"
+   },
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "cd084411e098"
+  },
   "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115B.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115B_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115_NVY.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/go-dri-all-day-muscle-tank/TT135.html": {
@@ -4764,15 +4912,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:48+00:00",
+   "lastmod": "2026-09-29T13:06:12+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-dri-swift-tee/TS104.html",
+    "canonical": "https://www.skechers.com/go-dri-swift-tee/TS104_WTPK.html",
     "description": "Free Shipping with our free loyalty program. Enjoy mindful yoga sessions and laid-back weekends wearing Skekchers GO DRI Swift&#153; Tee. This go-to crew neck tee is made from our soft moisture-wicking and quick-drying GO DRI&reg; SWIFT fabric and features a curved hem and reflective details.",
     "h1": "GO DRI Swift Tee",
     "title": "GO DRI Swift Tee"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "5d8b88ba8750"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "53b3b3128db1"
   },
   "https://www.skechers.com/go-dri-swift-tee/TS104_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -4820,15 +4968,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:51+00:00",
+   "lastmod": "2026-09-29T13:05:04+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-flex-full-length-high-waisted-fleece-legging/LG99.html",
+    "canonical": "https://www.skechers.com/go-flex-full-length-high-waisted-fleece-legging/LG99_BRCT.html",
     "description": "Free Shipping with our free loyalty program. Bring warmth to your cold-weather workouts with Skechers GO FLEX Full-Length High-Waisted Fleece Legging. This active high-waisted legging is made from our moisture-wicking GO FLEX Brushed&#153; performance knit and features a fleece-lined interior, a dou",
     "h1": "GO FLEX Full-Length High-Waisted Fleece Legging",
     "title": "GO FLEX Full-Length High-Waisted Fleece Legging"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "260c7fef58a2"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "62e7f240081f"
   },
   "https://www.skechers.com/go-flex-harmony-8-inch-bike-short/SH244.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -4836,15 +4984,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:25+00:00",
+   "lastmod": "2026-09-29T13:05:46+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-flex-harmony-8-inch-bike-short/SH244.html",
+    "canonical": "https://www.skechers.com/go-flex-harmony-8-inch-bike-short/SH244_NVY.html",
     "description": "Free Shipping with our free loyalty program. Sweat it out in style with Skechers GO FLEX Harmony&#153; 8 Inch Short. This fitted pair of active shorts is made from our breathable GO FLEX Harmony&#153; fabric and features a double-layer comfort waistband and exterior pockets.",
     "h1": "GO Flex Harmony 8 Inch Bike Short",
     "title": "GO Flex Harmony 8 Inch Bike Short"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "9587df9613e8"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "a64ea0cbbd91"
   },
   "https://www.skechers.com/go-flex-harmony-fl-hw-legging/LG113.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -4856,15 +5004,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:46+00:00",
+   "lastmod": "2026-09-29T13:04:57+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-flex-harmony-full-zip-jacket/JA501.html",
+    "canonical": "https://www.skechers.com/go-flex-harmony-full-zip-jacket/JA501_NVY.html",
     "description": "Free Shipping with our free loyalty program. Stay active throughout the day in lightweight stylish comfort wearing Skechers GO FLEX Harmony&#153; Full Zip Jacket. This easy mock-neck layer is made from our breathable GO FLEX Harmony&#153; fabric and features a zippered front with a bungee hair tie p",
     "h1": "GO FLEX Harmony Full Zip Jacket",
     "title": "GO FLEX Harmony Full Zip Jacket"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "df11b9e264e4"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "45dddba7a8d3"
   },
   "https://www.skechers.com/go-flex-harmony-pant/PT372.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5050,10 +5198,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/go-luxe-rib-1%2F4-zip/LT116_CHBK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/go-luxe-rib-jacket/JA293.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -5079,10 +5223,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/go-run-consistent-2.0--%C2%A0mapleton/128651_GRY.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/go-run-consistent-2.0--%C2%A0mapleton/128651_WHT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -5296,15 +5436,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:23+00:00",
+   "lastmod": "2026-09-29T13:05:44+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-stretch-ultra-performance-7-inch-short/SH172.html",
+    "canonical": "https://www.skechers.com/go-stretch-ultra-performance-7-inch-short/SH172_CCNV.html",
     "description": "Free Shipping with our free loyalty program. Go the distance in stylish performance wearing Skechers GO STRETCH&#153; Ultra Performance 7 Inch Short. This lightweight performance short is made from our quick-drying, active 4-way GO STRETCH&#153; Ultra fabric and features a button fly front, hand poc",
     "h1": "GO STRETCH Ultra Performance 7 Inch Short",
     "title": "GO STRETCH Ultra Performance 7 Inch Short"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "8df516c9aa18"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "32adb3007022"
   },
   "https://www.skechers.com/go-stretch-ultra-performance-7-inch-short/SH172_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5368,7 +5508,7 @@
   },
   "https://www.skechers.com/go-walk-8-inch-walk-short/W2SH40.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:13+00:00"
+   "lastmod": "2026-09-29T13:06:40+00:00"
   },
   "https://www.skechers.com/go-walk-8-inch-walk-short/W2SH40_BLMV.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5572,15 +5712,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:46+00:00",
+   "lastmod": "2026-09-29T13:04:57+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-walk-diamond-jacket---cozy-fit/JA496.html",
+    "canonical": "https://www.skechers.com/go-walk-diamond-jacket---cozy-fit/JA496_TPBR.html",
     "description": "Free Shipping with our free loyalty program. Indulge in effortless style and luxe comfort with the versatile Skechers GO WALK&#153; Diamond Jacket - Cozy Fit&#153;. This zip-front style is made from our stretchy SKECH-KNIT Diamond&#153; fabric and features allover quilting, a mock-neck collar, and w",
     "h1": "GO WALK Diamond Jacket - Cozy Fit",
     "title": "GO WALK Diamond Jacket - Cozy Fit"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "9c911807be5d"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "f42dc22fac7f"
   },
   "https://www.skechers.com/go-walk-everywhere-1%2F4-snap-pullover/LT377.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5612,15 +5752,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:34+00:00",
+   "lastmod": "2026-09-29T13:04:45+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/go-walk-everywhere-full-zip-jacket/JA138.html",
+    "canonical": "https://www.skechers.com/go-walk-everywhere-full-zip-jacket/JA138_DEN.html",
     "description": "Free Shipping with our free loyalty program. Enjoy lightweight performance comfort wearing Skechers GO WALK Everywhere Full Zip Jacket. This mock neck design is made from our 4-way stretch SKECHWEAVE&#153; fabric and features zipped hand pockets and an interior chest pocket with branded rivet.",
     "h1": "GO WALK Everywhere Full Zip Jacket",
     "title": "GO WALK Everywhere Full Zip Jacket"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "6638f2ea1c32"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "a9ff239e2114"
   },
   "https://www.skechers.com/go-walk-everywhere-jacket/W3JA261.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5771,10 +5911,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/go-walk-flex-sandal---impressed/141420.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/go-walk-flex-sandal---impressed/141420_BKGY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -6178,40 +6314,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/godri-all-day-long-sleeve-tee/LT115.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": "2026-09-28T13:02:52+00:00",
-   "seo": {
-    "canonical": "https://www.skechers.com/godri-all-day-long-sleeve-tee/LT115_NVY.html",
-    "description": "Free Shipping with our free loyalty program. Keep your style smooth and your comfort dry wearing Skechers GO DRI&reg; All Day Long Sleeve Tee. This monochromatic long-sleeve crewneck features our soft moisture-wicking and quick-drying GO DRI&reg; All Day fabric with flatlock seams for a sleek and po",
-    "h1": "Godri All Day Long Sleeve Tee",
-    "title": "Godri All Day Long Sleeve Tee"
-   },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "e7adad046f7e"
-  },
-  "https://www.skechers.com/godri-all-day-long-sleeve-tee/LT115_NVY.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/godri-all-day-thermal-1%2F2-zip/LT292.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "http": {
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:58+00:00",
+   "lastmod": "2026-09-29T13:05:14+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/godri-all-day-thermal-1%2F2-zip/LT292_BLK.html",
     "description": "Free Shipping with our free loyalty program. Good-natured comfort and style combine in Skechers Performance&#153; GO DRI All Day&#153; Thermal 1/4 Zip. This mock-neck pullover features our lightweight GO DRI All Day&#153; jersey fabric with woven overlay at the chest, a 1/4-zip front, and a zippered",
     "h1": "Godri All Day Thermal 1/2 Zip",
     "title": "Godri All Day Thermal 1/2 Zip"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
+   "seo_checked": "2026-09-30T05:07:22Z",
    "seo_hash": "527e14f72dbc"
   },
   "https://www.skechers.com/goga-max-sandals": {
@@ -6252,15 +6368,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:11+00:00",
+   "lastmod": "2026-09-29T13:05:31+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/gostretch-ultra-performance-pant-classic/PT199.html",
+    "canonical": "https://www.skechers.com/gostretch-ultra-performance-pant-classic/PT199_BKCC.html",
     "description": "Free Shipping with our free loyalty program. Tee up in polished style that moves with you wearing Skechers GO STRETCH&#153; Ultra Performance Pant Classic. This straight leg design is made from our innovative GO STRETCH&#153; Ultra fabric and features a functional fly with button closure, belt loops",
     "h1": "GoStretch Ultra Performance Pant Classic",
     "title": "GoStretch Ultra Performance Pant Classic"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "0d6c56bd7055"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "c265ec3e8ad9"
   },
   "https://www.skechers.com/gostretch-ultra-performance-pant-classic/PT199_BKCC.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -7020,7 +7136,7 @@
   },
   "https://www.skechers.com/hydration-18-oz.-tumbler/SKHY0026.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:03:35+00:00"
+   "lastmod": "2026-09-29T13:05:57+00:00"
   },
   "https://www.skechers.com/hydration-18-oz.-tumbler/SKHY0026_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -8062,6 +8178,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/max-cushioning-endeavour/220613_DKGY.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/max-cushioning-endeavour/220613_GRY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -8674,8 +8794,8 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/microspec-plus---swirl-sweet/303535L_BKMT.html": {
-   "first_seen": "2026-09-27T05:05:38Z",
+  "https://www.skechers.com/microspec-plus---swirl-sweet/303535L_GYMT.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/microspec-plus---swirl-sweet/303535L_PWMT.html": {
@@ -8980,15 +9100,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:04:03+00:00",
+   "lastmod": "2026-09-29T13:06:28+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/on-the-court-tank/TT168.html",
+    "canonical": "https://www.skechers.com/on-the-court-tank/TT168_PRBL.html",
     "description": "Free Shipping with our free loyalty program. Top off your best workout looks with Skechers On The Court Tank. This double-layered racerback tank is made from our stretchy, moisture-wicking GO SCULPT&#153; fabric and features a built-in shelf bra with removable Air-Cooled Memory Foam&reg; cup and a h",
     "h1": "On The Court Tank",
     "title": "On The Court Tank"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "01eea087844d"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "292b4d161952"
   },
   "https://www.skechers.com/on-the-go-600---preferred/15304.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -9228,15 +9348,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:04:34+00:00",
+   "lastmod": "2026-09-29T13:07:03+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/pacer-run-hat/198739500073.html",
+    "canonical": "https://www.skechers.com/pacer-run-hat/ZCM6_WLPR.html",
     "description": "Free Shipping with our free loyalty program. Go the distance in style with Skechers Pacer Run Hat. This performance runner's hat is made from a moisture-wicking fabric and features color-blocked paneling with side air vents, an adjustable buckled back strap, and the SKX&reg; logo in front.",
     "h1": "Pacer Run Hat",
     "title": "Pacer Run Hat"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "a21e4320a10b"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "9adc80d2f910"
   },
   "https://www.skechers.com/paloma---fierce-formation/185294.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -9492,14 +9612,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:43+00:00",
+   "lastmod": "2026-09-29T13:04:54+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/premier-deuce-jacket/JA342_NVY.html",
     "description": "Free Shipping with our free loyalty program. Enjoy lightweight performance comfort wearing Skechers Performance&#153; Premier Deuce Jacket. This mock neck design is made from our 4-way stretch SKECHWEAVE&#153; fabric and features zipped hand pockets and an interior chest pocket with branded rivet.",
     "h1": "Premier Deuce Jacket",
     "title": "Premier Deuce Jacket"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
+   "seo_checked": "2026-09-30T05:07:22Z",
    "seo_hash": "7847c535c123"
   },
   "https://www.skechers.com/premier-deuce-jacket/JA342_NVY.html": {
@@ -9620,6 +9740,14 @@
   },
   "https://www.skechers.com/quilted-shopper-tote/SKCHD368_PLUM.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/quilted-tote-bag/SKCHD860.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/quilted-tote-bag/SKCHD860_BLK.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/racer-baseball-hat/ZBB82.html": {
@@ -10022,12 +10150,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/relaxed-fit-easy-going---seasonal-grace/169104.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/relaxed-fit-easy-going---sweet-behavior/169114.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/relaxed-fit-easy-going---sweet-talkin/159606.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/relaxed-fit-easy-going---urban-zip/168188.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/relaxed-fit-easy-going---warm-emotions/168210.html": {
@@ -10226,6 +10362,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/relaxed-fit-reggae-fest---willows-vibe/158861_NVY.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/relaxed-fit-relment---daggett/204642.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -10372,6 +10512,10 @@
   },
   "https://www.skechers.com/relaxed-fit-viper-court-rally/246110_WHT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/relaxed-fit-waterproof-corado---emerson/205954.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/relaxed-fit-waterproof-on-the-go-stellar---meadow/144746.html": {
@@ -10560,7 +10704,7 @@
   },
   "https://www.skechers.com/round-rhinestone-sunglasses/ZE9093.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:37+00:00"
+   "lastmod": "2026-09-29T13:07:08+00:00"
   },
   "https://www.skechers.com/round-shiny-sunglasses/ZE00291.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -10700,6 +10844,14 @@
   },
   "https://www.skechers.com/s-lights-flex-glow%C2%A0ultra/400139N_BLMT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-flex-glow-elite/400135N.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-flex-glow-elite/400135N_BBLM.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/s-lights-flex-glow-ultra---prism-pacer/400141L.html": {
@@ -11206,6 +11358,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": "2023-12-07T22:44:28+00:00"
   },
+  "https://www.skechers.com/shopper-d-ring-bag/SKCHD517.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/shopper-d-ring-bag/SKCHD517_OLV.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/shopper-d-ring-pocket-bag/SKCD3459.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -11256,7 +11416,7 @@
   },
   "https://www.skechers.com/single-loop-backpack/SKCHD483.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:03:34+00:00"
+   "lastmod": "2026-09-29T13:05:56+00:00"
   },
   "https://www.skechers.com/single-loop-backpack/SKCHD483_LGTQ.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -11307,10 +11467,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/skech-fast%C2%A0ice/403878L.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skech-fast%C2%A0ice/403878L_BLU.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -11408,15 +11564,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:59+00:00",
+   "lastmod": "2026-09-29T13:05:14+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/skechcloud-lounge-1%2F4-zip/LT300.html",
+    "canonical": "https://www.skechers.com/skechcloud-lounge-1%2F4-zip/LT300_CCNV.html",
     "description": "Free Shipping with our free loyalty program. Wrap up in ultimate softness and all-day comfort with Skechers SKECHCLOUD Lounge&#153; 1/4 Zip. Made from our SKECHCLOUD Lounge&#153; fabric, this long-sleeve pullover features a quarter-zip mock neck, security zip pocket, and a Skechers Performance&#153;",
     "h1": "SKECHCLOUD Lounge 1/4 Zip",
     "title": "SKECHCLOUD Lounge 1/4 Zip"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "e5e48c89d162"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "27e2afd6045d"
   },
   "https://www.skechers.com/skechdream-hoodie/HD101.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -11828,15 +11984,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:15+00:00",
+   "lastmod": "2026-09-29T13:05:35+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/skechers-fleece-jogger/PT369.html",
+    "canonical": "https://www.skechers.com/skechers-fleece-jogger/PT369_OFWT.html",
     "description": "Free Shipping with our free loyalty program. Get up and moving in athletic comfort wearing Skechers Fleece Jogger. Made from our breathable SKECH-SWEATS&#153; Fleece fabric and features a mid-rise elastic waistband and hem.",
     "h1": "Skechers Fleece Jogger",
     "title": "Skechers Fleece Jogger"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "594b06183166"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "44fd0dbc7874"
   },
   "https://www.skechers.com/skechers-free-run-baseball-hat/ZBB154.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -11978,14 +12134,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-meteor-lights---krendox/401495L.html": {
-   "first_seen": "2026-09-29T05:06:47Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-meteor-lights---krendox/401495L_CCGY.html": {
-   "first_seen": "2026-09-29T05:06:47Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-monster-eyes-trucker-hat/ZKCH3303.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -12072,7 +12220,7 @@
   },
   "https://www.skechers.com/skechers-razor-2-academy-fg/252167.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:54:29+00:00"
+   "lastmod": "2026-09-29T12:56:07+00:00"
   },
   "https://www.skechers.com/skechers-razor-2-academy-tf/252170.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -12080,11 +12228,11 @@
   },
   "https://www.skechers.com/skechers-razor-2-academy-tf/252171.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:54:31+00:00"
+   "lastmod": "2026-09-29T12:56:08+00:00"
   },
   "https://www.skechers.com/skechers-razor-2-elite-ag/252165.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:54:29+00:00"
+   "lastmod": "2026-09-29T12:56:06+00:00"
   },
   "https://www.skechers.com/skechers-razor-2-elite-fg/252160.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -12100,7 +12248,7 @@
   },
   "https://www.skechers.com/skechers-razor-2-jr-youth-ic/252175L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:54:31+00:00"
+   "lastmod": "2026-09-29T12:56:08+00:00"
   },
   "https://www.skechers.com/skechers-razor-2-jr-youth-ic/252180L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -13274,6 +13422,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos---solid-step/118312_SLT.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos---stroke-of-luck/117498.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -13324,14 +13476,6 @@
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117497_RED.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117500.html": {
-   "first_seen": "2026-09-26T05:05:40Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117500_BLK.html": {
-   "first_seen": "2026-09-26T05:05:40Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117504.html": {
@@ -14778,6 +14922,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-flex---azriel/125523_GYLB.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-flex---azriel/125523_NVPK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -14810,10 +14958,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-flex---grand-entry/124836W_BBK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-flex---grand-entry/124836W_BKW.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -14828,10 +14972,6 @@
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-flex---grand-entry/124836_BKW.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-flex---grand-entry/124836_TPE.html": {
-   "first_seen": "2026-09-26T05:05:40Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-flex---hands-up/216324.html": {
@@ -15170,6 +15310,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-joy---cozy-fit-dream/125742_BLK.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-massage-fit-sandal---confetti-sky/140590.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -15322,14 +15466,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-now---payton/216375.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-now---payton/216375_GRY.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-now---urgent/216946.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -15398,15 +15534,7 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-golf-waterproof-flow-si---twist-fit/123149_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-golf-waterproof-flow-si---twist-fit/123149_LGPK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-golf-waterproof-flow-si---twist-fit/123149_WNT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -15479,10 +15607,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-hillcrest---sunapee/180016W_BRN.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-hillcrest---sunapee/180016W_DKTP.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -15799,14 +15923,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-mark-nason%C2%A0street-cup---deen/211148_TPE.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-mark-nason-a-wedge---enzie/177698.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-mark-nason-a-wedge---enzie/177698_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -16208,6 +16324,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-max-cushioning-glide-step---advert/220421_BLOR.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-max-cushioning-glide-step---advert/220421_GYBK.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-max-cushioning-glide-step---advert/404207L.html": {
@@ -17318,10 +17438,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-santoro---serge/205465.html": {
-   "first_seen": "2026-09-27T05:05:38Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-slade---luther/211389.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -17572,7 +17688,7 @@
   },
   "https://www.skechers.com/skechers-slip-ins-retro-lite---oshare/104783.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:27:48+00:00"
+   "lastmod": "2026-09-29T12:28:37+00:00"
   },
   "https://www.skechers.com/skechers-slip-ins-retro-lite---oshare/104783_MUST.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -17791,14 +17907,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-stamina-sport---cozy-fit-elegant-ease/150782_NAT.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-stamina-sport---instant-icon/150715.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-stamina-sport---instant-icon/150715_SIL.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -18218,10 +18326,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-uno-glide-step---air-gliders/190115_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-uno-glide-step---air-gliders/190115_PNK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18486,6 +18590,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-summits---best-choice/150199.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-waterproof-summits---corbos/232962.html": {
    "first_seen": "2026-09-26T05:05:40Z",
    "lastmod": null
@@ -18728,7 +18836,7 @@
   },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-summits---colsin/200205.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:44:46+00:00"
+   "lastmod": "2026-09-29T12:46:00+00:00"
   },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-summits---colsin/200205W_BBK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -18832,15 +18940,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:56+00:00",
+   "lastmod": "2026-09-29T13:06:21+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/skechers-vapor-tee/TS315.html",
+    "canonical": "https://www.skechers.com/skechers-vapor-tee/TS315_NVY.html",
     "description": "Free Shipping with our free loyalty program. Run in streamlined comfort and safety wearing Skechers GO RUN&reg; Vapor Tee. This crewneck running tee is made from our quick-drying GO DRI VAPOR&#153; fabric and features flatlock seams for frictionless wear, twin reflective details at the back, and a S",
     "h1": "SKECHERS VAPOR TEE",
     "title": "SKECHERS VAPOR TEE"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "8e2e95778da5"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "e88ae6f10087"
   },
   "https://www.skechers.com/skechers-vapor-tee/TS315_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -18912,15 +19020,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:56+00:00",
+   "lastmod": "2026-09-29T13:05:11+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/skechluxe-elevate-performance-crew/LT223.html",
+    "canonical": "https://www.skechers.com/skechluxe-elevate-performance-crew/LT223_BLMV.html",
     "description": "Free Shipping with our free loyalty program. Bring some cozy comfort to your workout routine wearing Skechers SKECHLUXE Elevate&#153; Performance Crew. This super soft sweatshirt is made from our premium SKECHLUXE Elevate&#153; fabric and features a ribbed neckband, raglan sleeve seams, and Skechers",
     "h1": "SKECHLUXE Elevate Performance Crew",
     "title": "SKECHLUXE Elevate Performance Crew"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "4dd2a7877671"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "f5a392d1bcc3"
   },
   "https://www.skechers.com/skechluxe-elevate-short/SH119.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -18936,15 +19044,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:31+00:00",
+   "lastmod": "2026-09-29T13:04:42+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/skechtech-fleece-pace-hoodie/HD159.html",
+    "canonical": "https://www.skechers.com/skechtech-fleece-pace-hoodie/HD159_NVY.html",
     "description": "Free Shipping with our free loyalty program. Add essential comfort to your daily rotation with Skechers SkechTech Fleece Pace Hoodie. This hooded pullover sweatshirt is made with our breathable SkechTech Fleece fabric and features a kangaroo pocket, self bottom hem and sleeve cuffs, plus a Skechers ",
     "h1": "SkechTech Fleece Pace Hoodie",
     "title": "SkechTech Fleece Pace Hoodie"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "7f762c16fd19"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "34783fba4cf3"
   },
   "https://www.skechers.com/skechtech-rally-hoodie/HD123.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -18960,7 +19068,7 @@
   },
   "https://www.skechers.com/skechweave-diamond-colorblocked-hat/SKCH5003.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:03:31+00:00"
+   "lastmod": "2026-09-29T13:05:52+00:00"
   },
   "https://www.skechers.com/skechweave-diamond-colorblocked-hat/SKCH5003_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -19432,7 +19540,7 @@
   },
   "https://www.skechers.com/square-soft-touch-sunglasses/ZE00279.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:35+00:00"
+   "lastmod": "2026-09-29T13:07:05+00:00"
   },
   "https://www.skechers.com/square-soft-touch-sunglasses/ZE00279_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -19752,15 +19860,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:43+00:00",
+   "lastmod": "2026-09-29T13:06:06+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/stride-performance-tee/TP162.html",
+    "canonical": "https://www.skechers.com/stride-performance-tee/TP162_SLPR.html",
     "description": "Free Shipping with our free loyalty program. Find your new work-out staple in Skechers Stride Performance Tee. This lightweight short sleeve tee is made from our moisture-wicking and quick-drying GO DRI STRIDE&#153; fabric and features a crew neck, raglan sleeves, and reflective detail at the should",
     "h1": "Stride Performance Tee",
     "title": "Stride Performance Tee"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "384c9fa133c4"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "bb519b5463d5"
   },
   "https://www.skechers.com/stride-performance-tee/TP162_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -20332,14 +20440,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:03:24+00:00",
+   "lastmod": "2026-09-29T13:05:45+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/tempo-4-inch-run-short/SH202_BLK.html",
     "description": "Free Shipping with our free loyalty program. Go the distance in stylish performance wearing Skechers Performance&#153; Tempo 4 Inch Run Short. This pair of performance running shorts features our quick-drying, active 4-way SKECHWEAVE&#153; fabric with an adjustable interior drawcord and a built-in l",
     "h1": "Tempo 4 Inch Run Short",
     "title": "Tempo 4 Inch Run Short"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
+   "seo_checked": "2026-09-30T05:07:22Z",
    "seo_hash": "c38cb0b3687a"
   },
   "https://www.skechers.com/tempo-4-inch-run-short/SH202_BLK.html": {
@@ -20360,15 +20468,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:25+00:00",
+   "lastmod": "2026-09-29T13:04:35+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/tempo-bra/BR57.html",
+    "canonical": "https://www.skechers.com/tempo-bra/BR57_BLK.html",
     "description": "Free Shipping with our free loyalty program. Stay motivated in supportive comfort and sleek style wearing Skechers Tempo Bra. This racerback sports bra is made from our supportive GO SCULPT&#153; fabric and features contoured bra pads with adjustable branded straps and an adjustable hook & eye back ",
     "h1": "Tempo Bra",
     "title": "Tempo Bra"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "ce4d21e3d06e"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "dec6fd13d792"
   },
   "https://www.skechers.com/tempo-bra/BR57_BLGD.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -20440,15 +20548,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:02:40+00:00",
+   "lastmod": "2026-09-29T13:04:51+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/the-hoodless-hoodie-ottoman-jacket/JA25.html",
+    "canonical": "https://www.skechers.com/the-hoodless-hoodie-ottoman-jacket/JA25_STOL.html",
     "description": "Free Shipping with our free loyalty program. Zip into soft and warm comfort with the Skechers Hoodless Hoodie&#153; Ottoman Jacket. This zip-up outerwear design features our SOFT-KNIT&#153; jersey rib with the perfect amount of stretch and front hand pockets.",
     "h1": "The Hoodless Hoodie Ottoman Jacket",
     "title": "The Hoodless Hoodie Ottoman Jacket"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "efa6f22dd6e2"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "651bfab14350"
   },
   "https://www.skechers.com/the-hoodless-hoodie-ottoman-jacket/JA25_BKCC.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -20832,15 +20940,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:04:32+00:00",
+   "lastmod": "2026-09-29T13:07:01+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/university-baseball-hat/196989295718.html",
+    "canonical": "https://www.skechers.com/university-baseball-hat/ZBB14_NVY.html",
     "description": "Free Shipping with our free loyalty program. Top off your look with clean collegiate style in the Skechers University Baseball Hat. This monochromatic baseball cap features a cotton body with stitching accents, a bold Skechers patch front, and an adjustable snap back closure.",
     "h1": "University Baseball Hat",
     "title": "University Baseball Hat"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "e92ce3b4b884"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "064598230fdd"
   },
   "https://www.skechers.com/university-baseball-hat/ZBB14_NVY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -20891,10 +20999,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/uno---stand-on-air/52458_BBK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/uno---stand-on-air/52458_RDS.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -20963,14 +21067,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/uno---suited-on-air/183004_WNVR.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/uno---vintage-air/183365.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/uno---vintage-air/183365_TPE.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -21436,7 +21532,7 @@
   },
   "https://www.skechers.com/washed-triple-s-hat/ZKCH3159.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T13:04:40+00:00"
+   "lastmod": "2026-09-29T13:07:10+00:00"
   },
   "https://www.skechers.com/waterproof-arch-fit-road-walker---vernal/237688.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -21500,7 +21596,7 @@
   },
   "https://www.skechers.com/waterproof-go-golf-jasmine-2-gf/123099.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:31:55+00:00"
+   "lastmod": "2026-09-29T12:32:45+00:00"
   },
   "https://www.skechers.com/waterproof-go-golf-jasmine-2-gf/123099_BKPK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -21531,10 +21627,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/waterproof-go-golf-tempo/214127.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/waterproof-go-golf-tempo/214127WW_BKW.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -22262,10 +22354,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/work-arch-fit-slip-resistant---angis-comp-toe/200134_BKCC.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/work-arch-fit-summits-plus-slip-resistant/108427.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -22482,10 +22570,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/work-relaxed-fitreg-dighton-sr/77111_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/work-rotund---darragh-st/108055.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -22636,7 +22720,7 @@
   },
   "https://www.skechers.com/work-slip-resistant-relaxed-fit-max-cushioning-elite/108016.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-28T12:27:58+00:00"
+   "lastmod": "2026-09-29T12:28:47+00:00"
   },
   "https://www.skechers.com/work-slip-resistant-relaxed-fit-max-cushioning-elite/108016W_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -22846,6 +22930,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/zinger-evo--%C2%A0zen-daze/190167.html": {
+   "first_seen": "2026-09-30T05:07:22Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/zinger-evo---world-striker/190153.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -22856,15 +22944,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-28T13:04:47+00:00",
+   "lastmod": "2026-09-29T13:07:19+00:00",
    "seo": {
-    "canonical": "https://www.skechers.com/zoom-visor/199025699495.html",
+    "canonical": "https://www.skechers.com/zoom-visor/ZVI7_WHT.html",
     "description": "Free Shipping with our free loyalty program. Keep your cool in signature style with Skechers Performance&#153; Zoom Visor. This monochromatic sports visor is made from our moisture-wicking SKECHWEAVE&#153; fabric and features an elasticized backstrap closure, a pre-curved bill, and a Skechers Perfor",
     "h1": "Zoom Visor",
     "title": "Zoom Visor"
    },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "35c259a128ee"
+   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_hash": "043c698a38f9"
   }
  }
 }

@@ -5,10 +5,10 @@
     {
      "baseline_at": "2026-09-24T08:34:55Z",
      "domain": "www.nike.com/il",
-     "last_checked": "2026-09-29T05:06:47Z",
+     "last_checked": "2026-09-30T05:07:22Z",
      "last_counts": {
-      "added": 33,
-      "removed": 44
+      "added": 17,
+      "removed": 3
      },
      "name": "Nike",
      "notes": [],
@@ -16,12 +16,12 @@
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 14085
+     "total_urls": 14099
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.newbalance.co.il/en",
-     "last_checked": "2026-09-29T05:06:47Z",
+     "last_checked": "2026-09-30T05:07:22Z",
      "last_counts": {
       "updated": 1
      },
@@ -36,7 +36,7 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.asics.com/us/en-us",
-     "last_checked": "2026-09-29T05:06:47Z",
+     "last_checked": "2026-09-30T05:07:22Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -51,10 +51,12 @@
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.reebok.com",
-     "last_checked": "2026-09-29T05:06:47Z",
+     "last_checked": "2026-09-30T05:07:22Z",
      "last_counts": {
+      "added": 8,
+      "removed": 7,
       "seo_changed": 2,
-      "updated": 5686
+      "updated": 5691
      },
      "name": "Reebok",
      "notes": [
@@ -64,16 +66,17 @@
      "sitemaps_fetched": 8,
      "slug": "reebok",
      "status": "ok",
-     "total_urls": 6026
+     "total_urls": 6027
     },
     {
      "baseline_at": "2026-09-25T11:29:53Z",
      "domain": "www.skechers.com",
-     "last_checked": "2026-09-29T05:06:47Z",
+     "last_checked": "2026-09-30T05:07:22Z",
      "last_counts": {
-      "added": 3,
-      "removed": 10,
-      "updated": 51
+      "added": 24,
+      "removed": 32,
+      "seo_changed": 24,
+      "updated": 50
      },
      "name": "Skechers",
      "notes": [],
@@ -81,13 +84,13 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5472
+     "total_urls": 5464
     }
    ],
    "id": "client-a",
    "name": "Client A"
   }
  ],
- "generated_at": "2026-09-29T05:06:47Z",
+ "generated_at": "2026-09-30T05:07:22Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
