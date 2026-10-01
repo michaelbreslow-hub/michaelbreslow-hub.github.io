@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-09-30T07:10:04Z",
+  "last_run": "2026-10-01T05:07:14Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -1608,43 +1608,163 @@
   },
   "https://www.nike.com/il/a/at-home-hiit-workouts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/at-home-hiit-workouts",
+    "description": "Freshen up your fitness by putting together your own routine.",
+    "h1": "3 Simple Tips for an At-Home HIIT Workout",
+    "title": "3 Easy Ways to Create Your Own HIIT Workouts. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "a44827ef87d5"
   },
   "https://www.nike.com/il/a/at-home-yoga-for-beginners": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/at-home-yoga-for-beginners",
+    "description": "An in-home yoga practice is an easy and inexpensive way for beginner yogis to get started. Here's everything you need to get started.",
+    "h1": "How To Start a Yoga Practice at Home | Beginner's Guide by Nike",
+    "title": "At-Home Yoga for Beginners. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "9a35bf5b6186"
   },
   "https://www.nike.com/il/a/athletes-cookbook-aubergine-pizza": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/athletes-cookbook-aubergine-pizza",
+    "description": "This episode of Athlete’s Cookbook features a free-range aubergine pizza. Chef Kia Damon walks the Team USA track star, Colleen Quigley, through the recipe.",
+    "h1": "Athlete's Cookbook: Colleen Quigley Kneads to Win",
+    "title": "Athlete’s Cookbook: Colleen Quigley’s Aubergine Pizza . Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "a917e24a5fc1"
   },
   "https://www.nike.com/il/a/athletes-cookbook-darrell-hill": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/athletes-cookbook-darrell-hill",
+    "description": "A pro shot-putter struggling with food intolerances \"rediscovers his power\" with chef Kia Damon's grain-free congee.",
+    "h1": "Athlete's Cookbook: Darrell Hill Finds His Cauli-Power",
+    "title": "Athlete’s Cookbook: Darrell Hill Finds His Cauli-Power . Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "43cfe458e395"
   },
   "https://www.nike.com/il/a/athletes-cookbook-ibtihaj-muhammads-shakshuka-shake-up": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/athletes-cookbook-ibtihaj-muhammads-shakshuka-shake-up",
+    "description": "When the Team USA fencer gets nostalgic for her favourite place, chef Kia Damon shows her how to remix Moroccan flavours at home.",
+    "h1": "Athlete's Cookbook: Ibtihaj Muhammad's Shakshuka Shake-Up",
+    "title": "Athlete’s Cookbook: Ibtihaj Muhammad’s Shakshuka Shake-Up . Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "0877d3aca18f"
   },
   "https://www.nike.com/il/a/athletes-cookbook-salmon-bowl": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/athletes-cookbook-salmon-bowl",
+    "description": "This episode of Athlete’s Cookbook offers up a macro-packed salmon bowl. Chef Kia Damon walks the Second-Fittest Man on Earth, Noah Ohlsen, through the recipe.",
+    "h1": "Athlete's Cookbook: Noah Ohlsen's MOD (Meal of the Day)",
+    "title": "Athlete’s Cookbook: Noah Ohlsen’s Macro-Packed Salmon Bowl. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "811b36318a1c"
   },
   "https://www.nike.com/il/a/author-david-epstein-on-why-you-should-diversify-your-skills": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/author-david-epstein-on-why-you-should-diversify-your-skills",
+    "description": "The New York Times best-selling author of “Range” and “The Sports Gene” explains how exposing yourself to multiple skills, subjects or sports — versus specialising in one — can lead to greater success.",
+    "h1": "Trained Podcast: Diversify Your Strengths With David Epstein",
+    "title": "Why You Should Diversify Your Skills, According to Author David Epstein. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "123185ba7e79"
   },
   "https://www.nike.com/il/a/author-safiya-noble-on-finding-the-truth-online": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/author-safiya-noble-on-finding-the-truth-online",
+    "description": "The author of “Algorithms of Oppression” explains how Big Tech and media advertisers affect what you see when you search for answers online — and what you can do to find better information IRL too.",
+    "h1": "Trained Podcast: Search for Answers Online With Safiya Noble",
+    "title": "How to Get Real Answers Online, According to Author Safiya Noble . Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "9a07a2ebfc23"
   },
   "https://www.nike.com/il/a/author-simon-sinek-motivates-us-to-unlock-our-potential": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/author-simon-sinek-motivates-us-to-unlock-our-potential",
+    "description": "In this episode of the “Trained” podcast, author Simon Sinek explains how identifying a clear purpose — your “why” — can unlock your full potential in sport, work and life.",
+    "h1": "Trained Podcast: Find Your \"Why\" With Simon Sinek",
+    "title": "Trained Podcast: Find Your \"Why\" With Simon Sinek. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "0e1c1b8b5deb"
   },
   "https://www.nike.com/il/a/ava-rover-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/ava-rover-release-info",
+    "description": "A durable sneaker enhanced with Nike Running shoe technology, the Ava Rover is the smart choice for navigating unpredictable city streets.",
+    "h1": "Introducing the Nike Ava Rover: The Ultimate Footwear for Urban Experiences",
+    "title": "Introducing the Nike Ava Rover: the ultimate footwear for urban experiences. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "664a9f619e44"
   },
   "https://www.nike.com/il/a/back-muscle-anatomy-exercises": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -8786,6 +8906,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/launch/t/air-jordan-4-j-balvin-amazonas": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/air-jordan-4-j-balvin-amazonas",
+    "description": null,
+    "h1": "Air Jordan 4 x J Balvin",
+    "title": "Air Jordan 4 x J Balvin 'Amazonas' (IW2872-700) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "0a26b640ec95"
+  },
   "https://www.nike.com/il/launch/t/air-jordan-4-london-black-and-dark-smoke-grey-iv6048-001-release-date-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14127,6 +14263,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/acg-dolomiti-womens-trousers-rM2i3okX": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-dolomiti-womens-trousers-rM2i3okX",
+    "description": "Find the ACG Dolomiti Women's Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG Dolomiti",
+    "title": "ACG Dolomiti Women's Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "72f1012e9325"
+  },
   "https://www.nike.com/il/t/acg-five-towers-mens-uv-protective-jacket-JEaqlSMo": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14683,6 +14835,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/air-force-1-low-lv8-older-kids-shoes-y3Dmih59": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-force-1-low-lv8-older-kids-shoes-y3Dmih59",
+    "description": "Find the Nike Air Force 1 Low LV8 Older Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Force 1 Low LV8",
+    "title": "Nike Air Force 1 Low LV8 Older Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "29f88db794a9"
+  },
   "https://www.nike.com/il/t/air-force-1-low-retro-premium-mens-shoes-AexDdJkl": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14830,6 +14998,22 @@
   "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-9p2sxHqT": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-GtSJuX8V": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-GtSJuX8V",
+    "description": "Find the Air Jordan 1 Low SE Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan 1 Low SE",
+    "title": "Air Jordan 1 Low SE Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "5763e2d5c94f"
   },
   "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-LLj3YXEa": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -14990,6 +15174,22 @@
   "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-Fxadxoyj": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-GcAOk77h": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-GcAOk77h",
+    "description": "Find the Air Jordan 1 Mid SE Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan 1 Mid SE",
+    "title": "Air Jordan 1 Mid SE Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "4ddf8c461ff6"
   },
   "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-H1o5xegI": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -15170,6 +15370,22 @@
   "https://www.nike.com/il/t/air-jordan-ultra-mens-shoes-2Ly1nHSP": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-jordan-ultra-mens-shoes-i94cnpyC": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-ultra-mens-shoes-i94cnpyC",
+    "description": "Find the Air Jordan Ultra Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan Ultra",
+    "title": "Air Jordan Ultra Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "5e7963f967d5"
   },
   "https://www.nike.com/il/t/air-jordan-ultra-se-mens-shoes-WcgBaJFa": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -15807,9 +16023,41 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/article-fleece-womens-oversized-dress-EYuLtWUA": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/article-fleece-womens-oversized-dress-EYuLtWUA",
+    "description": "Find the Nike Article Fleece Women's Oversized Dress at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Article Fleece",
+    "title": "Nike Article Fleece Women's Oversized Dress. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "76ebb36b23e9"
+  },
   "https://www.nike.com/il/t/article-fleece-womens-oversized-full-zip-hoodie-jP8iwlVL": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/article-fleece-womens-oversized-hoodie-A8iO174z": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/article-fleece-womens-oversized-hoodie-A8iO174z",
+    "description": "Find the Nike Article Fleece Women's Oversized Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Article Fleece",
+    "title": "Nike Article Fleece Women's Oversized Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "9bda935d50d5"
   },
   "https://www.nike.com/il/t/article-fleece-womens-oversized-long-sleeve-top-FH3PXGso": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16519,6 +16767,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/cd-guadalajara-2026-27-stadium-away-mens-nike-dri-fit-football-replica-shirt-37wtH3Gk": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/cd-guadalajara-2026-27-stadium-away-mens-nike-dri-fit-football-replica-shirt-37wtH3Gk",
+    "description": "Find the C.D. Guadalajara 2026/27 Stadium Away Men's Nike Dri-FIT Football Replica Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "C.D. Guadalajara 2026/27 Stadium Away",
+    "title": "C.D. Guadalajara 2026/27 Stadium Away Men's Nike Dri-FIT Football Replica Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "ef10dab654ff"
+  },
   "https://www.nike.com/il/t/cd-guadalajara-2026-27-stadium-home-mens-nike-dri-fit-football-replica-shirt-yKI8oWFR": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16530,6 +16794,22 @@
   "https://www.nike.com/il/t/charge-2-football-shinguards-0nTgmr1p": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/charge-football-shinguards-MFtBhV": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/charge-football-shinguards-MFtBhV",
+    "description": "Find the Nike Charge Football Shinguards at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Charge",
+    "title": "Nike Charge Football Shinguards. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "36b33add25e9"
   },
   "https://www.nike.com/il/t/charge-kids-football-shinguards-LFpt0r": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16775,9 +17055,41 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-dri-fit-football-knit-drill-top-y5ZSagIS": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-dri-fit-football-knit-drill-top-y5ZSagIS",
+    "description": "Find the Chelsea F.C. Strike Third Men's Nike Dri-FIT Football Knit Drill Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Chelsea F.C. Strike Third",
+    "title": "Chelsea F.C. Strike Third Men's Nike Dri-FIT Football Knit Drill Top. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "c67d7b08f738"
+  },
   "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-dri-fit-total-90-football-knit-pants-hMWGLW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-football-dri-fit-short-sleeved-top-YH2CeTEg": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-football-dri-fit-short-sleeved-top-YH2CeTEg",
+    "description": "Find the Chelsea F.C. Strike Third Men's Nike Football Dri-FIT Short-Sleeved Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Chelsea F.C. Strike Third",
+    "title": "Chelsea F.C. Strike Third Men's Nike Football Dri-FIT Short-Sleeved Top. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "4c2a904332d0"
   },
   "https://www.nike.com/il/t/chelsea-fc-strike-third-older-kids-nike-dri-fit-football-knit-drill-top-xv5uoVwJ": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16890,6 +17202,22 @@
   "https://www.nike.com/il/t/chicago-bulls-icon-edition-mens-nike-nba-swingman-shorts-zj9gxC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/chicago-bulls-icon-womens-nba-t-shirt-KUZSUhNY": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-icon-womens-nba-t-shirt-KUZSUhNY",
+    "description": "Find the Chicago Bulls Icon Women's NBA T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Icon",
+    "title": "Chicago Bulls Icon Women's NBA T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "5695a97f931b"
   },
   "https://www.nike.com/il/t/chicago-bulls-mens-basketball-t-shirt-aiqSgQ8C": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -17238,6 +17566,22 @@
   "https://www.nike.com/il/t/court-borough-mid-baby-toddler-shoes-GPTgnV4A": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/court-court-collection-womens-oversized-long-sleeve-tennis-top-Fy3FJgch": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/court-court-collection-womens-oversized-long-sleeve-tennis-top-Fy3FJgch",
+    "description": "Find the Nike Court Court Collection Women's Oversized Long-Sleeve Tennis Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeCourt Court Collection",
+    "title": "Nike Court Court Collection Women's Oversized Long-Sleeve Tennis Top. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "46223cfabf45"
   },
   "https://www.nike.com/il/t/court-heritage-se-stitched-floral-womens-shoes-PiceUOI5": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -20011,6 +20355,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-brooklyn-fleece-womens-1-4-zip-top-mO2ZSLYT": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-fleece-womens-1-4-zip-top-mO2ZSLYT",
+    "description": "Find the Jordan Brooklyn Fleece Women's 1/4-Zip Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn Fleece",
+    "title": "Jordan Brooklyn Fleece Women's 1/4-Zip Top. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "2094dd0d852e"
+  },
   "https://www.nike.com/il/t/jordan-brooklyn-fleece-womens-big-shorts-PafLHbat": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20179,6 +20539,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-brooklyn-mens-realtree-jacket-JkJIegut": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-mens-realtree-jacket-JkJIegut",
+    "description": "Find the Jordan Brooklyn Men's Realtree Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Men's Realtree Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "fc3f8e150468"
+  },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-realtree-open-hem-trousers-a87WCjFm": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20298,6 +20674,22 @@
   "https://www.nike.com/il/t/jordan-brooklyn-mens-woven-cargo-shorts-K99WuQJd": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-brooklyn-mens-woven-cargo-trousers-YFzYAMME": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-mens-woven-cargo-trousers-YFzYAMME",
+    "description": "Find the Jordan Brooklyn Men's Woven Cargo Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Men's Woven Cargo Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "eba97b626951"
   },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-woven-realtree-trousers-4qeHNGwl": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -20426,6 +20818,22 @@
   "https://www.nike.com/il/t/jordan-court-connect-mid-older-kids-shoes-hO56XoO8": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-dmsn-95-mens-shoes-tbPViJn9": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-dmsn-95-mens-shoes-tbPViJn9",
+    "description": "Find the Jordan DMSN 95 Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan DMSN 95",
+    "title": "Jordan DMSN 95 Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "445941c9f9ba"
   },
   "https://www.nike.com/il/t/jordan-elite-crew-socks-1-pair-dvmyIlm0": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -21094,6 +21502,22 @@
   "https://www.nike.com/il/t/jordan-sport-hoop-fleece-mens-dri-fit-full-zip-hoodie-aKn4kXef": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-sport-hoop-fleece-mens-dri-fit-trousers-6agrCJPV": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-sport-hoop-fleece-mens-dri-fit-trousers-6agrCJPV",
+    "description": "Find the Jordan Sport Hoop Fleece Men's Dri-FIT Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Sport Hoop Fleece",
+    "title": "Jordan Sport Hoop Fleece Men's Dri-FIT Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "e72ac84ccd9d"
   },
   "https://www.nike.com/il/t/jordan-sport-hoop-fleece-mens-dri-fit-trousers-JsqY6Ifa": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -22083,6 +22507,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/los-angeles-lakers-icon-womens-nba-t-shirt-awR8BjuE": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-icon-womens-nba-t-shirt-awR8BjuE",
+    "description": "Find the Los Angeles Lakers Icon Women's NBA T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Icon",
+    "title": "Los Angeles Lakers Icon Women's NBA T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "d18701960c33"
+  },
   "https://www.nike.com/il/t/los-angeles-lakers-mens-basketball-t-shirt-OmKwBbug": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -22806,6 +23246,22 @@
   "https://www.nike.com/il/t/miler-older-kids-boys-knit-running-trousers-z3lcudTI": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/miler-older-kids-boys-short-sleeve-top-YWAlplPm": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/miler-older-kids-boys-short-sleeve-top-YWAlplPm",
+    "description": "Find the Nike Miler Older Kids' (Boys') Short-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Miler",
+    "title": "Nike Miler Older Kids' (Boys') Short-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "af9fc182a1e3"
   },
   "https://www.nike.com/il/t/miler-older-kids-boys-short-sleeve-top-eIR6YYvK": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -24143,6 +24599,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/one-girls-sports-bra-dx0zcz": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/one-girls-sports-bra-dx0zcz",
+    "description": "Find the Nike One Girls' Sports Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike One",
+    "title": "Nike One Girls' Sports Bra. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "656fb9480c3a"
+  },
   "https://www.nike.com/il/t/one-older-kids-girls-dri-fit-12-5cm-approx-biker-shorts-qpR1pM": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25043,6 +25515,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/peak-older-kids-beanie-e9UPPYvW": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/peak-older-kids-beanie-e9UPPYvW",
+    "description": "Find the Nike Peak Older Kids' Beanie at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Peak",
+    "title": "Nike Peak Older Kids' Beanie. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "fc253a0b4d96"
+  },
   "https://www.nike.com/il/t/peak-tall-cuff-holiday-beanie-RCNE5Sw7": {
    "first_seen": "2026-09-29T05:06:47Z",
    "lastmod": null
@@ -25279,14 +25767,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/pre-game-fleece-womens-oversized-dress-EYuLtWUA": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/pre-game-fleece-womens-oversized-hoodie-A8iO174z": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/pre-game-fleece-womens-oversized-mid-rise-shorts-RlXwxG1y": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25311,10 +25791,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/premier-mens-football-knit-trousers-ACpdHKxv": {
-   "first_seen": "2026-09-30T05:07:22Z",
+  "https://www.nike.com/il/t/premier-mens-football-knit-pants-ACpdHKxv": {
+   "first_seen": "2026-10-01T05:07:14Z",
    "http": {
-    "redirect": "https://www.nike.com/il/t/premier-mens-football-knit-pants-ACpdHKxv",
+    "redirect": null,
     "status": 200
    },
    "lastmod": null,
@@ -25324,7 +25804,7 @@
     "h1": "Nike Premier",
     "title": "Nike Premier Men's Football Knit Pants. Nike IL"
    },
-   "seo_checked": "2026-09-30T05:07:22Z",
+   "seo_checked": "2026-10-01T05:07:14Z",
    "seo_hash": "5372dbcb5072"
   },
   "https://www.nike.com/il/t/premier-repel-mens-football-hooded-woven-tracksuit-jacket-ImIYzYaH": {
@@ -26350,6 +26830,22 @@
   "https://www.nike.com/il/t/sportswear-air-max-older-kids-boys-fleece-pullover-hoodie-If4JLxy4": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-air-max-older-kids-boys-t-shirt-5zKW3j7i": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-air-max-older-kids-boys-t-shirt-5zKW3j7i",
+    "description": "Find the Nike Sportswear Air Max Older Kids' (Boys') T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear Air Max",
+    "title": "Nike Sportswear Air Max Older Kids' (Boys') T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "a47f26d24842"
   },
   "https://www.nike.com/il/t/sportswear-airreverent-womens-low-rise-shorts-24o68noz": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27543,6 +28039,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-womens-oversized-plaid-high-pile-fleece-jacket-Jj8tvEjb": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-oversized-plaid-high-pile-fleece-jacket-Jj8tvEjb",
+    "description": "Find the Nike Sportswear Women's Oversized Plaid High-Pile Fleece Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Plaid High-Pile Fleece Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "6d19fe279ad6"
+  },
   "https://www.nike.com/il/t/sportswear-womens-oversized-satin-top-JlyA7nAg": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -27686,6 +28198,22 @@
   "https://www.nike.com/il/t/sportswear-womens-tight-graphic-tank-top-Ar4B8O5Q": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-womens-tight-long-sleeve-off-shoulder-top-JZlydjCx": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-tight-long-sleeve-off-shoulder-top-JZlydjCx",
+    "description": "Find the Nike Sportswear Women's Tight Long-Sleeve Off-Shoulder Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Tight Long-Sleeve Off-Shoulder Top. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "c1788d88590f"
   },
   "https://www.nike.com/il/t/sportswear-womens-tight-off-shoulder-long-sleeve-top-QV0QMXUy": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -28142,6 +28670,22 @@
   "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-crew-neck-sweatshirt-UG5RCSXV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-crew-u9xEmd1v": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-crew-u9xEmd1v",
+    "description": "Find the Nike Studio Fleece Medium Weight Women's Oversized Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Studio Fleece Medium Weight",
+    "title": "Nike Studio Fleece Medium Weight Women's Oversized Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "ceeef8e0a952"
   },
   "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-full-zip-cropped-hoodie-aN9JLZVG": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -29243,6 +29787,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/v5-rnr-e-baby-toddler-shoes-UOIdQmE3": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/v5-rnr-e-baby-toddler-shoes-UOIdQmE3",
+    "description": "Find the Nike V5 RNR E Baby & Toddler Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike V5 RNR E",
+    "title": "Nike V5 RNR E Baby & Toddler Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "f160b6bd803f"
+  },
   "https://www.nike.com/il/t/v5-rnr-mens-shoes-Z8qzBS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29306,6 +29866,22 @@
    },
    "seo_checked": "2026-09-25T05:05:45Z",
    "seo_hash": "9e2a302ae8bd"
+  },
+  "https://www.nike.com/il/t/v5-rnr-younger-kids-shoes-qw6bFjEr": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/v5-rnr-younger-kids-shoes-qw6bFjEr",
+    "description": "Find the Nike V5 RNR Younger Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike V5 RNR",
+    "title": "Nike V5 RNR Younger Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_hash": "5985cf3689d5"
   },
   "https://www.nike.com/il/t/v5-runner-suede-younger-kids-shoes-rSdkUaZr": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -30653,6 +31229,10 @@
   },
   "https://www.nike.com/il/w/best-running-jackets-gilets-37v7jz50r7yz76m50": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/best-running-lightweight-shoes-37v7jz3k5ikz76m50zy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
    "lastmod": null
   },
   "https://www.nike.com/il/w/best-running-rain-jackets-1j0e2z37v7jz76m50": {
@@ -36611,6 +37191,34 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/lightweight-golf-bags-3k5ikz6q9f": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/lightweight-hoodies-sweatshirts-3k5ikz6rive": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/lightweight-shoes-3k5ikzy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/lightweight-shorts-38fphz3k5ik": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/lightweight-tops-t-shirts-3k5ikz9om13": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/lightweight-tracksuits-1ll2wz3k5ik": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/lightweight-trousers-tights-2kq19z3k5ik": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/w/lithuania-4rf4d": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -38515,6 +39123,14 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/mens-lightweight-hoodies-sweatshirts-3k5ikz6riveznik1": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/mens-lightweight-shoes-3k5ikznik1zy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/w/mens-long-sleeve-shirts-4cvaeznik1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -39201,6 +39817,10 @@
   },
   "https://www.nike.com/il/w/mens-running-jackets-gilets-37v7jz50r7yznik1": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/mens-running-lightweight-shoes-37v7jz3k5ikznik1zy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
    "lastmod": null
   },
   "https://www.nike.com/il/w/mens-running-lined-shorts-37v7jz38fphz3fxwaznik1": {
@@ -43007,6 +43627,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/running-lightweight-shoes-37v7jz3k5ikzy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/w/running-lined-shorts-37v7jz38fphz3fxwa": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -44939,6 +45563,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/womens-best-running-lightweight-shoes-37v7jz3k5ikz5e1x6z76m50zy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/w/womens-best-running-shoes-37v7jz5e1x6z76m50zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -46233,6 +46861,10 @@
   },
   "https://www.nike.com/il/w/womens-light-support-sports-bras-2tijaz40qgmz5e1x6": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/w/womens-lightweight-shoes-3k5ikz5e1x6zy7ok": {
+   "first_seen": "2026-10-01T05:07:14Z",
    "lastmod": null
   },
   "https://www.nike.com/il/w/womens-long-sleeve-shirts-4cvaez5e1x6": {
