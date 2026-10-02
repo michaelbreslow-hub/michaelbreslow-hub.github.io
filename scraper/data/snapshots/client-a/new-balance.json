@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-01T05:07:14Z",
+  "last_run": "2026-10-02T05:06:40Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-30T11:00:03+00:00",
+   "lastmod": "2026-10-01T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-01T05:07:14Z",
+   "seo_checked": "2026-10-02T05:06:40Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -1308,39 +1308,147 @@
   },
   "https://www.newbalance.co.il/en/shop/Tennis_shoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-11-05T07:47:34+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-11-05T07:47:34+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Tennis_shoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Tennis shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Tennis shoes",
+    "title": "Tennis shoes - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "28ae352220c0"
   },
   "https://www.newbalance.co.il/en/shop/Trail": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-11T11:43:03+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-11T11:43:03+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Trail",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Trail, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Trail",
+    "title": "Trail - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "761fad1fc2e2"
   },
   "https://www.newbalance.co.il/en/shop/Triple%20Black": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-12T07:05:17+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-12T07:05:17+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Triple%20Black",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Triple Black, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Triple Black",
+    "title": "Triple Black - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "b272363ee34f"
   },
   "https://www.newbalance.co.il/en/shop/U204L_Sale": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-24T06:42:33+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-24T06:42:33+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/U204L_Sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 204L Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "204L Sale",
+    "title": "204L Sale - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "dbb09f6820a8"
   },
   "https://www.newbalance.co.il/en/shop/Woman_health_day": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:12:26+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:12:26+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Woman_health_day",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על יום בריאות האשה, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "יום בריאות האשה",
+    "title": "יום בריאות האשה - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "df557b9f9f01"
   },
   "https://www.newbalance.co.il/en/shop/Women_winter_collection": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-11T09:03:47+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-11T09:03:47+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Women_winter_collection",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Women winter collection, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Women winter collection",
+    "title": "Women winter collection - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "3a5270760672"
   },
   "https://www.newbalance.co.il/en/shop/club": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T06:18:24+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T06:18:24+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/club",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על NB Club, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "NB Club",
+    "title": "NB Club - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "720bb66a0f2f"
   },
   "https://www.newbalance.co.il/en/shop/kids": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-06T07:47:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-06T07:47:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Kids, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Kids",
+    "title": "Kids - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "0a58c7d17ce8"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-06T07:47:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-06T07:47:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOES, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOES",
+    "title": "SHOES - New Balance"
+   },
+   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_hash": "0c6e32fdc1b5"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/Allshoes": {
    "first_seen": "2026-09-25T11:29:53Z",
