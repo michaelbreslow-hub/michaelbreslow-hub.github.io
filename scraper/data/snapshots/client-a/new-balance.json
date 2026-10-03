@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-02T05:06:40Z",
+  "last_run": "2026-10-03T05:06:03Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-01T11:00:03+00:00",
+   "lastmod": "2026-10-02T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-02T05:06:40Z",
+   "seo_checked": "2026-10-03T05:06:03Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -1452,39 +1452,147 @@
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/Allshoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-06T07:47:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-06T07:47:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes/Allshoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על All Shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "All Shoes",
+    "title": "All Shoes - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "c651e4c11be8"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/Infants": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:55:48+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:55:48+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes/Infants",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Infants (Size: 4-10), צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Infants (Size: 4-10)",
+    "title": "Infants (Size: 4-10) - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "59bbe5c6c7bd"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/Kids": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-06T07:47:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-06T07:47:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes/Kids",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Kids (Size:10.5-3), צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Kids (Size:10.5-3)",
+    "title": "Kids (Size:10.5-3) - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "3fb6048bf8e4"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/kids-lifestyle": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-06T07:47:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-06T07:47:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes/kids-lifestyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Lifestyle, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Lifestyle",
+    "title": "Lifestyle - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "1fb11cd75a50"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/kids-running": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:54:13+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:54:13+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes/kids-running",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Running, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "5569fb76e01c"
   },
   "https://www.newbalance.co.il/en/shop/kids/Shoes/youth": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:56:04+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:56:04+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/Shoes/youth",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Youth (Size 3.5-7), צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Youth (Size 3.5-7)",
+    "title": "Youth (Size 3.5-7) - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "d9149503c8c1"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-13T11:16:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-13T11:16:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOP BY STYLE, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "da54109aa120"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-530": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-08-21T11:30:46+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-08-21T11:30:46+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-530",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 530, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "530",
+    "title": "530 - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "c48da8e59529"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-9060": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-09-21T13:16:13+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-09-21T13:16:13+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-9060",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 9060, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "9060",
+    "title": "9060 - New Balance"
+   },
+   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_hash": "fa22af9efbdf"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-327": {
    "first_seen": "2026-09-25T11:29:53Z",
