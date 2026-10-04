@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-03T05:06:03Z",
+  "last_run": "2026-10-04T10:58:27Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -2088,43 +2088,163 @@
   },
   "https://www.nike.com/il/a/bebe-vio": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bebe-vio",
+    "description": "Paralympic champion and Nike athlete Bebe Vio has redefined the meaning of victory. Learn more about Bebe and her unique style.",
+    "h1": "Bebe Vio",
+    "title": "Nike athlete: Bebe Vio. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "cdd63a5cea44"
   },
   "https://www.nike.com/il/a/bebe-vio-new-belonging": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bebe-vio-new-belonging",
+    "description": "It’s a summer of sport. But wheelchair fencer Bebe Vio doesn’t see two events. She has a vision for one. Where athletes of every ability share the biggest stage together.",
+    "h1": "New Belonging: Bebe Vio",
+    "title": "New Belonging. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "0a09f648de15"
   },
   "https://www.nike.com/il/a/beginner-yoga-poses": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/beginner-yoga-poses",
+    "description": "Yoga can help you build strength and improve your mobility. Here are seven basic yoga poses for beginners.",
+    "h1": "The 7 Best Beginner-friendly Yoga Poses, According to Yoga Instructors",
+    "title": "The 7 Best Yoga Poses for Beginners, According to Yoga Instructors. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "af343d4030ae"
   },
   "https://www.nike.com/il/a/beginners-guide-to-yoga-inversions": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/beginners-guide-to-yoga-inversions",
+    "description": "An inversion is any pose that puts your head below your heart. Try these four easy approaches to help you get more comfortable with inversions — and reap the mental and physical benefits.",
+    "h1": "Yoga Inversions: A Beginner's Guide",
+    "title": "The Beginner’s Guide to Yoga Inversions. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "60c254b0f92e"
   },
   "https://www.nike.com/il/a/behind-the-design-cosmic-unity": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/behind-the-design-cosmic-unity",
+    "description": "The Cosmic Unity basketball shoe, designed with at least 25% recycled material, is the next step in Nike's vision of a zero waste future. Read the full story and go behind the design.",
+    "h1": "Cosmic Unity: Behind the Design",
+    "title": "Cosmic Unity: Behind the Design. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "9bfe52ba6830"
   },
   "https://www.nike.com/il/a/bench-press-muscles-worked": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bench-press-muscles-worked",
+    "description": "To make the most of a bench press and strengthen the intended muscle groups, follow these trainer-approved tips.",
+    "h1": "Everything You Need to Know About Barbell Bench Presses, According to Trainers",
+    "title": "What Muscles Do Bench Presses Work?. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "ed71e9a4b3c8"
   },
   "https://www.nike.com/il/a/benefits-of-accountability-partners-for-goals": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-accountability-partners-for-goals",
+    "description": "Got a training or wellness goal in mind? Getting an accountability partner, or a person who is committed to helping you reach your goal, can help guarantee success. Learn how to find one and nurture the relationship so you both win big.",
+    "h1": "Get Yourself an Accountability Partner",
+    "title": "Why You Need an Accountability Partner to Hit Your Goals. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "1aa06d5c5016"
   },
   "https://www.nike.com/il/a/benefits-of-aerial-yoga": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-aerial-yoga",
+    "description": "This workout will get your blood pumping and help you access a range of yoga postures.",
+    "h1": "4 Benefits of Aerial Yoga, According to Certified Yoga Instructors",
+    "title": "4 Benefits of Aerial Yoga . Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "f3b9efb9e394"
   },
   "https://www.nike.com/il/a/benefits-of-blue-light-glasses": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-blue-light-glasses",
+    "description": "Doctors explain how the protective eyewear may shield you from eye strain.",
+    "h1": "3 potential benefits of wearing blue-light glasses",
+    "title": "3 potential benefits of wearing blue-light glasses. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "ad399cf014f9"
   },
   "https://www.nike.com/il/a/benefits-of-butternut-squash": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-butternut-squash",
+    "description": "A qualified dietitian explains four key benefits of squash.",
+    "h1": "4 Reasons Why You Should Eat More Squash",
+    "title": "The Benefits of Squash, According to a Qualified Dietitian. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "4004c781dc96"
   },
   "https://www.nike.com/il/a/benefits-of-cycling": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -10918,6 +11038,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/launch/t/kobe-8-protro-mambacurial-red-plum-and-pink-flash": {
+   "first_seen": "2026-10-04T10:58:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/kobe-8-protro-mambacurial-red-plum-and-pink-flash",
+    "description": null,
+    "h1": "Kobe 8 Protro 'Mambacurial'",
+    "title": "Kobe 8 Protro 'Mambacurial' 'Red Plum and Pink Flash' (IO6253-500) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "b6e29f442d66"
+  },
   "https://www.nike.com/il/launch/t/kobe-8-protro-siempre-mio-twine-and-baroque-brown": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14451,10 +14587,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/academy-mens-repel-football-woven-jacket-CtohV5QV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/academy-older-kids-dri-fit-football-pants-xDbsVc": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14719,6 +14851,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/acg-older-kids-phantazama-jacket-oL0JLO7C": {
+   "first_seen": "2026-10-04T10:58:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-older-kids-phantazama-jacket-oL0JLO7C",
+    "description": "Find the ACG Older Kids' Phantazama Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG",
+    "title": "ACG Older Kids' Phantazama Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "695232a2c97d"
+  },
   "https://www.nike.com/il/t/acg-older-kids-pullover-hoodie-M0BZVqRS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14752,10 +14900,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/acg-phantazma-mens-storm-fit-adv-jacket-XDcjLve8": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/acg-phantazma-older-kids-jacket-oL0JLO7C": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -15032,10 +15176,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/afc-richmond-2026-stadium-home-older-kids-nike-dri-fit-football-replica-shirt-s2BN2aj0": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/afc-richmond-2026-stadium-home-womens-nike-dri-fit-football-replica-shirt-FPb328Yu": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -15419,10 +15559,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-jordan-1-low-se-craft-older-kids-shoes-MeRN5ZRj": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-34cA2FUB": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -15479,19 +15615,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-jordan-1-low-se-older-kids-shoes-4CK0pXuO": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-jordan-1-low-se-older-kids-shoes-7N0psfw8": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-jordan-1-low-se-older-kids-shoes-8Gg3h0Uo": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-jordan-1-low-se-older-kids-shoes-BzNPg0Jr": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -17959,10 +18083,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/club-mens-1-2-zip-jacket-XQt7GHBM": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/club-mens-basketball-t-shirt-5ApGIaQG": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19183,10 +19303,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/fc-barcelona-academy-pro-older-kids-nike-dri-fit-football-knit-tracksuit-UMtKGqdN": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/fc-barcelona-away-mens-kobe-dri-fit-football-anthem-jacket-wXX7Ugce": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19216,10 +19332,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/fc-barcelona-away-older-kids-kobe-football-woven-jacket-Nj1oBUzm": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/fc-barcelona-away-older-kids-kobe-football-woven-pants-6GbDUBHD": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -20351,10 +20463,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/heritage-sweep-backpack-25l-Pgw7YoKI": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/heritage-sweep-backpack-25l-ZTY5dNXm": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -21167,10 +21275,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-brooklyn-mens-fleece-realtree-trousers-J369Xo09": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-football-top-U8VGpZpM": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -21308,10 +21412,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-realtree-t-shirt-L08UeSU6": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-brooklyn-mens-realtree-t-shirt-sfZalcYQ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -21944,10 +22044,6 @@
    "seo_hash": "7cee7d4d2fc6"
   },
   "https://www.nike.com/il/t/jordan-flight-womens-t-shirt-VMKcNxAf": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-flight-womens-t-shirt-dress-Ncf3w84D": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -23139,13 +23235,25 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/kobe-mambacurial-mens-basketball-jersey-ntGqEYW7": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/kobe-mambacurial-mens-basketball-t-shirt-xPxxctqR": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/kobe-mambacurial-mens-football-shirt-ntGqEYW7": {
+   "first_seen": "2026-10-04T10:58:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/kobe-mambacurial-mens-football-shirt-ntGqEYW7",
+    "description": "Find the Kobe Mambacurial Men's Football Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Kobe Mambacurial",
+    "title": "Kobe Mambacurial Men's Football Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "64705ee2be2b"
   },
   "https://www.nike.com/il/t/kobe-mens-2-in-1-basketball-shorts-7sU0smmt": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -23164,10 +23272,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/kobe-mens-dri-fit-fleece-pullover-basketball-hoodie-0TiKMkGX": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/kobe-mens-dri-fit-fleece-pullover-basketball-hoodie-XmhMxcVT": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -25039,10 +25143,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/nikelab-running-flash-womens-high-waisted-leggings-with-no-front-seam-AQZmMln8": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/nikelab-running-flash-womens-therma-fit-gilet-VRJTENff": {
    "first_seen": "2026-10-02T05:06:40Z",
    "http": {
@@ -26116,10 +26216,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/paris-saint-germain-academy-pro-older-kids-nike-dri-fit-football-knit-pants-uEqK2vKE": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/paris-saint-germain-academy-pro-older-kids-nike-dri-fit-football-knit-tracksuit-mB61gjeP": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -27919,10 +28015,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-athletic-older-kids-boys-oversized-pullover-hoodie-uovBOrNG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-chill-jersey-womens-tight-high-waisted-capri-leggings-Cqgn6w8i": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -28539,10 +28631,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-older-kids-boys-oversized-pullover-hoodie-LYvMD7ID": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-older-kids-boys-t-shirt-MxbYwjF0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -28664,10 +28752,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-older-kids-girls-skort-4gEcIxrH": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-older-kids-girls-slim-cropped-t-shirt-EVeQHJ92": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29272,10 +29356,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-womens-t-shirt-rvTUmv7k": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-t-shirt-xVoSmqzj": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30299,10 +30379,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/tennis-essential-baby-toddler-shoes-G1hBUPSx": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/tennis-essential-baby-toddler-trainers-iFiYN8LS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30792,10 +30868,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/united-tiempo-maestro-elite-firm-ground-low-top-football-boots-wkgPwXqQ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/universa-womens-2-in-1-12-5cm-approx-shorts-U96YseXI": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -31591,19 +31663,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/womens-long-sleeve-full-zip-jacket-EvVFsqmG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/womens-short-sleeve-golf-polo-LrZLws": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/womens-therma-fit-basketball-performance-hoodie-YC9X3UzU": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/wool-classics-short-sleeve-t-shirt-lXm1R5": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -31711,22 +31775,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/zoom-skylon-11-mens-shoes-with-reflective-design-accents-hQzkbJZH": {
-   "first_seen": "2026-10-02T05:06:40Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/zoom-skylon-11-shoes-elNvIP4s": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/zoom-skylon-11-womens-shoes-with-reflective-design-accents-BXccjSw1": {
-   "first_seen": "2026-10-03T05:06:03Z",
+  "https://www.nike.com/il/t/zoom-skylon-11-mens-shoes-elNvIP4s": {
+   "first_seen": "2026-10-04T10:58:27Z",
    "http": {
     "redirect": null,
-    "status": 404
+    "status": 200
    },
    "lastmod": null,
-   "seo_checked": "2026-10-03T05:06:03Z"
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/zoom-skylon-11-mens-shoes-elNvIP4s",
+    "description": "Find the Nike Zoom Skylon 11 Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Zoom Skylon 11",
+    "title": "Nike Zoom Skylon 11 Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_hash": "16b86c43dce6"
   },
   "https://www.nike.com/il/t/zoom-vapor-12-prm-mens-clay-court-tennis-shoes-fEhBGxEJ": {
    "first_seen": "2026-09-24T08:34:55Z",
