@@ -7,6 +7,21 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-10-05T05:19:00Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Jordan Spizike Low",
+    "title": "Jordan Spizike Low Women's Realtree Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/jordan-spizike-low-womens-realtree-shoes-NmXU49Pe"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-10-04T10:58:27Z",
    "lastmod": null,
    "page": {
@@ -3993,6 +4008,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 1,
+    "keyword_hits": 1
+   },
+   "date": "2026-10-05T05:19:00Z",
+   "status": "ok",
+   "total_urls": 11679
+  },
   {
    "counts": {
     "added": 4,

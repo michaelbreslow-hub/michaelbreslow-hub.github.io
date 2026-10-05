@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-04T10:58:27Z",
+  "last_run": "2026-10-05T05:19:00Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -2248,43 +2248,163 @@
   },
   "https://www.nike.com/il/a/benefits-of-cycling": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-cycling",
+    "description": "A cycling coach and a physiotherapist share the potential benefits of cycling.",
+    "h1": "4 Benefits of Cycling, According to Experts",
+    "title": "4 Benefits of Cycling, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "391c623e01ab"
   },
   "https://www.nike.com/il/a/benefits-of-dancing": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-dancing",
+    "description": "Whether in your living room or in the studio, dancing offers a host of expert-backed health benefits",
+    "h1": "What Are the Benefits of Dancing?",
+    "title": "What Are the Benefits of Dancing?. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "d56bdc1542ff"
   },
   "https://www.nike.com/il/a/benefits-of-epsom-salt-baths": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-epsom-salt-baths",
+    "description": "Have you been sleeping on the benefits of soaking in a warm bath?",
+    "h1": "The post-workout benefits of an Epsom salt bath",
+    "title": "The benefits of an Epsom salt bath. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "ba316c941c68"
   },
   "https://www.nike.com/il/a/benefits-of-exercise-at-different-times-of-the-day": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-exercise-at-different-times-of-the-day",
+    "description": "There is no \"right\" or \"wrong\" time to work out, but exercising at certain times can give you bonus benefits, like easier weight management or more energy. Find out what advantage you could be scoring, according to research.",
+    "h1": "The Happy Hours of Training",
+    "title": "The Benefits of Exercise at Different Times of the Day. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "f5dcbeb8280d"
   },
   "https://www.nike.com/il/a/benefits-of-exercise-snacking-short-workouts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-exercise-snacking-short-workouts",
+    "description": "When you're tight on time or motivation, bite-size workouts (called \"exercise snacks\") that last 10 minutes or less can push your progress in some of the same ways a full workout can. Master the snack here.",
+    "h1": "The Perks of Exercise Snacks",
+    "title": "How Short or Long Should a Workout Be?. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "9fc26e4a9643"
   },
   "https://www.nike.com/il/a/benefits-of-good-posture": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-good-posture",
+    "description": "Experts say that when your body is in its proper, natural alignment, you can not only avoid strains and pains, but also lower your risk of injury and train with more energy. Here’s why, plus how to improve your posture for good.",
+    "h1": "Unlock Your Full Potential With Better Posture",
+    "title": "Why Good Posture Matters for Performance. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "86eb19c9dba8"
   },
   "https://www.nike.com/il/a/benefits-of-hiit-workouts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-hiit-workouts",
+    "description": "HIIT training with its focus on short bursts of intense exercise is perfect if you're short on time, and it can help improve your fitness in several ways.",
+    "h1": "Is High-Intensity Interval Training (HIIT) Overrated?",
+    "title": "Does HIIT Really Work? The Benefits of HIIT Workouts. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "a105c5cfd8d2"
   },
   "https://www.nike.com/il/a/benefits-of-hiking": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-hiking",
+    "description": "Health professionals share the potential health benefits of hiking and offer tips on how to gear up for a long hike.",
+    "h1": "The Benefits of Hiking, According to Experts",
+    "title": "The Benefits of Hiking, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "384f7327491a"
   },
   "https://www.nike.com/il/a/benefits-of-hot-yoga": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-hot-yoga",
+    "description": "Hot yoga is done in a sauna-like environment, helping you de-stress, while giving you an intense workout and improving your strength and flexibility.",
+    "h1": "9 Benefits of Hot Yoga for a Healthy Body and Mind",
+    "title": "9 Benefits of Hot Yoga for a Healthier Body and Mind. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "f2d36d4502dd"
   },
   "https://www.nike.com/il/a/benefits-of-jump-rope": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/benefits-of-jump-rope",
+    "description": "From boosting heart health to decreasing anxiety levels, jumping rope can be an effective (and fun!) cardio exercise.",
+    "h1": "What Are the Benefits of Skipping Every Day?",
+    "title": "What Are the Benefits of Jumping Rope Every Day?. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "30e527418433"
   },
   "https://www.nike.com/il/a/benefits-of-jumping-jacks": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -22338,6 +22458,22 @@
   "https://www.nike.com/il/t/jordan-spizike-low-older-kids-shoes-vQPT0jpw": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-spizike-low-womens-realtree-shoes-NmXU49Pe": {
+   "first_seen": "2026-10-05T05:19:00Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-spizike-low-womens-realtree-shoes-NmXU49Pe",
+    "description": "Find the Jordan Spizike Low Women's Realtree Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Spizike Low",
+    "title": "Jordan Spizike Low Women's Realtree Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "50f03e6fb06c"
   },
   "https://www.nike.com/il/t/jordan-spizike-low-younger-kids-shoes-6g2VK4Hl": {
    "first_seen": "2026-09-24T08:34:55Z",

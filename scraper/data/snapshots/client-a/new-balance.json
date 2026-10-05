@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-04T10:58:27Z",
+  "last_run": "2026-10-05T05:19:00Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-03T11:00:03+00:00",
+   "lastmod": "2026-10-04T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-05T05:19:00Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -1740,39 +1740,147 @@
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/Matching%20Sets": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-12-15T09:21:15+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-12-15T09:21:15+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/Matching%20Sets",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Matching Sets, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Matching Sets",
+    "title": "Matching Sets - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "e941a3a7a395"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/New%20Collection": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-23T14:32:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-23T14:32:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/New%20Collection",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על New Collection, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "New Collection",
+    "title": "New Collection - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "420649b3afc6"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/Tech%20Collection": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-12-15T09:21:15+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-12-15T09:21:15+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/Tech%20Collection",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Tech Collection, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Tech Collection",
+    "title": "Tech Collection - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "74c7fdcf3551"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/allclothing": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T12:05:25+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T12:05:25+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/allclothing",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על All clothing, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "All clothing",
+    "title": "All clothing - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "7a2955c8015d"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/hoodies%26sweatshirts": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/hoodies%26sweatshirts",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Hoodies & Sweatshirts, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Hoodies & Sweatshirts",
+    "title": "Hoodies & Sweatshirts - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "fdc4a8df1048"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/jackets": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/jackets",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Jackets, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Jackets",
+    "title": "Jackets - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "9fe867647df0"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/longsleeveshirts": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/longsleeveshirts",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Long Sleeve Shirts, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Long Sleeve Shirts",
+    "title": "Long Sleeve Shirts - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "ad1edca3e04c"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/pants%26tights": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/pants%26tights",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Pants & Tights, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Pants & Tights",
+    "title": "Pants & Tights - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "6da7a968853e"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/shorts": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/clothing/shorts",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shorts, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shorts",
+    "title": "Shorts - New Balance"
+   },
+   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_hash": "44f7dbab8bbd"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/shortsleeveshirts": {
    "first_seen": "2026-09-25T11:29:53Z",
