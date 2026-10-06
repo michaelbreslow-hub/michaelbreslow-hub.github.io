@@ -19,10 +19,11 @@
       "/size-fit"
      ],
      "excluded_urls": 2571,
-     "last_checked": "2026-10-05T05:19:00Z",
+     "last_checked": "2026-10-06T05:07:18Z",
      "last_counts": {
-      "added": 1,
-      "keyword_hits": 1
+      "added": 31,
+      "keyword_hits": 6,
+      "removed": 8
      },
      "name": "Nike",
      "notes": [],
@@ -30,7 +31,7 @@
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 11679
+     "total_urls": 11702
     },
     {
      "asset_types": {},
@@ -42,7 +43,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-05T05:19:00Z",
+     "last_checked": "2026-10-06T05:07:18Z",
      "last_counts": {
       "updated": 1
      },
@@ -64,7 +65,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-05T05:19:00Z",
+     "last_checked": "2026-10-06T05:07:18Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -86,12 +87,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-05T05:19:00Z",
+     "last_checked": "2026-10-06T05:07:18Z",
      "last_counts": {
       "added": 3,
       "keyword_hits": 174,
-      "seo_changed": 2,
-      "updated": 5705
+      "updated": 5711
      },
      "name": "Reebok",
      "notes": [
@@ -101,7 +101,7 @@
      "sitemaps_fetched": 8,
      "slug": "reebok",
      "status": "ok",
-     "total_urls": 6051
+     "total_urls": 6054
     },
     {
      "asset_types": {},
@@ -113,10 +113,10 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-05T05:19:00Z",
+     "last_checked": "2026-10-06T05:07:18Z",
      "last_counts": {
-      "added": 21,
-      "removed": 14,
+      "added": 3,
+      "removed": 20,
       "updated": 52
      },
      "name": "Skechers",
@@ -125,7 +125,7 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5450
+     "total_urls": 5433
     }
    ],
    "id": "client-a",
@@ -139,6 +139,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-10-05T05:19:00Z",
+ "generated_at": "2026-10-06T05:07:18Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
