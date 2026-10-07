@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-06T05:07:18Z",
+  "last_run": "2026-10-07T05:08:09Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-05T11:00:03+00:00",
+   "lastmod": "2026-10-06T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-06T05:07:18Z",
+   "seo_checked": "2026-10-07T05:08:09Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -2028,39 +2028,147 @@
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/Work%20Shoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-11-27T08:52:29+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-11-27T08:52:29+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/Work%20Shoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Safety & Work Shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Safety & Work Shoes",
+    "title": "Safety & Work Shoes - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "d950b4d87319"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/allshoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-24T06:03:42+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-24T06:03:42+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/allshoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על All Shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "All Shoes",
+    "title": "All Shoes - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "00c81b0c68b4"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/running": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/running",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Running, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "aca8dcc4e06e"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/running/Competition": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-10T11:52:39+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-10T11:52:39+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/running/Competition",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Competition, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Competition",
+    "title": "Competition - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "c2a1db4b4b8f"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/running/Motion%20Control": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/running/Motion%20Control",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Motion Control, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Motion Control",
+    "title": "Motion Control - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "7424c903a750"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/running/Neutral%20Cushioned": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/running/Neutral%20Cushioned",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Neutral Cushioned, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Neutral Cushioned",
+    "title": "Neutral Cushioned - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "db161609f630"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/running/Stability": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:50:02+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:50:02+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/running/Stability",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Stability, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Stability",
+    "title": "Stability - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "500524654da7"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/spikes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/spikes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Spikes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Spikes",
+    "title": "Spikes - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "81f3dcfc2972"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/walking": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-13T06:09:08+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-13T06:09:08+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/walking",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Walking, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Walking",
+    "title": "Walking - New Balance"
+   },
+   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_hash": "21373e852c8b"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/wideshoes": {
    "first_seen": "2026-09-25T11:29:53Z",

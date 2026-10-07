@@ -6,6 +6,2009 @@
  },
  "events": [
   {
+   "after": "2026-10-06T13:12:35+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:06:52+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Tempo Bra",
+    "title": "Tempo Bra"
+   },
+   "section": "/tempo-bra",
+   "type": "updated",
+   "url": "https://www.skechers.com/tempo-bra/BR57.html"
+  },
+  {
+   "after": "2026-10-06T13:12:42+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:06:59+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Cozy Luxe Velour Hoodie",
+    "title": "Cozy Luxe Velour Hoodie"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/cozy-luxe-velour-hoodie/HD74.html"
+  },
+  {
+   "after": "2026-10-06T13:12:47+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:07+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "The Hoodless Hoodie Ottoman Jacket",
+    "title": "The Hoodless Hoodie Ottoman Jacket"
+   },
+   "section": "/the-hoodless-hoodie-ottoman-jacket",
+   "type": "updated",
+   "url": "https://www.skechers.com/the-hoodless-hoodie-ottoman-jacket/JA25.html"
+  },
+  {
+   "after": "2026-10-06T13:12:56+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:18+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO FLEX Full-Length High-Waisted Fleece Legging",
+    "title": "GO FLEX Full-Length High-Waisted Fleece Legging"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-flex-full-length-high-waisted-fleece-legging/LG99.html"
+  },
+  {
+   "after": "2026-10-06T13:14:21+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:09:06+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Pacer Run Hat",
+    "title": "Pacer Run Hat"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/pacer-run-hat/ZCM6.html"
+  },
+  {
+   "after": "2026-10-06T13:14:33+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:09:20+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Zoom Visor",
+    "title": "Zoom Visor"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/zoom-visor/ZVI7.html"
+  },
+  {
+   "after": "2026-10-06T13:12:41+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:06:59+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "SkechTech Fleece Pace Hoodie",
+    "title": "SkechTech Fleece Pace Hoodie"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechtech-fleece-pace-hoodie/HD159.html"
+  },
+  {
+   "after": "2026-10-06T13:12:43+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:01+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO WALK Everywhere Full Zip Jacket",
+    "title": "GO WALK Everywhere Full Zip Jacket"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-walk-everywhere-full-zip-jacket/JA138.html"
+  },
+  {
+   "after": "2026-10-06T13:12:50+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:10+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Premier Deuce Jacket",
+    "title": "Premier Deuce Jacket"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/premier-deuce-jacket/JA342.html"
+  },
+  {
+   "after": "2026-10-06T13:12:50+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:11+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Cozy Luxe Track Jacket",
+    "title": "Cozy Luxe Track Jacket"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/cozy-luxe-track-jacket/JA378.html"
+  },
+  {
+   "after": "2026-10-06T13:12:50+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:11+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Goshield Traverse Parka",
+    "title": "Goshield Traverse Parka"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/goshield-traverse-parka/JA392.html"
+  },
+  {
+   "after": "2026-10-06T13:12:51+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:12+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO WALK Diamond Jacket - Cozy Fit",
+    "title": "GO WALK Diamond Jacket - Cozy Fit"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-walk-diamond-jacket---cozy-fit/JA496.html"
+  },
+  {
+   "after": "2026-10-06T13:12:51+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:13+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO FLEX Harmony Full Zip Jacket",
+    "title": "GO FLEX Harmony Full Zip Jacket"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-flex-harmony-full-zip-jacket/JA501.html"
+  },
+  {
+   "after": "2026-10-06T13:12:56+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:18+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO DRI All Day Long Sleeve Tee",
+    "title": "GO DRI All Day Long Sleeve Tee"
+   },
+   "section": "/go-dri-all-day-long-sleeve-tee",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115.html"
+  },
+  {
+   "after": "2026-10-06T13:12:59+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:23+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "SKECHLUXE Elevate Performance Crew",
+    "title": "SKECHLUXE Elevate Performance Crew"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechluxe-elevate-performance-crew/LT223.html"
+  },
+  {
+   "after": "2026-10-06T13:13:01+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:25+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Godri All Day Thermal 1/2 Zip",
+    "title": "Godri All Day Thermal 1/2 Zip"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/godri-all-day-thermal-1%2F2-zip/LT292.html"
+  },
+  {
+   "after": "2026-10-06T13:13:01+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:25+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Cozy Luxe 1/4 Zip",
+    "title": "Cozy Luxe 1/4 Zip"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/cozy-luxe-1%2F4-zip/LT321.html"
+  },
+  {
+   "after": "2026-10-06T13:13:12+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:38+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Cozy Luxe Velour Pant",
+    "title": "Cozy Luxe Velour Pant"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/cozy-luxe-velour-pant/PT178.html"
+  },
+  {
+   "after": "2026-10-06T13:13:12+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:39+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GoStretch Ultra Performance Pant Classic",
+    "title": "GoStretch Ultra Performance Pant Classic"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/gostretch-ultra-performance-pant-classic/PT199.html"
+  },
+  {
+   "after": "2026-10-06T13:13:14+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:42+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Cozy Luxe Track Pant",
+    "title": "Cozy Luxe Track Pant"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/cozy-luxe-track-pant/PT320.html"
+  },
+  {
+   "after": "2026-10-06T13:13:15+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:42+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Skechers Fleece Jogger",
+    "title": "Skechers Fleece Jogger"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-fleece-jogger/PT369.html"
+  },
+  {
+   "after": "2026-10-06T13:13:21+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:50+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO STRETCH Ultra Performance 7 Inch Short",
+    "title": "GO STRETCH Ultra Performance 7 Inch Short"
+   },
+   "section": "/go-stretch-ultra-performance-7-inch-short",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-stretch-ultra-performance-7-inch-short/SH172.html"
+  },
+  {
+   "after": "2026-10-06T13:13:22+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:51+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Tempo 4 Inch Run Short",
+    "title": "Tempo 4 Inch Run Short"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/tempo-4-inch-run-short/SH202.html"
+  },
+  {
+   "after": "2026-10-06T13:13:22+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:07:52+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO Flex Harmony 8 Inch Bike Short",
+    "title": "GO Flex Harmony 8 Inch Bike Short"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-flex-harmony-8-inch-bike-short/SH244.html"
+  },
+  {
+   "after": "2026-10-06T13:13:37+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:10+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Stride Performance Tee",
+    "title": "Stride Performance Tee"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/stride-performance-tee/TP162.html"
+  },
+  {
+   "after": "2026-10-06T13:13:43+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:17+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "GO DRI Swift Tee",
+    "title": "GO DRI Swift Tee"
+   },
+   "section": "/go-dri-swift-tee",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-dri-swift-tee/TS104.html"
+  },
+  {
+   "after": "2026-10-06T13:13:50+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:26+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "SKECHERS VAPOR TEE",
+    "title": "SKECHERS VAPOR TEE"
+   },
+   "section": "/skechers-vapor-tee",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-vapor-tee/TS315.html"
+  },
+  {
+   "after": "2026-10-06T13:13:53+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:29+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "Ace Performance Tank",
+    "title": "Ace Performance Tank"
+   },
+   "section": "/ace-performance-tank",
+   "type": "updated",
+   "url": "https://www.skechers.com/ace-performance-tank/TT118.html"
+  },
+  {
+   "after": "2026-10-06T13:13:55+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:31+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "On The Court Tank",
+    "title": "On The Court Tank"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/on-the-court-tank/TT168.html"
+  },
+  {
+   "after": "2026-10-06T13:14:20+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:09:05+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "University Baseball Hat",
+    "title": "University Baseball Hat"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/university-baseball-hat/ZBB14.html"
+  },
+  {
+   "after": "2026-10-06T13:14:21+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:09:05+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/collegiate-baseball-hat/ZBB56.html"
+  },
+  {
+   "after": "2026-10-06T12:48:17+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:28:58+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/work-slip-resistant-relaxed-fit-max-cushioning-elite/108016.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/work-arch-fit-summits-plus-slip-resistant/108427.html"
+  },
+  {
+   "after": "2026-10-06T12:50:42+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:33:17+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/waterproof-go-golf-jasmine-2-gf/123099.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-go-walk-flex-plus/126370.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-go-run-consistent/128075.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-gentle-bloom/150843.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/relaxed-fit-summits-plus---winter-gleam/168216.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-hotshot---perfect-choice/185322.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-martha-stewart-ultra-flex-4.0---wild-chic/188073.html"
+  },
+  {
+   "after": "2026-10-06T12:59:01+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:47:39+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-summits---colsin/200205.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/work-slip-resistant-elston-2.0/200320.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-vigor-all-terrain---muted-blend/237993.html"
+  },
+  {
+   "after": "2026-10-06T13:05:55+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:58:06+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-razor-2-elite-ag/252165.html"
+  },
+  {
+   "after": "2026-10-06T13:05:56+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:58:07+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-razor-2-academy-fg/252167.html"
+  },
+  {
+   "after": "2026-10-06T13:05:57+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:58:08+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-razor-2-academy-tf/252171.html"
+  },
+  {
+   "after": "2026-10-06T13:14:04+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:44+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/go-walk-8-inch-walk-short/W2SH40.html"
+  },
+  {
+   "after": "2026-10-06T13:14:25+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:09:10+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/round-rhinestone-sunglasses/ZE9093.html"
+  },
+  {
+   "after": "2026-10-06T13:05:57+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T12:58:08+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechers-razor-2-jr-youth-ic/252175L.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/s-lights-tri-namics/401660L.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/john-deere-comfy-flex-2.0---tractor-sound-pals/407091N.html"
+  },
+  {
+   "after": "2026-10-06T13:14:13+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:08:56+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "6 Pack Low Cut Non Terry Socks",
+    "title": "6 Pack Low Cut Non Terry Socks"
+   },
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/6-pack-low-cut-non-terry-socks/Z112222.html"
+  },
+  {
+   "after": "2026-10-06T13:14:19+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:09:04+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "6 Pack Men's Low Cut Texture Knit Socks",
+    "title": "6 Pack Men's Low Cut Texture Knit Socks"
+   },
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/6-pack-mens-low-cut-texture-knit-socks/Z601841.html"
+  },
+  {
+   "after": "2026-10-06T13:14:23+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:09:08+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/square-soft-touch-sunglasses/ZE00279.html"
+  },
+  {
+   "after": "2026-10-06T13:13:27+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:07:58+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/skechweave-diamond-colorblocked-hat/SKCH5003.html"
+  },
+  {
+   "after": "2026-10-06T13:13:30+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T13:08:01+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/single-loop-backpack/SKCHD483.html"
+  },
+  {
+   "after": "2026-10-06T13:13:30+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:08:02+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/hydration-18-oz.-tumbler/SKHY0026.html"
+  },
+  {
+   "after": "2026-10-06T13:13:31+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:08:02+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/cinch-bag/SKSP7635.html"
+  },
+  {
+   "after": "2026-10-06T13:14:27+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:09:12+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/washed-triple-s-hat/ZKCH3159.html"
+  },
+  {
+   "after": "2026-10-06T13:14:29+00:00",
+   "asset_type": "product",
+   "before": "2026-10-05T13:09:16+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(product pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/essential-backpack/ZKCH8442.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/dlites---resilient/11940_NVW.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-summits---sweetly-evolved/119519_NVY.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-max-cushioning-arch-fit-2.0---azusah/128965_PCH.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-arch-fit-glide-step---cool-current/150671_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-arch-fit-dlites-330/150740_BBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-arch-fit-dlites-330/150740_NAT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-arch-fit-dlites-330/150740_WHT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801_NVY.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/arch-fit-3.0---easy-flow/150884_BBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/arch-fit-3.0---easy-flow/150884_NVY.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/cleo-taylor---love-me-knot/159465_BBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-ultra-flex-3.0-sandal--%C2%A0glowing-icon/164086_BBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-aero-burst/172210_WLB.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-mark-nason-the-triple-wedge--%C2%A0milee/177633_NVY.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-mark-nason-the-triple-wedge--%C2%A0milee/177633_TPE.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/mark-nason-a-wedge---crecent/177667_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-hotshot--%C2%A0everyday-ease/185323_WBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/work-slip-resistant-elston-2.0/200320_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/bonhill-watch/SR1190_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/brynwood-watch/SR2154_TAN.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/brentwood-black-watch/SR5207_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-rosecrans-watch/SR5224_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/kornblum-camo-watch/SR5226_GRN.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/lachman-watch/SR5232_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/slauson-watch/SR5236_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/rosencrans-watch/SR5255_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/rosencrans-watch/SR5256_NVY.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-fiske-watch/SR5261_RED.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/roscoe-watch/SR5284_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/glen-oaks-watch/SR5286_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/stanwood-watch/SR5297_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/carmelina-watch/SR6337_WHT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/rosencrans-watch/SR6346_ROS.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "pickleball"
+   ],
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/pickleball-dial-quilt-watch/SR8106_PNK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/max-cushioning-elite-3---valares/129721W_BBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-glide-step-altus/150510_DKTP.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-aero-burst/172210_NVAQ.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-aero-burst/172215_LGBL.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-aero-pulse/172220_BKYB.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-garza---gervin/205046_CHOC.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-arch-fit-glide-step-pro/233110_TPBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins%C2%A0newkirk-watch/SR5254_GYBL.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-fiske-watch/SR5259_BLAQ.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-accessories-rosecrans-mini-analog-watch/SR6201_PINK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/carmelina-watch/SR6335_PINK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-aliso-watch/SR6342_PLUM.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-go-run-consistent/128075W_BLPR.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/max-cushioning-elite-3---valares/129721W_LBPK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/waterproof-go-golf-tempo/214127WW_BKW.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-vigor-at/237744W_GYBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/s-lights-unicorn-charmer---lil-heart-sparkles/303064N_SMLT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/s-lights-sola-glow---color-breeze/303713L_LVMT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/elite-sport-pulse/304210L_BKHP.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/twinkle-toes-twinkle-sparks---precious-jane/314467N_LTPK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/twinkle-toes-twinkle-sparks---butterfly-sky/314470L_LVMT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/game-kicks-gametronix-3.0/402277L_BKMT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-bounder---brisk-burst/403822L_NVBL.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-go-run-consistent-2.0---brisk-pacer/404201L_CHAR.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/waterproof-relaxed-fit-relment---pelmo/64869EWW_KHK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skech-shine-foil-baseball-hat/SKBB5034_BLU.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/skechers-slip-ins-go-run-consistent-2.0---empowered/220863WW_LTGY.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "page": {
+    "h1": "After Burn M. Fit 2.0",
+    "title": "After Burn M. Fit 2.0"
+   },
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/after-burn-m.-fit-2.0/237608WW_CCGD.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "page": {
+    "h1": "After Burn M. Fit",
+    "title": "After Burn M. Fit"
+   },
+   "section": "(product pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/after-burn-m.-fit/51866EWW_BKCC.html"
+  },
+  {
+   "after": "2026-10-05T23:48:57+00:00",
+   "asset_type": "other",
+   "before": "2026-04-28T22:10:46+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.skechers.com/search?cgid=root"
+  },
+  {
+   "after": "2026-10-05T22:07:20+00:00",
+   "asset_type": "other",
+   "before": "2026-09-08T21:26:44+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "section": "/collaborations",
+   "type": "updated",
+   "url": "https://www.skechers.com/collaborations/dia-de-muertos"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T18:12:17+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/arch-fit"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T23:12:05+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/hands-free-slip-ins"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:11:43+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/jackets-coats"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:38:03+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him/most-popular-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T18:55:49+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him/hands-free-slip-ins"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T22:24:10+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T21:04:44+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-price"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-18T17:50:21+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/boots-slippers"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T23:16:26+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:09:55+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/most-popular-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:51:59+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:55:34+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:00:23+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:52:44+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:39:45+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him/jackets-coats"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:31:51+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him/work-shoes"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:36:23+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-him/wide-fit"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:59:22+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids/character-themed"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T20:15:58+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids/twinkle-toes"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:58:07+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids/light-up-shoes"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:02:16+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T20:14:53+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids/hands-free-slip-ins"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:04:02+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-kids/most-popular-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "pickleball"
+   ],
+   "lastmod": "2025-10-30T20:46:18+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/pickleball"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": "2025-11-04T22:22:52+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/basketball"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T22:22:50+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/soccer"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": "2025-11-05T01:06:06+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/running"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:06:32+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/walking"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T20:46:13+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/golf"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:23:09+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-price/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:24:17+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-price/75-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:25:22+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-price/100-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T21:05:12+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-price/gift-cards"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:20:26+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-price/25-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T23:15:07+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-for-her/bobs"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2026-10-05T23:48:57+00:00",
+   "section": "(other pages)",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "trail"
+   ],
+   "lastmod": "2025-11-05T01:17:21+00:00",
+   "section": "/holiday-gifts",
+   "type": "added",
+   "url": "https://www.skechers.com/holiday-gifts/gifts-by-activity/trail-hiking"
+  },
+  {
+   "after": "2026-10-06T16:18:12+00:00",
+   "asset_type": "other",
+   "before": "2026-10-05T16:18:17+00:00",
+   "date": "2026-10-07T05:08:09Z",
+   "page": {
+    "h1": "20% OFF Boots & Outdoor Styles",
+    "title": "SKECHERS | The Comfort Technology Company"
+   },
+   "section": "/",
+   "type": "updated",
+   "url": "https://www.skechers.com/"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "page": {
+    "h1": "After Burn M. Fit 2.0 - Creekville",
+    "title": "After Burn M. Fit 2.0 - Creekville"
+   },
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/after-burn-m.-fit-2.0---creekville/237808.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "page": {
+    "h1": "After Burn M. Fit 2.0 - Creekville",
+    "title": "After Burn M. Fit 2.0 - Creekville"
+   },
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/after-burn-m.-fit-2.0---creekville/237808_TPBK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/dlites---new-heat/150231.html"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T22:24:10+00:00",
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": "2025-11-04T22:22:52+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/basketball"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T20:46:13+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/golf"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "pickleball"
+   ],
+   "lastmod": "2025-10-30T20:46:18+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/pickleball"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": "2025-11-05T01:06:06+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/running"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T22:22:50+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/soccer"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "keywords": [
+    "trail"
+   ],
+   "lastmod": "2025-11-05T01:17:21+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/trail-hiking"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:06:32+00:00",
+   "section": "/gifts-by-activity",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-activity/walking"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T21:04:44+00:00",
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-price"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:25:22+00:00",
+   "section": "/gifts-by-price",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-price/100-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:20:26+00:00",
+   "section": "/gifts-by-price",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-price/25-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:23:09+00:00",
+   "section": "/gifts-by-price",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-price/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:24:17+00:00",
+   "section": "/gifts-by-price",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-price/75-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T21:05:12+00:00",
+   "section": "/gifts-by-price",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-by-price/gift-cards"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T23:16:26+00:00",
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:51:59+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T18:12:17+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/arch-fit"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T23:15:07+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/bobs"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-18T17:50:21+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/boots-slippers"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-04T23:12:05+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/hands-free-slip-ins"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:11:43+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/jackets-coats"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:09:55+00:00",
+   "section": "/gifts-for-her",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-her/most-popular-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:55:34+00:00",
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:52:44+00:00",
+   "section": "/gifts-for-him",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T18:55:49+00:00",
+   "section": "/gifts-for-him",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him/hands-free-slip-ins"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:39:45+00:00",
+   "section": "/gifts-for-him",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him/jackets-coats"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:38:03+00:00",
+   "section": "/gifts-for-him",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him/most-popular-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:36:23+00:00",
+   "section": "/gifts-for-him",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him/wide-fit"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:31:51+00:00",
+   "section": "/gifts-for-him",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-him/work-shoes"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:00:23+00:00",
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:02:16+00:00",
+   "section": "/gifts-for-kids",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids/50-under"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:59:22+00:00",
+   "section": "/gifts-for-kids",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids/character-themed"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T20:14:53+00:00",
+   "section": "/gifts-for-kids",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids/hands-free-slip-ins"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T00:58:07+00:00",
+   "section": "/gifts-for-kids",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids/light-up-shoes"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-11-05T01:04:02+00:00",
+   "section": "/gifts-for-kids",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids/most-popular-gifts"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": "2025-10-30T20:15:58+00:00",
+   "section": "/gifts-for-kids",
+   "type": "removed",
+   "url": "https://www.skechers.com/gifts-for-kids/twinkle-toes"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "/go-dri-all-day-tee",
+   "type": "removed",
+   "url": "https://www.skechers.com/go-dri-all-day-tee/TS107_PRTL.html"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "/go-walk-everywhere-jacket",
+   "type": "removed",
+   "url": "https://www.skechers.com/go-walk-everywhere-jacket/W3JA261_BUPK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/go-walk-flex-sandal---vallejo/229202.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/go-walk-flex-sandal---vallejo/229202_NVY.html"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "/go-walk-ottoman-1%2F4-zip",
+   "type": "removed",
+   "url": "https://www.skechers.com/go-walk-ottoman-1%2F4-zip/LT213_WHT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/hotshot---blooming-blossoms/185358.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/hotshot---blooming-blossoms/185358_LTPK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/hotshot-hi--%C2%A0cozy-fit-hidden-wild/185466.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/jade---vivid-flare/185394.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/jade---vivid-flare/185394_BKMT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/jade---vivid-flare/185394_OLMT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/relaxed-fit-easy-going---urban-zip/168188.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/skechers-slip-ins-easy-going---fall-odyssey/169118_BLK.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/skechers-slip-ins-glide-step---noxus/233010W_CCOR.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/skechers-slip-ins-golf-waterproof-flow-si---twist-fit/123149_WNT.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/skechers-slip-ins-karmas---bronson-canyon/180405_BKCC.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/skechers-slip-ins-karmas---bronson-canyon/180405_CHOC.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/skechers-slip-ins-uno-glide-step---air-gliders/183421_BRBK.html"
+  },
+  {
+   "asset_type": "event",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/summits---quick-getaway/12983W_GYLP.html"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-07T05:08:09Z",
+   "lastmod": null,
+   "section": "(product pages)",
+   "type": "removed",
+   "url": "https://www.skechers.com/work-slip-resistant-max-cushioning-endeavour/200517.html"
+  },
+  {
    "after": "2026-10-05T13:06:52+00:00",
    "asset_type": "other",
    "before": "2026-10-04T13:10:49+00:00",
@@ -11874,6 +13877,17 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 111,
+    "keyword_hits": 9,
+    "removed": 59,
+    "updated": 52
+   },
+   "date": "2026-10-07T05:08:09Z",
+   "status": "ok",
+   "total_urls": 5485
+  },
   {
    "counts": {
     "added": 3,
