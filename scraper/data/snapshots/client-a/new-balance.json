@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-07T05:08:09Z",
+  "last_run": "2026-10-08T05:08:28Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-06T11:00:03+00:00",
+   "lastmod": "2026-10-07T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-07T05:08:09Z",
+   "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -96,14 +96,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-09-24T06:12:57+00:00",
+   "lastmod": "2026-10-06T11:22:08+00:00",
    "seo": {
     "canonical": "https://www.newbalance.co.il/en/root/WCH696V6.html",
     "description": "Buy 696v6 Tennis Shoes at New Balance.",
     "h1": "696v6 Tennis Shoes",
     "title": "696v6 Tennis Shoes"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "4adfc7e33c1b"
   },
   "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99": {
@@ -2172,39 +2172,147 @@
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/wideshoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-13T06:09:08+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-13T06:09:08+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shoes/wideshoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Wide Shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Wide Shoes",
+    "title": "Wide Shoes - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "22d3c4a3c86a"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-11T05:38:28+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-11T05:38:28+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOP BY STYLE, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "654b2eb37306"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/1080": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-07T07:47:24+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-07T07:47:24+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/1080",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1080, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1080",
+    "title": "1080 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "f200b290cca6"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/327": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:42:22+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:42:22+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/327",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 327, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "327",
+    "title": "327 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "ab6f33a66a04"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/550": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:41:17+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:41:17+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/550",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 550, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "550",
+    "title": "550 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "78ca65b806be"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/574": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-10T06:55:23+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-10T06:55:23+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/574",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 574, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "574",
+    "title": "574 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "5194930e8921"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/860": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-10T11:56:56+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-10T11:56:56+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/860",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 860, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "860",
+    "title": "860 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "644b1b4d7acf"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/880": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:35:32+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:35:32+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/880",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 880, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "880",
+    "title": "880 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "d431d9f67562"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/9060": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-27T06:19:08+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-27T06:19:08+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/9060",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 9060, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "9060",
+    "title": "9060 - New Balance"
+   },
+   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_hash": "946d36880b5d"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/990": {
    "first_seen": "2026-09-25T11:29:53Z",

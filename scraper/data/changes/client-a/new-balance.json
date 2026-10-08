@@ -6,6 +6,31 @@
  },
  "events": [
   {
+   "after": "2026-10-06T11:22:08+00:00",
+   "asset_type": "other",
+   "before": "2026-09-24T06:12:57+00:00",
+   "date": "2026-10-08T05:08:28Z",
+   "page": {
+    "h1": "696v6 Tennis Shoes",
+    "title": "696v6 Tennis Shoes"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/root/WCH696V6.html"
+  },
+  {
+   "after": "2026-10-07T11:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-10-06T11:00:03+00:00",
+   "date": "2026-10-08T05:08:28Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
    "after": "2026-10-06T11:00:03+00:00",
    "asset_type": "other",
    "before": "2026-10-05T11:00:03+00:00",
@@ -123,6 +148,14 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "updated": 2
+   },
+   "date": "2026-10-08T05:08:28Z",
+   "status": "ok",
+   "total_urls": 227
+  },
   {
    "counts": {
     "updated": 1
