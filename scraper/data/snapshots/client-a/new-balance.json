@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-08T05:08:28Z",
+  "last_run": "2026-10-09T05:08:23Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-07T11:00:03+00:00",
+   "lastmod": "2026-10-08T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-08T05:08:28Z",
+   "seo_checked": "2026-10-09T05:08:23Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -2316,39 +2316,147 @@
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/990": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-13T06:09:08+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-13T06:09:08+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/990",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 990, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "990",
+    "title": "990 - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "c241fc172e18"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle/men_shopbystyle_1906": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-11T05:38:28+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-11T05:38:28+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/shopbystyle/men_shopbystyle_1906",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1906, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1906",
+    "title": "1906 - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "9eaece73234a"
   },
   "https://www.newbalance.co.il/en/shop/men/sports": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SPORTS, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SPORTS",
+    "title": "SPORTS - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "0d3d5431d876"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sport-football": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports/sport-football",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Football, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Football",
+    "title": "Football - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "0762ac6e10bf"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sport-skate": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-15T10:12:15+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-15T10:12:15+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports/sport-skate",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Skate, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Skate",
+    "title": "Skate - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "99e66c9282e5"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-athletics": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports/sports-athletics",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Athletics, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Athletics",
+    "title": "Athletics - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "6362aedf4977"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-basketball": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-11T08:24:19+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-11T08:24:19+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports/sports-basketball",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Basketball, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Basketball",
+    "title": "Basketball - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "f8fc0582ef2f"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-running": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-12T12:11:16+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports/sports-running",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Running, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "c8b16caf1f15"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-tennis": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/men/sports/sports-tennis",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Tennis, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Tennis",
+    "title": "Tennis - New Balance"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "98146f376f1b"
   },
   "https://www.newbalance.co.il/en/shop/new": {
    "first_seen": "2026-09-25T11:29:53Z",

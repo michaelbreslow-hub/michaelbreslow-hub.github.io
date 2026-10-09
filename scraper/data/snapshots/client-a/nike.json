@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-08T05:08:28Z",
+  "last_run": "2026-10-09T05:08:23Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -2888,43 +2888,163 @@
   },
   "https://www.nike.com/il/a/best-black-sneakers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-black-sneakers",
+    "description": "Work these sleek and versatile black kicks into any outfit.",
+    "h1": "Check out the best black sneaker styles by Nike",
+    "title": "Check out the best black sneaker styles by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "9633debbf026"
   },
   "https://www.nike.com/il/a/best-black-sweatpants-for-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-black-sweatpants-for-men",
+    "description": "Consider this your go-to shopping guide for men's black tracksuit bottoms.",
+    "h1": "The Best Men's Black Tracksuit Bottoms by Nike",
+    "title": "The Best Men's Black Tracksuit Bottoms by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "74eee01ea93f"
   },
   "https://www.nike.com/il/a/best-black-sweatpants-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-black-sweatpants-for-women",
+    "description": "The staple joggers for lounging, working out and everything in between.",
+    "h1": "The best women's black tracksuit bottoms from Nike",
+    "title": "The best women's black tracksuit bottoms from Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "5985eee18c25"
   },
   "https://www.nike.com/il/a/best-blue-light-blocking-glasses": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-blue-light-blocking-glasses",
+    "description": "Try out a pair of glasses from the Nike Blue Light Collection to help reduce blue-light exposure from digital screens.",
+    "h1": "The Best Blue-Light Glasses by Nike",
+    "title": "The Best Blue-Light Glasses by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "33a490469bb0"
   },
   "https://www.nike.com/il/a/best-boots-hiking": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-boots-hiking",
+    "description": "Hit the trails and get out into nature with the right hiking boots on your feet.",
+    "h1": "How to Select the Best Boots for Hiking",
+    "title": "Pick the Best Hiking Boots for Your Next Hike. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "273cb30e3120"
   },
   "https://www.nike.com/il/a/best-bra-for-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-bra-for-running",
+    "description": "From padded options with adjustable straps to compressive ones with classic racerback designs, here are the best styles to wear based on your needs.",
+    "h1": "The best Nike Sports Bras for running",
+    "title": "The best Nike sports bras for running. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "9013002e842d"
   },
   "https://www.nike.com/il/a/best-bucket-hats": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-bucket-hats",
+    "description": "The best bucket hats help protect from the sun and are made with soft, moisture-wicking materials. Check out the best bucket hats from Nike.",
+    "h1": "The Best Bucket Hats From Nike",
+    "title": "The Best Nike Bucket Hats. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "60ea5bd2c7a2"
   },
   "https://www.nike.com/il/a/best-bulking-meal-plan": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-bulking-meal-plan",
+    "description": "Here’s how you can create a “bulking meal plan” around foods that are optimised for building muscle mass.",
+    "h1": "What Are the Best Foods for Bulking?",
+    "title": "What Are the Best Foods for Bulking?. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "c2b4788cd78a"
   },
   "https://www.nike.com/il/a/best-calf-exercises": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-calf-exercises",
+    "description": "The calf muscles are essential for a range of exercises and workouts. Here’s what experts say about key calf exercises to do, whatever your fitness goals.",
+    "h1": "6 Calf Exercises Physiotherapists Want You To Do Every Week",
+    "title": "6 Calf Exercises Physiotherapists Urge You to Do Weekly. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "1118ede8fe30"
   },
   "https://www.nike.com/il/a/best-canvas-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-canvas-shoes",
+    "description": "From AF1s to Nike SB, discover the best canvas shoes by Nike.",
+    "h1": "The 5 Best Canvas Shoe Styles by Nike",
+    "title": "Shop the 5 Best Canvas Shoes by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "e3f0ddf20658"
   },
   "https://www.nike.com/il/a/best-cargo-pants": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -15547,6 +15667,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/acg-uv-cooling-wrap-rx9DZo75": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-uv-cooling-wrap-rx9DZo75",
+    "description": "Find the Nike ACG UV Cooling Wrap at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike ACG",
+    "title": "Nike ACG UV Cooling Wrap. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "9b6645bc9247"
+  },
   "https://www.nike.com/il/t/acg-vault-dri-fit-long-sleeve-top-iYNcl4lH": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -15898,6 +16034,22 @@
   "https://www.nike.com/il/t/air-force-1-07-next-nature-womens-shoes-lkVhs6": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-force-1-07-se-leopard-womens-shoes-RaY0sFlk": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-force-1-07-se-leopard-womens-shoes-RaY0sFlk",
+    "description": "Find the Nike Air Force 1 '07 SE Leopard Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Force 1 '07 SE Leopard",
+    "title": "Nike Air Force 1 '07 SE Leopard Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "e9c832d072ad"
   },
   "https://www.nike.com/il/t/air-force-1-07-se-womens-shoes-vNZEk3qu": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16767,6 +16919,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/air-max-90-womens-shoes-02ajYks3": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-max-90-womens-shoes-02ajYks3",
+    "description": "Find the Nike Air Max 90 Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Max 90",
+    "title": "Nike Air Max 90 Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "04a232c6c3de"
+  },
   "https://www.nike.com/il/t/air-max-90-womens-shoes-DKhwzq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -17115,10 +17283,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-max-plus-mens-shoes-nnTrAZe0": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-max-plus-mens-shoes-oY2jVAdS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -17272,10 +17436,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/air-rift-womens-shoes-oBcUMarl": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-superfly-womens-shoes-6kHaiejw": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -19067,6 +19227,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/cortez-suede-womens-shoes-FmwHpQ6V": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/cortez-suede-womens-shoes-FmwHpQ6V",
+    "description": "Find the Nike Cortez Suede Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Cortez Suede",
+    "title": "Nike Cortez Suede Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "897c4df26f74"
+  },
   "https://www.nike.com/il/t/cortez-womens-shoes-8cFEEA8n": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19186,6 +19362,22 @@
   "https://www.nike.com/il/t/court-vision-low-next-nature-mens-shoes-JsHv6d": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/court-vision-low-sd-premium-womens-shoes-pdDY1Gkz": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/court-vision-low-sd-premium-womens-shoes-pdDY1Gkz",
+    "description": "Find the Nike Court Vision Low SD Premium Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Court Vision Low SD Premium",
+    "title": "Nike Court Vision Low SD Premium Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "cd4c784e67b4"
   },
   "https://www.nike.com/il/t/court-vision-low-se-stitched-floral-womens-shoes-BZYPFA3h": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -21083,6 +21275,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/giannis-freak-8-basketball-shoes-sfNy1Xh8": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/giannis-freak-8-basketball-shoes-sfNy1Xh8",
+    "description": "Find the Giannis Freak 8 Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Giannis Freak 8",
+    "title": "Giannis Freak 8 Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "94701cce2e66"
+  },
   "https://www.nike.com/il/t/giannis-freak-8-etched-in-stone-basketball-shoes-ySVTqrrZ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -21865,10 +22073,6 @@
   },
   "https://www.nike.com/il/t/ja-3-by-you-custom-basketball-shoes-F7W08Qrk": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/ja-4-dark-mode-basketball-shoes-r2KWm8Vy": {
-   "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/ja-4-deep-water-basketball-shoes-hogGppU8": {
@@ -25651,6 +25855,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/miler-older-kids-dri-fit-shorts-Cslv5TOQ": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/miler-older-kids-dri-fit-shorts-Cslv5TOQ",
+    "description": "Find the Nike Miler Older Kids' Dri-FIT Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Miler",
+    "title": "Nike Miler Older Kids' Dri-FIT Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "093a0729f2ef"
+  },
   "https://www.nike.com/il/t/miler-older-kids-dri-fit-shorts-wCibXXZ1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25903,9 +26123,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/naomi-osaka-womens-mid-rise-7-5cm-approx-shorts-9XUElVMI": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/nac-womens-oversized-woven-full-zip-jacket-2sm6Dd7k": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nac-womens-oversized-woven-full-zip-jacket-2sm6Dd7k",
+    "description": "Find the Nike N.A.C. Women's Oversized Woven Full-Zip Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike N.A.C.",
+    "title": "Nike N.A.C. Women's Oversized Woven Full-Zip Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "85b66da57c91"
   },
   "https://www.nike.com/il/t/nba-essential-nike-mens-nba-t-shirt-aSsGsfx6": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -26847,9 +27079,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/nikeskims-womens-harness-waistpack-xLvE760t": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/nikeskims-womens-harness-waist-pack-xLvE760t": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-womens-harness-waist-pack-xLvE760t",
+    "description": "Find the NikeSKIMS Women's Harness Waist Pack at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS",
+    "title": "NikeSKIMS Women's Harness Waist Pack. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "714338dbe0cf"
   },
   "https://www.nike.com/il/t/nikeskims-womens-small-towel-mQTZODq1": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -28347,15 +28591,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/pre-game-fleece-womens-loose-mid-rise-tailored-shorts-NjqSYJhe": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/pre-game-fleece-womens-loose-mid-rise-trousers-0zCeCBKg": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/pre-game-fleece-womens-loose-polo-LP17gqN9": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29303,10 +29539,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/shox-z-womens-shoes-OLlsj60f": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/shox-z-womens-shoes-U4vHFOOr": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29595,15 +29827,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-chill-poplin-womens-loose-mid-rise-stripe-shorts-PGSrlerZ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-chill-poplin-womens-mid-rise-loose-striped-trousers-KFhTjC": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-chill-poplin-womens-oversized-striped-top-rtscWN2q": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29612,10 +29836,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-chill-terry-womens-mid-rise-shorts-vXep381b": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-chill-terry-womens-tank-top-mOxcNB13": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29643,14 +29863,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-classic-womens-oversized-short-sleeve-t-shirt-plus-size-9iAllVIA": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-classic-womens-oversized-short-sleeve-t-shirt-rH86iM4d": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-classic-womens-oversized-t-shirt-9CJjp8HA": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29659,19 +29871,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-classic-womens-oversized-t-shirt-Xwt9dIro": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-classic-womens-oversized-t-shirt-h6ArMrMW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-classic-womens-oversized-t-shirt-hETzsxky": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-classic-womens-oversized-t-shirt-oPtkP2Ik": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30675,10 +30879,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-womens-loose-bubble-skirt-xoJeCWY9": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-womens-loose-high-waisted-lightweight-ripstop-shorts-GfKJHSe0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30723,10 +30923,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-womens-loose-mid-rise-satin-shorts-mdC1jD1A": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-womens-loose-mid-rise-track-shorts-llSmLKMG": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30760,10 +30956,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-womens-oversized-jersey-w3Yo1hTC": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-oversized-lace-track-jacket-1fkpNXPu": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30802,10 +30994,6 @@
    },
    "seo_checked": "2026-10-01T05:07:14Z",
    "seo_hash": "6d19fe279ad6"
-  },
-  "https://www.nike.com/il/t/sportswear-womens-oversized-satin-top-JlyA7nAg": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-womens-oversized-short-sleeve-graphic-jersey-54pwsbIt": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -30871,27 +31059,7 @@
    "seo_checked": "2026-09-29T05:06:47Z",
    "seo_hash": "175b983d9d44"
   },
-  "https://www.nike.com/il/t/sportswear-womens-pleated-jacket-OUI3EFEG": {
-   "first_seen": "2026-09-29T05:06:47Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/sportswear-womens-pleated-jacket-OUI3EFEG",
-    "description": "Find the Nike Sportswear Women's Pleated Jacket at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Sportswear",
-    "title": "Nike Sportswear Women's Pleated Jacket. Nike IL"
-   },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "72057ed3a187"
-  },
   "https://www.nike.com/il/t/sportswear-womens-pleated-miniskirt-rKyt9IQ3": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-pleated-trousers-qjTz15Wa": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30904,10 +31072,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-womens-shorts-YMPrk0": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-shrunken-tracksuit-jacket-np438Azz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30938,6 +31102,22 @@
   "https://www.nike.com/il/t/sportswear-womens-t-shirt-rvTUmv7k": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-womens-t-shirt-xVoSmqzj": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-t-shirt-xVoSmqzj",
+    "description": "Find the Nike Sportswear Women's T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "faf04ebf2c4a"
   },
   "https://www.nike.com/il/t/sportswear-womens-tank-top-vsSRUoJq": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -30984,14 +31164,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-womens-tight-tube-top-FhKHjQLG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-woven-jacket-MpkNWO4a": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-woven-shorts-Quk429qL": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -31435,6 +31607,22 @@
    "seo_checked": "2026-09-26T05:05:40Z",
    "seo_hash": "cbab4372ed9b"
   },
+  "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-mid-rise-open-hem-trousers-3ASx961B": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-mid-rise-open-hem-trousers-3ASx961B",
+    "description": "Find the Nike Studio Fleece Medium Weight Women's Mid-Rise Open-Hem Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Studio Fleece Medium Weight",
+    "title": "Nike Studio Fleece Medium Weight Women's Mid-Rise Open-Hem Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "7838c9e90d9f"
+  },
   "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-mid-rise-open-hem-trousers-9pJrRp4U": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -31446,6 +31634,22 @@
   "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-mid-rise-shorts-pJCzmR2O": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-mid-rise-wide-leg-trousers-v5ZWSgvt": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-mid-rise-wide-leg-trousers-v5ZWSgvt",
+    "description": "Find the Nike Studio Fleece Medium Weight Women's Mid-Rise Wide-Leg Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Studio Fleece Medium Weight",
+    "title": "Nike Studio Fleece Medium Weight Women's Mid-Rise Wide-Leg Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "63fab34f3fd7"
   },
   "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-1-4-zip-cropped-top-Z9yPvBsP": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -32187,10 +32391,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/total90-se-womens-shoes-Ea09r9z2": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/tottenham-hotspur-2024-25-stadium-third-older-kids-nike-dri-fit-football-replica-shirt-2KmsJK": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -32527,6 +32727,38 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/universa-pulse-womens-medium-support-padded-sports-bra-27RomARo": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/universa-pulse-womens-medium-support-padded-sports-bra-27RomARo",
+    "description": "Find the Nike Universa Pulse Women's Medium-Support Padded Sports Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Universa Pulse",
+    "title": "Nike Universa Pulse Women's Medium-Support Padded Sports Bra. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "dbc32012a3ca"
+  },
+  "https://www.nike.com/il/t/universa-womens-1-4-zip-long-sleeve-top-u9ST19sr": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/universa-womens-1-4-zip-long-sleeve-top-u9ST19sr",
+    "description": "Find the Nike Universa Women's 1/4-Zip Long-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Universa",
+    "title": "Nike Universa Women's 1/4-Zip Long-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "be011a9488b1"
+  },
   "https://www.nike.com/il/t/universa-womens-dri-fit-slim-hooded-long-sleeve-top-SDvH4rsV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -32714,6 +32946,22 @@
   "https://www.nike.com/il/t/v5-rnr-older-kids-shoes-uczLeX0C": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/v5-rnr-older-kids-shoes-yfoz9tyh": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/v5-rnr-older-kids-shoes-yfoz9tyh",
+    "description": "Find the Nike V5 RNR Older Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike V5 RNR",
+    "title": "Nike V5 RNR Older Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "a0743db92aa9"
   },
   "https://www.nike.com/il/t/v5-rnr-premium-womens-shoes-pHyCuPCv": {
    "first_seen": "2026-10-02T05:06:40Z",
@@ -33522,6 +33770,22 @@
    },
    "seo_checked": "2026-10-04T10:58:27Z",
    "seo_hash": "16b86c43dce6"
+  },
+  "https://www.nike.com/il/t/zoom-skylon-11-mens-shoes-with-reflective-design-accents-hQzkbJZH": {
+   "first_seen": "2026-10-09T05:08:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/zoom-skylon-11-mens-shoes-with-reflective-design-accents-hQzkbJZH",
+    "description": "Find the Nike Zoom Skylon 11 Men's Shoes With Reflective Design Accents at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Zoom Skylon 11",
+    "title": "Nike Zoom Skylon 11 Men's Shoes With Reflective Design Accents. Nike IL"
+   },
+   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_hash": "f89356294006"
   },
   "https://www.nike.com/il/t/zoom-skylon-11-womens-shoes-with-reflective-design-accents-BXccjSw1": {
    "first_seen": "2026-10-07T05:08:09Z",
