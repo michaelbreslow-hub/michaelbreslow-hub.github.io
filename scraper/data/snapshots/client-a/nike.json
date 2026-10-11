@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-10T05:07:09Z",
+  "last_run": "2026-10-11T05:07:15Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -3208,43 +3208,163 @@
   },
   "https://www.nike.com/il/a/best-cross-country-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-cross-country-shoes",
+    "description": "Looking for the best cross-country shoes? These spikes, flats and running shoes are on top for comfort and traction. Read on for five Nike picks for men and women.",
+    "h1": "The Best Nike Cross-Country Shoes and Spikes",
+    "title": "The best cross-country shoes by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "6050f03ca42c"
   },
   "https://www.nike.com/il/a/best-cross-training-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-cross-training-shoes",
+    "description": "Looking for the best shoes for cross-training workouts? Seek out sneakers that are lightweight and help with grip, stability and flexibility, like these top Nike picks.",
+    "h1": "The Best Nike Shoes for Dedicated Cross-Training Workouts",
+    "title": "The best Nike shoes for dedicated cross-training workouts. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "ea22bf443db9"
   },
   "https://www.nike.com/il/a/best-crossfit-clothing": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-crossfit-clothing",
+    "description": "Check out the best moisture-wicking, breathable gear for the toughest workouts.",
+    "h1": "The Best Nike Cross-Training Clothing to Wear for Your Next WOD",
+    "title": "The Best Nike CrossFit Clothing. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "02f02f73f3d7"
   },
   "https://www.nike.com/il/a/best-crossfit-gifts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-crossfit-gifts",
+    "description": "Empower CrossFit athletes of all levels with items from this Nike CrossFit gift guide.",
+    "h1": "The Best Nike CrossFit Gifts to Shop Now",
+    "title": "The Best Nike CrossFit Gifts. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "5cc4b19fc70d"
   },
   "https://www.nike.com/il/a/best-cushioned-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-cushioned-shoes",
+    "description": "Find out how much cushioning you need to keep your feet comfortable when you’re on the move—and which shoes help provide that comfort best.",
+    "h1": "Which Nikes Have the Best Cushioning?",
+    "title": "Nike’s Best Cushioned Shoes For Running and Walking. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "b290697be936"
   },
   "https://www.nike.com/il/a/best-cycling-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-cycling-shoes",
+    "description": "Clip into your bicycle with a pair of the best indoor cycling shoes from Nike—the Nike SuperRep Cycle shoes—to maximise your cycling performance.",
+    "h1": "Everything You Need to Know About the Best Nike Cycling Shoes",
+    "title": "The Best Cycling Shoes from Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "e7165b03641f"
   },
   "https://www.nike.com/il/a/best-dairy-free-snacks": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-dairy-free-snacks",
+    "description": "Following a dairy-free lifestyle can be simple—and tasty. Here are dietitians’ top picks for dairy-free snacks.",
+    "h1": "Delicious Dairy-Free School Snacks, From Dietitians",
+    "title": "Delicious Dairy-Free School Snacks, From Dietitians. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "27e460aa73ec"
   },
   "https://www.nike.com/il/a/best-dance-sneakers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-dance-sneakers",
+    "description": "The best Nike sneakers for dance empower dancers to show off their footwork and style, while providing support, cushioning and flexibility.",
+    "h1": "Check Out the 5 Best Nike Sneakers for Dance",
+    "title": "Check Out the 5 Best Nike Sneakers for Dance. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "175a03bf9898"
   },
   "https://www.nike.com/il/a/best-day-ever": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-day-ever",
+    "description": "The coolest, wildest, best things you will ever see in sport … are yet to come.",
+    "h1": "Tomorrow Can Be Your Best Day Ever",
+    "title": "Best Day Ever. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "d6860e7fcdcf"
   },
   "https://www.nike.com/il/a/best-dumbell-back-workouts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-dumbell-back-workouts",
+    "description": "Working your back is as easy as grabbing one or two dumbbells and getting to work. Learn some great moves to try.",
+    "h1": "3 Dumbbell Back Workouts to Include in Your Workout, According to Personal Trainers",
+    "title": "The Best Dumbbell Back Workouts, According to Trainers. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "3f14b7ae412b"
   },
   "https://www.nike.com/il/a/best-exercises-for-triceps": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -15195,6 +15315,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/24-7-perfectstretch-womens-dri-fit-mid-rise-wide-leg-trousers-GNerTVsA": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/24-7-perfectstretch-womens-dri-fit-mid-rise-wide-leg-trousers-GNerTVsA",
+    "description": "Find the Nike 24.7 PerfectStretch Women's Dri-FIT Mid-Rise Wide-Leg Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike 24.7 PerfectStretch",
+    "title": "Nike 24.7 PerfectStretch Women's Dri-FIT Mid-Rise Wide-Leg Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "bedd40f0e05c"
+  },
   "https://www.nike.com/il/t/24-7-perfectstretch-womens-dri-fit-uv-protection-cropped-long-sleeve-top-d01IC8Bf": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16379,10 +16515,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-jordan-1-low-g-spiked-golf-shoes-oJ4exInR": {
-   "first_seen": "2026-10-10T05:07:09Z",
+  "https://www.nike.com/il/t/air-jordan-1-low-g-spiked-space-jam-golf-shoes-oJ4exInR": {
+   "first_seen": "2026-10-11T05:07:15Z",
    "http": {
-    "redirect": "https://www.nike.com/il/t/air-jordan-1-low-g-spiked-space-jam-golf-shoes-oJ4exInR",
+    "redirect": null,
     "status": 200
    },
    "lastmod": null,
@@ -16392,7 +16528,7 @@
     "h1": "Air Jordan 1 Low G Spiked 'Space Jam'",
     "title": "Air Jordan 1 Low G Spiked 'Space Jam' Golf Shoes. Nike IL"
    },
-   "seo_checked": "2026-10-10T05:07:09Z",
+   "seo_checked": "2026-10-11T05:07:15Z",
    "seo_hash": "54b950f4fe79"
   },
   "https://www.nike.com/il/t/air-jordan-1-low-mens-shoes-KJDjGc": {
@@ -17594,6 +17730,22 @@
   "https://www.nike.com/il/t/alate-minimalist-womens-light-support-padded-convertible-sports-bra-W6qvzV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/aliens-vs-werewolves-kids-basketball-t-shirt-t5i1ROXP": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/aliens-vs-werewolves-kids-basketball-t-shirt-t5i1ROXP",
+    "description": "Find the Nike 'Aliens vs Werewolves' Kids' Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike 'Aliens vs Werewolves'",
+    "title": "Nike 'Aliens vs Werewolves' Kids' Basketball T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "8dc6759e3566"
   },
   "https://www.nike.com/il/t/alpha-elite-training-gloves-WXhzbV": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -22511,22 +22663,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-blue-steel-mens-basketball-shoes-vdTGF0rJ": {
-   "first_seen": "2026-10-10T05:07:09Z",
-   "http": {
-    "redirect": "https://www.nike.com/il/t/jordan-triangle-space-jam-basketball-shoes-vdTGF0rJ",
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/jordan-triangle-space-jam-basketball-shoes-vdTGF0rJ",
-    "description": "Find the Jordan Triangle 'Space Jam' Basketball Shoes at Nike.com. Shop online at Nike.com.",
-    "h1": "Jordan Triangle 'Space Jam'",
-    "title": "Jordan Triangle 'Space Jam' Basketball Shoes. Nike IL"
-   },
-   "seo_checked": "2026-10-10T05:07:09Z",
-   "seo_hash": "054373961440"
-  },
   "https://www.nike.com/il/t/jordan-brooklyn-essentials-womens-10cm-approx-shorts-ShSvWL": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24423,6 +24559,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-triangle-space-jam-basketball-shoes-vdTGF0rJ": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-triangle-space-jam-basketball-shoes-vdTGF0rJ",
+    "description": "Find the Jordan Triangle 'Space Jam' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Triangle 'Space Jam'",
+    "title": "Jordan Triangle 'Space Jam' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "054373961440"
+  },
   "https://www.nike.com/il/t/jordan-trunner-flow-little-kids-shoes-mBCz8y2f": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24975,22 +25127,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/kids-basketball-t-shirt-t5i1ROXP": {
-   "first_seen": "2026-09-29T05:06:47Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/kids-basketball-t-shirt-t5i1ROXP",
-    "description": "Find the Nike Kids' Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike",
-    "title": "Nike Kids' Basketball T-Shirt. Nike IL"
-   },
-   "seo_checked": "2026-09-29T05:06:47Z",
-   "seo_hash": "9a69ce9bbb1d"
-  },
   "https://www.nike.com/il/t/kiger-10-trail-running-shoes-strNHm": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25283,6 +25419,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/lebron-witness-x-alien-older-kids-basketball-shoes-LPs2nR2D": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/lebron-witness-x-alien-older-kids-basketball-shoes-LPs2nR2D",
+    "description": "Find the LeBron Witness X 'Alien' Older Kids' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "LeBron Witness X 'Alien'",
+    "title": "LeBron Witness X 'Alien' Older Kids' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "087d6486d9f5"
+  },
   "https://www.nike.com/il/t/lebron-witness-x-basketball-shoes-GD3OM5QV": {
    "first_seen": "2026-10-08T05:08:28Z",
    "http": {
@@ -25298,10 +25450,6 @@
    },
    "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "a853db0c3881"
-  },
-  "https://www.nike.com/il/t/lebron-witness-x-older-kids-basketball-shoes-LPs2nR2D": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
   },
   "https://www.nike.com/il/t/lebron-witness-x-older-kids-basketball-shoes-xoagy4vI": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27419,22 +27567,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/nikeskims-womens-bumbag-Wy4lK1xK": {
-   "first_seen": "2026-10-08T05:08:28Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/nikeskims-womens-bumbag-Wy4lK1xK",
-    "description": "Find the NikeSKIMS Women's Bumbag at Nike.com. Shop online at Nike.com.",
-    "h1": "NikeSKIMS",
-    "title": "NikeSKIMS Women's Bumbag. Nike IL"
-   },
-   "seo_checked": "2026-10-08T05:08:28Z",
-   "seo_hash": "f63ca59e76f9"
-  },
   "https://www.nike.com/il/t/nikeskims-womens-clippable-pouch-Emhu10l2": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -27442,6 +27574,22 @@
   "https://www.nike.com/il/t/nikeskims-womens-dri-fit-ankle-socks-3-pairs-FiVUKFq8": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-womens-dri-fit-pilates-grip-no-show-socks-1-pair-2eB0eGid": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-womens-dri-fit-pilates-grip-no-show-socks-1-pair-2eB0eGid",
+    "description": "Find the NikeSKIMS Women's Dri-FIT Pilates Grip No-Show Socks (1 Pair) at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS",
+    "title": "NikeSKIMS Women's Dri-FIT Pilates Grip No-Show Socks (1 Pair). Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "8b8af481191e"
   },
   "https://www.nike.com/il/t/nikeskims-womens-hardshell-round-case-6ylbzIsw": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27462,6 +27610,22 @@
    },
    "seo_checked": "2026-10-09T05:08:23Z",
    "seo_hash": "714338dbe0cf"
+  },
+  "https://www.nike.com/il/t/nikeskims-womens-hip-pack-Wy4lK1xK": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-womens-hip-pack-Wy4lK1xK",
+    "description": "Find the NikeSKIMS Women's Hip Pack at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS",
+    "title": "NikeSKIMS Women's Hip Pack. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "3203d33c81f6"
   },
   "https://www.nike.com/il/t/nikeskims-womens-small-towel-mQTZODq1": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31407,9 +31571,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/st-dynamite-older-kids-basketball-shoes-9kvNJDDx": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/st-dynamite-alien-older-kids-basketball-shoes-9kvNJDDx": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/st-dynamite-alien-older-kids-basketball-shoes-9kvNJDDx",
+    "description": "Find the Nike S.T. Dynamite 'Alien' Older Kids' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike S.T. Dynamite 'Alien'",
+    "title": "Nike S.T. Dynamite 'Alien' Older Kids' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "82248c7c9961"
   },
   "https://www.nike.com/il/t/st-dynamite-older-kids-basketball-shoes-vlEbg45g": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -32111,13 +32287,37 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/swoosh-go-baby-toddler-shoes-9MkRqfh9": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/swoosh-go-baby-toddler-one-handed-slip-on-shoes-9MkRqfh9": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/swoosh-go-baby-toddler-one-handed-slip-on-shoes-9MkRqfh9",
+    "description": "Find the Nike Swoosh Go Baby & Toddler One-Handed Slip-On Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Swoosh Go",
+    "title": "Nike Swoosh Go Baby & Toddler One-Handed Slip-On Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "9dbf46ff47fc"
   },
-  "https://www.nike.com/il/t/swoosh-go-baby-toddler-shoes-Gw6D2oCO": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/swoosh-go-baby-toddler-one-handed-slip-on-shoes-Gw6D2oCO": {
+   "first_seen": "2026-10-11T05:07:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/swoosh-go-baby-toddler-one-handed-slip-on-shoes-Gw6D2oCO",
+    "description": "Find the Nike Swoosh Go Baby & Toddler One-Handed Slip-On Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Swoosh Go",
+    "title": "Nike Swoosh Go Baby & Toddler One-Handed Slip-On Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-11T05:07:15Z",
+   "seo_hash": "51313538f774"
   },
   "https://www.nike.com/il/t/swoosh-womens-medium-support-non-padded-sports-bra-FW1i93IK": {
    "first_seen": "2026-09-24T08:34:55Z",
