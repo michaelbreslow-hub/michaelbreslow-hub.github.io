@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-11T05:07:15Z",
+  "last_run": "2026-10-12T05:09:45Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -3368,43 +3368,163 @@
   },
   "https://www.nike.com/il/a/best-exercises-for-triceps": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-exercises-for-triceps",
+    "description": "Here's how to incorporate these top triceps exercises into your strength training routine.",
+    "h1": "8 Triceps Exercises for Building Strong Arms, According to Trainers",
+    "title": "8 Triceps Exercises to Build Strong Arms, According to Trainers . Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "ba8c1448aece"
   },
   "https://www.nike.com/il/a/best-fanny-pack": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fanny-pack",
+    "description": "This versatile accessory can store necessities while you’re on the go. Check out the best Nike hip packs.",
+    "h1": "4 Reasons to Rock a Hip Pack This Summer—Plus Nike's Best Styles",
+    "title": "The Best Nike Hip Packs. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "d36fe7bbc6f6"
   },
   "https://www.nike.com/il/a/best-fleece-hoodie": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fleece-hoodie",
+    "description": "Get cosy with one of these super-soft fleece hoodies by Nike.",
+    "h1": "The Best Nike Fleece Hoodies to Shop Now",
+    "title": "The Best Nike Fleece Hoodies. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "bed5600a1092"
   },
   "https://www.nike.com/il/a/best-fleece-hoodie-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fleece-hoodie-women",
+    "description": "From fluffy Sherpa Fleece to sleek Tech Fleece designs, these hoodies bring warmth and comfort wherever you go.",
+    "h1": "Nike Fleece Hoodie Styles for Women to Shop Now",
+    "title": "The Best Nike Fleece Hoodies for Women to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "b139133f60f9"
   },
   "https://www.nike.com/il/a/best-fleece-jacket": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fleece-jacket",
+    "description": "Shop the top fleece jackets from the brand, including the latest outdoorsy styles and cosy, fuzzy layers for everyday wear.",
+    "h1": "The Best Fleece Jackets by Nike",
+    "title": "The Best Fleece Jackets by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "dffc63d65f89"
   },
   "https://www.nike.com/il/a/best-fleece-pants-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fleece-pants-men",
+    "description": "Check out the brand's best fleece tracksuit bottoms and joggers for men in this Nike product guide.",
+    "h1": "The Best Nike Fleece Trousers for Men to Shop Now",
+    "title": "The Best Nike Fleece Trousers for Men . Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "a48b13f1ce0c"
   },
   "https://www.nike.com/il/a/best-fleece-pants-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fleece-pants-women",
+    "description": "Use this guide to shop for the best fleece trousers for women, including those made with Nike Club Fleece, Phoenix Fleece, Therma-FIT, Dri-FIT and more.",
+    "h1": "The Best Nike Fleece Trousers for Women to Shop Now",
+    "title": "The Best Nike Fleece Trousers for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "e8fa468234d8"
   },
   "https://www.nike.com/il/a/best-fleece-shorts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-fleece-shorts",
+    "description": "Shop three top styles of Nike fleece shorts, including Nike Club Fleece, Nike Tech Fleece and Nike Phoenix Fleece.",
+    "h1": "The Best Nike Fleece Shorts to Shop Now",
+    "title": "The Best Fleece Shorts by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "441de016eb48"
   },
   "https://www.nike.com/il/a/best-football-boots": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-football-boots",
+    "description": "Find the best Nike football boots for your position, surface​​ and playing style. Get a full breakdown of the Mercurial, Phantom​ and Tiempo lines, including the new Mercurial Superfly 11 and Vapor 17.",
+    "h1": "The Best Nike Football Boots: Mercurial, Phantom​ and Tiempo​,​ Compared by Playing Style and Surface",
+    "title": "The Best Nike Football Boots: Mercurial, Phantom​ and Tiempo​,​ Compared by Playing Style and Surface. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "299a7a3bd657"
   },
   "https://www.nike.com/il/a/best-football-cleats": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-football-cleats",
+    "description": "Sprint, cut and score in the best Nike American football boots for tearing down the field.",
+    "h1": "The best Nike American football boots to wear this season",
+    "title": "The best Nike American football boots to wear this season. Nike IL"
+   },
+   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_hash": "8b861239ea12"
   },
   "https://www.nike.com/il/a/best-football-gloves": {
    "first_seen": "2026-09-24T08:34:55Z",
