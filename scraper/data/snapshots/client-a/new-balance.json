@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-12T05:09:45Z",
+  "last_run": "2026-10-13T05:09:48Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-11T11:00:03+00:00",
+   "lastmod": "2026-10-12T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_checked": "2026-10-13T05:09:48Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -2892,39 +2892,147 @@
   },
   "https://www.newbalance.co.il/en/shop/women/Accessories_women/Socks_women": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2023-11-22T08:00:23+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2023-11-22T08:00:23+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/Accessories_women/Socks_women",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Socks, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Socks",
+    "title": "Socks - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "45f763c0e1bb"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-23T14:15:01+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-23T14:15:01+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על CLOTHING, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "CLOTHING",
+    "title": "CLOTHING - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "d6a94bc2a470"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_%20New%20Collection": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-23T14:15:01+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-23T14:15:01+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_%20New%20Collection",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על New Collection, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "New Collection",
+    "title": "New Collection - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "db212f253513"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_Matching%20Sets": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2024-04-02T06:41:55+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2024-04-02T06:41:55+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_Matching%20Sets",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Matching Sets, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Matching Sets",
+    "title": "Matching Sets - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "e07b93e30f61"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/woman-dresses": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2024-02-15T08:29:22+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2024-02-15T08:29:22+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/woman-dresses",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Dresses, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Dresses",
+    "title": "Dresses - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "b3a95401b60a"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-allclothing": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:12:26+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:12:26+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-allclothing",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על All Clothing, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "All Clothing",
+    "title": "All Clothing - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "6b0ec31a6eb0"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-hoodies%26sweatshirts": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2024-04-02T06:41:53+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2024-04-02T06:41:53+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-hoodies%26sweatshirts",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Hoodies & Sweatshirts, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Hoodies & Sweatshirts",
+    "title": "Hoodies & Sweatshirts - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "732c6a1dd0da"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-jackets": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-11T09:03:47+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-11T09:03:47+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-jackets",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Jackets, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Jackets",
+    "title": "Jackets - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "7a7f7e14c43d"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-pants%26tights": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2024-04-02T06:41:50+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2024-04-02T06:41:50+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-pants%26tights",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Pants & Tights, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Pants & Tights",
+    "title": "Pants & Tights - New Balance"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "d6fde1a42908"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shorts": {
    "first_seen": "2026-09-25T11:29:53Z",

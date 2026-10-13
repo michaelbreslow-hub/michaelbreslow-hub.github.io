@@ -7,6 +7,786 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Academy Winter Warrior",
+    "title": "Nike Academy Winter Warrior Women's Therma-FIT Football Pants. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/academy-winter-warrior-womens-therma-fit-football-pants-eCVZQK6H"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 1 High OG 'Royal'",
+    "title": "Air Jordan 1 High OG 'Royal' Men's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/air-jordan-1-high-og-royal-mens-shoes-MMgWwvhH"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 1 Low SE",
+    "title": "Air Jordan 1 Low SE Men's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-TDFHQn"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Miler",
+    "title": "Nike Miler Men's Repel UV Protection Printed Running Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/miler-mens-repel-uv-protection-printed-running-jacket-yE15nt5h"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike",
+    "title": "Nike Kids' Backpack (20L). Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/kids-backpack-20l-hOON4WMO"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Cropped 1/4-Zip Sweatshirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-womens-oversized-cropped-1-4-zip-sweatshirt-LFTYrfWT"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Therma-FIT Bomber Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-womens-therma-fit-bomber-jacket-wzKIG7YM"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Stride",
+    "title": "Nike Stride Men's Repel UV Protection Printed Running Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/stride-mens-repel-uv-protection-printed-running-jacket-6uLrJxU2"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Tatum 5 'Sunrise'",
+    "title": "Tatum 5 'Sunrise' Basketball Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/tatum-5-sunrise-basketball-shoes-sguAS9RL"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/mens-dri-fit-graphic-running-t-shirt-Eip4P0hv"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Jordan Flight",
+    "title": "Jordan Flight Women's Long-Sleeve Mesh Top. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/jordan-flight-womens-long-sleeve-mesh-top-6rQOJGOP"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-max-95-big-bubble-greedy-white-and-medium-ash"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/air-max-90-check-womens-shoes-7iU0Gtwm"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/air-max-90-premium-scorpion-mens-shoes-6jaRwvyF"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/air-max-plus-premium-scorpion-mens-shoes-H9aSRSzp"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jordan-tiempo-streetgato-se-indoor-court-low-top-football-boots-sZ8btKGv"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-older-kids-multi-ground-high-top-football-boots-fKDoXTIV"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-mercurial-superfly-11-club-older-kids-multi-ground-high-top-football-boots-oO5JJ7Hs"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-mercurial-vapor-16-pro-younger-older-kids-firm-ground-low-top-football-boot-heDalUZO"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-mercurial-vapor-17-academy-older-kids-indoor-court-low-top-football-shoes-3PWTrIZD"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-mercurial-vapor-17-academy-older-kids-multi-ground-low-top-football-boots-6VrOVxmz"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-mercurial-vapor-17-pro-older-kids-firm-ground-low-top-football-boots-bKQV2AgK"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-high-academy-older-kids-multi-ground-football-boot-kXak7hLp"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-erling-haaland-older-kids-indoor-court-football-shoe-q6RuY2pi"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-erling-haaland-older-kids-multi-ground-football-boot-nfs0LK"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-artificial-grass-football-boots-gQoh2vtU"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-indoor-court-football-shoe-A4GJDGcz"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-multi-ground-football-boots-nSXTlJ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-multi-ground-football-boots-yKyQ2SYz"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-turf-football-shoe-KXbIvrWs"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-club-older-kids-multi-ground-football-boot-593qrJ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-club-older-kids-multi-ground-football-boot-rGvyHn9M"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-club-older-kids-turf-football-shoes-s1PGXxud"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-6-low-pro-erling-haaland-older-kids-multi-ground-football-boot-lSxMn7"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-phantom-gx-2-club-older-younger-kids-multi-ground-low-top-football-boot-9LSCzg"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-maestro-academy-older-kids-multi-ground-low-top-football-boots-hznMlpxB"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-maestro-academy-older-kids-multi-ground-low-top-football-boots-ltiPZ7IL"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-maestro-academy-older-kids-turf-low-top-football-boots-Su6Tgu18"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-maestro-club-big-kids-multi-ground-low-top-football-boots-u8PLJrvg"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-maestro-club-flex-younger-kids-multi-ground-low-top-football-boots-rMF3LOv7"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-maestro-flex-younger-kids-turf-high-top-football-boots-WHFVLr8q"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-streetgato-older-kids-indoor-court-low-top-football-shoes-7hf0Iwju"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-tiempo-streetgato-prm-older-kids-indoor-court-low-top-football-shoes-i2YcosMu"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-superfly-11-academy-multi-ground-high-top-football-boots-2DdzVQDB"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-superfly-11-club-multi-ground-high-top-football-boots-dnAKjBlR"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-superfly-11-club-turf-high-top-football-shoes-APGh9DhV"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-superfly-11-pro-firm-ground-low-top-football-boots-JgYg4dPg"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-academy-multi-ground-low-top-football-boots-ULeYsfGg"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-academy-soft-ground-low-top-football-boots-Iit0BboE"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-club-indoor-court-low-top-football-shoes-R6iD7wWy"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-club-multi-ground-low-top-football-boots-4R9fI7gc"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-club-turf-low-top-football-shoes-uwL79QpV"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-pro-artificial-grass-low-top-football-boots-3MUrMX0T"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-pro-firm-ground-low-top-football-boots-vSCWFPvk"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/mercurial-vapor-17-pro-turf-low-top-football-shoes-bSIriKkh"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nocta-club-cap-xzX5hR"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nocta-mens-cs-t-shirt-2hzZxQ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nocta-mens-fleece-cs-crew-m5N6hc"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nocta-mens-fleece-cs-hoodie-S7kKN8"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nocta-mens-fleece-cs-trousers-xpWzBx"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nocta-mens-open-hem-fleece-cs-trousers-d5RpRH"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/p-6000-denim-mens-shoes-LLCkl6"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/p-6000-mens-shoes-g87Q299f"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-high-elite-lv8-firm-ground-football-boots-SrIDCzrV"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-high-elite-lv8-firm-ground-football-boots-wYLveuGm"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-low-academy-easyon-multi-ground-football-boot-xM4yjr6i"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-low-academy-indoor-court-football-shoes-OPuggbm0"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-low-academy-turf-football-shoes-dw7wwu8D"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-low-elite-lv8-firm-ground-football-boots-b8lRKQvL"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-low-pro-artificial-grass-football-boot-KqGlypTa"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/phantom-6-low-pro-erling-haaland-turf-football-shoes-mn2spqwc"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-ligera-pro-artificial-grass-low-top-football-boots-2wqVUv8u"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-ligera-pro-firm-ground-low-top-football-boots-0h7AWMLR"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-ligera-pro-turf-low-top-football-shoes-YSmxT9Ed"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-maestro-academy-soft-ground-low-top-football-boots-RIyYVAZZ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-maestro-academy-turf-low-top-football-boots-yfCEfaYR"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-maestro-club-multi-ground-low-top-football-boots-94n2h9CA"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-maestro-club-turf-low-top-football-boots-c3C5flrI"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-maestro-elite-artificial-grass-low-top-football-boots-LWoHF7co"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-maestro-elite-lv8-firm-ground-low-top-football-boots-OGEz5ooz"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-streetgato-prm-indoor-court-low-top-football-shoes-BGlwip55"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/tiempo-streetgato-prm-indoor-court-low-top-football-shoes-frKEadhr"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-jr-phantom-6-high-academy-older-kids-multi-ground-football-boot-NZpVNELU"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-jr-phantom-6-low-academy-older-kids-multi-ground-football-boot-PPuJUVpG"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-jr-phantom-6-low-pro-older-kids-multi-ground-football-boot-t1FHkWDh"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-jr-tiempo-maestro-academy-older-kids-multi-ground-low-top-football-boots-rdUn7kZx"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike United Phantom 6 High Elite",
+    "title": "Nike United Phantom 6 High Elite Firm-Ground Football Boots. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-phantom-6-high-elite-firm-ground-football-boots-HLqupOYZ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-phantom-6-low-elite-firm-ground-football-boots-0EmapNiJ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-13T05:09:48Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/united-tiempo-maestro-elite-firm-ground-low-top-football-boots-wkgPwXqQ"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-10-11T05:07:15Z",
    "keywords": [
     "jordan"
@@ -7460,6 +8240,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 11,
+    "keyword_hits": 8,
+    "removed": 78
+   },
+   "date": "2026-10-13T05:09:48Z",
+   "status": "ok",
+   "total_urls": 11617
+  },
   {
    "counts": {},
    "date": "2026-10-12T05:09:45Z",

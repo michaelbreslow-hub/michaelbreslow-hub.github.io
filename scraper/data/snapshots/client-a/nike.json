@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-12T05:09:45Z",
+  "last_run": "2026-10-13T05:09:48Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -3528,43 +3528,163 @@
   },
   "https://www.nike.com/il/a/best-football-gloves": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-football-gloves",
+    "description": "From grippy material innovation to breathable, adjustable design features, check out the Nike American football glove technology that can take your game to the next level.",
+    "h1": "The Best Nike American Football Gloves to Wear This Season",
+    "title": "The Best Nike American Football Gloves to Wear This Season. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "ae8d560b4ac6"
   },
   "https://www.nike.com/il/a/best-football-practice-jerseys": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-football-practice-jerseys",
+    "description": "You provide the determination, grit and drive—Nike will provide the gear to help you show it all off.",
+    "h1": "The Best Nike American Football Training Jerseys and Gear",
+    "title": "The Best Nike American Football Training Jerseys and Gear. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "56633bab70db"
   },
   "https://www.nike.com/il/a/best-forearm-exercises": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-forearm-exercises",
+    "description": "Experts explain why including forearm exercises into your fitness routine is critical to improving overall strength.",
+    "h1": "9 Best Forearm Exercises for Grip Strength, Muscle and Endurance",
+    "title": "The Best Exercises To Increase Forearm Strength. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "3ea0f7c98905"
   },
   "https://www.nike.com/il/a/best-gifts-for-kids": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-gifts-for-kids",
+    "description": "Check out some of the best Nike gift options for boys and girls, from footwear to apparel and accessories.",
+    "h1": "The top Nike gifts for kids",
+    "title": "The top Nike gifts for kids . Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "b977f7228d81"
   },
   "https://www.nike.com/il/a/best-gifts-for-runners": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-gifts-for-runners",
+    "description": "From colourful leggings to super-practical hydration accessories, these gifts won't collect dust.",
+    "h1": "The Best Gifts for Runners, According to Nike Athletes and Experts",
+    "title": "8 best Nike gift ideas for runners. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "a7157866bac1"
   },
   "https://www.nike.com/il/a/best-girls-athletic-wear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-girls-athletic-wear",
+    "description": "Find the best shirts, sports bras, hoodies and more for the active girl in your life.",
+    "h1": "The Best Activewear for Girls by Nike",
+    "title": "The Best Athletic Wear for Girls by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "4bf6ca6c2237"
   },
   "https://www.nike.com/il/a/best-girls-sports-bra": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-girls-sports-bra",
+    "description": "These youth sports bras–available in a variety of support levels and styles–are designed for seamless coverage and comfort.",
+    "h1": "The best bras for girls by Nike",
+    "title": "The best bras for girls by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "09a5a667f51d"
   },
   "https://www.nike.com/il/a/best-golf-bags-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-golf-bags-for-women",
+    "description": "Find a Nike golf bag to help carry your clubs with confidence and comfort.",
+    "h1": "The Best Nike Golf Bags for Women",
+    "title": "The Best Nike Golf Bags for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "e1dc53ccccdc"
   },
   "https://www.nike.com/il/a/best-golf-clothes-for-kids": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-golf-clothes-for-kids",
+    "description": "Shop these Nike golf clothes for kids to ensure they’re properly dressed for a full day on the green.",
+    "h1": "The Best Nike Golf Clothes for Kids",
+    "title": "The Best Nike Golf Clothes for Kids. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "19c7d9e91749"
   },
   "https://www.nike.com/il/a/best-golf-gear-beginners": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-golf-gear-beginners",
+    "description": "Trying a new sport requires a lot of practice and the right gear. Check out the top Nike golf essentials to get ready for your first day on the green.",
+    "h1": "The Top 10 Nike Golf Gear Essentials for Beginners",
+    "title": "Best Nike Golf Gear for Beginners. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "e2a38b3a72e6"
   },
   "https://www.nike.com/il/a/best-golf-hats": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -10566,10 +10686,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/air-max-95-big-bubble-greedy-white-and-medium-ash": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/air-max-95-black-leather-110tvfootwork": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -15667,6 +15783,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/academy-winter-warrior-womens-therma-fit-football-pants-eCVZQK6H": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/academy-winter-warrior-womens-therma-fit-football-pants-eCVZQK6H",
+    "description": "Find the Nike Academy Winter Warrior Women's Therma-FIT Football Pants at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Academy Winter Warrior",
+    "title": "Nike Academy Winter Warrior Women's Therma-FIT Football Pants. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "d5a49b7b043e"
+  },
   "https://www.nike.com/il/t/academy-womens-dri-fit-football-pants-MQqvzx": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16635,6 +16767,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/air-jordan-1-high-og-royal-mens-shoes-MMgWwvhH": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-1-high-og-royal-mens-shoes-MMgWwvhH",
+    "description": "Find the Air Jordan 1 High OG 'Royal' Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan 1 High OG 'Royal'",
+    "title": "Air Jordan 1 High OG 'Royal' Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "4eb7180e630b"
+  },
   "https://www.nike.com/il/t/air-jordan-1-low-g-spiked-space-jam-golf-shoes-oJ4exInR": {
    "first_seen": "2026-10-11T05:07:15Z",
    "http": {
@@ -16754,6 +16902,22 @@
   "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-Qsn6ioye": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-TDFHQn": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-TDFHQn",
+    "description": "Find the Air Jordan 1 Low SE Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan 1 Low SE",
+    "title": "Air Jordan 1 Low SE Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "2c192e7cde85"
   },
   "https://www.nike.com/il/t/air-jordan-1-low-se-mens-shoes-hsqGFIVi": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -17227,10 +17391,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-max-90-check-womens-shoes-7iU0Gtwm": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-max-90-drift-mens-shoes-Y8JZn9g9": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -17314,10 +17474,6 @@
    },
    "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "12ef28e6114e"
-  },
-  "https://www.nike.com/il/t/air-max-90-premium-scorpion-mens-shoes-6jaRwvyF": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
   },
   "https://www.nike.com/il/t/air-max-90-se-older-kids-shoes-COfRuxqJ": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -17708,10 +17864,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/air-max-plus-older-kids-shoes-VWK3gG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-max-plus-premium-scorpion-mens-shoes-H9aSRSzp": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -23779,6 +23931,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-flight-womens-long-sleeve-mesh-top-6rQOJGOP": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-flight-womens-long-sleeve-mesh-top-6rQOJGOP",
+    "description": "Find the Jordan Flight Women's Long-Sleeve Mesh Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Flight",
+    "title": "Jordan Flight Women's Long-Sleeve Mesh Top. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "aa46371177d1"
+  },
   "https://www.nike.com/il/t/jordan-flight-womens-long-sleeve-striped-jumper-lpdlEx9e": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24663,10 +24831,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-tiempo-streetgato-se-indoor-court-low-top-football-boots-sZ8btKGv": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jordan-tour-regular-golf-glove-left-ks2Z5k": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24815,10 +24979,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-older-kids-multi-ground-high-top-football-boots-fKDoXTIV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-mercurial-superfly-11-academy-older-kids-turf-high-top-football-shoes-xazQeItg": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24879,10 +25039,6 @@
    "seo_checked": "2026-10-03T05:06:03Z",
    "seo_hash": "3bbebcc2eca2"
   },
-  "https://www.nike.com/il/t/jr-mercurial-superfly-11-club-older-kids-multi-ground-high-top-football-boots-oO5JJ7Hs": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-mercurial-superfly-11-club-older-kids-multi-ground-high-top-football-boots-xEnMU6hZ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24895,19 +25051,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jr-mercurial-vapor-16-pro-younger-older-kids-firm-ground-low-top-football-boot-heDalUZO": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-mercurial-vapor-17-academy-older-kids-indoor-court-low-top-football-shoes-3PWTrIZD": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-mercurial-vapor-17-academy-older-kids-indoor-court-low-top-football-shoes-VDvg0lgp": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-mercurial-vapor-17-academy-older-kids-multi-ground-low-top-football-boots-6VrOVxmz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -24943,19 +25087,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jr-mercurial-vapor-17-pro-older-kids-firm-ground-low-top-football-boots-bKQV2AgK": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-mercurial-vapor-17-pro-older-kids-firm-ground-low-top-football-boots-goltfcyT": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/jr-mercurial-vapor-17-pro-sam-kerr-older-kids-firm-ground-low-top-football-boots-kynV701C": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-high-academy-older-kids-multi-ground-football-boot-kXak7hLp": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -24975,10 +25111,6 @@
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "5415bd6dfc48"
   },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-erling-haaland-older-kids-indoor-court-football-shoe-q6RuY2pi": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-phantom-6-low-academy-erling-haaland-older-kids-multi-ground-football-boot-KuCYgYJC": {
    "first_seen": "2026-10-06T05:07:18Z",
    "http": {
@@ -24994,10 +25126,6 @@
    },
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "c66f7114d693"
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-erling-haaland-older-kids-multi-ground-football-boot-nfs0LK": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
   },
   "https://www.nike.com/il/t/jr-phantom-6-low-academy-erling-haaland-older-kids-turf-football-shoe-KrHNbIvQ": {
    "first_seen": "2026-10-06T05:07:18Z",
@@ -25016,26 +25144,6 @@
    "seo_hash": "ef97e35f3bca"
   },
   "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-artificial-grass-football-boots-1Yar2MKV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-artificial-grass-football-boots-gQoh2vtU": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-indoor-court-football-shoe-A4GJDGcz": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-multi-ground-football-boots-nSXTlJ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-multi-ground-football-boots-yKyQ2SYz": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-academy-older-kids-turf-football-shoe-KXbIvrWs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -25103,27 +25211,7 @@
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "388930021cb0"
   },
-  "https://www.nike.com/il/t/jr-phantom-6-low-club-older-kids-multi-ground-football-boot-593qrJ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-club-older-kids-multi-ground-football-boot-rGvyHn9M": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-club-older-kids-turf-football-shoes-s1PGXxud": {
-   "first_seen": "2026-10-10T05:07:09Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-phantom-6-low-club-younger-kids-multi-ground-football-boots-bv5GegZc": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-6-low-pro-erling-haaland-older-kids-multi-ground-football-boot-lSxMn7": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-phantom-gx-2-club-older-younger-kids-multi-ground-low-top-football-boot-9LSCzg": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -25135,39 +25223,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jr-tiempo-maestro-academy-older-kids-multi-ground-low-top-football-boots-hznMlpxB": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-maestro-academy-older-kids-multi-ground-low-top-football-boots-ltiPZ7IL": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-maestro-academy-older-kids-turf-low-top-football-boots-Su6Tgu18": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-maestro-club-big-kids-multi-ground-low-top-football-boots-u8PLJrvg": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-maestro-club-flex-younger-kids-multi-ground-low-top-football-boots-rMF3LOv7": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-tiempo-maestro-club-younger-kids-multi-ground-low-top-football-boots-lr7LdkCU": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-maestro-flex-younger-kids-turf-high-top-football-boots-WHFVLr8q": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-streetgato-older-kids-indoor-court-low-top-football-shoes-7hf0Iwju": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jr-tiempo-streetgato-prm-older-kids-indoor-court-low-top-football-shoes-i2YcosMu": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -25234,6 +25290,22 @@
   "https://www.nike.com/il/t/kids-backpack-20l-Zh4JCJ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/kids-backpack-20l-hOON4WMO": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/kids-backpack-20l-hOON4WMO",
+    "description": "Find the Nike Kids' Backpack (20L) at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike",
+    "title": "Nike Kids' Backpack (20L). Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "a2b5503c6748"
   },
   "https://www.nike.com/il/t/kids-backpack-20l-pid5Iqy6": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -26055,6 +26127,15 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/mens-dri-fit-graphic-running-t-shirt-Eip4P0hv": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 404
+   },
+   "lastmod": null,
+   "seo_checked": "2026-10-13T05:09:48Z"
+  },
   "https://www.nike.com/il/t/mens-dri-fit-long-sleeve-running-t-shirt-NzstQcvG": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26167,10 +26248,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mercurial-superfly-11-academy-multi-ground-high-top-football-boots-2DdzVQDB": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mercurial-superfly-11-academy-multi-ground-high-top-football-boots-bEdZHrpK": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26203,19 +26280,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mercurial-superfly-11-club-multi-ground-high-top-football-boots-dnAKjBlR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mercurial-superfly-11-club-multi-ground-high-top-football-boots-y1ry45te": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/mercurial-superfly-11-club-turf-high-top-football-shoes-8UojwkFG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mercurial-superfly-11-club-turf-high-top-football-shoes-APGh9DhV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -26251,10 +26320,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mercurial-superfly-11-pro-firm-ground-low-top-football-boots-JgYg4dPg": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mercurial-superfly-11-pro-kylian-mbappe-artificial-grass-low-top-football-boots-sXln4w8B": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26275,14 +26340,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mercurial-vapor-17-academy-multi-ground-low-top-football-boots-ULeYsfGg": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mercurial-vapor-17-academy-soft-ground-low-top-football-boots-Iit0BboE": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mercurial-vapor-17-academy-soft-ground-low-top-football-boots-zwEj5BOD": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26291,15 +26348,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mercurial-vapor-17-club-indoor-court-low-top-football-shoes-R6iD7wWy": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mercurial-vapor-17-club-indoor-court-low-top-football-shoes-fUkuRDxL": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mercurial-vapor-17-club-multi-ground-low-top-football-boots-4R9fI7gc": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -26308,10 +26357,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/mercurial-vapor-17-club-turf-low-top-football-shoes-NRFpobrH": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mercurial-vapor-17-club-turf-low-top-football-shoes-uwL79QpV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -26335,23 +26380,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mercurial-vapor-17-pro-artificial-grass-low-top-football-boots-3MUrMX0T": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mercurial-vapor-17-pro-artificial-grass-low-top-football-boots-CDTMM9TU": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/mercurial-vapor-17-pro-firm-ground-low-top-football-boots-W97U2DFC": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mercurial-vapor-17-pro-firm-ground-low-top-football-boots-vSCWFPvk": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mercurial-vapor-17-pro-turf-low-top-football-shoes-bSIriKkh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -26450,6 +26483,22 @@
   "https://www.nike.com/il/t/miler-mens-dri-fit-woven-running-trousers-10MzhDvl": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/miler-mens-repel-uv-protection-printed-running-jacket-yE15nt5h": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/miler-mens-repel-uv-protection-printed-running-jacket-yE15nt5h",
+    "description": "Find the Nike Miler Men's Repel UV Protection Printed Running Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Miler",
+    "title": "Nike Miler Men's Repel UV Protection Printed Running Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "84946ae1970d"
   },
   "https://www.nike.com/il/t/miler-mens-repel-uv-protection-running-jacket-2G9UQalQ": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27771,35 +27820,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/nocta-club-cap-xzX5hR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/nocta-fleece-cs-hoodie-2-cgvH98": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/nocta-mens-cs-t-shirt-2hzZxQ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/nocta-mens-fleece-cs-crew-m5N6hc": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/nocta-mens-fleece-cs-crew-rpKdlT": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/nocta-mens-fleece-cs-hoodie-S7kKN8": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/nocta-mens-fleece-cs-trousers-xpWzBx": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/nocta-mens-open-hem-fleece-cs-trousers-d5RpRH": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -28127,10 +28152,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/p-6000-denim-mens-shoes-LLCkl6": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/p-6000-mens-shoes-1bKxDQtW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -28148,10 +28169,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/p-6000-mens-shoes-Zh3c84": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/p-6000-mens-shoes-g87Q299f": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29083,14 +29100,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/phantom-6-high-elite-lv8-firm-ground-football-boots-SrIDCzrV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/phantom-6-high-elite-lv8-firm-ground-football-boots-wYLveuGm": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/phantom-6-high-pro-artificial-grass-football-boots-csNbTB8n": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29100,10 +29109,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/phantom-6-low-academy-by-you-custom-multi-ground-football-boot-mk8HwblJ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/phantom-6-low-academy-easyon-multi-ground-football-boot-xM4yjr6i": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29123,15 +29128,7 @@
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "f99ad27debc8"
   },
-  "https://www.nike.com/il/t/phantom-6-low-academy-indoor-court-football-shoes-OPuggbm0": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/phantom-6-low-academy-multi-ground-football-boot-l5Uv2TvG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/phantom-6-low-academy-turf-football-shoes-dw7wwu8D": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29151,19 +29148,7 @@
    "seo_checked": "2026-09-26T05:05:40Z",
    "seo_hash": "2a6753f937a2"
   },
-  "https://www.nike.com/il/t/phantom-6-low-elite-lv8-firm-ground-football-boots-b8lRKQvL": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/phantom-6-low-elite-soft-ground-football-boot-UJeJW6fe": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/phantom-6-low-pro-artificial-grass-football-boot-KqGlypTa": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/phantom-6-low-pro-erling-haaland-turf-football-shoes-mn2spqwc": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -31463,6 +31448,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-womens-oversized-cropped-1-4-zip-sweatshirt-LFTYrfWT": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-oversized-cropped-1-4-zip-sweatshirt-LFTYrfWT",
+    "description": "Find the Nike Sportswear Women's Oversized Cropped 1/4-Zip Sweatshirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Cropped 1/4-Zip Sweatshirt. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "49432ee6a7b6"
+  },
   "https://www.nike.com/il/t/sportswear-womens-oversized-high-waisted-balloon-tracksuit-bottoms-YvznzeIc": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -31634,6 +31635,22 @@
   "https://www.nike.com/il/t/sportswear-womens-tank-top-vsSRUoJq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-womens-therma-fit-bomber-jacket-wzKIG7YM": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-therma-fit-bomber-jacket-wzKIG7YM",
+    "description": "Find the Nike Sportswear Women's Therma-FIT Bomber Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Therma-FIT Bomber Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "24f1d4623260"
   },
   "https://www.nike.com/il/t/sportswear-womens-therma-fit-jacket-vGko2E8W": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31954,6 +31971,22 @@
   "https://www.nike.com/il/t/stride-mens-repel-running-jacket-MYSawmVO": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/stride-mens-repel-uv-protection-printed-running-jacket-6uLrJxU2": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/stride-mens-repel-uv-protection-printed-running-jacket-6uLrJxU2",
+    "description": "Find the Nike Stride Men's Repel UV Protection Printed Running Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Stride",
+    "title": "Nike Stride Men's Repel UV Protection Printed Running Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "08ef77576146"
   },
   "https://www.nike.com/il/t/stride-mens-repel-uv-running-jacket-BQShx3": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -32487,6 +32520,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/tatum-5-sunrise-basketball-shoes-sguAS9RL": {
+   "first_seen": "2026-10-13T05:09:48Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-5-sunrise-basketball-shoes-sguAS9RL",
+    "description": "Find the Tatum 5 'Sunrise' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum 5 'Sunrise'",
+    "title": "Tatum 5 'Sunrise' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_hash": "b036b0f6e797"
+  },
   "https://www.nike.com/il/t/team-31-club-mens-nike-nba-pullover-hoodie-B5hPTv": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -32775,14 +32824,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/tiempo-ligera-pro-artificial-grass-low-top-football-boots-2wqVUv8u": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-ligera-pro-firm-ground-low-top-football-boots-0h7AWMLR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/tiempo-ligera-pro-firm-ground-low-top-football-boots-yyYmn8TS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -32791,39 +32832,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/tiempo-ligera-pro-turf-low-top-football-shoes-YSmxT9Ed": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/tiempo-maestro-academy-multi-ground-low-top-football-boots-QWnHwOZh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/tiempo-maestro-academy-soft-ground-low-top-football-boots-RIyYVAZZ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-maestro-academy-turf-low-top-football-boots-yfCEfaYR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-maestro-club-multi-ground-low-top-football-boots-94n2h9CA": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-maestro-club-turf-low-top-football-boots-c3C5flrI": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-maestro-elite-artificial-grass-low-top-football-boots-LWoHF7co": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/tiempo-maestro-elite-firm-ground-low-top-football-boots-DJG7v8qq": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-maestro-elite-lv8-firm-ground-low-top-football-boots-OGEz5ooz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -32844,14 +32857,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/tiempo-streetgato-prm-heritage-indoor-court-low-top-football-shoes-TaFVGPuu": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-streetgato-prm-indoor-court-low-top-football-shoes-BGlwip55": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tiempo-streetgato-prm-indoor-court-low-top-football-shoes-frKEadhr": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -33219,47 +33224,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/united-jr-phantom-6-high-academy-older-kids-multi-ground-football-boot-NZpVNELU": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/united-jr-phantom-6-low-academy-older-kids-multi-ground-football-boot-PPuJUVpG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/united-jr-phantom-6-low-pro-older-kids-multi-ground-football-boot-t1FHkWDh": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/united-jr-tiempo-maestro-academy-older-kids-multi-ground-low-top-football-boots-rdUn7kZx": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/united-mercurial-lite-football-shinguards-NokqJxzS": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/united-phantom-6-high-elite-firm-ground-football-boots-HLqupOYZ": {
-   "first_seen": "2026-10-10T05:07:09Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/united-phantom-6-high-elite-firm-ground-football-boots-HLqupOYZ",
-    "description": "Find the Nike United Phantom 6 High Elite Firm-Ground Football Boots at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike United Phantom 6 High Elite",
-    "title": "Nike United Phantom 6 High Elite Firm-Ground Football Boots. Nike IL"
-   },
-   "seo_checked": "2026-10-10T05:07:09Z",
-   "seo_hash": "4eaa14f912ce"
-  },
-  "https://www.nike.com/il/t/united-phantom-6-low-elite-firm-ground-football-boots-0EmapNiJ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/united-tiempo-maestro-elite-firm-ground-low-top-football-boots-wkgPwXqQ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
