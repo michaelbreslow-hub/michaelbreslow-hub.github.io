@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-13T05:09:48Z",
+  "last_run": "2026-10-14T05:19:22Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-12T11:00:03+00:00",
+   "lastmod": "2026-10-13T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-13T05:09:48Z",
+   "seo_checked": "2026-10-14T05:19:22Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -96,14 +96,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-11T10:40:12+00:00",
+   "lastmod": "2026-10-12T11:46:37+00:00",
    "seo": {
     "canonical": "https://www.newbalance.co.il/en/root/WCH696V6.html",
     "description": "Buy 696v6 Tennis Shoes at New Balance.",
     "h1": "696v6 Tennis Shoes",
     "title": "696v6 Tennis Shoes"
    },
-   "seo_checked": "2026-10-12T05:09:45Z",
+   "seo_checked": "2026-10-14T05:19:22Z",
    "seo_hash": "4adfc7e33c1b"
   },
   "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99": {
@@ -3036,39 +3036,147 @@
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shorts": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:12:26+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:12:26+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shorts",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shorts, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shorts",
+    "title": "Shorts - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "01c69c9134c4"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shortsleeveshirts": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:10:34+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:10:34+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-shortsleeveshirts",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על T-Shirts & Tops, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "T-Shirts & Tops",
+    "title": "T-Shirts & Tops - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "cb3aa93f5975"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-sportsbras": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:10:57+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:10:57+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-clothing/women-sportsbras",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Sports Bras, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Sports Bras",
+    "title": "Sports Bras - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "a0360d75ea43"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-24T06:03:42+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-24T06:03:42+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOES, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOES",
+    "title": "SHOES - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "9a854b17a04d"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/%D7%A1%D7%9B%D7%A8%D7%AA-W": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:30:01+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:30:01+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes/%D7%A1%D7%9B%D7%A8%D7%AA-W",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Diabetes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Diabetes",
+    "title": "Diabetes - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "367cc217658d"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/Sandals_women": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-19T13:00:34+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-19T13:00:34+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes/Sandals_women",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Sandals, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Sandals",
+    "title": "Sandals - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "237e9b12b64c"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-allshoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-24T06:03:42+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-24T06:03:42+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes/women-allshoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על All Shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "All Shoes",
+    "title": "All Shoes - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "c08722fb5d14"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-lifestyle": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-09-24T06:03:42+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-09-24T06:03:42+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes/women-lifestyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Lifestyle, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Lifestyle",
+    "title": "Lifestyle - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "e0bb5a6ea906"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-madeinuk%26us": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T11:51:57+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T11:51:57+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes/women-madeinuk%26us",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Made in UK & US, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Made in UK & US",
+    "title": "Made in UK & US - New Balance"
+   },
+   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_hash": "75d06d015a93"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-running": {
    "first_seen": "2026-09-25T11:29:53Z",
