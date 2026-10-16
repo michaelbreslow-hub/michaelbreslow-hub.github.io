@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-15T05:19:12Z",
+  "last_run": "2026-10-16T05:19:32Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -4008,43 +4008,163 @@
   },
   "https://www.nike.com/il/a/best-hiking-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-hiking-shoes",
+    "description": "Gear up with the best hiking shoes Nike has to offer—from lightweight trail running shoes to footwear that can withstand just about any type of weather.",
+    "h1": "The Best Nike Shoes to Wear Hiking",
+    "title": "The Best Nike Hiking Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "fb496dd44ef8"
   },
   "https://www.nike.com/il/a/best-hiking-skirt": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-hiking-skirt",
+    "description": "From UV protection and pockets to sweat-wicking and water-repellent fabrics, the best hiking skirts seamlessly blend function with fashion.",
+    "h1": "The best Nike hiking skirts to shop now",
+    "title": "The best Nike hiking skirts to shop now. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "6ab4f876fd35"
   },
   "https://www.nike.com/il/a/best-hiking-sneakers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-hiking-sneakers",
+    "description": "Check out the best hiking sneakers for men and women by Nike.",
+    "h1": "The 8 Best Nike Sneakers to Wear on a Hike",
+    "title": "The Best Nike Hiking Sneakers to Wear on the Trail. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "fd98cc9fb63c"
   },
   "https://www.nike.com/il/a/best-hooded-jacket-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-hooded-jacket-men",
+    "description": "Whether to shield from wind, rain or snow, these hooded men’s jackets by Nike are engineered for warmth and cosiness.",
+    "h1": "The 7 Best Nike Hooded Jacket Styles for Men",
+    "title": "The 7 Best Nike Hooded Jackets for Men. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "53b89c807cb1"
   },
   "https://www.nike.com/il/a/best-hooded-jacket-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-hooded-jacket-women",
+    "description": "Come rain, snow or wind, these cosy hooded jackets provide warmth and protection against the elements.",
+    "h1": "The Best Hooded Jackets for Women by Nike",
+    "title": "The Best Hooded Jackets for Women by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "dc9a2e6fad48"
   },
   "https://www.nike.com/il/a/best-hoodies-men-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-hoodies-men-women",
+    "description": "You'll want to wear these comfy sweatshirts over and over again.",
+    "h1": "How to find the best Nike hoodie for any activity",
+    "title": "5 best hoodies by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "a2faa874a6e4"
   },
   "https://www.nike.com/il/a/best-indoor-football-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-indoor-football-shoes",
+    "description": "Here are some of the best Nike indoor football shoes for every playing style and surface.",
+    "h1": "How To Pick the Right Indoor Football Shoe for You",
+    "title": "How To Pick the Right Indoor Football Shoe for You. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "615c3e4a2f25"
   },
   "https://www.nike.com/il/a/best-jackets-for-kids": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-jackets-for-kids",
+    "description": "Shop the best jackets for kids—from puffer coats and windbreakers to rain jackets and fleeces.",
+    "h1": "The Best Nike Jackets for Kids",
+    "title": "The Best Nike Jackets for Kids. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "837161c67a78"
   },
   "https://www.nike.com/il/a/best-joggers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-joggers",
+    "description": "Comfortable, functional and warm, these Nike joggers are perfect for casual, everyday wear.",
+    "h1": "The Best Men's and Women's Joggers by Nike to Shop Now",
+    "title": "The Best Men's and Women's Joggers by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "1ec4443d6bae"
   },
   "https://www.nike.com/il/a/best-kids-fleece-jacket": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-kids-fleece-jacket",
+    "description": "With heat-retaining technology and ultra-soft fabric, Nike fleece jackets for kids are technical, durable and comfortable.",
+    "h1": "Keep Kids Cosy in These Nike Fleece Jackets",
+    "title": "The Best Nike Fleece Jackets for Kids. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "f3f45de0adbe"
   },
   "https://www.nike.com/il/a/best-kids-sandals": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -15919,10 +16039,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/academy-football-duffel-bag-small-40l-Qe3I1SQ7": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/academy-football-gUZSvMYu": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16143,6 +16259,22 @@
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "5c771e1af323"
   },
+  "https://www.nike.com/il/t/acg-cloud-trekker-mens-hiking-trousers-VUKvVvuU": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-cloud-trekker-mens-hiking-trousers-VUKvVvuU",
+    "description": "Find the ACG Cloud Trekker Men's Hiking Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG Cloud Trekker",
+    "title": "ACG Cloud Trekker Men's Hiking Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "fea52b0d7963"
+  },
   "https://www.nike.com/il/t/acg-cloud-trekker-womens-full-zip-hiking-jacket-jczPLvri": {
    "first_seen": "2026-10-08T05:08:28Z",
    "http": {
@@ -16158,6 +16290,22 @@
    },
    "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "0b583a71749d"
+  },
+  "https://www.nike.com/il/t/acg-cloud-trekker-womens-hiking-trousers-x7PJXfg0": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-cloud-trekker-womens-hiking-trousers-x7PJXfg0",
+    "description": "Find the ACG Cloud Trekker Women's Hiking Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG Cloud Trekker",
+    "title": "ACG Cloud Trekker Women's Hiking Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "283596d43355"
   },
   "https://www.nike.com/il/t/acg-daymax-backpack-25l-c2tfTr": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16294,6 +16442,22 @@
    },
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "a767a4a51d3d"
+  },
+  "https://www.nike.com/il/t/acg-lava-flow-ultralight-womens-therma-fit-adv-down-jacket-uYmwPHQQ": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-lava-flow-ultralight-womens-therma-fit-adv-down-jacket-uYmwPHQQ",
+    "description": "Find the ACG Lava Flow Ultralight Women's Therma-FIT ADV Down Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG Lava Flow Ultralight",
+    "title": "ACG Lava Flow Ultralight Women's Therma-FIT ADV Down Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "1634b16cae68"
   },
   "https://www.nike.com/il/t/acg-lava-flow-womens-therma-fit-adv-gilet-VRBIQ6c4": {
    "first_seen": "2026-10-15T05:19:12Z",
@@ -16551,6 +16715,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/acg-terra-beanie-gpIXajVG": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/acg-terra-beanie-gpIXajVG",
+    "description": "Find the ACG Terra Beanie at Nike.com. Shop online at Nike.com.",
+    "h1": "ACG Terra",
+    "title": "ACG Terra Beanie. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "dabd1c12723f"
+  },
   "https://www.nike.com/il/t/acg-trailwind-mens-storm-fit-adv-jacket-ZMzsWCo9": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16755,10 +16935,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/aeroswift-aerogami-womens-storm-fit-running-jacket-FrpPzT": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/aeroswift-glam-mens-dri-fit-adv-running-vest-IXk42Aed": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16767,9 +16943,41 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/aeroswift-keely-hodgkinson-womens-dri-fit-adv-tight-running-shorts-fIo0d2pP": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/aeroswift-keely-hodgkinson-womens-dri-fit-adv-tight-running-shorts-fIo0d2pP",
+    "description": "Find the Nike AeroSwift 'Keely Hodgkinson' Women's Dri-FIT ADV Tight Running Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike AeroSwift 'Keely Hodgkinson'",
+    "title": "Nike AeroSwift 'Keely Hodgkinson' Women's Dri-FIT ADV Tight Running Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "5ec0dfd0799a"
+  },
   "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-10cm-approx-brief-lined-running-shorts-Qwsk4K": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-5cm-approx-brief-lined-running-shorts-SedzPSNp": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-5cm-approx-brief-lined-running-shorts-SedzPSNp",
+    "description": "Find the Nike AeroSwift Men's Dri-FIT ADV 5cm (approx.) Brief-Lined Running Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike AeroSwift",
+    "title": "Nike AeroSwift Men's Dri-FIT ADV 5cm (approx.) Brief-Lined Running Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "387df9b8ad37"
   },
   "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-5cm-approx-brief-lined-running-shorts-nVn3GX": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16811,6 +17019,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-running-vest-eV5cQVI2": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-running-vest-eV5cQVI2",
+    "description": "Find the Nike AeroSwift Men's Dri-FIT ADV Running Vest at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike AeroSwift",
+    "title": "Nike AeroSwift Men's Dri-FIT ADV Running Vest. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "92323dfc283c"
+  },
   "https://www.nike.com/il/t/aeroswift-mens-dri-fit-adv-running-vest-fu9kzZMA": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -16842,6 +17066,22 @@
   "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-cropped-running-tank-top-qBQbN3g5": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-cropped-running-tank-top-yHCDRMAj": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-cropped-running-tank-top-yHCDRMAj",
+    "description": "Find the Nike AeroSwift Women's Dri-FIT ADV Cropped Running Tank Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike AeroSwift",
+    "title": "Nike AeroSwift Women's Dri-FIT ADV Cropped Running Tank Top. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "9eb39c01f648"
   },
   "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-mid-rise-7-5cm-approx-brief-lined-running-shorts-0tcvxf": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -18259,10 +18499,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-max-moto-2k-mens-shoes-ibXepjIy": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-max-moto-2k-mens-shoes-jbVdxSnk": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -18907,10 +19143,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/atletico-madrid-womens-nike-football-t-shirt-umAcVZRK": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/attack-womens-dri-fit-mid-rise-10cm-approx-shorts-2SDkwsKt": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19007,6 +19239,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/ava-rover-mens-shoes-with-reflective-design-accents-o7xnYcvh": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/ava-rover-mens-shoes-with-reflective-design-accents-o7xnYcvh",
+    "description": "Find the Nike Ava Rover Men's Shoes with Reflective-Design Accents at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Ava Rover",
+    "title": "Nike Ava Rover Men's Shoes with Reflective-Design Accents. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "400e436f8c81"
+  },
   "https://www.nike.com/il/t/ava-rover-older-kids-shoes-4CkRXT": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19060,10 +19308,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/besiktas-jk-2026-27-third-older-kids-nike-dri-fit-football-replica-shirt-0JRHVTG2": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/besiktas-jk-2026-27-third-womens-nike-dri-fit-football-replica-shirt-IU2ZbZWo": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -19607,10 +19851,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/charlotte-hornets-icon-edition-mens-jordan-dri-fit-nba-swingman-jersey-Xs5ZD9": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/charlotte-hornets-mens-basketball-t-shirt-CnbJSqin": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19779,10 +20019,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/chelsea-fc-city-side-older-kids-nike-football-fleece-hoodie-QiMdCD98": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/chelsea-fc-club-mens-nike-football-crew-neck-93DVRHwq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19811,23 +20047,11 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/chelsea-fc-older-kids-nike-football-t-shirt-IEBVTBWV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/chelsea-fc-phoenix-fleece-womens-nike-football-oversized-full-zip-hoodie-tLB5ugzk": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/chelsea-fc-premier-older-kids-nike-football-t-shirt-bPgO3Afw": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/chelsea-fc-primary-mens-nike-dri-fit-football-t-shirt-rZEKEhL2": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/chelsea-fc-primary-third-mens-nike-dri-fit-football-top-74KA2SQ9": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -19867,41 +20091,9 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-dri-fit-football-knit-drill-top-y5ZSagIS": {
-   "first_seen": "2026-10-01T05:07:14Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-dri-fit-football-knit-drill-top-y5ZSagIS",
-    "description": "Find the Chelsea F.C. Strike Third Men's Nike Dri-FIT Football Knit Drill Top at Nike.com. Shop online at Nike.com.",
-    "h1": "Chelsea F.C. Strike Third",
-    "title": "Chelsea F.C. Strike Third Men's Nike Dri-FIT Football Knit Drill Top. Nike IL"
-   },
-   "seo_checked": "2026-10-01T05:07:14Z",
-   "seo_hash": "c67d7b08f738"
-  },
   "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-dri-fit-total-90-football-knit-pants-hMWGLW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
-  },
-  "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-football-dri-fit-short-sleeved-top-YH2CeTEg": {
-   "first_seen": "2026-10-01T05:07:14Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/chelsea-fc-strike-third-mens-nike-football-dri-fit-short-sleeved-top-YH2CeTEg",
-    "description": "Find the Chelsea F.C. Strike Third Men's Nike Football Dri-FIT Short-Sleeved Top at Nike.com. Shop online at Nike.com.",
-    "h1": "Chelsea F.C. Strike Third",
-    "title": "Chelsea F.C. Strike Third Men's Nike Football Dri-FIT Short-Sleeved Top. Nike IL"
-   },
-   "seo_checked": "2026-10-01T05:07:14Z",
-   "seo_hash": "4c2a904332d0"
   },
   "https://www.nike.com/il/t/chelsea-fc-strike-third-older-kids-nike-dri-fit-football-knit-drill-top-xv5uoVwJ": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -19951,19 +20143,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/chelsea-fc-third-mens-nike-repel-i96-tracksuit-bottoms-P3nYZsae": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/chelsea-fc-third-mens-nike-repel-i96-tracksuit-jacket-7MwwOkgt": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/chelsea-fc-third-older-kids-nike-dri-fit-football-hooded-tracksuit-MH0BcfHs": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/chelsea-fc-third-older-kids-nike-dri-fit-football-pre-match-top-IyTFZ3mL": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -20504,10 +20684,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/court-vision-mid-mens-winterized-shoes-2kC0cc": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/court-vision-se-mens-shoes-XyNf3c1y": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -21320,10 +21496,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/everyday-lightweight-womens-training-footie-socks-3-pairs-WyTmNEdj": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/everyday-plus-kids-cushioned-crew-socks-3-pair-csNEKHwL": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -23327,15 +23499,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/inter-milan-third-mens-nike-dri-fit-football-pre-match-top-tRoA90E9": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/inter-milan-third-mens-nike-dri-fit-soccer-anthem-jacket-gq4eqBCm": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/inter-milan-third-older-kids-nike-dri-fit-football-pre-match-top-ZryEjAU0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -23823,10 +23987,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-brooklyn-fleece-womens-shorts-H4isv2aN": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jordan-brooklyn-fleece-womens-shorts-QgTCkp7H": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23844,10 +24004,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-4-shortie-shorts-IaW6s7ka": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-brooklyn-mens-chino-trousers-zDs31TT0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -24175,6 +24331,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-brooklyn-space-jam-fleece-womens-full-zip-cropped-hoodie-PBDtALkH": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-space-jam-fleece-womens-full-zip-cropped-hoodie-PBDtALkH",
+    "description": "Find the Jordan Brooklyn Space Jam Fleece Women's Full-Zip Cropped Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn Space Jam Fleece",
+    "title": "Jordan Brooklyn Space Jam Fleece Women's Full-Zip Cropped Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "dd399a0cb402"
+  },
   "https://www.nike.com/il/t/jordan-brooklyn-space-jam-mens-bugs-bunny-crew-neck-t-shirt-bEtt8znJ": {
    "first_seen": "2026-10-10T05:07:09Z",
    "http": {
@@ -24222,6 +24394,22 @@
    },
    "seo_checked": "2026-10-10T05:07:09Z",
    "seo_hash": "ea4b73a639a3"
+  },
+  "https://www.nike.com/il/t/jordan-brooklyn-space-jam-mens-wings-crew-neck-t-shirt-d2zvvTki": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-space-jam-mens-wings-crew-neck-t-shirt-d2zvvTki",
+    "description": "Find the Jordan Brooklyn Space Jam Men's Wings Crew-Neck T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn Space Jam",
+    "title": "Jordan Brooklyn Space Jam Men's Wings Crew-Neck T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "86e4cf2cc2cf"
   },
   "https://www.nike.com/il/t/jordan-brooklyn-space-jam-womens-fleece-trousers-cOvuRSjU": {
    "first_seen": "2026-10-10T05:07:09Z",
@@ -24475,22 +24663,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-everyday-elevated-crew-socks-1-pair-vTFZTTu9": {
-   "first_seen": "2026-10-02T05:06:40Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/jordan-everyday-elevated-crew-socks-1-pair-vTFZTTu9",
-    "description": "Find the Jordan Everyday Elevated Crew Socks (1 Pair) at Nike.com. Shop online at Nike.com.",
-    "h1": "Jordan Everyday Elevated",
-    "title": "Jordan Everyday Elevated Crew Socks (1 Pair). Nike IL"
-   },
-   "seo_checked": "2026-10-02T05:06:40Z",
-   "seo_hash": "a916e400ed5f"
-  },
   "https://www.nike.com/il/t/jordan-everyday-elevated-crew-socks-2-pairs-GRSZbo19": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24532,10 +24704,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-flight-essentials-mens-pocket-t-shirt-7ysTizuI": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-flight-fleece-mens-1-4-zip-top-sZ4Qeq2e": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -24639,10 +24807,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-flight-mens-short-sleeve-knit-polo-xzGChStt": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jordan-flight-mens-t-shirt-9YWtdtvx": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24727,6 +24891,22 @@
    "seo_checked": "2026-10-10T05:07:09Z",
    "seo_hash": "e0aa3cf6101c"
   },
+  "https://www.nike.com/il/t/jordan-flight-space-jam-womens-jersey-0zSDxJgF": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-flight-space-jam-womens-jersey-0zSDxJgF",
+    "description": "Find the Jordan Flight Space Jam Women's Jersey at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Flight Space Jam",
+    "title": "Jordan Flight Space Jam Women's Jersey. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "ba22f4ecfa54"
+  },
   "https://www.nike.com/il/t/jordan-flight-wings-mens-fleece-pullover-hoodie-EAiyhKFf": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24776,10 +24956,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-flight-womens-faux-leather-mid-calf-skirt-JVLEZ9SB": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-flight-womens-faux-leather-trousers-EPpLJv5q": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -24836,10 +25012,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-flight-womens-mini-skort-owOeiF24": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-flight-womens-mountainside-trousers-Nvzuv4sg": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -25243,10 +25415,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-spizike-low-older-kids-shoes-vQPT0jpw": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jordan-spizike-low-womens-realtree-shoes-NmXU49Pe": {
    "first_seen": "2026-10-05T05:19:00Z",
    "http": {
@@ -25455,10 +25623,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-sport-jam-mens-warm-up-trousers-6zndNQ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jordan-sport-mens-dri-fit-18cm-approx-diamond-shorts-AWOsetal": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25600,10 +25764,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-sport-womens-10cm-approx-diamond-shorts-rz9WpR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/jordan-sport-womens-13cm-approx-shorts-8glKbq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -26359,6 +26519,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/kobe-older-kids-mamba-woven-basketball-jacket-5iglQm6T": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/kobe-older-kids-mamba-woven-basketball-jacket-5iglQm6T",
+    "description": "Find the Kobe Older Kids' Mamba Woven Basketball Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Kobe",
+    "title": "Kobe Older Kids' Mamba Woven Basketball Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "1836591a4846"
+  },
   "https://www.nike.com/il/t/kobe-older-kids-woven-basketball-trousers-m4dqvUb3": {
    "first_seen": "2026-09-29T05:06:47Z",
    "http": {
@@ -26711,10 +26887,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/los-angeles-lakers-city-edition-mens-nike-nba-club-peak-tracksuit-EQBHxQIW": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/los-angeles-lakers-club-mens-t-shirt-HUFhvdyU": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26955,15 +27127,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/mavn-girls-therma-fit-high-waisted-knit-trousers-Uxewhfvz": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/mavn-girls-therma-fit-knit-full-zip-hoodie-JyV91cL3": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/max-90-baby-toddler-shoes-rj5OfAFK": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -27140,10 +27304,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/mens-dri-fit-running-t-shirt-ESiS7Xr8": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/mens-dri-fit-running-top-l6Bx7zRI": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -27419,10 +27579,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/miler-kids-repel-uv-training-jacket-DIhfD7tQ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/miler-mens-dri-fit-1-2-zip-running-top-EA5wOeOt": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -27606,6 +27762,22 @@
    },
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "49be97a6fca5"
+  },
+  "https://www.nike.com/il/t/miler-younger-kids-repel-uv-training-jacket-DIhfD7tQ": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/miler-younger-kids-repel-uv-training-jacket-DIhfD7tQ",
+    "description": "Find the Nike Miler Younger Kids' Repel UV Training Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Miler",
+    "title": "Nike Miler Younger Kids' Repel UV Training Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "c4dc92bdee61"
   },
   "https://www.nike.com/il/t/milwaukee-bucks-association-edition-mens-nike-dri-fit-nba-swingman-jersey-Dj5fs0": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -28288,10 +28460,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikecourt-mens-dri-fit-tennis-t-shirt-bt9zSZbI": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/nikecourt-mens-dri-fit-tennis-t-shirt-kItDmLX8": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29791,10 +29959,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/paris-saint-germain-older-kids-nike-football-synthetic-fill-hooded-jacket-syvmj8KC": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/paris-saint-germain-older-kids-nike-football-t-shirt-3kx5G0XB": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29832,10 +29996,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/paris-saint-germain-strike-fourth-mens-jordan-dri-fit-football-short-sleeve-top-iQ7e236A": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/paris-saint-germain-strike-fourth-older-kids-jordan-dri-fit-football-drill-top-XKRIhKhn": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30142,6 +30302,22 @@
   "https://www.nike.com/il/t/pegasus-42-mens-road-running-shoes-jCsXPpuh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/pegasus-42-mens-road-running-shoes-puY0pnKX": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/pegasus-42-mens-road-running-shoes-puY0pnKX",
+    "description": "Find the Nike Pegasus 42 Men's Road-Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Pegasus 42",
+    "title": "Nike Pegasus 42 Men's Road-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "93c8c80b9cd7"
   },
   "https://www.nike.com/il/t/pegasus-42-se-mens-road-running-shoes-qckvFEfl": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -30483,10 +30659,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/pro-mens-dri-fit-mid-layer-training-hoodie-1k9wHR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/pro-mens-dri-fit-tight-long-sleeve-fitness-top-RWhSkP": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30770,6 +30942,22 @@
   "https://www.nike.com/il/t/quest-6-womens-road-running-shoes-hqjQMz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/quest-7-mens-road-running-shoes-mlpzuSJM": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/quest-7-mens-road-running-shoes-mlpzuSJM",
+    "description": "Find the Nike Quest 7 Men's Road-Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Quest 7",
+    "title": "Nike Quest 7 Men's Road-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "e7959d90cf06"
   },
   "https://www.nike.com/il/t/quest-7-womens-road-running-shoes-9OuW4vgR": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31347,10 +31535,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/solo-swoosh-mens-fleece-hoodie-G53pDr1D": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/solo-swoosh-mens-fleece-hoodie-kJp5jAmc": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -31408,10 +31592,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-advance-15-womens-short-sleeve-top-DePYkX": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-air-max-90-mens-t-shirt-W6qX2D": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -31783,10 +31963,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/sportswear-club-older-kids-french-terry-open-hem-trousers-Pwr0Aqci": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/sportswear-club-older-kids-t-shirt-6ntgJbGI": {
    "first_seen": "2026-09-29T05:06:47Z",
    "http": {
@@ -31876,10 +32052,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-essentials-womens-logo-t-shirt-gtL4xG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-essentials-womens-t-shirt-kjAiKfAy": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -31976,10 +32148,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-mens-t-shirt-8dmwka1Q": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-mens-t-shirt-9ijrK986": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -32387,6 +32555,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-older-kids-t-shirt-qHxrP0ZV": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-older-kids-t-shirt-qHxrP0ZV",
+    "description": "Find the Nike Sportswear Older Kids' T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Older Kids' T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "f22e2450443e"
+  },
   "https://www.nike.com/il/t/sportswear-older-kids-t-shirt-rvB0kzcW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -32770,22 +32954,6 @@
   "https://www.nike.com/il/t/sportswear-womens-oversized-short-sleeve-graphic-jersey-54pwsbIt": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-womens-oversized-short-sleeve-graphic-jersey-sjQRsX6c": {
-   "first_seen": "2026-10-08T05:08:28Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/sportswear-womens-oversized-short-sleeve-graphic-jersey-sjQRsX6c",
-    "description": "Find the Nike Sportswear Women's Oversized Short-Sleeve Graphic Jersey at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Sportswear",
-    "title": "Nike Sportswear Women's Oversized Short-Sleeve Graphic Jersey. Nike IL"
-   },
-   "seo_checked": "2026-10-08T05:08:28Z",
-   "seo_hash": "a3e3676159d0"
   },
   "https://www.nike.com/il/t/sportswear-womens-oversized-t-shirt-4oIznInp": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -33231,10 +33399,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/stride-mens-dri-fit-adv-running-top-Rj4rOnht": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/stride-mens-dri-fit-adv-short-sleeve-running-top-KPlB3Qop": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -33244,10 +33408,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/stride-mens-dri-fit-running-jacket-1zGN28S6": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/stride-mens-dri-fit-running-shorts-Q4WEIVJX": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -33378,6 +33538,22 @@
   "https://www.nike.com/il/t/strike-womens-nike-dri-fit-football-knit-trousers-hmdHBoGT": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/structure-26-mens-road-running-shoes-B1Iax4oZ": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/structure-26-mens-road-running-shoes-B1Iax4oZ",
+    "description": "Find the Nike Structure 26 Men's Road Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Structure 26",
+    "title": "Nike Structure 26 Men's Road Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "133020259538"
   },
   "https://www.nike.com/il/t/structure-26-mens-road-running-shoes-DNWCZZTP": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -33675,6 +33851,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/swift-flash-womens-dri-fit-running-top-WAeCRx9f": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/swift-flash-womens-dri-fit-running-top-WAeCRx9f",
+    "description": "Find the Nike Swift Flash Women's Dri-FIT Running Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Swift Flash",
+    "title": "Nike Swift Flash Women's Dri-FIT Running Top. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "0b92989bde00"
+  },
   "https://www.nike.com/il/t/swift-flash-womens-full-zip-running-jacket-y8o0nn44": {
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
@@ -33716,10 +33908,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/swift-womens-dri-fit-full-zip-running-jacket-Vt6dIa0N": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/swift-womens-dri-fit-high-waisted-18cm-running-shorts-approx-p3Cav54x": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -33875,6 +34063,38 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/tatum-5-baby-toddler-shoes-DUnJLV6n": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-5-baby-toddler-shoes-DUnJLV6n",
+    "description": "Find the Tatum 5 Baby & Toddler Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum 5",
+    "title": "Tatum 5 Baby & Toddler Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "bc72b1c0e9b5"
+  },
+  "https://www.nike.com/il/t/tatum-5-older-kids-basketball-shoes-eDPvywmJ": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-5-older-kids-basketball-shoes-eDPvywmJ",
+    "description": "Find the Tatum 5 Older Kids' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum 5",
+    "title": "Tatum 5 Older Kids' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "6400d06c355f"
+  },
   "https://www.nike.com/il/t/tatum-5-sunrise-basketball-shoes-sguAS9RL": {
    "first_seen": "2026-10-13T05:09:48Z",
    "http": {
@@ -33890,6 +34110,70 @@
    },
    "seo_checked": "2026-10-13T05:09:48Z",
    "seo_hash": "b036b0f6e797"
+  },
+  "https://www.nike.com/il/t/tatum-5-younger-kids-shoes-1ZLQsF7e": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-5-younger-kids-shoes-1ZLQsF7e",
+    "description": "Find the Tatum 5 Younger Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum 5",
+    "title": "Tatum 5 Younger Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "b5056a5c976a"
+  },
+  "https://www.nike.com/il/t/tatum-sport-mens-dri-fit-basketball-t-shirt-BxkvZODY": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-sport-mens-dri-fit-basketball-t-shirt-BxkvZODY",
+    "description": "Find the Tatum Sport Men's Dri-FIT Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum Sport",
+    "title": "Tatum Sport Men's Dri-FIT Basketball T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "504a8f41305e"
+  },
+  "https://www.nike.com/il/t/tatum-sport-mens-dri-fit-basketball-t-shirt-S5mHW294": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-sport-mens-dri-fit-basketball-t-shirt-S5mHW294",
+    "description": "Find the Tatum Sport Men's Dri-FIT Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum Sport",
+    "title": "Tatum Sport Men's Dri-FIT Basketball T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "ace7eb1a7373"
+  },
+  "https://www.nike.com/il/t/tatum-sport-mens-dri-fit-diamond-basketball-shorts-b88SMfoZ": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tatum-sport-mens-dri-fit-diamond-basketball-shorts-b88SMfoZ",
+    "description": "Find the Tatum Sport Men's Dri-FIT Diamond Basketball Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Tatum Sport",
+    "title": "Tatum Sport Men's Dri-FIT Diamond Basketball Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "e9e3755dd6d5"
   },
   "https://www.nike.com/il/t/team-31-club-mens-nike-nba-pullover-hoodie-B5hPTv": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -33908,10 +34192,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/team-hustle-d-12-younger-kids-shoes-WyuMHWdw": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/team-hustle-d-12-younger-kids-shoes-YGKBesxC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -34071,6 +34351,54 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/tempo-flash-womens-dri-fit-1-2-zip-running-top-eVc0pGT7": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tempo-flash-womens-dri-fit-1-2-zip-running-top-eVc0pGT7",
+    "description": "Find the Nike Tempo Flash Women's Dri-FIT 1/2-Zip Running Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Tempo Flash",
+    "title": "Nike Tempo Flash Women's Dri-FIT 1/2-Zip Running Top. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "cebd78d5015a"
+  },
+  "https://www.nike.com/il/t/tempo-flash-womens-high-waisted-7-8-running-leggings-N6qa6pyl": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tempo-flash-womens-high-waisted-7-8-running-leggings-N6qa6pyl",
+    "description": "Find the Nike Tempo Flash Women's High-Waisted 7/8 Running Leggings at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Tempo Flash",
+    "title": "Nike Tempo Flash Women's High-Waisted 7/8 Running Leggings. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "0cdc23728193"
+  },
+  "https://www.nike.com/il/t/tempo-flash-womens-high-waisted-running-shorts-TbCMWYVI": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tempo-flash-womens-high-waisted-running-shorts-TbCMWYVI",
+    "description": "Find the Nike Tempo Flash Women's High-Waisted Running Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Tempo Flash",
+    "title": "Nike Tempo Flash Women's High-Waisted Running Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "f2034a84abc4"
+  },
   "https://www.nike.com/il/t/tempo-g-golf-shoes-bo9Fdgsq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -34156,10 +34484,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/tennis-classic-younger-kids-shoes-I4jdr9r4": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/tennis-essential-baby-toddler-trainers-iFiYN8LS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -34931,10 +35255,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/vapor-12-prm-womens-hard-court-tennis-shoes-adzyhoif": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/vapor-12-qinwen-zheng-womens-clay-court-tennis-shoes-eVbmAFdz": {
    "first_seen": "2026-09-29T05:06:47Z",
    "http": {
@@ -35139,22 +35459,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/velocity-mens-dri-fit-blade-collar-golf-polo-e59ZSTC0": {
-   "first_seen": "2026-10-14T05:19:22Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/velocity-mens-dri-fit-blade-collar-golf-polo-e59ZSTC0",
-    "description": "Find the Nike Velocity Men's Dri-FIT Blade-Collar Golf Polo at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Velocity",
-    "title": "Nike Velocity Men's Dri-FIT Blade-Collar Golf Polo. Nike IL"
-   },
-   "seo_checked": "2026-10-14T05:19:22Z",
-   "seo_hash": "cc3e59a4b382"
-  },
   "https://www.nike.com/il/t/velocity-mens-dri-fit-chest-logo-golf-polo-CNJwkLVC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35240,10 +35544,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/victory-tour-4-golf-shoes-ClJs23": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/victory-tour-4-golf-shoes-q4HkImiD": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -35411,10 +35711,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/windrunner-mens-graphic-woven-jacket-6JLZWTmk": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/windrunner-mens-lightweight-uv-trousers-bSVxCuIJ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35478,6 +35774,22 @@
   "https://www.nike.com/il/t/windrunner-womens-oversized-denim-jacket-D7fbiWqi": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/winflo-12-gore-tex-mens-waterproof-road-running-shoes-aGRGXgZH": {
+   "first_seen": "2026-10-16T05:19:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/winflo-12-gore-tex-mens-waterproof-road-running-shoes-aGRGXgZH",
+    "description": "Find the Nike Winflo 12 GORE-TEX Men's Waterproof Road-Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Winflo 12 GORE-TEX",
+    "title": "Nike Winflo 12 GORE-TEX Men's Waterproof Road-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "57be485a340f"
   },
   "https://www.nike.com/il/t/winflo-12-gore-tex-womens-waterproof-road-running-shoes-JGa7J3Ik": {
    "first_seen": "2026-09-24T08:34:55Z",

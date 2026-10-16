@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-15T05:19:12Z",
+  "last_run": "2026-10-16T05:19:32Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-14T11:00:03+00:00",
+   "lastmod": "2026-10-15T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-15T05:19:12Z",
+   "seo_checked": "2026-10-16T05:19:32Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -96,14 +96,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-12T11:46:37+00:00",
+   "lastmod": "2026-10-14T13:08:13+00:00",
    "seo": {
     "canonical": "https://www.newbalance.co.il/en/root/WCH696V6.html",
     "description": "Buy 696v6 Tennis Shoes at New Balance.",
     "h1": "696v6 Tennis Shoes",
     "title": "696v6 Tennis Shoes"
    },
-   "seo_checked": "2026-10-14T05:19:22Z",
+   "seo_checked": "2026-10-16T05:19:32Z",
    "seo_hash": "4adfc7e33c1b"
   },
   "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99": {
@@ -361,22 +361,6 @@
    },
    "seo_checked": "2026-09-27T05:05:38Z",
    "seo_hash": "c4f27877c296"
-  },
-  "https://www.newbalance.co.il/en/shop/Back%20to%20School": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": "2026-08-12T12:11:16+00:00",
-   "seo": {
-    "canonical": "https://www.newbalance.co.il/en/shop/Back%20to%20School",
-    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Back to School, צפו בקטלוג והזמינו בחנות אונליין.",
-    "h1": "Back to School",
-    "title": "Back to School - New Balance"
-   },
-   "seo_checked": "2026-09-27T05:05:38Z",
-   "seo_hash": "1cfb6329a486"
   },
   "https://www.newbalance.co.il/en/shop/Back%20to%20School/Accessories_BTS": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -3324,39 +3308,147 @@
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-wideshoes": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-11T11:46:47+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-11T11:46:47+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shoes/women-wideshoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Wide Shoes, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Wide Shoes",
+    "title": "Wide Shoes - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "77a66c9481c8"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-08-11T05:38:28+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-08-11T05:38:28+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על SHOP BY STYLE, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "608f2dbeb1ae"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/550__women": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:36:06+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:36:06+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/550__women",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 550, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "550",
+    "title": "550 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "04669fb9b09d"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-1080": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-07T07:47:37+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-07T07:47:37+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-1080",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 1080, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "1080",
+    "title": "1080 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "80352b49c73c"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-327": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-07-05T08:59:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-07-05T08:59:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-327",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 327, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "327",
+    "title": "327 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "a900750f98da"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-373": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-01-28T13:22:09+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-01-28T13:22:09+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-373",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 373, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "373",
+    "title": "373 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "be772cc21457"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-530": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:36:32+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:36:32+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-530",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 530, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "530",
+    "title": "530 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "4f6b31b727d6"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-574": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-12T07:06:07+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-12T07:06:07+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-574",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 574, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "574",
+    "title": "574 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "7d31ad80df02"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-860": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-05-13T10:34:22+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-05-13T10:34:22+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-860",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על 860, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "860",
+    "title": "860 - New Balance"
+   },
+   "seo_checked": "2026-10-16T05:19:32Z",
+   "seo_hash": "e358648a9fb4"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-880": {
    "first_seen": "2026-09-25T11:29:53Z",

@@ -6,6 +6,43 @@
  },
  "events": [
   {
+   "after": "2026-10-14T13:08:13+00:00",
+   "asset_type": "other",
+   "before": "2026-10-12T11:46:37+00:00",
+   "date": "2026-10-16T05:19:32Z",
+   "page": {
+    "h1": "696v6 Tennis Shoes",
+    "title": "696v6 Tennis Shoes"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/root/WCH696V6.html"
+  },
+  {
+   "after": "2026-10-15T11:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-10-14T11:00:03+00:00",
+   "date": "2026-10-16T05:19:32Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-16T05:19:32Z",
+   "lastmod": "2026-08-12T12:11:16+00:00",
+   "page": {
+    "h1": "Back to School",
+    "title": "Back to School - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/Back%20to%20School"
+  },
+  {
    "after": "2026-10-14T11:00:03+00:00",
    "asset_type": "other",
    "before": "2026-10-13T11:00:03+00:00",
@@ -258,6 +295,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "removed": 1,
+    "updated": 2
+   },
+   "date": "2026-10-16T05:19:32Z",
+   "status": "ok",
+   "total_urls": 226
+  },
   {
    "counts": {
     "updated": 1
