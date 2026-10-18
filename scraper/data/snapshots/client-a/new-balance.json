@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-17T05:16:42Z",
+  "last_run": "2026-10-18T05:16:49Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -19,7 +19,7 @@
     "h1": "Frequently Asked Questions",
     "title": "FAQ"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "517deb3d8f5e"
   },
   "https://www.newbalance.co.il/en/blog": {
@@ -35,7 +35,7 @@
     "h1": "Blog",
     "title": "Blog"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "4261666ab251"
   },
   "https://www.newbalance.co.il/en/category": {
@@ -51,7 +51,7 @@
     "h1": "We are sorry, but no results were found",
     "title": "ראשי - New Balance"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "76bd572a273c"
   },
   "https://www.newbalance.co.il/en/contact-us": {
@@ -67,7 +67,7 @@
     "h1": "Contact Us",
     "title": "Contact us"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "1e3e4438230a"
   },
   "https://www.newbalance.co.il/en/home": {
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-16T11:00:03+00:00",
+   "lastmod": "2026-10-17T11:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-17T05:16:42Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -119,7 +119,7 @@
     "h1": "Matching sets",
     "title": "Matching sets - New Balance"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "e0c7f9847d4b"
   },
   "https://www.newbalance.co.il/en/shop/1080_Collection": {
@@ -135,7 +135,7 @@
     "h1": "1080",
     "title": "1080 - New Balance"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "80287ecb5f18"
   },
   "https://www.newbalance.co.il/en/shop/1906": {
@@ -151,7 +151,7 @@
     "h1": "1906",
     "title": "1906 - New Balance"
    },
-   "seo_checked": "2026-09-25T11:29:53Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "ddb1369f8f07"
   },
   "https://www.newbalance.co.il/en/shop/1906L_August_sale": {
@@ -167,7 +167,7 @@
     "h1": "1906L Sale",
     "title": "1906L Sale - New Balance"
    },
-   "seo_checked": "2026-09-26T05:05:40Z",
+   "seo_checked": "2026-10-18T05:16:49Z",
    "seo_hash": "2fb6a63c0ecf"
   },
   "https://www.newbalance.co.il/en/shop/1906_Sale": {
@@ -3612,7 +3612,19 @@
   },
   "https://www.newbalance.co.il/en/stores-israel": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2021-12-14T08:51:31+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2021-12-14T08:51:31+00:00",
+   "seo": {
+    "canonical": null,
+    "description": "Commerce Cloud Storefront Reference Architecture",
+    "h1": "Israel Stores",
+    "title": "NB Stores Israel"
+   },
+   "seo_checked": "2026-10-18T05:16:49Z",
+   "seo_hash": "8fa59da70e0f"
   }
  }
 }
