@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-18T05:16:49Z",
+  "last_run": "2026-10-19T05:23:12Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -4488,43 +4488,163 @@
   },
   "https://www.nike.com/il/a/best-nike-basketball-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-nike-basketball-shoes",
+    "description": "Looking for the best Nike basketball shoes? Here are the top picks when it comes to performance, cushioning and outdoor play.",
+    "h1": "What Are the Best Nike Basketball Shoes?",
+    "title": "What are the best Nike basketball shoes?. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "bb20c996df48"
   },
   "https://www.nike.com/il/a/best-one-piece-swimsuits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-one-piece-swimsuits",
+    "description": "From playful colours to unique cuts and styles, check out the best one-piece swimsuits from Nike.",
+    "h1": "The Best Nike One-Piece Swimsuits",
+    "title": "The Best Nike One-Piece Swimsuits for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "05e788b3d0eb"
   },
   "https://www.nike.com/il/a/best-outdoor-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-outdoor-workout",
+    "description": "Looking for the best outdoor workout? Try one of these seven, expert-approved workouts.",
+    "h1": "7 Expert-Approved Outdoor Workout Ideas, Backed by Science",
+    "title": "7 Outdoor Workouts Experts Recommend Trying This Summer. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "24a06236730f"
   },
   "https://www.nike.com/il/a/best-pants-for-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-pants-for-running",
+    "description": "Whether you love baggy joggers or prefer the fit and feel of compression tights, these top Nike running trousers can power your next run",
+    "h1": "Best running trousers by Nike",
+    "title": "Best running trousers by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "4fc2d10c6c91"
   },
   "https://www.nike.com/il/a/best-pink-leggings": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-pink-leggings",
+    "description": "Slip into these pink leggings for your next workout.",
+    "h1": "Pink Nike Leggings Suitable for Every Workout",
+    "title": "5 Pink Leggings From Nike for Every Workout . Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "aa4972529e4c"
   },
   "https://www.nike.com/il/a/best-pink-shirts-for-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-pink-shirts-for-men",
+    "description": "Shop for pink Nike men’s polos, sleeveless tank tops, graphic T-shirts and more with this buying guide.",
+    "h1": "The Best Pink Nike Shirts for Men to Shop Now",
+    "title": "The Best Nike Pink Tops for Men. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "6a547cd6317e"
   },
   "https://www.nike.com/il/a/best-pink-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-pink-shoes",
+    "description": "From basketball kicks to running shoes, add a splash of colour to your outfit with these Nike classics—in pink.",
+    "h1": "The Best Pink Nike Shoes to Shop Now",
+    "title": "The Best Pink Nike Shoes to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "734e151f5486"
   },
   "https://www.nike.com/il/a/best-pink-sports-bras": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-pink-sports-bras",
+    "description": "From minimal to maximum support, add a splash of pink to your outfit with these Nike sports bras.",
+    "h1": "The Best Pink Nike Sports Bras to Shop Now",
+    "title": "The Best Pink Nike Sports Bras to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "5706a5d03dd9"
   },
   "https://www.nike.com/il/a/best-platform-sneakers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-platform-sneakers",
+    "description": "From new styles to elevated takes on the classics, check out these platform sneakers from Nike.",
+    "h1": "The Best Nike Platform Sneakers",
+    "title": "The Best Nike Platform Sneakers. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "f7add3766836"
   },
   "https://www.nike.com/il/a/best-plus-size-hoodies": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-plus-size-hoodies",
+    "description": "From fluffy fleeces to cropped pullovers and zip-up hoodies, find a plus-size hoodie to suit your needs.",
+    "h1": "The Best Nike Women's Plus-Size Hoodies—for Every Activity",
+    "title": "The Best Women's Plus-Size Hoodies From Nike for Every Activity. Nike IL"
+   },
+   "seo_checked": "2026-10-19T05:23:12Z",
+   "seo_hash": "0dbfb9ade56d"
   },
   "https://www.nike.com/il/a/best-plus-size-jackets": {
    "first_seen": "2026-09-24T08:34:55Z",

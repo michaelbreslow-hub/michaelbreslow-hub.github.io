@@ -19,12 +19,8 @@
       "/size-fit"
      ],
      "excluded_urls": 2571,
-     "last_checked": "2026-10-18T05:16:49Z",
-     "last_counts": {
-      "added": 25,
-      "keyword_hits": 8,
-      "removed": 20
-     },
+     "last_checked": "2026-10-19T05:23:12Z",
+     "last_counts": {},
      "name": "Nike",
      "notes": [],
      "sitemap_errors": [],
@@ -43,9 +39,9 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-18T05:16:49Z",
+     "last_checked": "2026-10-19T05:23:12Z",
      "last_counts": {
-      "updated": 1
+      "updated": 2
      },
      "name": "New Balance",
      "notes": [],
@@ -65,7 +61,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-18T05:16:49Z",
+     "last_checked": "2026-10-19T05:23:12Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -87,13 +83,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-18T05:16:49Z",
+     "last_checked": "2026-10-19T05:23:12Z",
      "last_counts": {
-      "added": 3,
-      "keyword_hits": 179,
-      "removed": 5,
-      "seo_changed": 1,
-      "updated": 5749
+      "keyword_hits": 178,
+      "seo_changed": 2,
+      "updated": 5757
      },
      "name": "Reebok",
      "notes": [
@@ -115,12 +109,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-18T05:16:49Z",
+     "last_checked": "2026-10-19T05:23:12Z",
      "last_counts": {
-      "added": 43,
-      "keyword_hits": 3,
-      "removed": 56,
-      "updated": 50
+      "added": 180,
+      "removed": 8,
+      "updated": 49
      },
      "name": "Skechers",
      "notes": [],
@@ -128,7 +121,7 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5307
+     "total_urls": 5479
     }
    ],
    "id": "client-a",
@@ -142,6 +135,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-10-18T05:16:49Z",
+ "generated_at": "2026-10-19T05:23:12Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
