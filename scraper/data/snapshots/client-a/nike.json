@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-19T05:23:12Z",
+  "last_run": "2026-10-20T05:19:59Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -4648,43 +4648,163 @@
   },
   "https://www.nike.com/il/a/best-plus-size-jackets": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-plus-size-jackets",
+    "description": "Puffer coats, rain jackets and anoraks will keep you warm and dry.",
+    "h1": "Feel Warm All Season in These Plus-size Jackets by Nike",
+    "title": "The Best Women's Plus-Size Jackets by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "466e651889e0"
   },
   "https://www.nike.com/il/a/best-plus-size-leggings": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-plus-size-leggings",
+    "description": "Check out the best Nike plus-size leggings for every occasion, from lunging to lounging.",
+    "h1": "The 4 best plus-size leggings styles by Nike",
+    "title": "The 4 best plus-size leggings styles by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "1c9980b3ae50"
   },
   "https://www.nike.com/il/a/best-plus-size-sports-bra": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-plus-size-sports-bra",
+    "description": "Check out the best Nike plus-size sports bras that function at an elite level to keep up with your lifestyle.",
+    "h1": "The Best Plus-Size Sports Bras From Nike",
+    "title": "The Best Plus-Size Sports Bras From Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "d8cff20f20c3"
   },
   "https://www.nike.com/il/a/best-polarised-sunglasses": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-polarised-sunglasses",
+    "description": "Polarised lenses help reduce glare, so athletes can perform at their best. Here are the best polarised sunglasses from Nike.",
+    "h1": "Check Out the Best Polarised Sunglasses from Nike",
+    "title": "Check Out the Best Polarised Sunglasses From Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "ba92310978da"
   },
   "https://www.nike.com/il/a/best-polo-shirts-for-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-polo-shirts-for-men",
+    "description": "Whether you’re heading to the links, the office or an evening out, when the situation calls for a collared shirt, Nike polos have you covered.",
+    "h1": "The Best Nike Polos for Men",
+    "title": "The Best Nike Polos for Men. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "7e9c6379e2a7"
   },
   "https://www.nike.com/il/a/best-pre-workout-snack": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-pre-workout-snack",
+    "description": "A registered dietitian unpacks what the best pre-workout snack may look like for you, depending on the time of the day.",
+    "h1": "Eat These Foods Before Exercising, Says a Registered Dietitian",
+    "title": "The Best Foods to Eat Before Exercise, According to a Registered Dietitian. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "279dee276c84"
   },
   "https://www.nike.com/il/a/best-puffer-coat-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-puffer-coat-men",
+    "description": "These insulating, puffy men's jackets will keep you warm all winter long.",
+    "h1": "The Best Men's Puffer Coats by Nike",
+    "title": "The Best Men's Puffer Coats by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "dcaea788b697"
   },
   "https://www.nike.com/il/a/best-puffer-coat-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-puffer-coat-women",
+    "description": "Bundle up in one of these plush puffer coats.",
+    "h1": "The Best Women's Puffer Coats by Nike",
+    "title": "The Best Women's Puffer Coats by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "8aab5a4ada3d"
   },
   "https://www.nike.com/il/a/best-rain-gear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-rain-gear",
+    "description": "Don't avoid the rain—dress for it! From outerwear to footwear, check out these rain-ready options with varying levels of water protection to help you stay dry.",
+    "h1": "The Best Rain Gear to Conquer Wet Weather",
+    "title": "The Best Rain Gear to Conquer Wet Weather. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "1a163888f0ef"
   },
   "https://www.nike.com/il/a/best-rain-jacket": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-rain-jacket",
+    "description": "For relaxed rainy days or hiking in a downpour, the best rain jackets by Nike include packable, lightweight and breathable styles.",
+    "h1": "Best rain jackets by Nike",
+    "title": "Best rain jackets by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "87dbd1b3be50"
   },
   "https://www.nike.com/il/a/best-recovery-drink": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -11311,10 +11431,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/launch/t/air-jordan-9-chile-red-emea": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/air-jordan-9-retro-og-white-and-black-snkrs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -18751,6 +18867,22 @@
    "seo_checked": "2026-09-30T05:07:22Z",
    "seo_hash": "013ac31d458c"
   },
+  "https://www.nike.com/il/t/air-max-95-big-bubble-gore-tex-mens-winterized-shoes-LBIua9or": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-max-95-big-bubble-gore-tex-mens-winterized-shoes-LBIua9or",
+    "description": "Find the Nike Air Max 95 Big Bubble GORE-TEX Men's Winterized Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Max 95 Big Bubble GORE-TEX",
+    "title": "Nike Air Max 95 Big Bubble GORE-TEX Men's Winterized Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "7245a9f7003b"
+  },
   "https://www.nike.com/il/t/air-max-95-big-bubble-mens-shoes-9QubvD5j": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -18864,10 +18996,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/air-max-alpha-trainer-6-premium-mens-training-shoes-DSMnyXRs": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-max-command-womens-shoes-8c54CQ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -19129,10 +19257,6 @@
   },
   "https://www.nike.com/il/t/air-max-plus-womens-shoes-BGT3rk": {
    "first_seen": "2026-10-15T05:19:12Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-max-plus-womens-shoes-bMrDZu69": {
-   "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/air-max-plus-womens-shoes-puEUumgW": {
@@ -19823,6 +19947,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/boston-celtics-essential-anthem-mens-long-sleeve-basketball-t-shirt-H4QyT2Lo": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/boston-celtics-essential-anthem-mens-long-sleeve-basketball-t-shirt-H4QyT2Lo",
+    "description": "Find the Boston Celtics Essential Anthem Men's Long-Sleeve Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Boston Celtics Essential Anthem",
+    "title": "Boston Celtics Essential Anthem Men's Long-Sleeve Basketball T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "7b25877954ec"
+  },
   "https://www.nike.com/il/t/boston-celtics-essential-city-edition-mens-nike-nba-max90-t-shirt-82cuW8Xn": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19867,6 +20007,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/boston-celtics-nike-standard-issue-mens-fleece-basketball-hoodie-4vvZdIhM": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/boston-celtics-nike-standard-issue-mens-fleece-basketball-hoodie-4vvZdIhM",
+    "description": "Find the Boston Celtics Nike Standard Issue Men's Fleece Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Boston Celtics Nike Standard Issue",
+    "title": "Boston Celtics Nike Standard Issue Men's Fleece Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "1a7c8eeb0af7"
+  },
   "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-15cm-approx-nba-shorts-8S0GoINC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19875,6 +20031,38 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-dri-fit-basketball-crew-tXR2WwLm": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-dri-fit-basketball-crew-tXR2WwLm",
+    "description": "Find the Boston Celtics Standard Issue Men's Dri-FIT Basketball Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Boston Celtics Standard Issue",
+    "title": "Boston Celtics Standard Issue Men's Dri-FIT Basketball Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "666cc61a9782"
+  },
+  "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-dri-fit-basketball-hoodie-da9XjVnH": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-dri-fit-basketball-hoodie-da9XjVnH",
+    "description": "Find the Boston Celtics Standard Issue Men's Dri-FIT Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Boston Celtics Standard Issue",
+    "title": "Boston Celtics Standard Issue Men's Dri-FIT Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "ef778cfed499"
+  },
   "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-fleece-basketball-hoodie-zv1LH1GX": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -19882,6 +20070,22 @@
   "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-fleece-basketball-trousers-Db1CBs37": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-nike-fleece-basketball-crew-uQMww8Z9": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-nike-fleece-basketball-crew-uQMww8Z9",
+    "description": "Find the Boston Celtics Standard Issue Men's Nike Fleece Basketball Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Boston Celtics Standard Issue",
+    "title": "Boston Celtics Standard Issue Men's Nike Fleece Basketball Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "0822d9a5faf6"
   },
   "https://www.nike.com/il/t/boston-celtics-standard-issue-mens-nike-sleeveless-basketball-top-3CkzxlgR": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -20283,6 +20487,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/challenge-1-5-mens-hard-court-tennis-shoes-3IWmSdgC": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/challenge-1-5-mens-hard-court-tennis-shoes-3IWmSdgC",
+    "description": "Find the Nike Challenge 1.5 Men's Hard Court Tennis Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Challenge 1.5",
+    "title": "Nike Challenge 1.5 Men's Hard Court Tennis Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "dede9a5c15c3"
+  },
   "https://www.nike.com/il/t/challenger-older-kids-boys-woven-shorts-IYhfzaX8": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20651,6 +20871,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/chicago-bulls-essential-anthem-mens-long-sleeve-basketball-t-shirt-rUtL6CAu": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-essential-anthem-mens-long-sleeve-basketball-t-shirt-rUtL6CAu",
+    "description": "Find the Chicago Bulls Essential Anthem Men's Long-Sleeve Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Essential Anthem",
+    "title": "Chicago Bulls Essential Anthem Men's Long-Sleeve Basketball T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "46fe19e3b920"
+  },
   "https://www.nike.com/il/t/chicago-bulls-essential-mens-nike-nba-t-shirt-qj12NL": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20703,9 +20939,73 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-basketball-shorts-jYg8Hgy2": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-basketball-shorts-jYg8Hgy2",
+    "description": "Find the Chicago Bulls Standard Issue Men's Basketball Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Standard Issue",
+    "title": "Chicago Bulls Standard Issue Men's Basketball Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "ac00446ba745"
+  },
+  "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-basketball-woven-jacket-E2rsmjbx": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-basketball-woven-jacket-E2rsmjbx",
+    "description": "Find the Chicago Bulls Standard Issue Men's Basketball Woven Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Standard Issue",
+    "title": "Chicago Bulls Standard Issue Men's Basketball Woven Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "ac57408095c5"
+  },
   "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-dri-fit-12-5cm-approx-basketball-mesh-shorts-nZgkhwsf": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-dri-fit-basketball-crew-ek7j9nk4": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-dri-fit-basketball-crew-ek7j9nk4",
+    "description": "Find the Chicago Bulls Standard Issue Men's Dri-FIT Basketball Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Standard Issue",
+    "title": "Chicago Bulls Standard Issue Men's Dri-FIT Basketball Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "b1f59af64abf"
+  },
+  "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-dri-fit-basketball-hoodie-tAdL3vLq": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-dri-fit-basketball-hoodie-tAdL3vLq",
+    "description": "Find the Chicago Bulls Standard Issue Men's Dri-FIT Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Standard Issue",
+    "title": "Chicago Bulls Standard Issue Men's Dri-FIT Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "37b887e96d9c"
   },
   "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-fleece-basketball-hoodie-P8NpdRZk": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -20714,6 +21014,38 @@
   "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-fleece-basketball-trousers-LJe6NRfI": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-nike-basketball-trousers-itxTqtcx": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-nike-basketball-trousers-itxTqtcx",
+    "description": "Find the Chicago Bulls Standard Issue Men's Nike Basketball Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Standard Issue",
+    "title": "Chicago Bulls Standard Issue Men's Nike Basketball Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "2d02226ae3b9"
+  },
+  "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-nike-fleece-basketball-crew-sO5Gnko9": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-nike-fleece-basketball-crew-sO5Gnko9",
+    "description": "Find the Chicago Bulls Standard Issue Men's Nike Fleece Basketball Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Standard Issue",
+    "title": "Chicago Bulls Standard Issue Men's Nike Fleece Basketball Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "4a40efc7d0f3"
   },
   "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-nike-sleeveless-basketball-top-hsO5i7im": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -21198,6 +21530,22 @@
   "https://www.nike.com/il/t/denver-nuggets-essential-mens-nike-nba-t-shirt-rhRdF6": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/denver-nuggets-hardwood-classics-mens-dri-fit-basketball-swingman-jersey-y9FpWR03": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/denver-nuggets-hardwood-classics-mens-dri-fit-basketball-swingman-jersey-y9FpWR03",
+    "description": "Find the Denver Nuggets Hardwood Classics Men's Dri-FIT Basketball Swingman Jersey at Nike.com. Shop online at Nike.com.",
+    "h1": "Denver Nuggets Hardwood Classics",
+    "title": "Denver Nuggets Hardwood Classics Men's Dri-FIT Basketball Swingman Jersey. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "42841da0e5f9"
   },
   "https://www.nike.com/il/t/denver-nuggets-icon-edition-mens-nike-dri-fit-nba-swingman-jersey-VWbaiJEs": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -23287,6 +23635,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/golden-state-warriors-nike-standard-issue-mens-fleece-basketball-hoodie-TB067ZFf": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/golden-state-warriors-nike-standard-issue-mens-fleece-basketball-hoodie-TB067ZFf",
+    "description": "Find the Golden State Warriors Nike Standard Issue Men's Fleece Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Golden State Warriors Nike Standard Issue",
+    "title": "Golden State Warriors Nike Standard Issue Men's Fleece Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "e4b5a45ea421"
+  },
   "https://www.nike.com/il/t/golden-state-warriors-standard-issue-mens-15cm-approx-nba-shorts-QlWJnA6E": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23851,6 +24215,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/inter-milan-energy-third-mens-nike-dri-fit-football-long-sleeve-shirt-Zk6T7rn1": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/inter-milan-home-older-kids-nike-dri-fit-football-pre-match-top-sQdpyypD": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23973,6 +24341,10 @@
   },
   "https://www.nike.com/il/t/inter-milan-tech-windrunner-mens-nike-football-woven-full-zip-jacket-HWW1jHnE": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/inter-milan-third-mens-nike-dri-fit-football-pre-match-top-tRoA90E9": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/inter-milan-third-mens-nike-dri-fit-soccer-anthem-jacket-gq4eqBCm": {
@@ -24895,6 +25267,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-brooklyn-womens-full-zip-hoodie-fWoZz5UZ": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-womens-full-zip-hoodie-fWoZz5UZ",
+    "description": "Find the Jordan Brooklyn Women's Full-Zip Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Women's Full-Zip Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "3d6e2977e962"
+  },
   "https://www.nike.com/il/t/jordan-brooklyn-womens-full-zip-top-8HOB0BhE": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25346,6 +25734,10 @@
    },
    "seo_checked": "2026-10-03T05:06:03Z",
    "seo_hash": "d2cdda371772"
+  },
+  "https://www.nike.com/il/t/jordan-flight-mountainside-mens-therma-fit-full-zip-hoodie-TNLhK1vy": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
   },
   "https://www.nike.com/il/t/jordan-flight-mountainside-womens-printed-long-sleeve-bodysuit-IF5iEppt": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27435,6 +27827,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/los-angeles-lakers-essential-anthem-mens-long-sleeve-basketball-t-shirt-vlJ39Dlu": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-essential-anthem-mens-long-sleeve-basketball-t-shirt-vlJ39Dlu",
+    "description": "Find the Los Angeles Lakers Essential Anthem Men's Long-Sleeve Basketball T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Essential Anthem",
+    "title": "Los Angeles Lakers Essential Anthem Men's Long-Sleeve Basketball T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "139a2b932c15"
+  },
   "https://www.nike.com/il/t/los-angeles-lakers-essentials-mens-nike-nba-statement-t-shirt-noy1YZux": {
    "first_seen": "2026-10-07T05:08:09Z",
    "http": {
@@ -27499,9 +27907,89 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/los-angeles-lakers-nike-standard-issue-mens-fleece-basketball-hoodie-odS9yJuM": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-nike-standard-issue-mens-fleece-basketball-hoodie-odS9yJuM",
+    "description": "Find the Los Angeles Lakers Nike Standard Issue Men's Fleece Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Nike Standard Issue",
+    "title": "Los Angeles Lakers Nike Standard Issue Men's Fleece Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "81dd2c551ccf"
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-basketball-shorts-91u1RH3C": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-basketball-shorts-91u1RH3C",
+    "description": "Find the Los Angeles Lakers Standard Issue Men's Basketball Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Standard Issue",
+    "title": "Los Angeles Lakers Standard Issue Men's Basketball Shorts. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "0a7569683a22"
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-basketball-woven-jacket-tUoTV5PS": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-basketball-woven-jacket-tUoTV5PS",
+    "description": "Find the Los Angeles Lakers Standard Issue Men's Basketball Woven Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Standard Issue",
+    "title": "Los Angeles Lakers Standard Issue Men's Basketball Woven Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "8c2cecb8251d"
+  },
   "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-dri-fit-12-5cm-approx-basketball-mesh-shorts-fslWz4nH": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-dri-fit-basketball-crew-gMd1d0qg": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-dri-fit-basketball-crew-gMd1d0qg",
+    "description": "Find the Los Angeles Lakers Standard Issue Men's Dri-FIT Basketball Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Standard Issue",
+    "title": "Los Angeles Lakers Standard Issue Men's Dri-FIT Basketball Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "0997d6ede76e"
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-dri-fit-basketball-hoodie-jt8ovT0f": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-dri-fit-basketball-hoodie-jt8ovT0f",
+    "description": "Find the Los Angeles Lakers Standard Issue Men's Dri-FIT Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Standard Issue",
+    "title": "Los Angeles Lakers Standard Issue Men's Dri-FIT Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "9fb165c896ad"
   },
   "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-fleece-basketball-hoodie-JuG5SkN5": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27510,6 +27998,38 @@
   "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-fleece-basketball-trousers-ZLK5Bh8U": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-nike-basketball-trousers-Pa5KwjOI": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-nike-basketball-trousers-Pa5KwjOI",
+    "description": "Find the Los Angeles Lakers Standard Issue Men's Nike Basketball Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Standard Issue",
+    "title": "Los Angeles Lakers Standard Issue Men's Nike Basketball Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "87972b629d6f"
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-nike-fleece-basketball-crew-KRrZmHlg": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-nike-fleece-basketball-crew-KRrZmHlg",
+    "description": "Find the Los Angeles Lakers Standard Issue Men's Nike Fleece Basketball Crew at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Standard Issue",
+    "title": "Los Angeles Lakers Standard Issue Men's Nike Fleece Basketball Crew. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "b268fdcbb762"
   },
   "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-nike-sleeveless-basketball-top-lOpzbkMN": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -28751,6 +29271,38 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/new-york-knicks-nike-standard-issue-mens-fleece-basketball-hoodie-ZHzZHTiS": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/new-york-knicks-nike-standard-issue-mens-fleece-basketball-hoodie-ZHzZHTiS",
+    "description": "Find the New York Knicks Nike Standard Issue Men's Fleece Basketball Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "New York Knicks Nike Standard Issue",
+    "title": "New York Knicks Nike Standard Issue Men's Fleece Basketball Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "b04d8d8d5e00"
+  },
+  "https://www.nike.com/il/t/new-york-knicks-nike-standard-issue-mens-woven-basketball-jacket-JYwErHI0": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/new-york-knicks-nike-standard-issue-mens-woven-basketball-jacket-JYwErHI0",
+    "description": "Find the New York Knicks Nike Standard Issue Men's Woven Basketball Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "New York Knicks Nike Standard Issue",
+    "title": "New York Knicks Nike Standard Issue Men's Woven Basketball Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "b5ea02635ef0"
+  },
   "https://www.nike.com/il/t/new-york-knicks-standard-issue-mens-dri-fit-12-5cm-approx-basketball-mesh-shorts-WtLkdnJA": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29255,12 +29807,48 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-balconette-bra-SeHUp41a": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-matte-womens-balconette-bra-SeHUp41a",
+    "description": "Find the NikeSKIMS Matte Women's Balconette Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Matte",
+    "title": "NikeSKIMS Matte Women's Balconette Bra. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "3bb3599b8372"
+  },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-double-layer-plunge-bra-dlCAdPA0": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-matte-womens-double-layer-plunge-bra-dlCAdPA0",
+    "description": "Find the NikeSKIMS Matte Women's Double-Layer Plunge Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Matte",
+    "title": "NikeSKIMS Matte Women's Double-Layer Plunge Bra. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "ac9847dd6b46"
+  },
   "https://www.nike.com/il/t/nikeskims-matte-womens-double-strap-scoop-bra-OVbYXMrq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-double-strap-scoop-tank-top-vHBKoKw2": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-double-strap-triangle-bra-oiqiI5ne": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-18cm-approx-biker-shorts-AW8KNWkm": {
@@ -29275,12 +29863,32 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-briefs-cOsEbCVu": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-briefs-cOsEbCVu",
+    "description": "Find the NikeSKIMS Matte Women's High-Waisted Briefs at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Matte",
+    "title": "NikeSKIMS Matte Women's High-Waisted Briefs. Nike IL"
+   },
+   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_hash": "858443583cf3"
+  },
   "https://www.nike.com/il/t/nikeskims-matte-womens-long-sleeve-wrap-top-1oL2xPEC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-micro-scoop-bra-Jdz2rv2k": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-mock-neck-full-zip-jacket-Rr0EF3nU": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-mock-neck-racerback-tank-top-l06ALVuw": {
@@ -29451,12 +30059,28 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-sherpa-womens-oversized-3-4-zip-jacket-SfnFnX8r": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-sherpa-womens-oversized-full-zip-hooded-jacket-FQ3lgk05": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-sherpa-womens-oversized-gilet-GS3cJAGc": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-shine-womens-high-waisted-12-5cm-approx-biker-shorts-CuFTR1zM": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-1-2-zip-long-sleeve-top-0MvxnUtY": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-13cm-approx-shorts-mi7C7dUe": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-cropped-crew-neck-top-4eMxgFFu": {
@@ -29467,12 +30091,24 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-long-sleeve-polo-top-oi0RbYKm": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-oversized-v-neck-top-xfkMNKch": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-oversized-wide-leg-trousers-vJ8C3BYk": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-trousers-HVzbqGIy": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-v-neck-short-sleeve-top-N3bhaTQw": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-stretch-nylon-womens-12-5cm-approx-track-shorts-P2dVdMjr": {
@@ -31423,6 +32059,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/pro-older-kids-girls-therma-fit-fleece-full-zip-top-UboyB3UJ": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/pro-older-kids-girls-top-QLGV9LhV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -31831,6 +32471,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/san-antonio-spurs-hardwood-classics-mens-dri-fit-basketball-swingman-jersey-3bGeMHpS": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/san-antonio-spurs-icon-edition-2022-23-victor-wembanyama-nike-dri-fit-nba-swingman-jersey-Wzc4LG": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -31845,6 +32489,10 @@
   },
   "https://www.nike.com/il/t/san-antonio-spurs-nike-club-mens-practice-t-shirt-nq8HvOxr": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/san-antonio-spurs-nike-standard-issue-mens-fleece-basketball-hoodie-RJJyhPeE": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/san-antonio-spurs-standard-issue-mens-dri-fit-12-5cm-basketball-mesh-shorts-x9Un75Xy": {
@@ -32092,10 +32740,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/shox-tl-womens-shoes-iKw8zFIE": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/shox-tl-womens-shoes-mx8HHCLt": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -34427,6 +35071,10 @@
    "seo_checked": "2026-10-09T05:08:23Z",
    "seo_hash": "63fab34f3fd7"
   },
+  "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-1-4-zip-cropped-top-SetcLbeC": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/studio-fleece-medium-weight-womens-oversized-1-4-zip-cropped-top-Z9yPvBsP": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35157,6 +35805,10 @@
   },
   "https://www.nike.com/il/t/tempo-older-kids-girls-repel-running-jacket-TsR9m0cz": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/tempo-swoosh-run-womens-high-waisted-7-8-running-leggings-n1S5xg": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/tempo-warm-womens-dri-fit-mid-rise-full-length-running-trousers-3B5KEjTm": {
@@ -36063,6 +36715,10 @@
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/v5-rnr-suede-mens-shoes-ELQPfp9D": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/v5-rnr-suede-womens-shoes-K1IZnO5e": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -36137,6 +36793,14 @@
   },
   "https://www.nike.com/il/t/v5-runner-suede-younger-kids-shoes-rSdkUaZr": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/vapor-12-mens-clay-court-tennis-shoes-o0IVL3Ep": {
+   "first_seen": "2026-10-20T05:19:59Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/vapor-12-mens-hard-court-tennis-shoes-R9A5nJou": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/vapor-12-premium-mens-hard-court-tennis-shoes-CgZB7be1": {
@@ -36825,6 +37489,10 @@
   },
   "https://www.nike.com/il/t/zion-williamson-new-orleans-pelicans-2023-24-statement-edition-jordan-dri-fit-nba-swingman-jersey-D01CV6": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/zoom-challenge-1-5-mens-clay-court-tennis-shoes-feJHGBWv": {
+   "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/zoom-fly-6-mens-road-racing-shoe-67r6nVgh": {
