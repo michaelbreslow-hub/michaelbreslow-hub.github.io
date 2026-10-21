@@ -7,6 +7,84 @@
  "events": [
   {
    "asset_type": "category",
+   "date": "2026-10-21T05:20:43Z",
+   "lastmod": "2026-10-19T08:18:48+00:00",
+   "page": {
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/NOV_lifestyle"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-21T05:20:43Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": "2026-10-19T08:18:29+00:00",
+   "page": {
+    "h1": "Running Sale",
+    "title": "Running Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/NOV_running"
+  },
+  {
+   "after": "2026-10-20T11:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-10-19T11:00:03+00:00",
+   "date": "2026-10-21T05:20:43Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-21T05:20:43Z",
+   "lastmod": "2026-10-19T07:54:09+00:00",
+   "page": {
+    "h1": "We are sorry, but no results were found",
+    "title": "ראשי - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-21T05:20:43Z",
+   "lastmod": "2026-10-19T08:18:48+00:00",
+   "page": {
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_lifestyle"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-21T05:20:43Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": "2026-10-19T08:18:29+00:00",
+   "page": {
+    "h1": "Running Sale",
+    "title": "Running Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_running"
+  },
+  {
+   "asset_type": "category",
    "date": "2026-10-20T05:19:59Z",
    "lastmod": "2026-10-19T08:18:48+00:00",
    "page": {
@@ -634,6 +712,17 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 2,
+    "keyword_hits": 2,
+    "removed": 3,
+    "updated": 1
+   },
+   "date": "2026-10-21T05:20:43Z",
+   "status": "ok",
+   "total_urls": 228
+  },
   {
    "counts": {
     "added": 3,

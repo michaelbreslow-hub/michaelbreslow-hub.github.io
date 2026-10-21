@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-20T05:19:59Z",
+  "last_run": "2026-10-21T05:20:43Z",
   "pending_drop": null,
   "sitemaps_fetched": 9
  },
@@ -12,7 +12,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T16:18:21+00:00",
+   "lastmod": "2026-10-20T16:17:21+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/",
     "description": "Shop Skechers, The Comfort Technology Company®, for the Hands Free Slip-ins, work shoes, and boots for the whole family. Join Skechers Plus for 20% off and free shipping on any order.",
@@ -1212,7 +1212,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:01:19+00:00",
+   "lastmod": "2026-10-20T13:06:59+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/6-pack-low-cut-non-terry-socks/Z112222_GRN.html",
     "description": "Free Shipping with our free loyalty program. Grow his options for style and comfort with the Skechers Accessories 6 Pack of Boys' Non Terry Low Cut Walking Socks. Soft poly blend fabric in a low ankle height athletic sporty comfort walking sock with comfort stretch and heathered design.",
@@ -1292,7 +1292,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:01:25+00:00",
+   "lastmod": "2026-10-20T13:07:06+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/6-pack-mens-low-cut-texture-knit-socks/Z601841_NVY.html",
     "description": "Free Shipping with our free loyalty program. Step out with the essential Skechers 6 Pack Men's Low Cut Texture Knit Socks. This low-cut sock comes in 6 different colors and features a moisture-wicking fabric and mesh ventilation.",
@@ -1676,7 +1676,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:56+00:00",
+   "lastmod": "2026-10-20T13:06:34+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/ace-performance-tank/TT118_GYLM.html",
     "description": "Free Shipping with our free loyalty program. Stay motivated in court-ready comfort wearing Skechers Performance&#153; Ace Performance Tank. This athletic style is made from our stretchy, moisture-wicking GO SCULPT&#153; fabric and features a scoop-neck front, a built-in shelf bra with removable cups",
@@ -3846,6 +3846,38 @@
    "seo_checked": "2026-10-16T05:19:32Z",
    "seo_hash": "4a2054dd7d60"
   },
+  "https://www.skechers.com/arch-fit-inspire---natalie/138789_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arch-fit-inspire---natalie/138789_BBK.html",
+    "description": "Free Shipping with our free loyalty program. Enjoy classic style with easy-going comfort in Skechers Arch Fit Inspire - Natalie. This vegan slip-on skimmer has been granted the APMA Seal of Acceptance and features a Perform Tex upper with a round buckle detail, a podiatrist-certified Arch Fit&reg; i",
+    "h1": "Arch Fit Inspire - Natalie",
+    "title": "Arch Fit Inspire - Natalie"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "2cadbc23861c"
+  },
+  "https://www.skechers.com/arch-fit-inspire---natalie/138789_MOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arch-fit-inspire---natalie/138789_MOC.html",
+    "description": "Free Shipping with our free loyalty program. Enjoy classic style with easy-going comfort in Skechers Arch Fit Inspire - Natalie. This vegan slip-on skimmer has been granted the APMA Seal of Acceptance and features a Perform Tex upper with a round buckle detail, a podiatrist-certified Arch Fit&reg; i",
+    "h1": "Arch Fit Inspire - Natalie",
+    "title": "Arch Fit Inspire - Natalie"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "4a2054dd7d60"
+  },
   "https://www.skechers.com/arch-fit-marlie---flirty-vibes/167960.html": {
    "first_seen": "2026-10-17T05:16:42Z",
    "http": {
@@ -4278,6 +4310,38 @@
    "seo_checked": "2026-10-20T05:19:59Z",
    "seo_hash": "7427ba2e98c1"
   },
+  "https://www.skechers.com/arch-fit-tenley---understated/168329_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arch-fit-tenley---understated/168329_BBK.html",
+    "description": "Free Shipping with our free loyalty program. Dress for the season in style with Skechers Arch Fit&reg; Tenley - Understated. This roomy boot features a 3M&reg; Scotchgard&reg;-treated suede upper, a side zipper for easy entry, and a podiatrist-certified Skechers Arch Fit&reg; insole system for suppo",
+    "h1": "Arch Fit Tenley - Understated",
+    "title": "Arch Fit Tenley - Understated"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "776c711323ac"
+  },
+  "https://www.skechers.com/arch-fit-tenley---understated/168329_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arch-fit-tenley---understated/168329_CHOC.html",
+    "description": "Free Shipping with our free loyalty program. Dress for the season in style with Skechers Arch Fit&reg; Tenley - Understated. This roomy boot features a 3M&reg; Scotchgard&reg;-treated suede upper, a side zipper for easy entry, and a podiatrist-certified Skechers Arch Fit&reg; insole system for suppo",
+    "h1": "Arch Fit Tenley - Understated",
+    "title": "Arch Fit Tenley - Understated"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "7427ba2e98c1"
+  },
   "https://www.skechers.com/arch-fit-virtue---dahlia/104594.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "http": {
@@ -4392,27 +4456,99 @@
   },
   "https://www.skechers.com/arch-fit-wave/254350_NVRD.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arch-fit-wave/254350_NVRD.html",
+    "description": "Free Shipping with our free loyalty program. Elevate your casual look with premium comfort and style in Skechers Arch Fit&reg; Wave. This lace-up court style features a mesh, synthetic, and pigskin suede upper with a podiatrist-certified Arch Fit&reg; insole system and a durable Goodyear&reg; rubber",
+    "h1": "Arch Fit Wave",
+    "title": "Arch Fit Wave"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "58c577bd18ec"
   },
   "https://www.skechers.com/arch-fit-wave/254350_OLV.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arch-fit-wave/254350_OLV.html",
+    "description": "Free Shipping with our free loyalty program. Elevate your casual look with premium comfort and style in Skechers Arch Fit&reg; Wave. This lace-up court style features a mesh, synthetic, and pigskin suede upper with a podiatrist-certified Arch Fit&reg; insole system and a durable Goodyear&reg; rubber",
+    "h1": "Arch Fit Wave",
+    "title": "Arch Fit Wave"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "fb5a2d7ca2fc"
   },
   "https://www.skechers.com/articles": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-06-20T15:23:25+00:00"
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2025-06-20T15:23:25+00:00",
+   "seo": {
+    "canonical": "https://www.skechers.com/articles",
+    "description": "Step into stories about comfort, style, innovation, and wellness. The official Skechers blog is your source for the latest trends, health tips, and a behind-the-scenes look at your favorite footwear.",
+    "h1": "All Articles",
+    "title": "Skechers Stories"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "080f95e570df"
   },
   "https://www.skechers.com/arya---moonlit-ray/159373.html": {
    "first_seen": "2026-10-11T05:07:15Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/arya---moonlit-ray/159373_BBK.html",
+    "description": "Free Shipping with our free loyalty program. Experience casual all-day comfort in Skechers Arya - Moonlit Ray. This vegan Stretch Fit&reg; loafer features a sparkle knit upper with rhinestone embellishments and a cushioned Skechers Air-Cooled Memory Foam&reg; comfort insole.",
+    "h1": "Arya - Moonlit Ray",
+    "title": "Arya - Moonlit Ray"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "58ac3e7b4009"
   },
   "https://www.skechers.com/asher---elegant-bloom/185116.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/asher---elegant-bloom/185116_PKMT.html",
+    "description": "Free Shipping with our free loyalty program. Pretty florals meet modern comfort in Skechers Asher - Elegant Bloom. This lace-up Court & Classics sneaker features a duraleather upper with metallic floral print overlay, plus our signature Skechers Air-Cooled Memory Foam&reg; cushioned insole.",
+    "h1": "Asher - Elegant Bloom",
+    "title": "Asher - Elegant Bloom"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "605c3cd25d13"
   },
   "https://www.skechers.com/asher---elevated-pace/185115.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/asher---elevated-pace/185115_WRD.html",
+    "description": "Free Shipping with our free loyalty program. Hit the streets in eye-catching style wearing Skechers Asher - Elevated Pace. This reptilian-patterned Court & Classics sneaker features a synthetic leather and patent upper, a lace-up closure, and our signature Skechers Air-Cooled Memory Foam&reg; cushio",
+    "h1": "Asher - Elevated Pace",
+    "title": "Asher - Elevated Pace"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "a05552db2a79"
   },
   "https://www.skechers.com/asher---elevated-pace/185115_WBK.html": {
    "first_seen": "2026-10-03T05:06:03Z",
@@ -4646,10 +4782,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/bobs-b-cute-2.0---pup-stroll/114119.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/bobs-b-cute-2.0---sea-stripes/114208.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -4814,12 +4946,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/bobs-cozy-kiss---cozy-cat/113698_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/bobs-cozy-kiss---cozy-cat/113698_LPD.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/bobs-cozy-kiss---doggie-dreams/113673.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/bobs-cozy-kiss---doggy-drivers/113699.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/bobs-cozy-kiss---doggy-drivers/113699_NAT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/bobs-cozy-kiss---knit-kitty/113669.html": {
@@ -5050,6 +5194,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/bobs-sport-diego/117685_RSGD.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/bobs-sport-diego/117685_WHT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -5136,7 +5284,7 @@
   },
   "https://www.skechers.com/boots-slippers": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2025-11-19T21:06:18+00:00"
+   "lastmod": "2026-10-19T20:55:39+00:00"
   },
   "https://www.skechers.com/bounder---lil-star-friend/303167N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5174,6 +5322,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/bounder-pro---teddy-puff/303370N_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/boundless---strike-flow/404820L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -5200,18 +5352,6 @@
   },
   "https://www.skechers.com/brentwood-black-watch/SR5207_BLK.html": {
    "first_seen": "2026-10-07T05:08:09Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/britto-hearts-striped-ringer-tee/TP227BR.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/britto-retro-pop-pullover/LT316BR.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/britto-retro-pop-short/SH259BR.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/britto-s-1992---britto-landscape/254168.html": {
@@ -5296,6 +5436,10 @@
   },
   "https://www.skechers.com/care-bears-hugs-n-snugs/302390L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/care-bears-hugs-n-snugs/302390L_BLMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/care-bears-lil-snugs/302392N.html": {
@@ -5396,7 +5540,7 @@
   },
   "https://www.skechers.com/cinch-bag/SKSP7635.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:00:29+00:00"
+   "lastmod": "2026-10-20T13:06:11+00:00"
   },
   "https://www.skechers.com/citywalk-backpack/ZKH30192.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5426,8 +5570,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/cleo-driver---smooth-lane/159657_DKNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/cleo-style---luxe-spark/159435.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cleo-style---rare-glow/159434.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/cleo-taylor---desire/159029.html": {
@@ -5664,11 +5816,11 @@
   },
   "https://www.skechers.com/collaborations/dia-de-muertos": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-05T22:07:20+00:00"
+   "lastmod": "2026-10-19T22:55:03+00:00"
   },
   "https://www.skechers.com/collaborations/dia-de-muertos/dia-de-muertos-styles": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-12T18:14:12+00:00"
+   "lastmod": "2026-10-19T22:57:08+00:00"
   },
   "https://www.skechers.com/collaborations/diane-von-furstenberg/dvf-collection": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5776,7 +5928,11 @@
   },
   "https://www.skechers.com/collegiate-baseball-hat/ZBB56.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:01:27+00:00"
+   "lastmod": "2026-10-20T13:07:07+00:00"
+  },
+  "https://www.skechers.com/collegiate-baseball-hat/ZBB56_PBL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
   },
   "https://www.skechers.com/colors-of-life-tee/AWG047.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -5950,6 +6106,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/cozy-ballet/168323.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/cozy-campfire---french-toast-2/169048.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -5976,18 +6136,82 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:49+00:00",
+   "lastmod": "2026-10-20T13:05:37+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-1%2F4-zip/LT321_BUPK.html",
-    "description": "Free Shipping with our free loyalty program. Enjoy a soft-to-the-touch everyday choice with Skechers Cozy Luxe 1/4 Zip. This mock neck 1/4 zip sweatshirt is made from our remarkably soft SKECHLUXE ELEVATE&#153; fabric and features long sleeves with piping detail and raglan seams.",
+    "description": "Free Shipping with our free loyalty program. Enjoy a soft-to-the-touch everyday choice with Skechers Cozy Luxe&#153; 1/4 Zip. This mock neck 1/4 zip sweatshirt is made from our remarkably soft SKECHLUXE ELEVATE&#153; fabric and features long sleeves with piping detail and raglan seams.",
     "h1": "Cozy Luxe 1/4 Zip",
     "title": "Cozy Luxe 1/4 Zip"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
-   "seo_hash": "8fd340c91817"
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "4cd99b641dc9"
   },
   "https://www.skechers.com/cozy-luxe-crewneck/LT152.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-7-short/SH168.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/cozy-luxe-elevate-7-short/SH168_DEN.html",
+    "description": "Free Shipping with our free loyalty program. Experience a new level of softness that your senses will thank you for when wearing Skechers Cozy Luxe&#153; 7 Inch Short. These sweat shorts are made from our ultra soft SKECHCLOUD Elevate&#153; fabric and feature an interior waistband drawcord, front sl",
+    "h1": "Cozy Luxe Elevate 7 Short",
+    "title": "Cozy Luxe Elevate 7 Short"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "563650428d37"
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-7-short/SH168_BKCC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-7-short/SH168_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-7-short/SH168_DEN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-7-short/SH168_PRTL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-crew/LT251.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/cozy-luxe-elevate-crew/LT251_WPW.html",
+    "description": "Free Shipping with our free loyalty program. Experience a new level of softness that your senses will thank you for wearing Skechers Cozy Luxe&#153; Elevate Crew. This pullover sweatshirt showcases our unmatched and ultra-soft SKECHCLOUD Elevate&#153; fabric - a texture you have to feel to believe. ",
+    "h1": "Cozy Luxe Elevate Crew",
+    "title": "Cozy Luxe Elevate Crew"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "8d63e5b9954f"
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-crew/LT251_BKCC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-crew/LT251_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-crew/LT251_CCNV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cozy-luxe-elevate-crew/LT251_WPW.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/cozy-luxe-elevate-hoodie/HD128.html": {
@@ -6060,15 +6284,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:35+00:00",
+   "lastmod": "2026-10-20T13:05:23+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-track-jacket/JA378_BLK.html",
-    "description": "Free Shipping with our free loyalty program. Keep a clean sporty profile wearing Skechers Cozy Luxe Track Jacket. This full zip track jacket is made with our ultra soft SKECHLUXE Elevate&#153; double knit fabric and features a ribbed interior collar, cuffs, and bottom hem, front hand welt pockets, a",
+    "description": "Free Shipping with our free loyalty program. Keep a clean sporty profile wearing Skechers Cozy Luxe&#153; Track Jacket. This full zip track jacket is made with our ultra soft SKECHLUXE Elevate&#153; double knit fabric and features a ribbed interior collar, cuffs, and bottom hem, front hand welt pock",
     "h1": "Cozy Luxe Track Jacket",
     "title": "Cozy Luxe Track Jacket"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
-   "seo_hash": "5ffccd37cd73"
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "e2b22d3e821c"
   },
   "https://www.skechers.com/cozy-luxe-track-pant/PT320.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -6076,15 +6300,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:05+00:00",
+   "lastmod": "2026-10-20T13:05:52+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-track-pant/PT320_BLK.html",
-    "description": "Free Shipping with our free loyalty program. Take it easy in premium comfort wearing Skechers Cozy Luxe Relaxed Pant. These wide-leg lounge pants are made from our remarkably soft SKECHLUXE ELEVATE&#153; fabric and feature a midrise waist with an elasticated comfort fit, front slash hand pockets, an",
+    "description": "Free Shipping with our free loyalty program. Take it easy in premium comfort wearing Skechers Cozy Luxe&#153; Relaxed Pant. These wide-leg lounge pants are made from our remarkably soft SKECHLUXE ELEVATE&#153; fabric and feature a midrise waist with an elasticated comfort fit, front slash hand pocke",
     "h1": "Cozy Luxe Track Pant",
     "title": "Cozy Luxe Track Pant"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
-   "seo_hash": "7bd8b96b67c5"
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "fd0ed956b575"
   },
   "https://www.skechers.com/cozy-luxe-tunic-jacket/JA352.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -6096,15 +6320,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:24+00:00",
+   "lastmod": "2026-10-20T13:05:13+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-velour-hoodie/HD74_BLK.html",
-    "description": "Free Shipping with our free loyalty program. Discover effortless everyday comfort with the Skechers Cozy Luxe Velour&#153; Hoodie. Crafted from our signature Cozy Luxe Velour&#153; fabric, this hooded pullover features long sleeves, banded cuffs and hem, and an adjustable drawcord hood. Part of a co",
+    "description": "Free Shipping with our free loyalty program. Discover effortless everyday comfort with the Skechers Cozy Luxe&#153; Velour Hoodie. Crafted from our signature Cozy Luxe Velour&#153; fabric, this hooded pullover features long sleeves, banded cuffs and hem, and an adjustable drawcord hood. Part of a co",
     "h1": "Cozy Luxe Velour Hoodie",
     "title": "Cozy Luxe Velour Hoodie"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
-   "seo_hash": "56879a83c60b"
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "325c94a187a6"
   },
   "https://www.skechers.com/cozy-luxe-velour-pant/PT178.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -6112,15 +6336,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:00+00:00",
+   "lastmod": "2026-10-20T13:05:49+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/cozy-luxe-velour-pant/PT178_BLK.html",
-    "description": "Free Shipping with our free loyalty program. Discover effortless everyday comfort with the Skechers Cozy Luxe Velour&#153; Pant. Crafted from our signature Cozy Luxe Velour&#153; fabric, this mid-rise pant features an elastic waistband and on-seam pockets. Part of a coordinating apparel collection.",
+    "description": "Free Shipping with our free loyalty program. Discover effortless everyday comfort with the Skechers Cozy Luxe&#153; Velour Pant. Crafted from our signature Cozy Luxe Velour&#153; fabric, this mid-rise pant features an elastic waistband and on-seam pockets. Part of a coordinating apparel collection.",
     "h1": "Cozy Luxe Velour Pant",
     "title": "Cozy Luxe Velour Pant"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
-   "seo_hash": "a5e7dbabd6ea"
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "71ad7dfaf000"
   },
   "https://www.skechers.com/crawford---viggo/205990.html": {
    "first_seen": "2026-10-11T05:07:15Z",
@@ -6132,6 +6356,14 @@
   },
   "https://www.skechers.com/cypress---chic-surge/158949.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cypress---chic-surge/158949_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/cypress---chic-surge/158949_BRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/dazzle-tee/TS395.html": {
@@ -6278,6 +6510,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/dlites---20th-anniversary/150876_BKRG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/dlites---20th-anniversary/150876_WTRG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/dlites---biggest-fan/11930.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -6296,6 +6536,26 @@
   },
   "https://www.skechers.com/dlites---bling-bling/150878.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/dlites---bright-sky/11933.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/dlites---bright-sky/11933_WSL.html",
+    "description": "Free Shipping with our free loyalty program. A sporty look gets a comfortable update in the Skechers D'Lites - Bright Sky shoe. This casual sporty sneaker mule features a slip-on style with a smooth leather and synthetic upper and cushioned Air-Cooled Memory Foam insole.",
+    "h1": "D'lites - Bright Sky",
+    "title": "D'lites - Bright Sky"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "e6dcac0044b8"
+  },
+  "https://www.skechers.com/dlites---bright-sky/11933_WSL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/dlites---chrome-wave/150873.html": {
@@ -6318,10 +6578,6 @@
    "seo_checked": "2026-09-27T05:05:38Z",
    "seo_hash": "dcf5328801fb"
   },
-  "https://www.skechers.com/dlites---fresh-start/11931EW_WSL.html": {
-   "first_seen": "2026-10-08T05:08:28Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/dlites---fresh-start/11931_WSL.html": {
    "first_seen": "2026-09-27T05:05:38Z",
    "lastmod": null
@@ -6330,8 +6586,32 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/dlites---garden-chic/150879_NAT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/dlites---interlude/11978.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/dlites---life-saver/11860.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.skechers.com/dlites---life-saver/11860EW_NWLB.html",
+    "description": "Free Shipping with our free loyalty program. Add that classic comfort flavor to your look with the Skechers D'Lites&reg; - Life Saver shoe. This fashion athletic lace-up sneaker features a synthetic trubuck and athletic mesh upper with a cushioned Air-Cooled Memory Foam&reg; insole.",
+    "h1": "D'Lites - Life Saver",
+    "title": "D'Lites - Life Saver"
+   },
+   "seo_checked": "2026-10-21T05:20:43Z",
+   "seo_hash": "4d38094635d8"
+  },
+  "https://www.skechers.com/dlites---life-saver/11860_BKWP.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/dlites---me-time/11936.html": {
@@ -6404,6 +6684,10 @@
   },
   "https://www.skechers.com/dlites---wild-charm/150877.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/dlites---wild-charm/150877_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/dlites-330": {
@@ -6550,6 +6834,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/edgeride---rush-point/404802L_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/edgeride---rush-point/404802L_RED.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -6596,6 +6884,10 @@
   },
   "https://www.skechers.com/elite-baseball-hat/ZBB167.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/elite-baseball-hat/ZBB167_WHT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/elite-sport-pulse/304210L.html": {
@@ -6648,7 +6940,7 @@
   },
   "https://www.skechers.com/essential-backpack/ZKCH8442.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:01:37+00:00"
+   "lastmod": "2026-10-20T13:07:17+00:00"
   },
   "https://www.skechers.com/essential-backpack/ZKCH8442_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -6828,6 +7120,10 @@
   },
   "https://www.skechers.com/force-baseball-hat/ZBB165.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/force-baseball-hat/ZBB165_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/free-pair-cozy-fit": {
@@ -7102,6 +7398,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/glide-step-vortex---avalin/129826_LTGY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/glide-step-vortex---avalin/129826_NVY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -7138,6 +7438,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/glow-size-5-soccer-ball/SKCH5882_BLGY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/go-3d%C2%A0arch-fit-horizon---3d-airnex-slide/233166.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -7156,14 +7460,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:42+00:00",
+   "lastmod": "2026-10-20T13:05:30+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115_NVY.html",
     "description": "Free Shipping with our free loyalty program. Keep your style smooth and your comfort dry wearing Skechers GO DRI&reg; All Day Long Sleeve Tee. This monochromatic long-sleeve crewneck features our soft moisture-wicking and quick-drying GO DRI&reg; All Day fabric with flatlock seams for a sleek and po",
     "h1": "GO DRI All Day Long Sleeve Tee",
     "title": "GO DRI All Day Long Sleeve Tee"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "cd084411e098"
   },
   "https://www.skechers.com/go-dri-all-day-long-sleeve-tee/LT115B.html": {
@@ -7340,14 +7644,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:44+00:00",
+   "lastmod": "2026-10-20T13:06:23+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-dri-swift-tee/TS104_WTPK.html",
     "description": "Free Shipping with our free loyalty program. Enjoy mindful yoga sessions and laid-back weekends wearing Skekchers GO DRI Swift&#153; Tee. This go-to crew neck tee is made from our soft moisture-wicking and quick-drying GO DRI&reg; SWIFT fabric and features a curved hem and reflective details.",
     "h1": "GO DRI Swift Tee",
     "title": "GO DRI Swift Tee"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "53b3b3128db1"
   },
   "https://www.skechers.com/go-dri-swift-tee/TS104_BLK.html": {
@@ -7396,14 +7700,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:42+00:00",
+   "lastmod": "2026-10-20T13:05:30+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-flex-full-length-high-waisted-fleece-legging/LG99_BRCT.html",
     "description": "Free Shipping with our free loyalty program. Bring warmth to your cold-weather workouts with Skechers GO FLEX Full-Length High-Waisted Fleece Legging. This active high-waisted legging is made from our moisture-wicking GO FLEX Brushed&#153; performance knit and features a fleece-lined interior, a dou",
     "h1": "GO FLEX Full-Length High-Waisted Fleece Legging",
     "title": "GO FLEX Full-Length High-Waisted Fleece Legging"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "62e7f240081f"
   },
   "https://www.skechers.com/go-flex-harmony-8-inch-bike-short/SH244.html": {
@@ -7412,14 +7716,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:17+00:00",
+   "lastmod": "2026-10-20T13:06:01+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-flex-harmony-8-inch-bike-short/SH244_NVY.html",
     "description": "Free Shipping with our free loyalty program. Sweat it out in style with Skechers GO FLEX Harmony&#153; 8 Inch Short. This fitted pair of active shorts is made from our breathable GO FLEX Harmony&#153; fabric and features a double-layer comfort waistband and exterior pockets.",
     "h1": "GO Flex Harmony 8 Inch Bike Short",
     "title": "GO Flex Harmony 8 Inch Bike Short"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "a64ea0cbbd91"
   },
   "https://www.skechers.com/go-flex-harmony-fl-hw-legging/LG113.html": {
@@ -7432,14 +7736,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:37+00:00",
+   "lastmod": "2026-10-20T13:05:24+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-flex-harmony-full-zip-jacket/JA501_NVY.html",
     "description": "Free Shipping with our free loyalty program. Stay active throughout the day in lightweight stylish comfort wearing Skechers GO FLEX Harmony&#153; Full Zip Jacket. This easy mock-neck layer is made from our breathable GO FLEX Harmony&#153; fabric and features a zippered front with a bungee hair tie p",
     "h1": "GO FLEX Harmony Full Zip Jacket",
     "title": "GO FLEX Harmony Full Zip Jacket"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "45dddba7a8d3"
   },
   "https://www.skechers.com/go-flex-harmony-pant/PT372.html": {
@@ -7704,7 +8008,7 @@
   },
   "https://www.skechers.com/go-run-consistent-3---rushline/129052.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T12:34:02+00:00"
+   "lastmod": "2026-10-20T12:36:13+00:00"
   },
   "https://www.skechers.com/go-run-consistent-3---rushline/221262.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -7772,6 +8076,10 @@
   },
   "https://www.skechers.com/go-run-glide-step-arch-fit---casion/129802.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/go-run-glide-step-arch-fit---casion/129802_BKW.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/go-run-glide-step-arch-fit---casion/221121.html": {
@@ -7872,14 +8180,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:15+00:00",
+   "lastmod": "2026-10-20T13:06:00+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-stretch-ultra-performance-7-inch-short/SH172_CCNV.html",
     "description": "Free Shipping with our free loyalty program. Go the distance in stylish performance wearing Skechers GO STRETCH&#153; Ultra Performance 7 Inch Short. This lightweight performance short is made from our quick-drying, active 4-way GO STRETCH&#153; Ultra fabric and features a button fly front, hand poc",
     "h1": "GO STRETCH Ultra Performance 7 Inch Short",
     "title": "GO STRETCH Ultra Performance 7 Inch Short"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "32adb3007022"
   },
   "https://www.skechers.com/go-stretch-ultra-performance-7-inch-short/SH172_BLK.html": {
@@ -7924,7 +8232,7 @@
   },
   "https://www.skechers.com/go-walk-8-inch-walk-short/W2SH40.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:01:09+00:00"
+   "lastmod": "2026-10-20T13:06:48+00:00"
   },
   "https://www.skechers.com/go-walk-8-inch-walk-short/W2SH40_BLMV.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -7956,6 +8264,10 @@
   },
   "https://www.skechers.com/go-walk-arch-fit-2.0---cassy/125346.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/go-walk-arch-fit-2.0---cassy/125346_MVE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/go-walk-arch-fit-2.0---cassy/125346_NTPH.html": {
@@ -8132,21 +8444,17 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:36+00:00",
+   "lastmod": "2026-10-20T13:05:24+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-walk-diamond-jacket---cozy-fit/JA496_TPBR.html",
     "description": "Free Shipping with our free loyalty program. Indulge in effortless style and luxe comfort with the versatile Skechers GO WALK&#153; Diamond Jacket - Cozy Fit&#153;. This zip-front style is made from our stretchy SKECH-KNIT Diamond&#153; fabric and features allover quilting, a mock-neck collar, and w",
     "h1": "GO WALK Diamond Jacket - Cozy Fit",
     "title": "GO WALK Diamond Jacket - Cozy Fit"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "f42dc22fac7f"
   },
   "https://www.skechers.com/go-walk-everywhere-1%2F4-snap-pullover/LT377.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/go-walk-everywhere-4-inch-slip-in-short/SH195.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -8172,14 +8480,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:26+00:00",
+   "lastmod": "2026-10-20T13:05:15+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/go-walk-everywhere-full-zip-jacket/JA138_DEN.html",
     "description": "Free Shipping with our free loyalty program. Enjoy lightweight performance comfort wearing Skechers GO WALK Everywhere Full Zip Jacket. This mock neck design is made from our 4-way stretch SKECHWEAVE&#153; fabric and features zipped hand pockets and an interior chest pocket with branded rivet.",
     "h1": "GO WALK Everywhere Full Zip Jacket",
     "title": "GO WALK Everywhere Full Zip Jacket"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "a9ff239e2114"
   },
   "https://www.skechers.com/go-walk-everywhere-jacket/W3JA261.html": {
@@ -8522,22 +8830,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/go-walk-joy/15600.html": {
-   "first_seen": "2026-10-16T05:19:32Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.skechers.com/go-walk-joy/15600_BBK.html",
-    "description": "Free Shipping with our free loyalty program. BREEZE FIT&#153; Experience the pleasure of walkable comfort with easy-to-wear Skechers GO WALK JOY&#153;. This vegan laceless fit design features a breathable athletic mesh upper, responsive 5GEN&reg; cushioning, and a Goga Max high rebound response.",
-    "h1": "GO WALK JOY",
-    "title": "GO WALK JOY"
-   },
-   "seo_checked": "2026-10-16T05:19:32Z",
-   "seo_hash": "fabd9f78e7a0"
-  },
   "https://www.skechers.com/go-walk-lite---coral/15430.html": {
    "first_seen": "2026-10-18T05:16:49Z",
    "http": {
@@ -8756,14 +9048,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:49+00:00",
+   "lastmod": "2026-10-20T13:05:37+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/godri-all-day-thermal-1%2F2-zip/LT292_BLK.html",
     "description": "Free Shipping with our free loyalty program. Good-natured comfort and style combine in Skechers Performance&#153; GO DRI All Day&#153; Thermal 1/4 Zip. This mock-neck pullover features our lightweight GO DRI All Day&#153; jersey fabric with woven overlay at the chest, a 1/4-zip front, and a zippered",
     "h1": "Godri All Day Thermal 1/2 Zip",
     "title": "Godri All Day Thermal 1/2 Zip"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "527e14f72dbc"
   },
   "https://www.skechers.com/goga-max-sandals": {
@@ -8792,14 +9084,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:35+00:00",
+   "lastmod": "2026-10-20T13:05:23+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/goshield-traverse-parka/JA392_CCNV.html",
     "description": "Free Shipping with our free loyalty program. Add a layer of cloud-like softness to an outerwear favorite with Skechers GO SHIELD&#153; Cozy Fit&#153; Traverse Parka. This full-zip hooded puffer jacket is made from our GO SHIELD&#153; Cozy Fit&#153; fabric and features synthetic insulation, zippered ",
     "h1": "Goshield Traverse Parka",
     "title": "Goshield Traverse Parka"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "8d3aabb0cac5"
   },
   "https://www.skechers.com/gostretch-ultra-pant-classic/PT378.html": {
@@ -8812,14 +9104,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:01+00:00",
+   "lastmod": "2026-10-20T13:05:50+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/gostretch-ultra-performance-pant-classic/PT199_BKCC.html",
     "description": "Free Shipping with our free loyalty program. Tee up in polished style that moves with you wearing Skechers GO STRETCH&#153; Ultra Performance Pant Classic. This straight leg design is made from our innovative GO STRETCH&#153; Ultra fabric and features a functional fly with button closure, belt loops",
     "h1": "GoStretch Ultra Performance Pant Classic",
     "title": "GoStretch Ultra Performance Pant Classic"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "c265ec3e8ad9"
   },
   "https://www.skechers.com/gostretch-ultra-performance-pant-classic/PT199_BKCC.html": {
@@ -9394,6 +9686,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/hex-brushed-size-5-soccer-ball/SKCH7042_WGD.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/hex-brushed-size-5-soccer-ball/SKCH7044.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -9422,6 +9718,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/hex-shadow-size-5-soccer-ball/SKCH7026_BKPK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/hillcrest-2.0---pulpit-rock/180392.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -9448,15 +9748,15 @@
   },
   "https://www.skechers.com/holiday-gifts/gifts-by-price/100-under": {
    "first_seen": "2026-10-07T05:08:09Z",
-   "lastmod": "2026-10-16T00:47:04+00:00"
+   "lastmod": "2026-10-19T22:36:39+00:00"
   },
   "https://www.skechers.com/holiday-gifts/gifts-by-price/125-under": {
    "first_seen": "2026-10-16T05:19:32Z",
-   "lastmod": "2026-10-16T00:47:27+00:00"
+   "lastmod": "2026-10-19T22:36:26+00:00"
   },
   "https://www.skechers.com/holiday-gifts/gifts-by-price/75-under": {
    "first_seen": "2026-10-07T05:08:09Z",
-   "lastmod": "2026-10-16T00:45:05+00:00"
+   "lastmod": "2026-10-19T22:36:49+00:00"
   },
   "https://www.skechers.com/holiday-gifts/gifts-by-price/gift-cards": {
    "first_seen": "2026-10-07T05:08:09Z",
@@ -9464,7 +9764,7 @@
   },
   "https://www.skechers.com/holiday-gifts/gifts-by-price/premium": {
    "first_seen": "2026-10-16T05:19:32Z",
-   "lastmod": "2026-10-16T00:47:54+00:00"
+   "lastmod": "2026-10-19T22:37:17+00:00"
   },
   "https://www.skechers.com/holiday-gifts/gifts-for-her": {
    "first_seen": "2026-10-07T05:08:09Z",
@@ -9582,6 +9882,10 @@
    "first_seen": "2026-10-03T05:06:03Z",
    "lastmod": null
   },
+  "https://www.skechers.com/hot-shot-pro/254254_TPBR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/hotshot--%C2%A0fierce-delight/185406.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -9658,6 +9962,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/hotshot-hi--%C2%A0cozy-fit-hidden-wild/185466.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/hotshot-hi--%C2%A0refined-rebel/185461.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -9672,7 +9980,7 @@
   },
   "https://www.skechers.com/hydration-18-oz.-tumbler/SKHY0026.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:00:29+00:00"
+   "lastmod": "2026-10-20T13:06:10+00:00"
   },
   "https://www.skechers.com/hydration-18-oz.-tumbler/SKHY0026_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -10438,6 +10746,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/mark-nason-the-bowery---tayln/205569_DKBR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/mark-nason-the-bowery---tumbler/205575.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -10608,6 +10920,10 @@
   },
   "https://www.skechers.com/max-cushioning-elite-3/129720.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/max-cushioning-elite-3/129720_BURG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/max-cushioning-elite-3/129720_LBPK.html": {
@@ -10856,6 +11172,10 @@
   },
   "https://www.skechers.com/mega-craft-4k/402160L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/mega-craft-4k/402160L_BLLM.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/mega-flex-lite---tuff-toolz/402130L.html": {
@@ -11302,6 +11622,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/microspec-plus---school-sweets/302635L_WHT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/microspec-plus---swirl-sweet/303535L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -11326,6 +11650,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/microspec-tread/404115L_BLNV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/microspec-velocity---grid-drift/404127L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -11340,6 +11668,10 @@
   },
   "https://www.skechers.com/microspec-velocity/304206L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/microspec-velocity/304206L_PRMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/microspec-velocity/404125L.html": {
@@ -11580,7 +11912,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:59+00:00",
+   "lastmod": "2026-10-20T13:06:36+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/on-the-court-tank/TT168_PRBL.html",
     "description": "Free Shipping with our free loyalty program. Top off your best workout looks with Skechers On The Court Tank. This double-layered racerback tank is made from our stretchy, moisture-wicking GO SCULPT&#153; fabric and features a built-in shelf bra with removable Air-Cooled Memory Foam&reg; cup and a h",
@@ -11818,6 +12150,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/on-the-road-flat-brim-hat/SKCH7001_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/open-back-1": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": "2026-01-07T17:45:46+00:00"
@@ -11872,14 +12208,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:01:28+00:00",
+   "lastmod": "2026-10-20T13:07:08+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/pacer-run-hat/ZCM6_WLPR.html",
     "description": "Free Shipping with our free loyalty program. Go the distance in style with Skechers Pacer Run Hat. This performance runner's hat is made from a moisture-wicking fabric and features color-blocked paneling with side air vents, an adjustable buckled back strap, and the SKX&reg; logo in front.",
     "h1": "Pacer Run Hat",
     "title": "Pacer Run Hat"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "9adc80d2f910"
   },
   "https://www.skechers.com/paloma---fierce-formation/185294.html": {
@@ -12120,14 +12456,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:34+00:00",
+   "lastmod": "2026-10-20T13:05:22+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/premier-deuce-jacket/JA342_NVY.html",
     "description": "Free Shipping with our free loyalty program. Enjoy lightweight performance comfort wearing Skechers Performance&#153; Premier Deuce Jacket. This mock neck design is made from our 4-way stretch SKECHWEAVE&#153; fabric and features zipped hand pockets and an interior chest pocket with branded rivet.",
     "h1": "Premier Deuce Jacket",
     "title": "Premier Deuce Jacket"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "7847c535c123"
   },
   "https://www.skechers.com/premier-deuce-jacket/JA342_NVY.html": {
@@ -12246,6 +12582,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/quilted-tote-bag/SKCHD860.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/quilted-tote-bag/SKCHD860_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/racer-baseball-hat/ZBB82.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -12311,14 +12655,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/reggae---sunset-comfort/163623_TPMT.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/reggae---sunset-hike/163139.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/reggae---sunset-hike/163139_CHMT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -12506,6 +12842,10 @@
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
+  "https://www.skechers.com/relaxed-fit-bobs-cozy-chill---winter-woof/114504_GYMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/relaxed-fit-bobs-keepsakes-lite---b-bright/114668.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -12668,7 +13008,7 @@
   },
   "https://www.skechers.com/relaxed-fit-easy-going---cozy-inn/168049.html": {
    "first_seen": "2026-10-17T05:16:42Z",
-   "lastmod": "2026-10-19T12:39:46+00:00"
+   "lastmod": "2026-10-20T12:43:46+00:00"
   },
   "https://www.skechers.com/relaxed-fit-easy-going---easy-breeze/100863.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -12794,12 +13134,12 @@
    "first_seen": "2026-10-18T05:16:49Z",
    "lastmod": null
   },
-  "https://www.skechers.com/relaxed-fit-lockett---heath/205332_BLK.html": {
-   "first_seen": "2026-10-18T05:16:49Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/relaxed-fit-lovely-vibe---forever-mine/159637.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/relaxed-fit-lovely-vibe---moonlight/158953.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/relaxed-fit-max-cushioning-zirrus---cobble-stone/180418.html": {
@@ -12908,6 +13248,10 @@
   },
   "https://www.skechers.com/relaxed-fit-renten---ulrich/205605.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/relaxed-fit-renten---ulrich/205605_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/relaxed-fit-renten---ulrich/205605_TAN.html": {
@@ -13122,6 +13466,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/reverse-close-compact-umbrella/ZUMB002_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/rimless-butterfly-sunglasses/ZE00121.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -13196,7 +13544,7 @@
   },
   "https://www.skechers.com/round-rhinestone-sunglasses/ZE9093.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:01:32+00:00"
+   "lastmod": "2026-10-20T13:07:11+00:00"
   },
   "https://www.skechers.com/round-shiny-sunglasses/ZE00291.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -13306,6 +13654,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/s-lights-enchanted-heart-lights/303266L_LVMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/s-lights-enchanted-heart-lights/303266N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -13364,6 +13716,10 @@
   },
   "https://www.skechers.com/s-lights-flex-glow-ultra---prism-pacer/400141N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-flex-glow-ultra---prism-pacer/400141N_BBLM.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/s-lights-glide-step-lights/303730L.html": {
@@ -13442,8 +13798,16 @@
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
   },
+  "https://www.skechers.com/s-lights-lil-storm-scene/407632N_SLBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/s-lights-mermaid-dreams/303060L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-mermaid-dreams/303060L_BLMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/s-lights-meteor-lights-2.0/401490L.html": {
@@ -13470,6 +13834,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/s-lights-princess-steps/303732L_LTBL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/s-lights-skech-o-saurus-lights-2.0---arctic-dino/400122L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -13484,6 +13852,10 @@
   },
   "https://www.skechers.com/s-lights-sola-glow---color-breeze/303713N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-sola-glow---color-breeze/303713N_LVMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/s-lights-sola-glow-2.0---dazzle-steps/303729L.html": {
@@ -13522,6 +13894,14 @@
    "first_seen": "2026-10-07T05:08:09Z",
    "lastmod": null
   },
+  "https://www.skechers.com/s-lights-unicorn-chaser/302298L.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-unicorn-chaser/302298L_LVMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/s-lights-unicorn-magic/304551L.html": {
    "first_seen": "2026-10-10T05:07:09Z",
    "lastmod": null
@@ -13534,6 +13914,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/s-lights-vortex-3.0/400590L_BKLM.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/s-lights-vortex-3.0/400590WL_BBOR.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -13544,6 +13928,10 @@
   },
   "https://www.skechers.com/s-lights-waterproof-storm-blazer---snuggle-splash/303486L.html": {
    "first_seen": "2026-09-26T05:05:40Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/s-lights-waterproof-storm-blazer---snuggle-splash/303486L_BKMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/s-lights-wave-92-lights/303771L.html": {
@@ -13904,7 +14292,7 @@
   },
   "https://www.skechers.com/single-loop-backpack/SKCHD483.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:00:28+00:00"
+   "lastmod": "2026-10-20T13:06:10+00:00"
   },
   "https://www.skechers.com/single-loop-backpack/SKCHD483_LGTQ.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -13916,6 +14304,10 @@
   },
   "https://www.skechers.com/size-7-basketball/SKCH9463.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/size-7-basketball/SKCH9463_ORG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skech-air-envoy---buyers-peak/237211.html": {
@@ -14010,12 +14402,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skech-o-saurus-lights-3.0/400175L_BKLM.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skech-sherpa-jacket/JA218.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skech-shine-diamond-patch-hat/ZBB71.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skech-shine-diamond-patch-hat/ZBB71_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skech-shine-diamond-patch-hat/ZBB71_WNVB.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skech-shine-foil-baseball-hat/SKBB5034.html": {
@@ -14178,8 +14582,16 @@
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-aero-elite/172270_WMLT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-aero-elite/246270.html": {
    "first_seen": "2026-10-02T05:06:40Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-aero-elite/246270_WMLT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-aero-razor/172240.html": {
@@ -14202,6 +14614,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-aero-razor/172240_YEL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-aero-razor/246240.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -14210,12 +14626,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-aero-razor/246240_YEL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-aero-spark---kinetic-sprint/404351L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-aero-spark---kinetic-surge/404350L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-aero-spark---kinetic-surge/404350L_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-aero-spark---speedwave/304202L.html": {
@@ -14278,8 +14702,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-aero-spark/304203L_LVMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-aero-tempo/172091.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-aero-tempo/172091_WMLT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-allegiance-tee/TS338.html": {
@@ -14370,46 +14802,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-7-short/SH168.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-7-short/SH168_BKCC.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-7-short/SH168_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-7-short/SH168_DEN.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-7-short/SH168_PRTL.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-crew/LT251.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-crew/LT251_BKCC.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-crew/LT251_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-crew/LT251_CCNV.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-cozy-luxe-elevate-crew/LT251_WPW.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-cozy-luxe-elevate-jogger/PT272.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -14460,18 +14852,22 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:06+00:00",
+   "lastmod": "2026-10-20T13:05:52+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/skechers-fleece-jogger/PT369_OFWT.html",
     "description": "Free Shipping with our free loyalty program. Get up and moving in athletic comfort wearing Skechers Fleece Jogger. Made from our breathable SKECH-SWEATS&#153; Fleece fabric and features a mid-rise elastic waistband and hem.",
     "h1": "Skechers Fleece Jogger",
     "title": "Skechers Fleece Jogger"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "44fd0dbc7874"
   },
   "https://www.skechers.com/skechers-free-run-baseball-hat/ZBB154.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-free-run-baseball-hat/ZBB154_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-free-run-trucker-hat/ZTK61.html": {
@@ -14500,6 +14896,14 @@
   },
   "https://www.skechers.com/skechers-garage/402150L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-garage/402150L_BBOR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-garage/402150L_SLBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-go-consistent---watershed/229033.html": {
@@ -14602,10 +15006,6 @@
    "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "ad3a887485cf"
   },
-  "https://www.skechers.com/skechers-gowalk-lite---isla/15433.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-gowalk-max---effort/54601.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -14620,6 +15020,10 @@
   },
   "https://www.skechers.com/skechers-kicks-baseball-hat/ZBB62.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-kicks-baseball-hat/ZBB62_BKCC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-kicks-baseball-hat/ZBB62_BLK.html": {
@@ -14720,7 +15124,7 @@
   },
   "https://www.skechers.com/skechers-razor-2-academy-fg/252167.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T12:51:43+00:00"
+   "lastmod": "2026-10-20T12:58:18+00:00"
   },
   "https://www.skechers.com/skechers-razor-2-academy-tf/252170.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -14752,10 +15156,6 @@
   },
   "https://www.skechers.com/skechers-razor-2-jr-youth-ic/252180L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-razor-2-jr-youth-mg/252171L.html": {
-   "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-refresh-deodorizer-spray/ZK82054.html": {
@@ -14934,8 +15334,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-aero-burst---glow-in-the-dark/172216_BKGR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-aero-burst---glow-in-the-dark/246216.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-aero-burst---glow-in-the-dark/246216_BKGR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-aero-burst/172215.html": {
@@ -14956,6 +15364,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-aero-burst/172215_TQLM.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-aero-burst/172215_WHT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-aero-burst/246215.html": {
@@ -15006,6 +15418,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-aero-pulse/172220_NVAQ.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-aero-pulse/172220_WCLV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-aero-pulse/172220_WROS.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -15026,6 +15446,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-aero-pulse/246220_NAT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-aero-pulse/246220_NVY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -15038,12 +15462,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-aero-spark---glow-in-the-dark/172206_WGR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-aero-spark---glow-in-the-dark/246206.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-aero-spark---glow-in-the-dark/246206_WGR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-aero-spark/172205.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-aero-spark/172205_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-aero-spark/172205_BKSL.html": {
@@ -15056,6 +15492,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-aero-spark/172205_PRAQ.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-aero-spark/172205_RSGD.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-aero-spark/172205_SFM.html": {
@@ -15130,10 +15570,6 @@
    "first_seen": "2026-10-08T05:08:28Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-after-burn-m.-fit---ridgeburn/237563WW_PBL.html": {
-   "first_seen": "2026-10-18T05:16:49Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-after-burn-m.-fit---ridgeburn/237563_BKCC.html": {
    "first_seen": "2026-10-18T05:16:49Z",
    "lastmod": null
@@ -15160,6 +15596,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-alto---rangeley/180308.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-alto---rangeley/180308W_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-alto---rangeley/180308_BBK.html": {
@@ -15282,6 +15722,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-charming-daze/183227W_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-charming-daze/183227_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -15322,8 +15766,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-cuddle-steps/177209_OLV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-cuddle-steps/177209_ROS.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-cuddle-steps/177209_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-cuddle-steps/177209_WINE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-arcade---cozy-fit-shining-steps/190215.html": {
@@ -15382,24 +15838,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---komfortabel/183402.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---komfortabel/183402_BBK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---komfortabel/183402_NVY.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---single-vented/183403.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---single-vented/183403_BLK.html": {
    "first_seen": "2026-10-19T05:23:12Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---single-vented/183403_COG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-court-break---single-vented/183403_WNV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-darlo---perkins/205651.html": {
@@ -15484,6 +15936,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-enzo---brink/205849.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-enzo---brink/205849_COC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-garza---umar/205518.html": {
@@ -15654,8 +16110,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-superior---mantis/205917_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-superior---mantis/205917_CHAR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-superior---talbert/205490.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-arch-fit-superior---talbert/205490_CHAR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-arch-fit-virtue---kind/104950.html": {
@@ -15714,6 +16182,18 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bobs-arch-comfort-sunfest/114246_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-arch-comfort-sunfest/114246_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-arch-comfort-sunfest/114246_TAN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bobs-chill-lugs---sailing-ease/114905.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -15722,8 +16202,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bobs-keepsakes-lite---sleek-n-chic/114482_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bobs-keepsakes-lite---winter-snug/114895.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-keepsakes-lite---winter-snug/114895_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-skillz---too-essential/117756.html": {
@@ -15756,6 +16244,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-skip-cloud---luna-light/114915.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-skip-cloud---luna-light/114915_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-skip-cloud---pearl-steps/114914.html": {
@@ -15894,6 +16386,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bobs-sport-b-flex---luminous-vibez/117794_WMLT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-b-flex---smooth-edge/118116.html": {
    "first_seen": "2026-10-17T05:16:42Z",
    "lastmod": null
@@ -16010,8 +16506,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117497W_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117497W_BKGD.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117497W_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117497_BBK.html": {
@@ -16028,6 +16532,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117504.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117504W_BLSH.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-sport-squad-chaos/117504W_LAV.html": {
@@ -16048,6 +16556,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-starlight--%C2%A0getaway-breeze/114909.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bobs-starlight--%C2%A0getaway-breeze/114909_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bobs-starlight--%C2%A0getaway-breeze/114909_LPD.html": {
@@ -16110,8 +16622,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bounder-pro/303690L_LTPK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bounder-pro/303690L_MNT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bounder-pro/303690L_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208L.html": {
@@ -16122,12 +16642,28 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208L_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208L_CHAR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208L_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208N_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-bounder-pro/404208N_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-breathe-easy---knitty-waves/100762.html": {
@@ -16234,8 +16770,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-golden-hour/150413W_BKRG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-golden-hour/150413_BKRG.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-golden-hour/150413_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-heartclub/304113L.html": {
@@ -16294,6 +16838,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-natural-ease/150507_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-natural-ease/150507_OLV.html": {
    "first_seen": "2026-10-09T05:08:23Z",
    "lastmod": null
@@ -16304,6 +16852,18 @@
   },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-nordain/232620_BBK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-nordain/232620_BRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-nordain/232620_GRY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-nordain/232620_WNV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-ohtro/233294.html": {
@@ -16320,6 +16880,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-rainbow-active/304106L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-rainbow-active/304106L_LBMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-contour-foam---cozy-fit-soft-embrace/150849.html": {
@@ -16450,6 +17014,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-contour-foam/150404_NTTP.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-contour-foam/150404_SAGE.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -16480,6 +17048,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-cozy-escape---frost-puff/167925.html": {
    "first_seen": "2026-09-26T05:05:40Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-cozy-escape---frost-puff/167925_OLV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-cozy-escape---snowpuff/168113.html": {
@@ -16646,6 +17218,10 @@
    "first_seen": "2026-10-10T05:07:09Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-garza--%C2%A0wyatt/205887_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-garza---gervin/205046.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -16698,8 +17274,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-at-ease/104556_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-at-ease/104556_BKNT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-at-ease/104556_BURG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-at-ease/104556_CSNT.html": {
@@ -16708,6 +17292,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-at-ease/104556_SLT.html": {
    "first_seen": "2026-10-15T05:19:12Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-at-ease/104556_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step---cozy-fit-sanctuary/104821.html": {
@@ -16798,6 +17386,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-glide-step---vista-lane/303654L_GYPK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-glide-step---vista-lane/303654L_NVPW.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -16870,6 +17462,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-altus---korvus/233026_TPMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-glide-step-altus---revose/233028.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -16918,8 +17514,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-comfort---steady-grace/159547_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-glide-step-comfort---steady-grace/159547_DKNV.html": {
    "first_seen": "2026-10-19T05:23:12Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-comfort---steady-grace/159547_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-comfort---steady-grace/159547_WHT.html": {
@@ -16958,6 +17562,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-plus---vista-lane/404203L_BLNV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-plus---vista-lane/404203L_NVBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-glide-step-pro---midnight-gleam/150488.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -16976,6 +17588,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-pro/150420.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-pro/150420_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-pro/150420_WHT.html": {
@@ -17010,6 +17626,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-serene--%C2%A0anne/139165_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-glide-step-serene--%C2%A0anne/139165_NVY.html": {
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
@@ -17028,6 +17648,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-serene---cozy-fit-nala/139034.html": {
    "first_seen": "2026-10-19T05:23:12Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-serene---cozy-fit-nala/139034_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-serene---cozy-fit-nala/139034_TAN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-serene---cozy-fit-newport/139005.html": {
@@ -17068,6 +17696,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-sole---glover-peak/237812_BKCC.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-glide-step-sole---glover-peak/237812_NTBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-glide-step-sole---glover-peak/237812_NVY.html": {
@@ -17238,6 +17870,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-run-consistent-3/129050_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-go-run-consistent-3/129050_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-run-consistent-3/221260.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -17326,6 +17966,10 @@
    "first_seen": "2026-10-11T05:07:15Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-8---vivian/125948_MVE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-8/216797.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -17350,6 +17994,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-arch-fit-2.0--%C2%A0percy/216812_NVGY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-arch-fit-2.0---cecilia/125350.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -17358,8 +18006,12 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-arch-fit-2.0---percy/216812_NVGY.html": {
-   "first_seen": "2026-10-08T05:08:28Z",
+  "https://www.skechers.com/skechers-slip-ins-go-walk-arch-fit-2.0---kathy/125342_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-arch-fit-2.0---kathy/125342_NVW.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-arch-fit-2.0-sandal---francesca/140843.html": {
@@ -17594,10 +18246,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-flex-sandal---illuminate/141481W_BBK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-flex-sandal---radiant/141593.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -17607,10 +18255,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-flex-sandal---romi/141590_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-flex-sandal---romi/141590_TPMT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -17634,8 +18278,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---cozy-fit-walker/125156_OFWT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---cozy-fit-walker/217035.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---cozy-fit-walker/217035_BRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---cozy-fit-walker/217035_GRY.html": {
@@ -17672,6 +18324,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---maria/125144.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---maria/125144_BKBL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-glide-step-2.0---maria/125144_BLPK.html": {
@@ -17814,6 +18470,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-joy---cozy-fit-cozy-easy/125738_NTTP.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-joy---cozy-fit-dream/125742.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -17856,6 +18516,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-max-cushioning-arch-fit---aria/125593.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-go-walk-max-cushioning-arch-fit---aria/125593_LTMV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-go-walk-max-cushioning-arch-fit---camilla/125586.html": {
@@ -17966,14 +18630,6 @@
    "first_seen": "2026-09-26T05:05:40Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-uptown-pant/PT116.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-go-walk-uptown-pant/PT116_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-go-walk-workout-walker/126150.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18058,12 +18714,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-hotshot---cozy-fit-grand-glow/185254_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-hotshot---cozy-fit-relaxed-elegance/185407.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-hotshot---cozy-fit-soft-luxe/185329.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-hotshot---cozy-fit-soft-luxe/185329_NTBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-hotshot---cozy-fit-soft-luxe/185329_RED.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-hotshot---daily-diamonds/185328.html": {
@@ -18138,12 +18806,32 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-infinite-heart-lights----sparkle-heart/303735L_BKMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-infinite-heart-lights----sparkle-heart/303735L_LPMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-infinite-heart-lights----sparkle-heart/303735N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-infinite-heart-lights----sparkle-heart/303735N_BKMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-infinite-heart-lights----sparkle-heart/303735N_LPMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-jade---radiant-reflections/185368.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-jade---radiant-reflections/185368_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-jgoldcrown-contour-foam---cozy-fit-love-notes/304117L.html": {
@@ -18190,6 +18878,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-john-deere-relaxed-fit-equalizer-5.0-trail---harvest/256009_GRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-john-deere-relaxed-fit-equalizer-5.0-trail---harvester/256164.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18224,6 +18916,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-john-deere-waterproof-badger---all-terrain/256217.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-john-deere-waterproof-badger---all-terrain/256217_OLV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-john-deere-waterproof-bionic-trail---hendy/256152.html": {
@@ -18278,6 +18974,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-john-deere-waterproof-relaxed-fit-respected---langdon/256133_DKBR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-john-deere-waterproof-relaxed-fit-respected---langdon/256133_OLBR.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18310,6 +19010,10 @@
    "first_seen": "2026-10-03T05:06:03Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-karmas---bronson-canyon/180405_BKCC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-keepsakes-cozy---cozy-mid/169181.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18326,6 +19030,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-keepsakes-cozy---cozy-mini/167848_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-keepsakes-cozy---cozy-mini/167848_CSNT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18340,6 +19048,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-keepsakes-cozy---street-hiker-ez/190196_BBK.html": {
    "first_seen": "2026-10-19T05:23:12Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-keepsakes-cozy---street-hiker-ez/190196_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-keepsakes-cozy---street-hiker-ez/190196_SND.html": {
@@ -18418,6 +19130,14 @@
    "first_seen": "2026-09-28T05:06:28Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-mark-nason-street-jogger---auria/191966_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-mark-nason-street-jogger---auria/191966_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-mark-nason-street-jogger---skippa/191958.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -18432,6 +19152,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-mark-nason-street-jogger---vero/191967.html": {
    "first_seen": "2026-09-28T05:06:28Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-mark-nason-street-jogger---vero/191967_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-mark-nason-street-wave---talvie/191960.html": {
@@ -18452,6 +19176,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-mark-nason-the-triple-wedge--%C2%A0milee/177633.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-mark-nason-the-triple-wedge--%C2%A0milee/177633_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-mark-nason-the-triple-wedge--%C2%A0milee/177633_TPE.html": {
@@ -18502,8 +19230,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-martha-stewart-arch-fit-glide-step-pro---gentle-bliss/188056_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-martha-stewart-arch-fit-glide-step-pro---trendsetter/188055.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-martha-stewart-arch-fit-glide-step-pro---trendsetter/188055_BKW.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-martha-stewart-arch-fit-summits---soft-shimmer/150641.html": {
@@ -18572,6 +19308,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-martha-stewart-relaxed-fit-easy-going---cozy-estate/188009.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-martha-stewart-relaxed-fit-easy-going---cozy-estate/188009_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-martha-stewart-relaxed-fit-easy-going---cozy-estate/188009_OFWT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-martha-stewart-relaxed-fit-easy-going---majestic/188017.html": {
@@ -18950,12 +19694,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-microspec-max-velocity---jump-pop/304058L_BKMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-microspec-splash---hydro-ease/407011L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-microspec-velocity---grid-shift/404220L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-microspec-velocity---grid-shift/404220L_BKSL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-microspec-velocity---grid-shift/404220L_CCOR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-microspec-velocity---grid-shift/404220N.html": {
@@ -19010,6 +19766,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-encore---cozy-fit-maisie/144844_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-encore---cozy-fit-maisie/144844_DBRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-encore---elle/175292.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19024,6 +19788,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-encore---phoebe/144833.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-encore---phoebe/144833_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex---palmilla/136536.html": {
@@ -19102,6 +19870,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant--%C2%A0mary-ann/138744_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant--%C2%A0mary-ann/138744_CHOC.html": {
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
@@ -19112,6 +19884,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant--%C2%A0sloane/138435.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant--%C2%A0sloane/138435_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant--%C2%A0sloane/138435_DKTP.html": {
@@ -19174,12 +19950,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant---mallory/138416_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant---oceana/138514.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant---sandy/138410.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant---sandy/138410_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant---sandy/138410_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-on-the-go-flex-radiant---super-star/138412.html": {
@@ -19238,6 +20026,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-play-scene---glitter-dreams/303183N_LBMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-play-scene---power-scouts/407625N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19274,8 +20066,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-raven---ernest/205992_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-raven---ernest/205992_COG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-raven---octavius/205993.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-raven---octavius/205993_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-raven---octavius/205993_BRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-recoil---laykes/254205.html": {
@@ -19291,10 +20099,6 @@
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-recoil/254204.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-recoil/254204_BKBR.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
@@ -19330,6 +20134,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit%C2%A0flex---zayder/233218_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit%C2%A0flex---zayder/233218_SLT.html": {
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
@@ -19356,6 +20164,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-crosser---cozy-fit-wesley/211518.html": {
    "first_seen": "2026-10-04T10:58:27Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-crosser---cozy-fit-wesley/211518_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-crosser---emeric/205340.html": {
@@ -19390,6 +20202,18 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza--%C2%A0ridley/205514.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza--%C2%A0ridley/205514_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza--%C2%A0ridley/205514_COC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza---chapman/205515.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19406,18 +20230,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza---ridley/205514.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza---ridley/205514_BBK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza---ridley/205514_COC.html": {
-   "first_seen": "2026-10-01T05:07:14Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza---thaddeus/205513.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19430,12 +20242,24 @@
    "first_seen": "2026-10-11T05:07:15Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-garza---umar/205518_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-maverick---redford/205796.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-mc-dlux---dream-of-me/159566.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-mc-dlux---dream-of-me/159566_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-mc-dlux---dream-of-me/159566_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-orvan---cozy-fit-dante/211514.html": {
@@ -19506,8 +20330,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-uno---relaxing-on-air/183443_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-uno---relaxing-on-air/183443_CHOC.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-uno---relaxing-on-air/183443_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-uno---relaxing-on-air/190177.html": {
@@ -19526,12 +20358,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-arch-fit-uno---relaxing-on-air/190177_WHT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-bikers-lite---quiet-flair/159385.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-breathe-easy---authentic-charm/159506.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-breathe-easy---authentic-charm/159506_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-breathe-easy---authentic-charm/159506_DKTP.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-breathe-easy---eter-knity/159505.html": {
@@ -19548,6 +20392,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-caswell---frantone/205169WW_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-caswell---frantone/205169_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-chillmax---day-dreamin/190346.html": {
@@ -19574,6 +20422,18 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-contour-foam-boot--%C2%A0cozy-fit-dash/168173_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-contour-foam-boot--%C2%A0cozy-fit-dash/168173_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-contour-foam-boot--%C2%A0cozy-fit-dash/168173_DKTP.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-contour-foam-boot---cozy-fit-drift/168157.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19588,6 +20448,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-cozy-chateau---cozy-mini-blossom/168244.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-cozy-chateau---cozy-mini-blossom/168244_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-cozy-chateau---cozy-mini-blossom/168244_SAND.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-cozy-chateau---cozy-mini-darling/168314.html": {
@@ -19674,6 +20542,10 @@
    "first_seen": "2026-10-03T05:06:03Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-easy-going---gentle-winter/168185_MUSH.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-easy-going---modern-hour-2/169167.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19738,6 +20610,10 @@
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-flex/150892_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-garza-ultra---tyrell/205867.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19794,6 +20670,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-go-walk-arch-fit-n-joy---elevate/144321_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-go-walk-arch-fit-n-joy---elevate/144321_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-go-walk-arch-fit-n-joy---nobend/217075.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -19816,6 +20700,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-lovely-vibe---easily-loved/159474.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-lovely-vibe---easily-loved/159474_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-max-cushioning-zirrus/237815.html": {
@@ -19880,6 +20768,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-murette---scofield/205606.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-murette---scofield/205606_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-norlan---alonso/211207.html": {
@@ -19954,12 +20846,24 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-pollard---waylon/205333_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-pollard---waylon/205333_RDBR.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-quintero---damien/205903.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-quintero---damien/205903_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-quintero---damien/205903_DKBR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-respected-2.0---hagler/205381.html": {
@@ -20008,6 +20912,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-slade-2.0---waybound/211392.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-slade-2.0---waybound/211392_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-slade-2.0---waybound/211392_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-slade-ultra--%C2%A0gage/211446.html": {
@@ -20066,6 +20978,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-sloan---remming/211324_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-sloan---remming/211324_GRY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -20080,6 +20996,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-sterling---ramone/211196.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-sterling---ramone/211196WW_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-sterling---ramone/211196WW_TPE.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-sterling---ramone/211196_BLK.html": {
@@ -20130,6 +21054,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-troutt---davey/205599_GRY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-troutt---davey/205599_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-troutt---ellington/206007.html": {
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
@@ -20140,10 +21072,6 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-troutt---rustic/205845_NVY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-ultra-flex-4.0-boot---cozy-chic/168229.html": {
-   "first_seen": "2026-10-11T05:07:15Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-urban-explore---cozy-fit-willow-trail/237916.html": {
@@ -20238,6 +21166,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-viper-court-reload/172101_WPKL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-viper-court-reload/246101.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -20256,6 +21188,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-relaxed-fit-waterproof-on-the-go-stellar---irene/144737.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-relaxed-fit-waterproof-on-the-go-stellar---irene/144737_BRTN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-respected---garville/205201.html": {
@@ -20406,6 +21342,14 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-s-lights-thermo-flash-2.0---heat-brisk/403898L_BKBL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-s-lights-thermo-flash-2.0---heat-brisk/403898L_BKRD.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-sk-flex---grewve/254331.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -20530,6 +21474,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-summits--%C2%A0top-rate/233045W_NVYL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-summits--%C2%A0top-rate/233045W_TPBK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -20634,8 +21582,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-summits---high-range/403833L_CHAR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-summits---high-range/403833L_NVOR.html": {
    "first_seen": "2026-10-04T10:58:27Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-summits---high-range/403833WL_BKCC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-summits---key-pace/232469.html": {
@@ -20810,12 +21766,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-ultra-flex-3.0-sandal---forever-better/164085_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-ultra-flex-3.0-sandal---forever-better/164085_MOC.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0---pure-dream/150802.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0---pure-dream/150802_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0---pure-dream/150802_LAV.html": {
@@ -20842,8 +21806,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0-boot---cozy-chic/168229.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801W_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801_NAT.html": {
@@ -20856,6 +21832,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801_RED.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-ultra-flex-4.0/150801_WHT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-uno---feeling-formal/177845.html": {
@@ -20970,6 +21950,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-urban-explore---cozy-fit/406347L_OLV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-vigor-all-terrain---muted-blend/237993.html": {
    "first_seen": "2026-10-07T05:08:09Z",
    "lastmod": null
@@ -20980,6 +21964,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-vigor-at/237744W_BBK.html": {
    "first_seen": "2026-09-27T05:05:38Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-vigor-at/237744W_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-vigor-at/237744W_TPBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-vigor-at/237744_BBK.html": {
@@ -20998,8 +21990,16 @@
    "first_seen": "2026-10-11T05:07:15Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-virtue--%C2%A0ester/104744_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-virtue---classic/104831.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-virtue---classic/104831_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-virtue---cozy-fit-settle-in/104829.html": {
@@ -21032,6 +22032,14 @@
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-contour-foam---cozy-fit-misty-veil/150938.html": {
    "first_seen": "2026-10-02T05:06:40Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-contour-foam---cozy-fit-misty-veil/150938_BRN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-contour-foam---cozy-fit-misty-veil/150938_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-flow-si---twist-fit/123149.html": {
@@ -21078,6 +22086,22 @@
    "first_seen": "2026-10-08T05:08:28Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-flow-si/123153_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-flow-si/123153_LGPK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-flow-si/123153_WLBY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-flow-si/123153_WNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-waterproof-flow-si/214153.html": {
    "first_seen": "2026-10-08T05:08:28Z",
    "lastmod": null
@@ -21102,8 +22126,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step---cozy-fit%C2%A0cascada/104820_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step---cozy-fit%C2%A0cascada/104820_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step---sorran/233014.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step---sorran/233014_BKCC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step-pro---chaching/233135.html": {
@@ -21112,6 +22148,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step-pro---chaching/233135_BKTP.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step-pro---chaching/233135_NVGY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-glide-step-pro---chaching/233135_TPMT.html": {
@@ -21124,6 +22164,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-go-golf-prestige-sl/123126_NVRD.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-go-golf-prestige-sl/123126_WPK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-go-golf-prestige-sl/214126.html": {
@@ -21178,8 +22222,24 @@
    "first_seen": "2026-09-26T05:05:40Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-go-walk-glide-step-2.0-boot---cozy-fit-ascension/144883_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-go-walk-glide-step-2.0-boot---cozy-fit-ascension/144883_PLUM.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-waterproof-max-cushioning-elite-3---aqua-edge/129730.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-max-cushioning-elite-3---aqua-edge/129730_CHAR.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-max-cushioning-elite-3---aqua-edge/129730_OFWT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-max-cushioning-premier-3---aqua-edge/221227.html": {
@@ -21188,6 +22248,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-on-the-go-stellar---iris/144736.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-on-the-go-stellar---iris/144736_BKGY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-pure-si/123147.html": {
@@ -21214,8 +22278,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-glide-step-randell---brecken/205639_CDB.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-glide-step-randell---brecken/205639_CMNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-meroe---pikeman/205285.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-meroe---pikeman/205285WW_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-meroe---pikeman/205285_BLK.html": {
@@ -21234,8 +22310,20 @@
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-on-the-go-stellar---madison/144734_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-on-the-go-stellar---madison/144734_CHOC.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-respected-2.0---orson/205652.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-respected-2.0---orson/205652WW_CDB.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-waterproof-relaxed-fit-respected-2.0---orson/205652WW_RDBR.html": {
@@ -21286,8 +22374,20 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-wave-92---sparkle-sprint/304053L_LPMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-wilshire-blvd---moonlit-love/159586.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-wilshire-blvd---moonlit-love/159586_BBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-wilshire-blvd---moonlit-love/159586_CSNT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-work-after-burn-m.-fit-2.0--%C2%A0brimrock/200450.html": {
@@ -21402,6 +22502,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-contour-foam---cozy-fit/108320_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-contour-foam---cozy-fit/200419.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -21450,6 +22554,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-glide-step-pro---edrura/108261_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-glide-step-pro---edrura/108261_GYOR.html": {
    "first_seen": "2026-10-19T05:23:12Z",
    "lastmod": null
@@ -21464,6 +22572,10 @@
   },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-glide-step-pro/200337.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-glide-step-pro/200337_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-max-cushioning-elite---riclan/108246.html": {
@@ -21528,7 +22640,7 @@
   },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-summits---colsin/200205.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T12:43:16+00:00"
+   "lastmod": "2026-10-20T12:48:24+00:00"
   },
   "https://www.skechers.com/skechers-slip-ins-work-slip-resistant-summits---colsin/200205W_BBK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -21612,7 +22724,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:52+00:00",
+   "lastmod": "2026-10-20T13:06:31+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/skechers-vapor-tee/TS315_NVY.html",
     "description": "Free Shipping with our free loyalty program. Run in streamlined comfort and safety wearing Skechers GO RUN&reg; Vapor Tee. This crewneck running tee is made from our quick-drying GO DRI VAPOR&#153; fabric and features flatlock seams for frictionless wear, twin reflective details at the back, and a S",
@@ -21650,6 +22762,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skechers-viper-court-pro-2.0---pickleball/246109_RDBK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skechers-viper-court-pro-2.0---pickleball/246109_WBK.html": {
    "first_seen": "2026-10-16T05:19:32Z",
    "lastmod": null
@@ -21660,6 +22776,14 @@
   },
   "https://www.skechers.com/skechers-viper-court-pro-2.0---pickleball/246109_WHT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-viper-court-pro-2.0---pickleball/246109_WTQ.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-viper-court-pro-2.0/172109_BKLV.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-viper-court-pro-2.0/172109_BKW.html": {
@@ -21680,6 +22804,10 @@
   },
   "https://www.skechers.com/skechers-viper-court-pro-2.0/172109_LMLV.html": {
    "first_seen": "2026-10-08T05:08:28Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skechers-viper-court-pro-2.0/172109_WBLP.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skechers-viper-court-pro-2.0/172109_WMLT.html": {
@@ -21716,14 +22844,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:46+00:00",
+   "lastmod": "2026-10-20T13:05:35+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/skechluxe-elevate-performance-crew/LT223_BLMV.html",
     "description": "Free Shipping with our free loyalty program. Bring some cozy comfort to your workout routine wearing Skechers SKECHLUXE Elevate&#153; Performance Crew. This super soft sweatshirt is made from our premium SKECHLUXE Elevate&#153; fabric and features a ribbed neckband, raglan sleeve seams, and Skechers",
     "h1": "SKECHLUXE Elevate Performance Crew",
     "title": "SKECHLUXE Elevate Performance Crew"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "f5a392d1bcc3"
   },
   "https://www.skechers.com/skechluxe-elevate-short/SH119.html": {
@@ -21740,14 +22868,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:23+00:00",
+   "lastmod": "2026-10-20T13:05:12+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/skechtech-fleece-pace-hoodie/HD159_NVY.html",
     "description": "Free Shipping with our free loyalty program. Add essential comfort to your daily rotation with Skechers SkechTech Fleece Pace Hoodie. This hooded pullover sweatshirt is made with our breathable SkechTech Fleece fabric and features a kangaroo pocket, self bottom hem and sleeve cuffs, plus a Skechers ",
     "h1": "SkechTech Fleece Pace Hoodie",
     "title": "SkechTech Fleece Pace Hoodie"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "34783fba4cf3"
   },
   "https://www.skechers.com/skechtech-rally-hoodie/HD123.html": {
@@ -21764,7 +22892,7 @@
   },
   "https://www.skechers.com/skechweave-diamond-colorblocked-hat/SKCH5003.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:00:24+00:00"
+   "lastmod": "2026-10-20T13:06:06+00:00"
   },
   "https://www.skechers.com/skechweave-diamond-colorblocked-hat/SKCH5003_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -21850,6 +22978,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/skx-heritage-baseball-hat/ZBB131_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/skx-heritage-baseball-hat/ZBB131_NTBR.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -21880,6 +23012,10 @@
   },
   "https://www.skechers.com/skx-je1/253030_PRMT.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/skx-je1/253030_RDBL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/skx-je1/253030_WSL.html": {
@@ -22240,7 +23376,7 @@
   },
   "https://www.skechers.com/square-soft-touch-sunglasses/ZE00279.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:01:30+00:00"
+   "lastmod": "2026-10-20T13:07:09+00:00"
   },
   "https://www.skechers.com/square-tortoise-lens-sunglasses/ZE00276.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -22486,6 +23622,10 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
+  "https://www.skechers.com/street-banner-baseball-hat/ZBB168_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/street-baseball-jersey/TP191.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -22564,14 +23704,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:38+00:00",
+   "lastmod": "2026-10-20T13:06:18+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/stride-performance-tee/TP162_SLPR.html",
     "description": "Free Shipping with our free loyalty program. Find your new work-out staple in Skechers Stride Performance Tee. This lightweight short sleeve tee is made from our moisture-wicking and quick-drying GO DRI STRIDE&#153; fabric and features a crew neck, raglan sleeves, and reflective detail at the should",
     "h1": "Stride Performance Tee",
     "title": "Stride Performance Tee"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "bb519b5463d5"
   },
   "https://www.skechers.com/stride-performance-tee/TP162_BLK.html": {
@@ -23144,14 +24284,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:00:16+00:00",
+   "lastmod": "2026-10-20T13:06:00+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/tempo-4-inch-run-short/SH202_BLK.html",
     "description": "Free Shipping with our free loyalty program. Go the distance in stylish performance wearing Skechers Performance&#153; Tempo 4 Inch Run Short. This pair of performance running shorts features our quick-drying, active 4-way SKECHWEAVE&#153; fabric with an adjustable interior drawcord and a built-in l",
     "h1": "Tempo 4 Inch Run Short",
     "title": "Tempo 4 Inch Run Short"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "c38cb0b3687a"
   },
   "https://www.skechers.com/tempo-4-inch-run-short/SH202_BLK.html": {
@@ -23172,14 +24312,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:16+00:00",
+   "lastmod": "2026-10-20T13:05:07+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/tempo-bra/BR57_BLK.html",
     "description": "Free Shipping with our free loyalty program. Stay motivated in supportive comfort and sleek style wearing Skechers Tempo Bra. This racerback sports bra is made from our supportive GO SCULPT&#153; fabric and features contoured bra pads with adjustable branded straps and an adjustable hook & eye back ",
     "h1": "Tempo Bra",
     "title": "Tempo Bra"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "dec6fd13d792"
   },
   "https://www.skechers.com/tempo-bra/BR57_BLGD.html": {
@@ -23252,14 +24392,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T12:59:31+00:00",
+   "lastmod": "2026-10-20T13:05:20+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/the-hoodless-hoodie-ottoman-jacket/JA25_STOL.html",
     "description": "Free Shipping with our free loyalty program. Zip into soft and warm comfort with the Skechers Hoodless Hoodie&#153; Ottoman Jacket. This zip-up outerwear design features our SOFT-KNIT&#153; jersey rib with the perfect amount of stretch and front hand pockets.",
     "h1": "The Hoodless Hoodie Ottoman Jacket",
     "title": "The Hoodless Hoodie Ottoman Jacket"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "651bfab14350"
   },
   "https://www.skechers.com/the-hoodless-hoodie-ottoman-jacket/JA25_BKCC.html": {
@@ -23290,16 +24430,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/thermoflux-elite/403768WL_BKLM.html": {
-   "first_seen": "2026-10-19T05:23:12Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/thong-sandals": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": "2025-05-20T22:42:09+00:00"
   },
   "https://www.skechers.com/tidal-tech/404040L.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/tidal-tech/404040L_BLMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/tie-dye": {
@@ -23398,6 +24538,14 @@
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
+  "https://www.skechers.com/travel-umbrella/ZUA0876_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/travel-umbrella/ZUA0876_HPK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/travel-umbrella/ZUMB001.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -23482,10 +24630,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/twinkle-toes-twi-lites-2.0---dreamy-wings/314392L.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/twinkle-toes-twi-lites-2.0---dreamy-wings/314392N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -23508,6 +24652,10 @@
   },
   "https://www.skechers.com/twinkle-toes-twinkle-sparks---butterfly-sky/314470N_LVMT.html": {
    "first_seen": "2026-10-19T05:23:12Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/twinkle-toes-twinkle-sparks---butterfly-sky/314470N_PKMT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/twinkle-toes-twinkle-sparks---forever-bestie/314464L.html": {
@@ -23580,6 +24728,10 @@
   },
   "https://www.skechers.com/twinkle-toes-twinkle-star/314599L_BKRG.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/twinkle-toes-twinkle-star/314599L_WTRG.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/twinkle-toes-twinkle-star/314599N.html": {
@@ -23672,7 +24824,7 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:01:27+00:00",
+   "lastmod": "2026-10-20T13:07:07+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/university-baseball-hat/ZBB14_NVY.html",
     "description": "Free Shipping with our free loyalty program. Top off your look with clean collegiate style in the Skechers University Baseball Hat. This monochromatic baseball cap features a cotton body with stitching accents, a bold Skechers patch front, and an adjustable snap back closure.",
@@ -24050,6 +25202,10 @@
    "first_seen": "2026-10-03T05:06:03Z",
    "lastmod": null
   },
+  "https://www.skechers.com/uno-rugged---arctic-avenue/190285_OFWT.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
   "https://www.skechers.com/uno-rugged---ember/190288.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -24174,10 +25330,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/vigor-3.0---taestro/237143.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/vigor-3.0/237145.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -24280,7 +25432,7 @@
   },
   "https://www.skechers.com/washed-triple-s-hat/ZKCH3159.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T13:01:34+00:00"
+   "lastmod": "2026-10-20T13:07:14+00:00"
   },
   "https://www.skechers.com/waterproof-arch-fit-pond---misty-path/168326.html": {
    "first_seen": "2026-10-05T05:19:00Z",
@@ -24300,6 +25452,10 @@
   },
   "https://www.skechers.com/waterproof-bounder---explore-squad/406339N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/waterproof-bounder---explore-squad/406339N_BKOL.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/waterproof-bounder---venture-squad/406338N.html": {
@@ -24348,7 +25504,7 @@
   },
   "https://www.skechers.com/waterproof-go-golf-jasmine-2-gf/123099.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T12:32:02+00:00"
+   "lastmod": "2026-10-20T12:33:32+00:00"
   },
   "https://www.skechers.com/waterproof-go-golf-jasmine-2-gf/123099_BKPK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -24420,6 +25576,10 @@
   },
   "https://www.skechers.com/waterproof-max-cushioning-max-run---vorteza/129203.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/waterproof-max-cushioning-max-run---vorteza/129203_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/waterproof-max-protect-legacy---weekend-getaway/180203.html": {
@@ -24646,16 +25806,16 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/wave-92/303557L_HTPK.html": {
-   "first_seen": "2026-10-11T05:07:15Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/wave-92/303557L_LTGY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
   "https://www.skechers.com/wave-92/303557N.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/wave-92/303557N_NVY.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/weekend-7-inch-short/SH174.html": {
@@ -24708,6 +25868,10 @@
   },
   "https://www.skechers.com/wild-cat-baseball-hat/ZBB164.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/wild-cat-baseball-hat/ZBB164_NTTN.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/wilshire-blvd---be-my-muse/159411.html": {
@@ -24768,6 +25932,10 @@
   },
   "https://www.skechers.com/wilshire-blvd---summertime-inspo/164151_NVY.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/wilshire-blvd---zip-stride/159409.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/wishlist": {
@@ -25048,6 +26216,14 @@
   },
   "https://www.skechers.com/womens-baseball-hat/ZBB50.html": {
    "first_seen": "2026-09-25T11:29:53Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/womens-baseball-hat/ZBB50_BLK.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
+   "lastmod": null
+  },
+  "https://www.skechers.com/womens-baseball-hat/ZBB50_HPW.html": {
+   "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
   "https://www.skechers.com/womens-memory-foam": {
@@ -25464,7 +26640,7 @@
   },
   "https://www.skechers.com/work-slip-resistant-relaxed-fit-max-cushioning-elite/108016.html": {
    "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": "2026-10-19T12:28:46+00:00"
+   "lastmod": "2026-10-20T12:29:15+00:00"
   },
   "https://www.skechers.com/work-slip-resistant-relaxed-fit-max-cushioning-elite/108016W_BLK.html": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -25598,14 +26774,6 @@
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
   },
-  "https://www.skechers.com/work-workshire---sohlei/108292.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
-  "https://www.skechers.com/work-workshire---sohlei/108292_BLK.html": {
-   "first_seen": "2026-09-25T11:29:53Z",
-   "lastmod": null
-  },
   "https://www.skechers.com/workshire-2.0/200427.html": {
    "first_seen": "2026-09-25T11:29:53Z",
    "lastmod": null
@@ -25668,14 +26836,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-19T13:01:41+00:00",
+   "lastmod": "2026-10-20T13:07:21+00:00",
    "seo": {
     "canonical": "https://www.skechers.com/zoom-visor/ZVI7_WHT.html",
     "description": "Free Shipping with our free loyalty program. Keep your cool in signature style with Skechers Performance&#153; Zoom Visor. This monochromatic sports visor is made from our moisture-wicking SKECHWEAVE&#153; fabric and features an elasticized backstrap closure, a pre-curved bill, and a Skechers Perfor",
     "h1": "Zoom Visor",
     "title": "Zoom Visor"
    },
-   "seo_checked": "2026-10-20T05:19:59Z",
+   "seo_checked": "2026-10-21T05:20:43Z",
    "seo_hash": "043c698a38f9"
   }
  }
