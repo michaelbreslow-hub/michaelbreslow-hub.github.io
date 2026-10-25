@@ -7,6 +7,100 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Article Fleece",
+    "title": "Nike Article Fleece Women's Loose Mid-Rise Trousers. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/article-fleece-womens-loose-mid-rise-trousers-0zCeCBKg"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Tottenham Hotspur",
+    "title": "Tottenham Hotspur Men's Nike Synthetic-Fill Football Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/tottenham-hotspur-mens-nike-synthetic-fill-football-jacket-LE1iqbrr"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Tottenham Hotspur",
+    "title": "Tottenham Hotspur Nike Men's Swoosh Football T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/tottenham-hotspur-nike-mens-swoosh-football-t-shirt-LVp1Fbm0"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Tottenham Hotspur Tech Fleece",
+    "title": "Tottenham Hotspur Tech Fleece Men's Nike Windrunner Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/tottenham-hotspur-tech-fleece-mens-nike-windrunner-jacket-RowZY3RE"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Tottenham Hotspur Tech Fleece",
+    "title": "Tottenham Hotspur Tech Fleece Men's Nike Football Joggers. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/tottenham-hotspur-tech-fleece-mens-nike-football-joggers-bYIiHcAB"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Vomero Premium SP",
+    "title": "Nike Vomero Premium SP Men's Road-Running Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/vomero-premium-sp-mens-road-running-shoes-7peUJy4O"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/ja-3-by-you-custom-basketball-shoes-F7W08Qrk"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-25T09:31:37Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/pre-game-fleece-womens-loose-mid-rise-trousers-0zCeCBKg"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-10-24T05:18:00Z",
    "keywords": [
     "jordan"
@@ -15000,6 +15094,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 6,
+    "keyword_hits": 2,
+    "removed": 2
+   },
+   "date": "2026-10-25T09:31:37Z",
+   "status": "ok",
+   "total_urls": 11981
+  },
   {
    "counts": {
     "added": 21,

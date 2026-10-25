@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-24T05:18:00Z",
+  "last_run": "2026-10-25T09:31:37Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -5448,43 +5448,163 @@
   },
   "https://www.nike.com/il/a/best-soccer-shin-guards": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-soccer-shin-guards",
+    "description": "Football requires shinguards to protect the lower legs from impact. Check out the best and most comfortable football shinguards from Nike.",
+    "h1": "The Best Nike Football Shin Guards: Slip-In, Sleeve and All-in-One Styles, Compared",
+    "title": "The Best Football Shinguards From Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "847d260668ae"
   },
   "https://www.nike.com/il/a/best-socks-for-hiking": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-socks-for-hiking",
+    "description": "Here’s what to look for in a pair of hiking socks, so you can trek on comfortably for miles.",
+    "h1": "How to Choose the Right Pair of Hiking Socks for You",
+    "title": "How to Choose the Right Pair of Hiking Socks for You. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "759d4a6248b9"
   },
   "https://www.nike.com/il/a/best-socks-for-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-socks-for-running",
+    "description": "Going for a run requires good shoes, sure, but what about your socks? Here's how to find the best socks for running to prevent slipping, blisters and dampness.",
+    "h1": "What to look for in the best socks for running",
+    "title": "How to choose the best socks for running. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "17793f7c24e1"
   },
   "https://www.nike.com/il/a/best-softball-cleats": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-softball-cleats",
+    "description": "From metal cleats to moulded rubber cleats to turf shoes, find a comfortable, high-performance pair of Nike softball cleats designed for your style and level of play.",
+    "h1": "Check Out the Best Softball Boots by Nike",
+    "title": "Check Out the Best Softball Cleats From Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "d77c74f99312"
   },
   "https://www.nike.com/il/a/best-sports-bra-for-girls": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sports-bra-for-girls",
+    "description": "Before kicking off the sports bra spree, it’s important to consider… which one? Find out what to look for when finding her the perfect fit.",
+    "h1": "Which Bra is Best?",
+    "title": "Which Sports Bra is Best for Her?. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "dbdf8acfab71"
   },
   "https://www.nike.com/il/a/best-sports-bra-for-yoga": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sports-bra-for-yoga",
+    "description": "Shop the best Nike yoga sports bras with the help of this guide.",
+    "h1": "How to Choose the Right Nike Sports Bra for Yoga",
+    "title": "The Best Nike Sports Bras for Yoga . Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "6ec3a4f5edb2"
   },
   "https://www.nike.com/il/a/best-sunglasses-for-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sunglasses-for-running",
+    "description": "The best sunglasses for running are built with tinted lenses, anti-fog technology and adjustable features for better fit and grip. Check out the best running sunglasses from Nike.",
+    "h1": "The Best Nike Sunglasses for Running",
+    "title": "The Best Nike Sunglasses for Running. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "49d79004e8d5"
   },
   "https://www.nike.com/il/a/best-sweatpants-for-girls": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sweatpants-for-girls",
+    "description": "Show up to a playdate, school or sport practice in these Nike girls’ tracksuit bottoms.",
+    "h1": "The Best Nike Tracksuit Bottoms for Girls",
+    "title": "The Best Nike Tracksuit Bottoms for Girls. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "ac7370598c89"
   },
   "https://www.nike.com/il/a/best-sweatpants-for-kids": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sweatpants-for-kids",
+    "description": "Kids' tracksuit bottoms can be worn from the couch to the court. Check out the best Nike options to buy now.",
+    "h1": "The Best Kids' Tracksuit Bottoms By Nike to Shop Now",
+    "title": "The Best Kids' Tracksuit Bottoms By Nike to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "f67e1d85e135"
   },
   "https://www.nike.com/il/a/best-sweatpants-for-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sweatpants-for-men",
+    "description": "Jump into a pair of these Nike tracksuit bottoms for men when comfort is your main priority.",
+    "h1": "The Best Nike Tracksuit Bottoms for Men to Shop Now",
+    "title": "The Best Nike Tracksuit Bottoms for Men to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "be87195b119e"
   },
   "https://www.nike.com/il/a/best-sweatpants-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -20347,6 +20467,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/article-fleece-womens-loose-mid-rise-trousers-0zCeCBKg": {
+   "first_seen": "2026-10-25T09:31:37Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/article-fleece-womens-loose-mid-rise-trousers-0zCeCBKg",
+    "description": "Find the Nike Article Fleece Women's Loose Mid-Rise Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Article Fleece",
+    "title": "Nike Article Fleece Women's Loose Mid-Rise Trousers. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "5049f6af6c12"
+  },
   "https://www.nike.com/il/t/article-fleece-womens-oversized-dress-EYuLtWUA": {
    "first_seen": "2026-10-01T05:07:14Z",
    "http": {
@@ -25676,10 +25812,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/j-guard-ce-football-shinguards-qJqXmk": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/ja-3-by-you-custom-basketball-shoes-F7W08Qrk": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -33675,10 +33807,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/pre-game-fleece-womens-loose-mid-rise-trousers-0zCeCBKg": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/pre-game-fleece-womens-oversized-mid-rise-shorts-RlXwxG1y": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -38439,6 +38567,38 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/tottenham-hotspur-mens-nike-synthetic-fill-football-jacket-LE1iqbrr": {
+   "first_seen": "2026-10-25T09:31:37Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tottenham-hotspur-mens-nike-synthetic-fill-football-jacket-LE1iqbrr",
+    "description": "Find the Tottenham Hotspur Men's Nike Synthetic-Fill Football Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Tottenham Hotspur",
+    "title": "Tottenham Hotspur Men's Nike Synthetic-Fill Football Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "342c9a7d7a8f"
+  },
+  "https://www.nike.com/il/t/tottenham-hotspur-nike-mens-swoosh-football-t-shirt-LVp1Fbm0": {
+   "first_seen": "2026-10-25T09:31:37Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tottenham-hotspur-nike-mens-swoosh-football-t-shirt-LVp1Fbm0",
+    "description": "Find the Tottenham Hotspur Nike Men's Swoosh Football T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Tottenham Hotspur",
+    "title": "Tottenham Hotspur Nike Men's Swoosh Football T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "5db45d9fb0e3"
+  },
   "https://www.nike.com/il/t/tottenham-hotspur-older-kids-nike-dri-fit-football-pre-match-short-sleeve-top-MiEZxQYW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -38538,6 +38698,38 @@
   "https://www.nike.com/il/t/tottenham-hotspur-strike-younger-kids-nike-dri-fit-football-knit-tracksuit-nMTorup7": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/tottenham-hotspur-tech-fleece-mens-nike-football-joggers-bYIiHcAB": {
+   "first_seen": "2026-10-25T09:31:37Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tottenham-hotspur-tech-fleece-mens-nike-football-joggers-bYIiHcAB",
+    "description": "Find the Tottenham Hotspur Tech Fleece Men's Nike Football Joggers at Nike.com. Shop online at Nike.com.",
+    "h1": "Tottenham Hotspur Tech Fleece",
+    "title": "Tottenham Hotspur Tech Fleece Men's Nike Football Joggers. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "6d56b1326726"
+  },
+  "https://www.nike.com/il/t/tottenham-hotspur-tech-fleece-mens-nike-windrunner-jacket-RowZY3RE": {
+   "first_seen": "2026-10-25T09:31:37Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tottenham-hotspur-tech-fleece-mens-nike-windrunner-jacket-RowZY3RE",
+    "description": "Find the Tottenham Hotspur Tech Fleece Men's Nike Windrunner Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Tottenham Hotspur Tech Fleece",
+    "title": "Tottenham Hotspur Tech Fleece Men's Nike Windrunner Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "aa39c2afddaa"
   },
   "https://www.nike.com/il/t/tottenham-hotspur-tech-mens-nike-football-woven-pants-Pls0O4mZ": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -39682,6 +39874,22 @@
   "https://www.nike.com/il/t/vomero-premium-mens-road-running-shoes-TtzdqBB2": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/vomero-premium-sp-mens-road-running-shoes-7peUJy4O": {
+   "first_seen": "2026-10-25T09:31:37Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/vomero-premium-sp-mens-road-running-shoes-7peUJy4O",
+    "description": "Find the Nike Vomero Premium SP Men's Road-Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Vomero Premium SP",
+    "title": "Nike Vomero Premium SP Men's Road-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-25T09:31:37Z",
+   "seo_hash": "f69872254ee8"
   },
   "https://www.nike.com/il/t/wildhorse-10-mens-trail-running-shoes-2T16XN": {
    "first_seen": "2026-09-24T08:34:55Z",
