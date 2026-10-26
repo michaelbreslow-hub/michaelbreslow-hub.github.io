@@ -6,6 +6,158 @@
  },
  "events": [
   {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/rings-2pgbn"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/earrings-3i6cp"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/necklaces-142fc"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Women's Low Profile Shoes",
+    "title": "Women's Low Profile Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/womens-low-profile-shoes-5e1x6z6dwejzy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Women's Purple Shoes",
+    "title": "Women's Purple Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/womens-purple-shoes-47w4rz5e1x6zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Women's Purple Hoodies & Sweatshirts",
+    "title": "Women's Purple Hoodies & Sweatshirts. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/womens-purple-hoodies-sweatshirts-47w4rz5e1x6z6rive"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Women's Orange Shoes",
+    "title": "Women's Orange Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/womens-orange-shoes-1n3adz5e1x6zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Black Friday – Men's Tracksuits",
+    "title": "Men's Nike Black Friday Tracksuits. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/mens-black-friday-tracksuits-1ll2wz2phlmznik1"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Men's Low Profile Shoes",
+    "title": "Men's Low Profile Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/mens-low-profile-shoes-6dwejznik1zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/jewellery-21055"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Low Profile Shoes",
+    "title": "Low Profile Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/low-profile-shoes-6dwejzy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Zoom Skylon Shoes",
+    "title": "Nike Zoom Skylon Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/nike-zoom-skylon-shoes-5pvrgzy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Stocking Stuffers",
+    "title": "Stocking Stuffers. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/stocking-stuffers-7dlt3"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-10-26T10:41:32Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Green Windbreakers",
+    "title": "Green Windbreakers. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/green-windbreakers-8owpxzbdka"
+  },
+  {
    "asset_type": "product",
    "date": "2026-10-25T09:31:37Z",
    "lastmod": null,
@@ -15094,6 +15246,14 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 14
+   },
+   "date": "2026-10-26T10:41:32Z",
+   "status": "ok",
+   "total_urls": 11995
+  },
   {
    "counts": {
     "added": 6,

@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-25T09:31:37Z",
+  "last_run": "2026-10-26T10:41:32Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -5608,43 +5608,163 @@
   },
   "https://www.nike.com/il/a/best-sweatpants-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-sweatpants-for-women",
+    "description": "From sweat-wicking and tailored to effortlessly casual, explore the best tracksuit bottoms for women by Nike.",
+    "h1": "The Best Nike Tracksuit Bottoms for Women",
+    "title": "The Best Nike Tracksuit Bottoms for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "9b3bb4180af8"
   },
   "https://www.nike.com/il/a/best-swimming-gear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-swimming-gear",
+    "description": "Get the most out of your swim workout with Nike swim gear. Here are six swim-equipment essentials to bring to the pool for lap swimming.",
+    "h1": "6 Nike Essentials for New Swimmers",
+    "title": "The Best Nike Swimming Gear. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "0484ccd42ef3"
   },
   "https://www.nike.com/il/a/best-swimming-kickboard": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-swimming-kickboard",
+    "description": "A swimming kickboard can help build leg strength and improve your swimming technique. Here’s what to know about using a kickboard for swimming. Plus, learn more about the best Nike kickboard.",
+    "h1": "Check Out the Best Nike Swimming Kickboard—and How to Use It",
+    "title": "The Best Nike Swimming Kickboard—and How to Use It. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "782165895762"
   },
   "https://www.nike.com/il/a/best-swimsuits-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-swimsuits-for-women",
+    "description": "From sneaker-inspired one pieces to reversible bikinis, Nike women’s swimwear offer a range of styles to try.",
+    "h1": "The Best Nike Women's Swimsuits for Swimming Laps or Lounging by the Pool",
+    "title": "The Best Nike Swimsuits for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "7e202b49f55b"
   },
   "https://www.nike.com/il/a/best-tactical-boots": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-tactical-boots",
+    "description": "Pick up a pair of these durable boots for rugged conditions.",
+    "h1": "The 5 best Nike tactical boots",
+    "title": "What are Nike's best tactical boots?. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "baf8638fa3b7"
   },
   "https://www.nike.com/il/a/best-time-drink-protein-shakes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-time-drink-protein-shakes",
+    "description": "When should you drink a protein shake, better before or after a workout? Here’s everything you need to know about when to consume protein.",
+    "h1": "When is the best time to drink a protein shake?",
+    "title": "Best Time to Drink Protein Shakes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "6b8f2468bedc"
   },
   "https://www.nike.com/il/a/best-toddler-hoodies": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-toddler-hoodies",
+    "description": "Choose from cosy zip-ups, sweatshirts and crew necks for the little one in your life.",
+    "h1": "The Best Nike Hoodies and Sweatshirts for Toddlers",
+    "title": "The Best Nike Hoodies and Sweatshirts for Toddlers. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "5ba719c53fc4"
   },
   "https://www.nike.com/il/a/best-tote-bags": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-tote-bags",
+    "description": "From serving as an extra shopping bag to a gym holdall, these Nike tote bags are multifunctional without sacrificing a drop of style.",
+    "h1": "The Best Nike Tote Bags to Carry All Day",
+    "title": "The Best Nike Totes for Gym, Work and Travel. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "8bd6dbfaa28d"
   },
   "https://www.nike.com/il/a/best-track-suit": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-track-suit",
+    "description": "There's something in the mix for workouts, off-days and everything in between.",
+    "h1": "The best Nike tracksuits for wherever the day takes you",
+    "title": "The best Nike tracksuits for wherever the day takes you. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "80a3361a5931"
   },
   "https://www.nike.com/il/a/best-trail-running-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-trail-running-shoes",
+    "description": "These shoes give trail runners the cushioning and support needed to be trail-ready.",
+    "h1": "Best trail-running shoes by Nike",
+    "title": "Best trail running shoes by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "69d13ce80492"
   },
   "https://www.nike.com/il/a/best-travel-backpack": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -43103,6 +43223,15 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/earrings-3i6cp": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 404
+   },
+   "lastmod": null,
+   "seo_checked": "2026-10-26T10:41:32Z"
+  },
   "https://www.nike.com/il/w/easy-on-and-off-collection-qh2h": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -44875,6 +45004,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/green-windbreakers-8owpxzbdka": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/green-windbreakers-8owpxzbdka",
+    "description": "Find Green Windbreakers at Nike.com. Shop online at Nike.com.",
+    "h1": "Green Windbreakers",
+    "title": "Green Windbreakers. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "5f131195c929"
+  },
   "https://www.nike.com/il/w/grey-air-force-1-shoes-5sj3yz6s5r5zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -45238,6 +45383,15 @@
   "https://www.nike.com/il/w/jayson-tatum-nba-teams-1vofiz4t66i": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/w/jewellery-21055": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 404
+   },
+   "lastmod": null,
+   "seo_checked": "2026-10-26T10:41:32Z"
   },
   "https://www.nike.com/il/w/joel-embiid-nba-teams-1vofiz5558f": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -47207,6 +47361,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/low-profile-shoes-6dwejzy7ok": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/low-profile-shoes-6dwejzy7ok",
+    "description": "Find Low Profile Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Low Profile Shoes",
+    "title": "Low Profile Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "7a33412ce068"
+  },
   "https://www.nike.com/il/w/low-top-shoes-7hf8ezy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -47702,6 +47872,22 @@
   "https://www.nike.com/il/w/mens-black-friday-shoes-2phlmznik1zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/w/mens-black-friday-tracksuits-1ll2wz2phlmznik1": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/mens-black-friday-tracksuits-1ll2wz2phlmznik1",
+    "description": "Find Men's Nike Black Friday Tracksuits at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Black Friday – Men's Tracksuits",
+    "title": "Men's Nike Black Friday Tracksuits. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "866f137c3055"
   },
   "https://www.nike.com/il/w/mens-black-high-top-shoes-6lqy0z90poyznik1zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -49038,6 +49224,22 @@
   "https://www.nike.com/il/w/mens-loose-trousers-tights-2kq19z4b30cznik1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/w/mens-low-profile-shoes-6dwejznik1zy7ok": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/mens-low-profile-shoes-6dwejznik1zy7ok",
+    "description": "Find Men's Low Profile Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Men's Low Profile Shoes",
+    "title": "Men's Low Profile Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "1fa2bc52cf81"
   },
   "https://www.nike.com/il/w/mens-low-top-shoes-7hf8eznik1zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -50887,6 +51089,15 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/necklaces-142fc": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 404
+   },
+   "lastmod": null,
+   "seo_checked": "2026-10-26T10:41:32Z"
+  },
   "https://www.nike.com/il/w/netball-4kg3b": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -52235,6 +52446,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/nike-zoom-skylon-shoes-5pvrgzy7ok": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/nike-zoom-skylon-shoes-5pvrgzy7ok",
+    "description": "Find Nike Zoom Skylon Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Zoom Skylon Shoes",
+    "title": "Nike Zoom Skylon Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "a3be5d22ea52"
+  },
   "https://www.nike.com/il/w/nike-zoomx-shoes-1qjudzy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -53427,6 +53654,15 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/rings-2pgbn": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 404
+   },
+   "lastmod": null,
+   "seo_checked": "2026-10-26T10:41:32Z"
+  },
   "https://www.nike.com/il/w/road-running-shoes-3qxw3zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -54214,6 +54450,22 @@
   "https://www.nike.com/il/w/stephen-curry-nba-teams-1vofizhfoy": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/w/stocking-stuffers-7dlt3": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/stocking-stuffers-7dlt3",
+    "description": "Find Stocking Stuffers at Nike.com. Shop online at Nike.com.",
+    "h1": "Stocking Stuffers",
+    "title": "Stocking Stuffers. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "b60efc5ae57e"
   },
   "https://www.nike.com/il/w/storm-fit-clothing-6ymx6z8yq3k": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -56823,6 +57075,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/womens-low-profile-shoes-5e1x6z6dwejzy7ok": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/womens-low-profile-shoes-5e1x6z6dwejzy7ok",
+    "description": "Find Women's Low Profile Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Women's Low Profile Shoes",
+    "title": "Women's Low Profile Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "5617b0f910af"
+  },
   "https://www.nike.com/il/w/womens-low-top-shoes-5e1x6z7hf8ezy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -57171,6 +57439,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/womens-orange-shoes-1n3adz5e1x6zy7ok": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/womens-orange-shoes-1n3adz5e1x6zy7ok",
+    "description": "Find Women's Orange Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Women's Orange Shoes",
+    "title": "Women's Orange Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "2cbfbf7e214d"
+  },
   "https://www.nike.com/il/w/womens-outdoor-5e1x6zxw4h": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -57434,6 +57718,38 @@
   "https://www.nike.com/il/w/womens-puffer-jackets-4m0oyz5e1x6": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/w/womens-purple-hoodies-sweatshirts-47w4rz5e1x6z6rive": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/womens-purple-hoodies-sweatshirts-47w4rz5e1x6z6rive",
+    "description": "Find Women's Purple Hoodies & Sweatshirts at Nike.com. Shop online at Nike.com.",
+    "h1": "Women's Purple Hoodies & Sweatshirts",
+    "title": "Women's Purple Hoodies & Sweatshirts. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "b33edd1f9bae"
+  },
+  "https://www.nike.com/il/w/womens-purple-shoes-47w4rz5e1x6zy7ok": {
+   "first_seen": "2026-10-26T10:41:32Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/womens-purple-shoes-47w4rz5e1x6zy7ok",
+    "description": "Find Women's Purple Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Women's Purple Shoes",
+    "title": "Women's Purple Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-26T10:41:32Z",
+   "seo_hash": "2cc73dec8fec"
   },
   "https://www.nike.com/il/w/womens-purple-sports-bras-40qgmz47w4rz5e1x6": {
    "first_seen": "2026-09-24T08:34:55Z",

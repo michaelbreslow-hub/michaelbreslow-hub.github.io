@@ -19,11 +19,9 @@
       "/size-fit"
      ],
      "excluded_urls": 2571,
-     "last_checked": "2026-10-25T09:31:37Z",
+     "last_checked": "2026-10-26T10:41:32Z",
      "last_counts": {
-      "added": 6,
-      "keyword_hits": 2,
-      "removed": 2
+      "added": 14
      },
      "name": "Nike",
      "notes": [],
@@ -31,7 +29,7 @@
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 11981
+     "total_urls": 11995
     },
     {
      "asset_types": {},
@@ -43,7 +41,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-25T09:31:37Z",
+     "last_checked": "2026-10-26T10:41:32Z",
      "last_counts": {
       "updated": 1
      },
@@ -65,7 +63,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-25T09:31:37Z",
+     "last_checked": "2026-10-26T10:41:32Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -87,12 +85,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-25T09:31:37Z",
+     "last_checked": "2026-10-26T10:41:32Z",
      "last_counts": {
-      "keyword_hits": 176,
-      "removed": 2,
+      "keyword_hits": 178,
       "seo_changed": 1,
-      "updated": 5802
+      "updated": 5798
      },
      "name": "Reebok",
      "notes": [
@@ -114,13 +111,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-10-25T09:31:37Z",
+     "last_checked": "2026-10-26T10:41:32Z",
      "last_counts": {
-      "added": 51,
-      "keyword_hits": 4,
-      "removed": 71,
-      "seo_changed": 1,
-      "updated": 52
+      "added": 5,
+      "removed": 6,
+      "updated": 49
      },
      "name": "Skechers",
      "notes": [],
@@ -128,7 +123,7 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5878
+     "total_urls": 5877
     }
    ],
    "id": "client-a",
@@ -142,6 +137,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-10-25T09:31:37Z",
+ "generated_at": "2026-10-26T10:41:32Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
