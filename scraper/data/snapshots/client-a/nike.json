@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-27T10:09:33Z",
+  "last_run": "2026-10-28T10:56:07Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -5928,43 +5928,163 @@
   },
   "https://www.nike.com/il/a/best-winter-boots": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-winter-boots",
+    "description": "These durable Nike boots are well-suited for rugged, wet and icy winter weather.",
+    "h1": "The Best Nike Boot Styles to Wear in Winter",
+    "title": "The Best Nike Boots for Winter. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "a1a584348380"
   },
   "https://www.nike.com/il/a/best-winter-coats-for-men": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-winter-coats-for-men",
+    "description": "Shop the best men's cold-weather parkas, fleece jackets, rain jackets and more by Nike.",
+    "h1": "The Best Nike Winter Coats for Men",
+    "title": "The Best Nike Winter Coats for Men. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "8ec05ce49224"
   },
   "https://www.nike.com/il/a/best-winter-coats-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-winter-coats-for-women",
+    "description": "These parkas, puffers and water-resistant layers are the best Nike women’s coats for winter.",
+    "h1": "The Best Nike Winter Coats for Women",
+    "title": "The Best Nike Winter Coats for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "562977447ee2"
   },
   "https://www.nike.com/il/a/best-winter-sneakers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-winter-sneakers",
+    "description": "Sneakers with waterproof coatings, grippy rubber soles and fleece linings are built to stand up to winter weather. Check out the best winter sneakers by Nike.",
+    "h1": "The Best Nike Sneakers to Wear in Winter",
+    "title": "The Best Nike Sneakers to Wear in the Winter. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "b423e539a2e6"
   },
   "https://www.nike.com/il/a/best-wireless-bras": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-wireless-bras",
+    "description": "Support plus comfort in a wireless bra? Absolutely. Check out these top picks for your new go-to favourite for workouts and everyday wear.",
+    "h1": "Best wireless bras by Nike",
+    "title": "Best wireless bras by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "cf38554aa91d"
   },
   "https://www.nike.com/il/a/best-womens-bodysuit-for-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-womens-bodysuit-for-workout",
+    "description": "Simplify your gym outfit with a one-piece workout bodysuit from Nike.",
+    "h1": "The Best Nike Bodysuits for Exercise",
+    "title": "The Best Nike Workout Bodysuits for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "8c767a3b2de7"
   },
   "https://www.nike.com/il/a/best-womens-golf-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-womens-golf-shoes",
+    "description": "Find golf shoes that provide all-day comfort, traction and innovative features to better your rounds.",
+    "h1": "The Best Nike Golf Shoes for Women",
+    "title": "The Best Nike Golf Shoes for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "1693ea8339ee"
   },
   "https://www.nike.com/il/a/best-womens-workout-shirts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-womens-workout-shirts",
+    "description": "Slip into one of these soft, heat-capturing workout tops when you're breaking a sweat in cold temperatures.",
+    "h1": "The Best Nike Long-Sleeve Workout Tops for Women",
+    "title": "The Best Nike Women's Long-sleeve Workout Tops to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "183e28e83f55"
   },
   "https://www.nike.com/il/a/best-womens-workout-tanks": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-womens-workout-tanks",
+    "description": "Gear up for your next workout with these sweat-wicking Nike tank tops.",
+    "h1": "Check Out the Best Women's Workout Tank Tops by Nike",
+    "title": "Check Out the Best Women's Workout Tank Tops by Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "e11551b6901e"
   },
   "https://www.nike.com/il/a/best-work-sneakers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-work-sneakers",
+    "description": "A pair of comfortable walking, running or tennis shoes will keep your feet feeling good, whether you're on or off the clock.",
+    "h1": "The best Nike sneakers for work",
+    "title": "The best Nike sneakers for work. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "a4c73d0f8bcb"
   },
   "https://www.nike.com/il/a/best-workout-for-your-mood": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -11934,10 +12054,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/air-jordan-1-low-og-black-and-white-1": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/air-jordan-1-low-og-chicago-1-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -12297,6 +12413,22 @@
   "https://www.nike.com/il/launch/t/air-jordan-6-travis-scott": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/launch/t/air-jordan-6-white-infrared-white-and-light-crimson-snkrs": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/air-jordan-6-white-infrared-white-and-light-crimson-snkrs",
+    "description": null,
+    "h1": "Air Jordan 6 'White Infrared'",
+    "title": "Air Jordan 6 \"White Infrared\" 'White and Light Crimson' (CT8529-105) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "250ffde6020e"
   },
   "https://www.nike.com/il/launch/t/air-jordan-9-black-particle-grey-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -13293,6 +13425,22 @@
    },
    "seo_checked": "2026-10-14T05:19:22Z",
    "seo_hash": "76e48b50aa59"
+  },
+  "https://www.nike.com/il/launch/t/ep-40-snkrs-service": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/ep-40-snkrs-service",
+    "description": null,
+    "h1": null,
+    "title": "SNKRS Service. Nike SNKRS"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "ea8c2f047e10"
   },
   "https://www.nike.com/il/launch/t/fa25-story-fa25-swoosh-am95-swoosh-am95-trailer-g9gh": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16474,6 +16622,22 @@
   "https://www.nike.com/il/launch/t/womens-air-jordan-11-low-concord-sketch1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/launch/t/womens-air-jordan-11-magic-ball-emea": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/womens-air-jordan-11-magic-ball-emea",
+    "description": null,
+    "h1": "Women's Air Jordan 11",
+    "title": "Women's Air Jordan 11 'Magic Ball' (IZ1800-200) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "6eb29ff454f8"
   },
   "https://www.nike.com/il/launch/t/womens-air-jordan-14-low-iconic-red1": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -19663,38 +19827,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-jordan-11-retro-green-screen-mens-shoes-RIyS6KfI": {
-   "first_seen": "2026-10-23T05:20:33Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/air-jordan-11-retro-green-screen-mens-shoes-RIyS6KfI",
-    "description": "Find the Air Jordan 11 Retro 'Green Screen' Men's Shoes at Nike.com. Shop online at Nike.com.",
-    "h1": "Air Jordan 11 Retro 'Green Screen'",
-    "title": "Air Jordan 11 Retro 'Green Screen' Men's Shoes. Nike IL"
-   },
-   "seo_checked": "2026-10-23T05:20:33Z",
-   "seo_hash": "13c8cfced814"
-  },
-  "https://www.nike.com/il/t/air-jordan-11-retro-magic-ball-womens-shoes-cI53Yvbu": {
-   "first_seen": "2026-10-23T05:20:33Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/air-jordan-11-retro-magic-ball-womens-shoes-cI53Yvbu",
-    "description": "Find the Air Jordan 11 Retro 'Magic Ball' Women's Shoes at Nike.com. Shop online at Nike.com.",
-    "h1": "Air Jordan 11 Retro 'Magic Ball'",
-    "title": "Air Jordan 11 Retro 'Magic Ball' Women's Shoes. Nike IL"
-   },
-   "seo_checked": "2026-10-23T05:20:33Z",
-   "seo_hash": "bf6bffe9e417"
-  },
   "https://www.nike.com/il/t/air-jordan-3-retro-older-kids-shoes-QFIufuTy": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -21030,6 +21162,22 @@
   "https://www.nike.com/il/t/atletico-madrid-strike-third-mens-nike-dri-fit-football-knit-pants-gDuXodTZ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/atletico-madrid-strike-third-mens-nike-football-dri-fit-short-sleeved-top-3NYmW0lI": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/atletico-madrid-strike-third-mens-nike-football-dri-fit-short-sleeved-top-3NYmW0lI",
+    "description": "Find the Atlético Madrid Strike Third Men's Nike Football Dri-FIT Short-Sleeved Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Atlético Madrid Strike Third",
+    "title": "Atlético Madrid Strike Third Men's Nike Football Dri-FIT Short-Sleeved Top. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "d811cd50758f"
   },
   "https://www.nike.com/il/t/atletico-madrid-strike-third-older-kids-nike-dri-fit-football-knit-tracksuit-5mStnsTq": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -23070,6 +23218,22 @@
   "https://www.nike.com/il/t/court-vision-low-womens-shoes-3vVCxp": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/court-vision-low-womens-shoes-hdqFYuat": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/court-vision-low-womens-shoes-hdqFYuat",
+    "description": "Find the Nike Court Vision Low Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Court Vision Low",
+    "title": "Nike Court Vision Low Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "44b18bdfc86e"
   },
   "https://www.nike.com/il/t/court-vision-mid-mens-winterized-shoes-2kC0cc": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -25635,6 +25799,22 @@
    "seo_checked": "2026-10-08T05:08:28Z",
    "seo_hash": "77db0082e45b"
   },
+  "https://www.nike.com/il/t/heritage-tote-bag-36l-iNAu1Cta": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/heritage-tote-bag-36l-iNAu1Cta",
+    "description": "Find the Nike Heritage Tote Bag (36L) at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Heritage",
+    "title": "Nike Heritage Tote Bag (36L). Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "e037e6da47f8"
+  },
   "https://www.nike.com/il/t/heritage-waistpack-3l-m82L20": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25694,6 +25874,22 @@
   "https://www.nike.com/il/t/initiator-mens-running-shoe-fQzhkW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/initiator-mens-shoes-BXhfrQ": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/initiator-mens-shoes-BXhfrQ",
+    "description": "Find the Nike Initiator Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Initiator",
+    "title": "Nike Initiator Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "5d476f0b7d46"
   },
   "https://www.nike.com/il/t/initiator-mens-shoes-R9ZFnS": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31055,6 +31251,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/miler-mens-therma-fit-winterised-1-2-zip-running-top-5SnZ82PM": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/miler-mens-therma-fit-winterised-1-2-zip-running-top-5SnZ82PM",
+    "description": "Find the Nike Miler Men's Therma-FIT Winterised 1/2-Zip Running Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Miler",
+    "title": "Nike Miler Men's Therma-FIT Winterised 1/2-Zip Running Top. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "dc9eaecc4b63"
+  },
   "https://www.nike.com/il/t/miler-older-kids-boys-dri-fit-long-sleeve-top-jPUVAa9z": {
    "first_seen": "2026-10-15T05:19:12Z",
    "lastmod": null
@@ -34931,6 +35143,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sam-kerr-womens-dri-fit-football-short-sleeve-pre-match-top-DmwY3ELK": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sam-kerr-womens-dri-fit-football-short-sleeve-pre-match-top-DmwY3ELK",
+    "description": "Find the Sam Kerr Women's Dri-FIT Football Short-Sleeve Pre-Match Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Sam Kerr",
+    "title": "Sam Kerr Women's Dri-FIT Football Short-Sleeve Pre-Match Top. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "fc7ff7343db3"
+  },
   "https://www.nike.com/il/t/sam-kerr-womens-nike-football-t-shirt-UNa2BBr3": {
    "first_seen": "2026-10-14T05:19:22Z",
    "http": {
@@ -37183,6 +37411,22 @@
    "first_seen": "2026-10-22T05:21:45Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sprint-sister-womens-shoes-pvCAonpo": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sprint-sister-womens-shoes-pvCAonpo",
+    "description": "Find the Nike Sprint Sister Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sprint Sister",
+    "title": "Nike Sprint Sister Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "3cd15658434b"
+  },
   "https://www.nike.com/il/t/sprint-sister-womens-shoes-q5WY3V6A": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -37490,6 +37734,22 @@
   "https://www.nike.com/il/t/stride-mens-dri-fit-running-tights-ZkPvbI47": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/stride-mens-dri-fit-winterised-short-sleeve-running-top-Kk7mj2tK": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/stride-mens-dri-fit-winterised-short-sleeve-running-top-Kk7mj2tK",
+    "description": "Find the Nike Stride Men's Dri-FIT Winterised Short-Sleeve Running Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Stride",
+    "title": "Nike Stride Men's Dri-FIT Winterised Short-Sleeve Running Top. Nike IL"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "94ee84d9caad"
   },
   "https://www.nike.com/il/t/stride-mens-dri-fit-winterized-12-5cm-approx-brief-lined-running-shorts-WBdkWbKj": {
    "first_seen": "2026-10-14T05:19:22Z",

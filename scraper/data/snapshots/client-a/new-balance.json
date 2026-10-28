@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-27T10:09:33Z",
+  "last_run": "2026-10-28T10:56:07Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-26T12:00:03+00:00",
+   "lastmod": "2026-10-27T12:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-27T10:09:33Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -745,6 +745,22 @@
    },
    "seo_checked": "2026-10-22T05:21:45Z",
    "seo_hash": "fce6fd287c03"
+  },
+  "https://www.newbalance.co.il/en/shop/NOV_Kids": {
+   "first_seen": "2026-10-28T10:56:07Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-10-26T08:26:15+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/NOV_Kids",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shoppinh Kids, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shoppinh Kids",
+    "title": "Shoppinh Kids - New Balance"
+   },
+   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_hash": "273a217525fa"
   },
   "https://www.newbalance.co.il/en/shop/NOV_lifestyle": {
    "first_seen": "2026-10-21T05:20:43Z",
@@ -1591,7 +1607,7 @@
     "h1": "530",
     "title": "530 - New Balance"
    },
-   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "c48da8e59529"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/Kids-shopbystyle-9060": {
@@ -1607,7 +1623,7 @@
     "h1": "9060",
     "title": "9060 - New Balance"
    },
-   "seo_checked": "2026-10-03T05:06:03Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "fa22af9efbdf"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-327": {
@@ -1623,7 +1639,7 @@
     "h1": "327",
     "title": "327 - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "da80acd07187"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-574": {
@@ -1639,7 +1655,7 @@
     "h1": "574",
     "title": "574 - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "25ab13254dfd"
   },
   "https://www.newbalance.co.il/en/shop/kids/kids-shopbystyle/kids-shopbystyle-996": {
@@ -1655,7 +1671,7 @@
     "h1": "996",
     "title": "996 - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "2fe1a9f023e0"
   },
   "https://www.newbalance.co.il/en/shop/men": {
@@ -1687,7 +1703,7 @@
     "h1": "Accessories",
     "title": "Accessories - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "e0d0255fad10"
   },
   "https://www.newbalance.co.il/en/shop/men/Accessories/Bags": {
@@ -1703,7 +1719,7 @@
     "h1": "Bags",
     "title": "Bags - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "8e2029506539"
   },
   "https://www.newbalance.co.il/en/shop/men/Accessories/Hats": {
@@ -1719,7 +1735,7 @@
     "h1": "Hats",
     "title": "Hats - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "3fe3d1dcd471"
   },
   "https://www.newbalance.co.il/en/shop/men/Accessories/Socks": {
@@ -1735,7 +1751,7 @@
     "h1": "Socks",
     "title": "Socks - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-28T10:56:07Z",
    "seo_hash": "1dddc98ac078"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing": {
