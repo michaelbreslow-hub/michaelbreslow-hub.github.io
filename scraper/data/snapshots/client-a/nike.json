@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-28T10:56:07Z",
+  "last_run": "2026-10-29T11:13:45Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -6088,43 +6088,163 @@
   },
   "https://www.nike.com/il/a/best-workout-for-your-mood": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-workout-for-your-mood",
+    "description": "Different types of movement have different positive effects on your state of mind. Here’s your guide to choosing the activity that’ll support you most.",
+    "h1": "The Best Workout for Your Mood",
+    "title": "The Best Workout for Your Mood. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "b44b1a8c5176"
   },
   "https://www.nike.com/il/a/best-workout-hats": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-workout-hats",
+    "description": "The best Nike workout hats provide sweat-wicking technology and protection from the sun.",
+    "h1": "The 7 Best Nike Hats to Wear During Your Next Workout",
+    "title": "The 7 Best Nike Workout Hats. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "ba218eea5062"
   },
   "https://www.nike.com/il/a/best-workout-headbands": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-workout-headbands",
+    "description": "Shop the best sweat-wicking Nike workout headbands for men and women.",
+    "h1": "The 8 Best Nike Exercise Headbands for Your Favourite Workout",
+    "title": "The 8 Best Nike Exercise Headbands for Your Favourite Workout. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "f788ad11c908"
   },
   "https://www.nike.com/il/a/best-workout-leggings-for-women": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-workout-leggings-for-women",
+    "description": "Check out the best women's workout leggings by Nike, including newly released styles in a range of lengths, colours and rises.",
+    "h1": "The Best Nike Workout Leggings for Women",
+    "title": "The Best Nike Workout Leggings for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "aa0fc050c688"
   },
   "https://www.nike.com/il/a/best-workout-mat": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-workout-mat",
+    "description": "Discover the best workout mat for your workouts.",
+    "h1": "The Best Workout Mat From Nike to Shop Now",
+    "title": "The Best Workout Mat From Nike to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "29e49837bb68"
   },
   "https://www.nike.com/il/a/best-yoga-mat": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-yoga-mat",
+    "description": "Roll out this lightweight, non-slip mat for your yoga practice or at-home workout.",
+    "h1": "Everything You Need to Know About the Best Nike Yoga Mat",
+    "title": "Everything You Need to Know About the Best Yoga Mat From Nike. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "89c25a2b5120"
   },
   "https://www.nike.com/il/a/best-yoga-pants": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-yoga-pants",
+    "description": "Whether high-rise, mid-rise, cropped or full-length, there's a pair of Nike yoga trousers for you. Check out the best yoga trousers in this guide.",
+    "h1": "The 7 Best Nike Yoga Trousers to Shop Now",
+    "title": "The Best Nike Yoga Trousers for Women. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "99f1f4ffada5"
   },
   "https://www.nike.com/il/a/best-yoga-poses-strength": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-yoga-poses-strength",
+    "description": "Can yoga be a part of your strength training routine? Find out, here.",
+    "h1": "The Top 3 Yoga Poses to Get Stronger, According to Experts",
+    "title": "The Top 3 Yoga Poses To Get Stronger, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "8aabbc753faa"
   },
   "https://www.nike.com/il/a/best-zip-up-hoodies": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/best-zip-up-hoodies",
+    "description": "Find the best Nike zip-up hoodies for women and men with this buying guide.",
+    "h1": "5 Nike Zip-Up Hoodie Styles You'll Want to Live In",
+    "title": "The Best Nike Zip-Up Hoodies to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "eae1a03b4189"
   },
   "https://www.nike.com/il/a/beyond-the-fit-cynthia-cervantes-travis-gumbs-black-latinx-creatives": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/beyond-the-fit-cynthia-cervantes-travis-gumbs-black-latinx-creatives",
+    "description": "In this “Beyond the Fit” interview, creative and life partners Cynthia Cervantes and Travis Gumbs talk about championing marginalised voices through their creative studio, Maroon World.",
+    "h1": "This Mexico City-Based Couple Honour Their Cultures and Platform Future Storytellers",
+    "title": "Beyond the Fit: Cynthia and Travis Amplify Black and Latinx Voices . Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "72a1caff8d3f"
   },
   "https://www.nike.com/il/a/beyond-the-fit-flexmami-lillian-ahenkan-sydney": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -19555,6 +19675,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/air-jordan-1-mid-se-hare-older-kids-shoes-QbBzlVKm": {
+   "first_seen": "2026-10-29T11:13:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-1-mid-se-hare-older-kids-shoes-QbBzlVKm",
+    "description": "Find the Air Jordan 1 Mid SE 'Hare' Older Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan 1 Mid SE 'Hare'",
+    "title": "Air Jordan 1 Mid SE 'Hare' Older Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "959bbe87189b"
+  },
   "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-0izdg99f": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20874,6 +21010,22 @@
   "https://www.nike.com/il/t/apex-kids-futura-bucket-hat-LmQDgh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/apex-road-racing-shoes-9PP6W6uv": {
+   "first_seen": "2026-10-29T11:13:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/apex-road-racing-shoes-9PP6W6uv",
+    "description": "Find the Nike Apex Road-Racing Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Apex",
+    "title": "Nike Apex Road-Racing Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "f375f3669551"
   },
   "https://www.nike.com/il/t/apex-swoosh-bucket-hat-HDcCrx": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27446,6 +27598,22 @@
   "https://www.nike.com/il/t/jordan-brooklyn-womens-fleece-crew-neck-sweatshirt-qkq3F9lh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-brooklyn-womens-fleece-sweatshirt-vdcwInk5": {
+   "first_seen": "2026-10-29T11:13:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-womens-fleece-sweatshirt-vdcwInk5",
+    "description": "Find the Jordan Brooklyn Women's Fleece Sweatshirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Women's Fleece Sweatshirt. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "c7e2825b99ff"
   },
   "https://www.nike.com/il/t/jordan-brooklyn-womens-full-zip-hoodie-fWoZz5UZ": {
    "first_seen": "2026-10-20T05:19:59Z",
@@ -37082,6 +37250,22 @@
   "https://www.nike.com/il/t/sportswear-womens-oversized-balloon-tracksuit-jacket-6rQIlEie": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-womens-oversized-checked-flannel-anorak-jacket-7oGgXk59": {
+   "first_seen": "2026-10-29T11:13:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-oversized-checked-flannel-anorak-jacket-7oGgXk59",
+    "description": "Find the Nike Sportswear Women's Oversized Checked Flannel Anorak Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Checked Flannel Anorak Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "ab47a5d327c3"
   },
   "https://www.nike.com/il/t/sportswear-womens-oversized-corduroy-tracksuit-jacket-or26wFoz": {
    "first_seen": "2026-09-24T08:34:55Z",

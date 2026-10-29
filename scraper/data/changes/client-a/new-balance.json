@@ -7,6 +7,30 @@
  "events": [
   {
    "asset_type": "category",
+   "date": "2026-10-29T11:13:45Z",
+   "lastmod": "2026-10-28T09:25:16+00:00",
+   "page": {
+    "h1": "Industrial",
+    "title": "Industrial - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes"
+  },
+  {
+   "after": "2026-10-28T12:00:04+00:00",
+   "asset_type": "other",
+   "before": "2026-10-27T12:00:03+00:00",
+   "date": "2026-10-29T11:13:45Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
+   "asset_type": "category",
    "date": "2026-10-28T10:56:07Z",
    "lastmod": "2026-10-26T08:26:15+00:00",
    "page": {
@@ -808,6 +832,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 1,
+    "updated": 1
+   },
+   "date": "2026-10-29T11:13:45Z",
+   "status": "ok",
+   "total_urls": 230
+  },
   {
    "counts": {
     "added": 1,

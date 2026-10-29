@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-10-28T10:56:07Z",
+  "last_run": "2026-10-29T11:13:45Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-27T12:00:03+00:00",
+   "lastmod": "2026-10-28T12:00:04+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-10-28T10:56:07Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -1258,6 +1258,22 @@
    "seo_checked": "2026-10-25T09:31:37Z",
    "seo_hash": "5eb0461bdc47"
   },
+  "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes": {
+   "first_seen": "2026-10-29T11:13:45Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-10-28T09:25:16+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Industrial, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Industrial",
+    "title": "Industrial - New Balance"
+   },
+   "seo_checked": "2026-10-29T11:13:45Z",
+   "seo_hash": "a52bd26d2099"
+  },
   "https://www.newbalance.co.il/en/shop/Shoes_327": {
    "first_seen": "2026-09-25T11:29:53Z",
    "http": {
@@ -1767,7 +1783,7 @@
     "h1": "CLOTHING",
     "title": "CLOTHING - New Balance"
    },
-   "seo_checked": "2026-10-04T10:58:27Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "bda9dd44f868"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/Matching%20Sets": {
@@ -1783,7 +1799,7 @@
     "h1": "Matching Sets",
     "title": "Matching Sets - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "e941a3a7a395"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/New%20Collection": {
@@ -1799,7 +1815,7 @@
     "h1": "New Collection",
     "title": "New Collection - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "420649b3afc6"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/Tech%20Collection": {
@@ -1815,7 +1831,7 @@
     "h1": "Tech Collection",
     "title": "Tech Collection - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "74c7fdcf3551"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/allclothing": {
@@ -1831,7 +1847,7 @@
     "h1": "All clothing",
     "title": "All clothing - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "7a2955c8015d"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/hoodies%26sweatshirts": {
@@ -1847,7 +1863,7 @@
     "h1": "Hoodies & Sweatshirts",
     "title": "Hoodies & Sweatshirts - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "fdc4a8df1048"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/jackets": {
@@ -1863,7 +1879,7 @@
     "h1": "Jackets",
     "title": "Jackets - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "9fe867647df0"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/longsleeveshirts": {
@@ -1879,7 +1895,7 @@
     "h1": "Long Sleeve Shirts",
     "title": "Long Sleeve Shirts - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "ad1edca3e04c"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/pants%26tights": {
@@ -1895,7 +1911,7 @@
     "h1": "Pants & Tights",
     "title": "Pants & Tights - New Balance"
    },
-   "seo_checked": "2026-10-05T05:19:00Z",
+   "seo_checked": "2026-10-29T11:13:45Z",
    "seo_hash": "6da7a968853e"
   },
   "https://www.newbalance.co.il/en/shop/men/clothing/shorts": {

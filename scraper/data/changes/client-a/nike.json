@@ -7,6 +7,60 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-10-29T11:13:45Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 1 Mid SE 'Hare'",
+    "title": "Air Jordan 1 Mid SE 'Hare' Older Kids' Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/air-jordan-1-mid-se-hare-older-kids-shoes-QbBzlVKm"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-29T11:13:45Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Apex",
+    "title": "Nike Apex Road-Racing Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/apex-road-racing-shoes-9PP6W6uv"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-29T11:13:45Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Women's Fleece Sweatshirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/jordan-brooklyn-womens-fleece-sweatshirt-vdcwInk5"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-29T11:13:45Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Checked Flannel Anorak Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-womens-oversized-checked-flannel-anorak-jacket-7oGgXk59"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-10-28T10:56:07Z",
    "lastmod": null,
    "page": {
@@ -15838,6 +15892,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 4,
+    "keyword_hits": 2
+   },
+   "date": "2026-10-29T11:13:45Z",
+   "status": "ok",
+   "total_urls": 12026
+  },
   {
    "counts": {
     "added": 11,
