@@ -7,6 +7,491 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 1 Mid SE",
+    "title": "Air Jordan 1 Mid SE Men's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-e97bL28Y"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Jordan",
+    "title": "Jordan Women's Oversized T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/jordan-womens-oversized-t-shirt-Z5t51Ema"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Standard Issue",
+    "title": "Nike Standard Issue Men's Nike Dri-FIT Woven Basketball Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/standard-issue-mens-nike-dri-fit-woven-basketball-jacket-neaqbqxi"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Air Max Plus",
+    "title": "Nike Air Max Plus Men's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/air-max-plus-mens-shoes-vTeTz3s3"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Ja 4 'Heat Check'",
+    "title": "Ja 4 'Heat Check' Basketball Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/ja-4-heat-check-basketball-shoes-jSC1lzrr"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Men's Crew-Neck Sweatshirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/jordan-brooklyn-mens-crew-neck-sweatshirt-AtZfza5B"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Kobe 3 Low Protro",
+    "title": "Kobe 3 Low Protro Basketball Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/kobe-3-low-protro-basketball-shoes-RlRrvcbs"
+  },
+  {
+   "asset_type": "blog",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Alphafly 4: Faster Times Are in the Air",
+    "title": "Nike Alphafly 4: Faster Times Are in the Air. Nike IL"
+   },
+   "section": "/a",
+   "type": "added",
+   "url": "https://www.nike.com/il/a/nike-alphafly-4-release-info"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-force-1-baroque-brown-and-desert-moss"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-force-1-low-protro-lenticular-snkrs"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-force-3-low-nigo-midnight-navy-and-shadow-grey-1"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-force-3-low-nigo-phantom-and-night-stadium"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-jordan-1-low-og-chicago-1-emea"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-jordan-6-retro-infrared-salesman-black-and-light-crimson-1"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-max-90-coconut-milk-and-black-1"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-max-95-atelier-nicolas-guillamot"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/air-max-95-atelier-protect-the-children-snkrs"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/nike-sb-air-max-95-black-and-anthracite"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.nike.com/il/nike-next"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "section": "/running",
+   "type": "removed",
+   "url": "https://www.nike.com/il/running/running-on-the-beach"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "section": "/running",
+   "type": "removed",
+   "url": "https://www.nike.com/il/running/running-with-your-dog"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-dri-fit-lightweight-gloves-2wrf5n"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-goat-pack-gilet-5l-JEdg2xwM"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-goat-trail-running-belt-eynTCOo6"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-older-kids-fleece-hoodie-0O25YyfW"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike ACG",
+    "title": "Nike ACG UV Cooling Wrap. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-uv-cooling-wrap-rx9DZo75"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike ACG Vista Peak",
+    "title": "Nike ACG Vista Peak Photochromic Sunglasses. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-vista-peak-photochromic-sunglasses-adHBScL1"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-vista-peak-sunglasses-15QYGlr9"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike ACG Vista Vert",
+    "title": "Nike ACG Vista Vert Sunglasses. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/acg-vista-vert-sunglasses-ifwsS1Vd"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/air-max-95-x-lego-collection-older-kids-shoes-UT9dc7gl"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/air-max-95-x-lego-collection-younger-kids-shoes-QrY07nZK"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/air-max-phoenix-x-lego-collection-older-kids-shoes-FqbCPu9h"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Apex",
+    "title": "Nike Apex Road-Racing Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/apex-road-racing-shoes-9PP6W6uv"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/jr-streetgato-x-lego-collection-older-kids-shoes-qJSR2De5"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "keywords": [
+    "basketball"
+   ],
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/kobe-iii-low-protro-mens-basketball-shoes-RlRrvcbs"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-football-0tWCNoyR"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike x LEGO® Collection Heritage",
+    "title": "Nike x LEGO® Collection Heritage Backpack (25L). Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-heritage-backpack-25l-jH1Nrf"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shirt-eE6OkD7B"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shirt-nk2LpX2G"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shorts-FP9y2KWs"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shorts-xpIxaaiG"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-goalkeeper-shirt-lZd3jrQY"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-hat-14WGJuEe"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-t-shirt-4D71gVOJ"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-older-kids-t-shirt-dress-1T48vAUq"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-shoebox-bag-RcbjpRiA"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/lego-collection-unisex-football-socks-EOO4t1Gz"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear Chill Knit",
+    "title": "Nike Sportswear Chill Knit Women's Slim Cardigan. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/sportswear-chill-knit-womens-slim-cardigan-9GfOJEAF"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-10-31T10:41:23Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/sportswear-nike-x-lego-collection-older-kids-t-shirt-yb0YpzGb"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-10-30T11:08:02Z",
    "lastmod": null,
    "page": {
@@ -16510,6 +16995,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 8,
+    "keyword_hits": 12,
+    "removed": 41
+   },
+   "date": "2026-10-31T10:41:23Z",
+   "status": "ok",
+   "total_urls": 12025
+  },
   {
    "counts": {
     "added": 42,

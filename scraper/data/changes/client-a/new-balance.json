@@ -6,6 +6,213 @@
  },
  "events": [
   {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-08-11T05:38:28+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-07-27T06:19:08+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "997",
+    "title": "997 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-9060"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-09-24T06:03:42+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "SHOES",
+    "title": "SHOES - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shoes"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T08:18:48+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/NOV_lifestyle"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-09-24T06:03:42+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "Unisex",
+    "title": "Unisex - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/unisex"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-07-27T06:19:08+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "9060",
+    "title": "9060 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/9060"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T10:05:02+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "Men",
+    "title": "Men - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T10:05:02+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "SHOES",
+    "title": "SHOES - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T10:05:02+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "All Shoes",
+    "title": "All Shoes - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/allshoes"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T10:05:02+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "Lifestyle",
+    "title": "Lifestyle - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/Lifestyle"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T10:05:02+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-09-24T06:03:42+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "Women",
+    "title": "Women - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-09-24T06:03:42+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "All Shoes",
+    "title": "All Shoes - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shoes/women-allshoes"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-09-24T06:03:42+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "Lifestyle",
+    "title": "Lifestyle - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shoes/women-lifestyle"
+  },
+  {
+   "after": "2026-10-29T08:40:58+00:00",
+   "asset_type": "category",
+   "before": "2026-07-27T06:19:08+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "h1": "9060",
+    "title": "9060 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/Shoes_9060"
+  },
+  {
+   "after": "2026-10-30T12:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-10-29T12:00:03+00:00",
+   "date": "2026-10-31T10:41:23Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
    "after": "2026-10-29T12:00:03+00:00",
    "asset_type": "other",
    "before": "2026-10-28T12:00:04+00:00",
@@ -844,6 +1051,14 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "updated": 16
+   },
+   "date": "2026-10-31T10:41:23Z",
+   "status": "ok",
+   "total_urls": 230
+  },
   {
    "counts": {
     "updated": 1

@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-10-30T11:08:02Z",
+  "last_run": "2026-10-31T10:41:23Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -6408,43 +6408,163 @@
   },
   "https://www.nike.com/il/a/blood-blister-on-toe": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/blood-blister-on-toe",
+    "description": "Experts explain what a blood blister is and how to treat one on your toe.",
+    "h1": "What to do if you get a blood blister on your toe, according to podiatrists",
+    "title": "What To Do If You Get a Blood Blister on Your Toe, According to Podiatrists. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "548d72e05d01"
   },
   "https://www.nike.com/il/a/blueprint-pack-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/blueprint-pack-release-info",
+    "description": "Enjoy the same legendary technology across a range of shoes.",
+    "h1": "Nike's best Air-powered products on display in Blueprint Pack",
+    "title": "Nike's best Air-powered products on display in Blueprint Pack. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "00b112bde523"
   },
   "https://www.nike.com/il/a/bodyweight-back-exercises": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bodyweight-back-exercises",
+    "description": "Two certified personal trainers explain why these bodyweight back exercises are key for overall strength, posture and balance.",
+    "h1": "The Top Bodyweight Back Exercises, According to Trainers",
+    "title": "The Top Bodyweight Back Exercises, According to Trainers. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "aef4850f980a"
   },
   "https://www.nike.com/il/a/bodyweight-chest-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bodyweight-chest-workout",
+    "description": "Trainers identify the most effective bodyweight chest exercise—as well as several variations.",
+    "h1": "The Top Bodyweight Chest Workout, According to Trainers",
+    "title": "The Top Bodyweight Chest Workout. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "433345583897"
   },
   "https://www.nike.com/il/a/bodyweight-exercise-benefits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bodyweight-exercise-benefits",
+    "description": "Top trainers and experts weigh in on how these simple moves can be key to building overall fitness and strength.",
+    "h1": "10 Benefits of Bodyweight Exercises According to Experts",
+    "title": "10 Benefits of Bodyweight Exercises, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "8b2e45fd282c"
   },
   "https://www.nike.com/il/a/bodyweight-leg-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bodyweight-leg-workout",
+    "description": "Two certified personal trainers share their three favourite moves to include in your next bodyweight leg workout.",
+    "h1": "Try This Expert-Approved Bodyweight Leg Workout",
+    "title": "Try This Expert-approved Bodyweight Leg Workout. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "a23d76aa277d"
   },
   "https://www.nike.com/il/a/boost-kids-positive-mindset": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/boost-kids-positive-mindset",
+    "description": "It can be beneficial to relieve the pressure that many kids feel to perform. Learn how to help them deal with setbacks, create a healthy mindset and more.",
+    "h1": null,
+    "title": "Get School-Ready: Boost Kids' Positive Mindsets. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "695dd5665d92"
   },
   "https://www.nike.com/il/a/bosu-ball-exercises": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/bosu-ball-exercises",
+    "description": "Experts share how this piece of workout equipment can be an excellent stability challenge.",
+    "h1": "10 Bosu Ball Exercises That Can Make Any Workout Better",
+    "title": "10 Bosu Ball Exercises That Make Any Workout Better. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "03fa6f145334"
   },
   "https://www.nike.com/il/a/break-the-rules": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/break-the-rules",
+    "description": "It's not about fitting in; it's about standing out. So rewrite the rules. Get creative with layers, mix different colours and go bold with accessories. When you're a boundary-breaker, it's not this or that—it's this AND that. Sprinter and golfer. Dancer and kickboxer. Hooper and swimmer. Why pick on",
+    "h1": "Break the Rules",
+    "title": "Nike Teens: break the rules. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "236561423faa"
   },
   "https://www.nike.com/il/a/breakfast-before-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/breakfast-before-workout",
+    "description": "A registered dietitian explains if you should work out before or after breakfast and even provides a few healthy meal ideas.",
+    "h1": "Should You Eat Breakfast Before or After a Workout?",
+    "title": "Should You Eat Breakfast Before or After a Workout? | Article \"OGC\". Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "306be55b9f5b"
   },
   "https://www.nike.com/il/a/breasts-different-sizes-naqs": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -9145,6 +9265,22 @@
   "https://www.nike.com/il/a/nike-aja-one-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/a/nike-alphafly-4-release-info": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/nike-alphafly-4-release-info",
+    "description": "The Nike Alphafly 4 is Nike's most advanced racing shoe yet, built with new Air Zoom units and ZoomX LT foam for a lighter, more stable ride. Get release date and specs.",
+    "h1": "Nike Alphafly 4: Faster Times Are in the Air",
+    "title": "Nike Alphafly 4: Faster Times Are in the Air. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "3a007fecdba7"
   },
   "https://www.nike.com/il/a/nike-athena-zeus-sunglasses-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -12098,10 +12234,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/air-force-1-baroque-brown-and-desert-moss": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/air-force-1-betrue1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -12182,10 +12314,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/air-force-1-low-protro-lenticular-snkrs": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/air-force-1-low-wheat-mocha": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -12231,14 +12359,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/launch/t/air-force-1-x-terror-squad-blackout": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/air-force-3-low-nigo-midnight-navy-and-shadow-grey-1": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/air-force-3-low-nigo-phantom-and-night-stadium": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -12291,10 +12411,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/launch/t/air-jordan-1-j-balvin": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/air-jordan-1-low-og-chicago-1-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -12630,10 +12746,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/air-jordan-6-retro-infrared-salesman-black-and-light-crimson-1": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/air-jordan-6-retro-low-psg-release-date": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -12754,10 +12866,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/air-max-90-coconut-milk-and-black-1": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/air-max-90-green-camo": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -12779,14 +12887,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/launch/t/air-max-95-atelier-amiina-tv": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/air-max-95-atelier-nicolas-guillamot": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/air-max-95-atelier-protect-the-children-snkrs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -14415,10 +14515,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/launch/t/nike-sacai-vaporwaffle-white-gum": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/nike-sb-air-max-95-black-and-anthracite": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -17179,10 +17275,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/nike-next": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/nike-sport-research-lab-form": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -17428,14 +17520,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/running/run-fearless": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/running/running-on-the-beach": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/running/running-with-your-dog": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -18111,10 +18195,6 @@
    "seo_checked": "2026-10-01T05:07:14Z",
    "seo_hash": "72f1012e9325"
   },
-  "https://www.nike.com/il/t/acg-dri-fit-lightweight-gloves-2wrf5n": {
-   "first_seen": "2026-10-02T05:06:40Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/acg-five-towers-mens-uv-protective-jacket-JEaqlSMo": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -18125,14 +18205,6 @@
   },
   "https://www.nike.com/il/t/acg-fly-unstructured-cap-bbOsKOZk": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/acg-goat-pack-gilet-5l-JEdg2xwM": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/acg-goat-trail-running-belt-eynTCOo6": {
-   "first_seen": "2026-10-15T05:19:12Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/acg-high-stakes-mens-hiking-trousers-YXdLYfcx": {
@@ -18337,10 +18409,6 @@
   },
   "https://www.nike.com/il/t/acg-misery-ridge-storm-fit-adv-gore-tex-jacket-MzPw7x": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/acg-older-kids-fleece-hoodie-0O25YyfW": {
-   "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/acg-older-kids-girls-skort-x5YR0gSY": {
@@ -18623,61 +18691,9 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/acg-uv-cooling-wrap-rx9DZo75": {
-   "first_seen": "2026-10-09T05:08:23Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/acg-uv-cooling-wrap-rx9DZo75",
-    "description": "Find the Nike ACG UV Cooling Wrap at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike ACG",
-    "title": "Nike ACG UV Cooling Wrap. Nike IL"
-   },
-   "seo_checked": "2026-10-09T05:08:23Z",
-   "seo_hash": "9b6645bc9247"
-  },
   "https://www.nike.com/il/t/acg-vault-dri-fit-long-sleeve-top-iYNcl4lH": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
-  },
-  "https://www.nike.com/il/t/acg-vista-peak-photochromic-sunglasses-adHBScL1": {
-   "first_seen": "2026-10-15T05:19:12Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/acg-vista-peak-photochromic-sunglasses-adHBScL1",
-    "description": "Find the Nike ACG Vista Peak Photochromic Sunglasses at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike ACG Vista Peak",
-    "title": "Nike ACG Vista Peak Photochromic Sunglasses. Nike IL"
-   },
-   "seo_checked": "2026-10-15T05:19:12Z",
-   "seo_hash": "605fe3a79901"
-  },
-  "https://www.nike.com/il/t/acg-vista-peak-sunglasses-15QYGlr9": {
-   "first_seen": "2026-10-15T05:19:12Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/acg-vista-vert-sunglasses-ifwsS1Vd": {
-   "first_seen": "2026-10-15T05:19:12Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/acg-vista-vert-sunglasses-ifwsS1Vd",
-    "description": "Find the Nike ACG Vista Vert Sunglasses at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike ACG Vista Vert",
-    "title": "Nike ACG Vista Vert Sunglasses. Nike IL"
-   },
-   "seo_checked": "2026-10-15T05:19:12Z",
-   "seo_hash": "3399a2f17449"
   },
   "https://www.nike.com/il/t/acg-whispering-peaks-therma-fit-adv-trousers-7BRE81PU": {
    "first_seen": "2026-10-27T10:09:33Z",
@@ -19879,6 +19895,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-e97bL28Y": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-e97bL28Y",
+    "description": "Find the Air Jordan 1 Mid SE Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Air Jordan 1 Mid SE",
+    "title": "Air Jordan 1 Mid SE Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "aecdae57ae3c"
+  },
   "https://www.nike.com/il/t/air-jordan-1-mid-se-mens-shoes-k3PG5WXU": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20647,14 +20679,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-max-95-x-lego-collection-older-kids-shoes-UT9dc7gl": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/air-max-95-x-lego-collection-younger-kids-shoes-QrY07nZK": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-max-alpha-trainer-6-premium-mens-training-shoes-DSMnyXRs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20851,10 +20875,6 @@
    "first_seen": "2026-10-15T05:19:12Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-max-phoenix-x-lego-collection-older-kids-shoes-FqbCPu9h": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-max-plus-3-mens-shoes-7SKBLq": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -20910,6 +20930,22 @@
   "https://www.nike.com/il/t/air-max-plus-mens-shoes-oY2jVAdS": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-max-plus-mens-shoes-vTeTz3s3": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-max-plus-mens-shoes-vTeTz3s3",
+    "description": "Find the Nike Air Max Plus Men's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Max Plus",
+    "title": "Nike Air Max Plus Men's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "cefb04fc61f0"
   },
   "https://www.nike.com/il/t/air-max-plus-older-kids-shoes-IDOH5aOi": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -21186,22 +21222,6 @@
   "https://www.nike.com/il/t/apex-kids-futura-bucket-hat-LmQDgh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
-  },
-  "https://www.nike.com/il/t/apex-road-racing-shoes-9PP6W6uv": {
-   "first_seen": "2026-10-29T11:13:45Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/apex-road-racing-shoes-9PP6W6uv",
-    "description": "Find the Nike Apex Road-Racing Shoes at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Apex",
-    "title": "Nike Apex Road-Racing Shoes. Nike IL"
-   },
-   "seo_checked": "2026-10-29T11:13:45Z",
-   "seo_hash": "f375f3669551"
   },
   "https://www.nike.com/il/t/apex-swoosh-bucket-hat-HDcCrx": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -26663,6 +26683,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/ja-4-heat-check-basketball-shoes-jSC1lzrr": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/ja-4-heat-check-basketball-shoes-jSC1lzrr",
+    "description": "Find the Ja 4 'Heat Check' Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Ja 4 'Heat Check'",
+    "title": "Ja 4 'Heat Check' Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "d0b30479a794"
+  },
   "https://www.nike.com/il/t/ja-4-zombie-basketball-shoes-sXxICqTk": {
    "first_seen": "2026-10-23T05:20:33Z",
    "http": {
@@ -27214,6 +27250,22 @@
   "https://www.nike.com/il/t/jordan-brooklyn-mens-coaches-jacket-RZFLLD30": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-brooklyn-mens-crew-neck-sweatshirt-AtZfza5B": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-mens-crew-neck-sweatshirt-AtZfza5B",
+    "description": "Find the Jordan Brooklyn Men's Crew-Neck Sweatshirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Men's Crew-Neck Sweatshirt. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "b261b1b928fa"
   },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-crew-t-shirt-r9WnSYA4": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -29667,6 +29719,22 @@
    "seo_checked": "2026-10-10T05:07:09Z",
    "seo_hash": "16804562432d"
   },
+  "https://www.nike.com/il/t/jordan-womens-oversized-t-shirt-Z5t51Ema": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-womens-oversized-t-shirt-Z5t51Ema",
+    "description": "Find the Jordan Women's Oversized T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan",
+    "title": "Jordan Women's Oversized T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "7db186eb949b"
+  },
   "https://www.nike.com/il/t/jordan-womens-realtree-t-shirt-HecNEODm": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29971,10 +30039,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jr-streetgato-x-lego-collection-older-kids-shoes-qJSR2De5": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/jr-tiempo-maestro-academy-little-kids-multi-ground-low-top-football-boots-anuyfhLs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30131,6 +30195,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/kobe-3-low-protro-basketball-shoes-RlRrvcbs": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/kobe-3-low-protro-basketball-shoes-RlRrvcbs",
+    "description": "Find the Kobe 3 Low Protro Basketball Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Kobe 3 Low Protro",
+    "title": "Kobe 3 Low Protro Basketball Shoes. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "42fcb2d5ca97"
+  },
   "https://www.nike.com/il/t/kobe-3-low-protro-older-kids-basketball-shoes-bbvm9hAu": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30140,10 +30220,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/kobe-iii-low-older-kids-basketball-shoes-eyV5yyT0": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/kobe-iii-low-protro-mens-basketball-shoes-RlRrvcbs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -30659,50 +30735,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/lego-collection-football-0tWCNoyR": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-heritage-backpack-25l-jH1Nrf": {
-   "first_seen": "2026-10-22T05:21:45Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/lego-collection-heritage-backpack-25l-jH1Nrf",
-    "description": "Find the Nike x LEGO® Collection Heritage Backpack (25L) at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike x LEGO® Collection Heritage",
-    "title": "Nike x LEGO® Collection Heritage Backpack (25L). Nike IL"
-   },
-   "seo_checked": "2026-10-22T05:21:45Z",
-   "seo_hash": "67844a03b5ee"
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shirt-eE6OkD7B": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shirt-nk2LpX2G": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shorts-FP9y2KWs": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-aero-fit-football-shorts-xpIxaaiG": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-goalkeeper-shirt-lZd3jrQY": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-hat-14WGJuEe": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/lego-collection-older-kids-hoodie-csDMh9zM": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -30711,23 +30743,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/lego-collection-older-kids-t-shirt-4D71gVOJ": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-older-kids-t-shirt-dress-1T48vAUq": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/lego-collection-older-kids-t-shirt-yJesVoxd": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-shoebox-bag-RcbjpRiA": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/lego-collection-unisex-football-socks-EOO4t1Gz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -36427,22 +36443,6 @@
    "seo_checked": "2026-10-06T05:07:18Z",
    "seo_hash": "666f0ea59ecd"
   },
-  "https://www.nike.com/il/t/sportswear-chill-knit-womens-slim-cardigan-9GfOJEAF": {
-   "first_seen": "2026-10-14T05:19:22Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/sportswear-chill-knit-womens-slim-cardigan-9GfOJEAF",
-    "description": "Find the Nike Sportswear Chill Knit Women's Slim Cardigan at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Sportswear Chill Knit",
-    "title": "Nike Sportswear Chill Knit Women's Slim Cardigan. Nike IL"
-   },
-   "seo_checked": "2026-10-14T05:19:22Z",
-   "seo_hash": "07f352fdafbd"
-  },
   "https://www.nike.com/il/t/sportswear-chill-knit-womens-slim-cropped-t-shirt-HpchTqCl": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -37096,10 +37096,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/sportswear-modern-fleece-womens-mid-rise-loose-shorts-xb7JWl": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/sportswear-nike-x-lego-collection-older-kids-t-shirt-yb0YpzGb": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -38230,6 +38226,22 @@
    },
    "seo_checked": "2026-10-14T05:19:22Z",
    "seo_hash": "747b4eb2fa4d"
+  },
+  "https://www.nike.com/il/t/standard-issue-mens-nike-dri-fit-woven-basketball-jacket-neaqbqxi": {
+   "first_seen": "2026-10-31T10:41:23Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/standard-issue-mens-nike-dri-fit-woven-basketball-jacket-neaqbqxi",
+    "description": "Find the Nike Standard Issue Men's Nike Dri-FIT Woven Basketball Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Standard Issue",
+    "title": "Nike Standard Issue Men's Nike Dri-FIT Woven Basketball Jacket. Nike IL"
+   },
+   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_hash": "fa5ed27f06f6"
   },
   "https://www.nike.com/il/t/standard-issue-mens-practice-mesh-12-5cm-approx-basketball-shorts-OUIs1sbI": {
    "first_seen": "2026-09-24T08:34:55Z",
