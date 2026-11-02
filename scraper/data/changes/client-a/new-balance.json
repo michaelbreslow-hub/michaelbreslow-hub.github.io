@@ -6,6 +6,120 @@
  },
  "events": [
   {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": "2026-10-29T08:40:58+00:00",
+   "page": {
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_lifestyle"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": "2026-11-01T06:25:38+00:00",
+   "page": {
+    "h1": "Shopping IL",
+    "title": "Shopping IL - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": "2026-10-26T08:26:15+00:00",
+   "page": {
+    "h1": "Shoppinh Kids",
+    "title": "Shoppinh Kids - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": "2026-10-19T08:18:29+00:00",
+   "page": {
+    "h1": "Running Sale",
+    "title": "Running Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_running"
+  },
+  {
+   "after": "2026-11-02T12:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-10-31T12:00:03+00:00",
+   "date": "2026-11-02T12:59:39Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": "2026-10-26T08:26:15+00:00",
+   "page": {
+    "h1": "Shoppinh Kids",
+    "title": "Shoppinh Kids - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/NOV_Kids"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": "2026-10-29T08:40:58+00:00",
+   "page": {
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/NOV_lifestyle"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": "2026-10-19T08:18:29+00:00",
+   "page": {
+    "h1": "Running Sale",
+    "title": "Running Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/NOV_running"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": "2026-10-28T09:25:16+00:00",
+   "page": {
+    "h1": "Industrial",
+    "title": "Industrial - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes"
+  },
+  {
    "after": "2026-10-31T12:00:03+00:00",
    "asset_type": "other",
    "before": "2026-10-30T12:00:03+00:00",
@@ -1063,6 +1177,17 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 4,
+    "keyword_hits": 2,
+    "removed": 4,
+    "updated": 1
+   },
+   "date": "2026-11-02T12:59:39Z",
+   "status": "ok",
+   "total_urls": 230
+  },
   {
    "counts": {
     "updated": 1

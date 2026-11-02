@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-01T11:36:35Z",
+  "last_run": "2026-11-02T12:59:39Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -6728,43 +6728,163 @@
   },
   "https://www.nike.com/il/a/camping-gift-ideas": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/camping-gift-ideas",
+    "description": "Discover the most useful gear for your outdoor adventurer.",
+    "h1": "Nike Gifts for the Camper in Your Life",
+    "title": "Camping gift ideas by Nike. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "a5bf13635404"
   },
   "https://www.nike.com/il/a/camping-outfits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/camping-outfits",
+    "description": "To get the most out of a camping trip, you'll want the right camping outfits and gear to stay warm, dry and protected from the elements.",
+    "h1": "The Best Nike Gear to Wear Camping",
+    "title": "The Best Camping Outfits for Men and Women. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "fa81b1b09516"
   },
   "https://www.nike.com/il/a/can-running-give-you-abs": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/can-running-give-you-abs",
+    "description": "Experts explain why running on its own won’t give you a visible six-pack.",
+    "h1": "Can Running Give You Abs? Experts Explain",
+    "title": "Can Running Really Give You Abs? . Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "d852d22d17fc"
   },
   "https://www.nike.com/il/a/can-weightlifting-stunt-growth": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/can-weightlifting-stunt-growth",
+    "description": "Here's what coaches say about the risks of weight lifting for tweens and teens.",
+    "h1": "Can Weightlifting Stunt Growth? Experts Explain",
+    "title": "Can Weightlifting Stunt Growth? Experts Explain. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "d0daa4ff60ea"
   },
   "https://www.nike.com/il/a/can-you-put-shoes-in-the-washer": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/can-you-put-shoes-in-the-washer",
+    "description": "To preserve the quality of your shoes, check out the best way to clean them.",
+    "h1": "Can You Put Sneakers in the Washing Machine? Here's the Best Way to Wash Your Nikes",
+    "title": "Can You Put Sneakers in the Washing Machine? Here’s How to Wash Your Nikes. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "152f16efc61b"
   },
   "https://www.nike.com/il/a/can-you-swim-on-your-period": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/can-you-swim-on-your-period",
+    "description": "Two doctors debunk the myth that swimming on your period is unsafe and even explain how the exercise can ease symptoms.",
+    "h1": "Can You Swim on Your Period? Experts Explain",
+    "title": "Can You Swim on Your Period? Experts Explain. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "6e7de960b8e2"
   },
   "https://www.nike.com/il/a/cardio-before-after-weight-training": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cardio-before-after-weight-training",
+    "description": "Here, experts explain whether to do cardio before or after weights. Hint, it depends on your goals.",
+    "h1": "Should You Do Cardio Before or After Weights? What Science Says About Fat Loss and Muscle Gain",
+    "title": "Should You Do Cardio Before or After Weight Training?. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "ac12fc006040"
   },
   "https://www.nike.com/il/a/cardio-hiit-difference": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cardio-hiit-difference",
+    "description": "Are duration and intensity the only differences between steady-state cardio and HIIT? How about the benefits? Here's what you need to know about each.",
+    "h1": "Cardio vs. HIIT: train smarter for fat loss and fitness",
+    "title": "Cardio vs HIIT: What Are the Benefits of Each?. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "99ff85daeee8"
   },
   "https://www.nike.com/il/a/cardio-vs-strength-training": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cardio-vs-strength-training",
+    "description": "Both cardio and strength training have important health benefits. The key is finding the right balance.",
+    "h1": "Cardio vs Strength Training: Which Is Better and How Can You Combine Them?",
+    "title": "The benefits of cardio vs. strength training. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "c43d29a41bb7"
   },
   "https://www.nike.com/il/a/cardio-without-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cardio-without-running",
+    "description": "Break a sweat with these heart-pumping workouts.",
+    "h1": "9 cardio exercises that aren't running",
+    "title": "9 cardio exercises that aren't running . Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "974b66138aab"
   },
   "https://www.nike.com/il/a/cardio-workout-at-home": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -17359,10 +17479,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/milano-design-week-nike-air-lab": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/mind": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26602,6 +26718,54 @@
   "https://www.nike.com/il/t/inter-milan-mens-nike-dri-fit-football-pre-match-top-ZLqosZ88": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/inter-milan-mens-nike-football-jumper-siEAcddX": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/inter-milan-mens-nike-football-jumper-siEAcddX",
+    "description": "Find the Inter Milan Men's Nike Football Jumper at Nike.com. Shop online at Nike.com.",
+    "h1": "Inter Milan",
+    "title": "Inter Milan Men's Nike Football Jumper. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "dd07b29d0f93"
+  },
+  "https://www.nike.com/il/t/inter-milan-nike-mens-swoosh-football-t-shirt-oopHLwQf": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/inter-milan-nike-mens-swoosh-football-t-shirt-oopHLwQf",
+    "description": "Find the Inter Milan Nike Men's Swoosh Football T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Inter Milan",
+    "title": "Inter Milan Nike Men's Swoosh Football T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "3a33ad8b64c6"
+  },
+  "https://www.nike.com/il/t/inter-milan-nike-older-kids-swoosh-football-t-shirt-34CnW7vN": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/inter-milan-nike-older-kids-swoosh-football-t-shirt-34CnW7vN",
+    "description": "Find the Inter Milan Nike Older Kids' Swoosh Football T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Inter Milan",
+    "title": "Inter Milan Nike Older Kids' Swoosh Football T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "53b95f28913f"
   },
   "https://www.nike.com/il/t/inter-milan-older-kids-nike-football-long-sleeve-t-shirt-IOq4paR5": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -37070,6 +37234,22 @@
   "https://www.nike.com/il/t/sportswear-older-kids-girls-mesh-cover-up-dance-top-9NqgkxFo": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-older-kids-girls-satin-long-sleeve-dress-lsxLVDsU": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-older-kids-girls-satin-long-sleeve-dress-lsxLVDsU",
+    "description": "Find the Nike Sportswear Older Kids' (Girls') Satin Long-Sleeve Dress at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Older Kids' (Girls') Satin Long-Sleeve Dress. Nike IL"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "40510d922a07"
   },
   "https://www.nike.com/il/t/sportswear-older-kids-girls-skort-4gEcIxrH": {
    "first_seen": "2026-09-24T08:34:55Z",

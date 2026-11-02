@@ -19,11 +19,10 @@
       "/size-fit"
      ],
      "excluded_urls": 2571,
-     "last_checked": "2026-11-01T11:36:35Z",
+     "last_checked": "2026-11-02T12:59:39Z",
      "last_counts": {
-      "added": 9,
-      "keyword_hits": 37,
-      "removed": 85
+      "added": 4,
+      "removed": 1
      },
      "name": "Nike",
      "notes": [],
@@ -31,7 +30,7 @@
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 11949
+     "total_urls": 11952
     },
     {
      "asset_types": {},
@@ -43,8 +42,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-01T11:36:35Z",
+     "last_checked": "2026-11-02T12:59:39Z",
      "last_counts": {
+      "added": 4,
+      "keyword_hits": 2,
+      "removed": 4,
       "updated": 1
      },
      "name": "New Balance",
@@ -65,7 +67,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-01T11:36:35Z",
+     "last_checked": "2026-11-02T12:59:39Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -87,12 +89,10 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-01T11:36:35Z",
+     "last_checked": "2026-11-02T12:59:39Z",
      "last_counts": {
-      "added": 1,
       "keyword_hits": 178,
-      "removed": 12,
-      "updated": 5813
+      "updated": 5804
      },
      "name": "Reebok",
      "notes": [
@@ -114,11 +114,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-01T11:36:35Z",
+     "last_checked": "2026-11-02T12:59:39Z",
      "last_counts": {
-      "added": 47,
-      "removed": 38,
-      "updated": 43
+      "added": 3,
+      "removed": 8,
+      "updated": 40
      },
      "name": "Skechers",
      "notes": [],
@@ -126,7 +126,7 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5933
+     "total_urls": 5928
     }
    ],
    "id": "client-a",
@@ -140,6 +140,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-11-01T11:36:35Z",
+ "generated_at": "2026-11-02T12:59:39Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

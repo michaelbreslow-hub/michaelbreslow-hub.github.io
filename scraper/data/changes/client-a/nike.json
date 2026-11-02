@@ -7,6 +7,62 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Inter Milan",
+    "title": "Inter Milan Men's Nike Football Jumper. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/inter-milan-mens-nike-football-jumper-siEAcddX"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Inter Milan",
+    "title": "Inter Milan Nike Men's Swoosh Football T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/inter-milan-nike-mens-swoosh-football-t-shirt-oopHLwQf"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Inter Milan",
+    "title": "Inter Milan Nike Older Kids' Swoosh Football T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/inter-milan-nike-older-kids-swoosh-football-t-shirt-34CnW7vN"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Older Kids' (Girls') Satin Long-Sleeve Dress. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-older-kids-girls-satin-long-sleeve-dress-lsxLVDsU"
+  },
+  {
+   "asset_type": "other",
+   "date": "2026-11-02T12:59:39Z",
+   "lastmod": null,
+   "section": "(other pages)",
+   "type": "removed",
+   "url": "https://www.nike.com/il/milano-design-week-nike-air-lab"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-01T11:36:35Z",
    "keywords": [
     "basketball"
@@ -17955,6 +18011,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 4,
+    "removed": 1
+   },
+   "date": "2026-11-02T12:59:39Z",
+   "status": "ok",
+   "total_urls": 11952
+  },
   {
    "counts": {
     "added": 9,

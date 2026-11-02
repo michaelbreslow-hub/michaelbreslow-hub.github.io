@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-11-01T11:36:35Z",
+  "last_run": "2026-11-02T12:59:39Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-10-31T12:00:03+00:00",
+   "lastmod": "2026-11-02T12:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-11-01T11:36:35Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -746,54 +746,6 @@
    "seo_checked": "2026-10-22T05:21:45Z",
    "seo_hash": "fce6fd287c03"
   },
-  "https://www.newbalance.co.il/en/shop/NOV_Kids": {
-   "first_seen": "2026-10-28T10:56:07Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": "2026-10-26T08:26:15+00:00",
-   "seo": {
-    "canonical": "https://www.newbalance.co.il/en/shop/NOV_Kids",
-    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shoppinh Kids, צפו בקטלוג והזמינו בחנות אונליין.",
-    "h1": "Shoppinh Kids",
-    "title": "Shoppinh Kids - New Balance"
-   },
-   "seo_checked": "2026-10-28T10:56:07Z",
-   "seo_hash": "273a217525fa"
-  },
-  "https://www.newbalance.co.il/en/shop/NOV_lifestyle": {
-   "first_seen": "2026-10-21T05:20:43Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": "2026-10-29T08:40:58+00:00",
-   "seo": {
-    "canonical": "https://www.newbalance.co.il/en/shop/NOV_lifestyle",
-    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Lifestyle Sale, צפו בקטלוג והזמינו בחנות אונליין.",
-    "h1": "Lifestyle Sale",
-    "title": "Lifestyle Sale - New Balance"
-   },
-   "seo_checked": "2026-10-31T10:41:23Z",
-   "seo_hash": "8aaa857d3b61"
-  },
-  "https://www.newbalance.co.il/en/shop/NOV_running": {
-   "first_seen": "2026-10-21T05:20:43Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": "2026-10-19T08:18:29+00:00",
-   "seo": {
-    "canonical": "https://www.newbalance.co.il/en/shop/NOV_running",
-    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Running Sale, צפו בקטלוג והזמינו בחנות אונליין.",
-    "h1": "Running Sale",
-    "title": "Running Sale - New Balance"
-   },
-   "seo_checked": "2026-10-21T05:20:43Z",
-   "seo_hash": "5557ec17d532"
-  },
   "https://www.newbalance.co.il/en/shop/New_Collection_FW2026": {
    "first_seen": "2026-09-25T11:29:53Z",
    "http": {
@@ -841,6 +793,70 @@
    },
    "seo_checked": "2026-10-22T05:21:45Z",
    "seo_hash": "21a1021a9ebd"
+  },
+  "https://www.newbalance.co.il/en/shop/November%20Sale": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-11-01T06:25:38+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/November%20Sale",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shopping IL, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shopping IL",
+    "title": "Shopping IL - New Balance"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "cb1af41c81bc"
+  },
+  "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-10-26T08:26:15+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shoppinh Kids, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shoppinh Kids",
+    "title": "Shoppinh Kids - New Balance"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "0dec6fe49b32"
+  },
+  "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_lifestyle": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-10-29T08:40:58+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_lifestyle",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Lifestyle Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "5a240551e7a1"
+  },
+  "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_running": {
+   "first_seen": "2026-11-02T12:59:39Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-10-19T08:18:29+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_running",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Running Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Running Sale",
+    "title": "Running Sale - New Balance"
+   },
+   "seo_checked": "2026-11-02T12:59:39Z",
+   "seo_hash": "fbc64882a572"
   },
   "https://www.newbalance.co.il/en/shop/Numeric_August_Sale": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -1257,22 +1273,6 @@
    },
    "seo_checked": "2026-10-25T09:31:37Z",
    "seo_hash": "5eb0461bdc47"
-  },
-  "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes": {
-   "first_seen": "2026-10-29T11:13:45Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": "2026-10-28T09:25:16+00:00",
-   "seo": {
-    "canonical": "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes",
-    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Industrial, צפו בקטלוג והזמינו בחנות אונליין.",
-    "h1": "Industrial",
-    "title": "Industrial - New Balance"
-   },
-   "seo_checked": "2026-10-29T11:13:45Z",
-   "seo_hash": "a52bd26d2099"
   },
   "https://www.newbalance.co.il/en/shop/Shoes_327": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -2455,7 +2455,7 @@
     "h1": "Athletics",
     "title": "Athletics - New Balance"
    },
-   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "6362aedf4977"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-basketball": {
@@ -2471,7 +2471,7 @@
     "h1": "Basketball",
     "title": "Basketball - New Balance"
    },
-   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "f8fc0582ef2f"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-running": {
@@ -2487,7 +2487,7 @@
     "h1": "Running",
     "title": "Running - New Balance"
    },
-   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "c8b16caf1f15"
   },
   "https://www.newbalance.co.il/en/shop/men/sports/sports-tennis": {
@@ -2503,7 +2503,7 @@
     "h1": "Tennis",
     "title": "Tennis - New Balance"
    },
-   "seo_checked": "2026-10-09T05:08:23Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "98146f376f1b"
   },
   "https://www.newbalance.co.il/en/shop/new": {
@@ -2519,7 +2519,7 @@
     "h1": "New",
     "title": "New - New Balance"
    },
-   "seo_checked": "2026-10-10T05:07:09Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "a956d12124fb"
   },
   "https://www.newbalance.co.il/en/shop/new/new-kids": {
@@ -2535,7 +2535,7 @@
     "h1": "Shop kids",
     "title": "Shop kids - New Balance"
    },
-   "seo_checked": "2026-10-10T05:07:09Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "3f0870a299b6"
   },
   "https://www.newbalance.co.il/en/shop/new/new-men": {
@@ -2551,7 +2551,7 @@
     "h1": "Shop men",
     "title": "Shop men - New Balance"
    },
-   "seo_checked": "2026-10-10T05:07:09Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "9ddcaca01669"
   },
   "https://www.newbalance.co.il/en/shop/new/new-women": {
@@ -2567,7 +2567,7 @@
     "h1": "Shop women",
     "title": "Shop women - New Balance"
    },
-   "seo_checked": "2026-10-10T05:07:09Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "8663f3104966"
   },
   "https://www.newbalance.co.il/en/shop/new_clothing": {
@@ -2583,7 +2583,7 @@
     "h1": "Clothing",
     "title": "Clothing - New Balance"
    },
-   "seo_checked": "2026-10-10T05:07:09Z",
+   "seo_checked": "2026-11-02T12:59:39Z",
    "seo_hash": "7e277f9c3bd7"
   },
   "https://www.newbalance.co.il/en/shop/new_lifestyle": {
