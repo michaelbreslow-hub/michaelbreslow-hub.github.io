@@ -19,11 +19,11 @@
       "/size-fit"
      ],
      "excluded_urls": 2571,
-     "last_checked": "2026-11-03T12:33:32Z",
+     "last_checked": "2026-11-04T12:43:37Z",
      "last_counts": {
-      "added": 45,
-      "keyword_hits": 23,
-      "removed": 37
+      "added": 18,
+      "keyword_hits": 7,
+      "removed": 1
      },
      "name": "Nike",
      "notes": [],
@@ -31,7 +31,7 @@
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 11960
+     "total_urls": 11977
     },
     {
      "asset_types": {},
@@ -43,9 +43,9 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-03T12:33:32Z",
+     "last_checked": "2026-11-04T12:43:37Z",
      "last_counts": {
-      "updated": 1
+      "updated": 10
      },
      "name": "New Balance",
      "notes": [],
@@ -65,7 +65,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-03T12:33:32Z",
+     "last_checked": "2026-11-04T12:43:37Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -87,12 +87,11 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-03T12:33:32Z",
+     "last_checked": "2026-11-04T12:43:37Z",
      "last_counts": {
-      "added": 2,
+      "added": 6,
       "keyword_hits": 180,
-      "removed": 1,
-      "updated": 5786
+      "updated": 5615
      },
      "name": "Reebok",
      "notes": [
@@ -102,7 +101,7 @@
      "sitemaps_fetched": 12,
      "slug": "reebok",
      "status": "ok",
-     "total_urls": 6032
+     "total_urls": 6038
     },
     {
      "asset_types": {},
@@ -114,11 +113,12 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-03T12:33:32Z",
+     "last_checked": "2026-11-04T12:43:37Z",
      "last_counts": {
-      "keyword_hits": 1,
-      "removed": 19,
-      "updated": 40
+      "added": 9,
+      "removed": 108,
+      "seo_changed": 1,
+      "updated": 44
      },
      "name": "Skechers",
      "notes": [],
@@ -126,7 +126,7 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5909
+     "total_urls": 5810
     }
    ],
    "id": "client-a",
@@ -140,6 +140,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-11-03T12:33:32Z",
+ "generated_at": "2026-11-04T12:43:37Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }
