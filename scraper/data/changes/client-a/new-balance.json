@@ -6,6 +6,18 @@
  },
  "events": [
   {
+   "after": "2026-11-05T12:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-11-04T12:00:06+00:00",
+   "date": "2026-11-05T12:52:43Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
    "after": "2026-11-04T07:35:59+00:00",
    "asset_type": "other",
    "before": "2026-10-15T13:42:19+00:00",
@@ -1318,6 +1330,14 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "updated": 1
+   },
+   "date": "2026-11-05T12:52:43Z",
+   "status": "ok",
+   "total_urls": 230
+  },
   {
    "counts": {
     "updated": 10
