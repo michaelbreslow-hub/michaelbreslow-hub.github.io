@@ -19,11 +19,11 @@
       "/size-fit"
      ],
      "excluded_urls": 2571,
-     "last_checked": "2026-11-05T12:52:43Z",
+     "last_checked": "2026-11-06T12:38:57Z",
      "last_counts": {
-      "added": 16,
-      "keyword_hits": 17,
-      "removed": 26
+      "added": 19,
+      "keyword_hits": 11,
+      "removed": 4
      },
      "name": "Nike",
      "notes": [],
@@ -31,7 +31,7 @@
      "sitemaps_fetched": 13,
      "slug": "nike",
      "status": "ok",
-     "total_urls": 11967
+     "total_urls": 11982
     },
     {
      "asset_types": {},
@@ -43,7 +43,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-05T12:52:43Z",
+     "last_checked": "2026-11-06T12:38:57Z",
      "last_counts": {
       "updated": 1
      },
@@ -65,7 +65,7 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-05T12:52:43Z",
+     "last_checked": "2026-11-06T12:38:57Z",
      "last_counts": {},
      "name": "Asics",
      "notes": [
@@ -87,10 +87,9 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-05T12:52:43Z",
+     "last_checked": "2026-11-06T12:38:57Z",
      "last_counts": {
-      "added": 6,
-      "keyword_hits": 182,
+      "keyword_hits": 181,
       "updated": 5803
      },
      "name": "Reebok",
@@ -113,12 +112,12 @@
       "/terms"
      ],
      "excluded_urls": 0,
-     "last_checked": "2026-11-05T12:52:43Z",
+     "last_checked": "2026-11-06T12:38:57Z",
      "last_counts": {
-      "added": 44,
-      "keyword_hits": 1,
-      "removed": 12,
-      "updated": 41
+      "added": 95,
+      "keyword_hits": 11,
+      "removed": 76,
+      "updated": 40
      },
      "name": "Skechers",
      "notes": [],
@@ -126,7 +125,7 @@
      "sitemaps_fetched": 9,
      "slug": "skechers",
      "status": "ok",
-     "total_urls": 5842
+     "total_urls": 5861
     }
    ],
    "id": "client-a",
@@ -140,6 +139,6 @@
    "name": "Client A"
   }
  ],
- "generated_at": "2026-11-05T12:52:43Z",
+ "generated_at": "2026-11-06T12:38:57Z",
  "repo": "michaelbreslow-hub/michaelbreslow-hub.github.io"
 }

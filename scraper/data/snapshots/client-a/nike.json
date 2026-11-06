@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-05T12:52:43Z",
+  "last_run": "2026-11-06T12:38:57Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -7368,43 +7368,163 @@
   },
   "https://www.nike.com/il/a/cold-weather-cycling-gear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cold-weather-cycling-gear",
+    "description": "Gear up for your next wintry ride in insulating, breathable cycling clothing and accessories by Nike.",
+    "h1": "The Best Nike Cycling Gear for Cold Weather",
+    "title": "The Best Nike Cycling Gear for Cold Weather . Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "4f9653fec16d"
   },
   "https://www.nike.com/il/a/cold-weather-golf-gear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cold-weather-golf-gear",
+    "description": "With warm jackets and accessories like hats and gloves, cold weather won’t stop your next round of golf.",
+    "h1": "These Cold-weather Essentials Won't Let Frigid Temperatures Stop Your Golf Game",
+    "title": "The Best Cold-Weather Golf Gear by Nike. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "dc5caa7dd509"
   },
   "https://www.nike.com/il/a/cold-weather-outfits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cold-weather-outfits",
+    "description": "Here's how to spruce up your winter wardrobe staples.",
+    "h1": "5 cute cold-weather outfits by Nike",
+    "title": "5 cute cold weather outfits by Nike. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "1afeba794bfb"
   },
   "https://www.nike.com/il/a/cold-weather-running-wear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cold-weather-running-wear",
+    "description": "Frosty air won’t put a damper on your runs if you have the right cold weather running gear to protect yourself from the elements. Here’s what you’ll need.",
+    "h1": "No Off-Season: What to Wear for Running in the Cold",
+    "title": "What to Wear for Cold Weather Running. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "e73d924bf5fe"
   },
   "https://www.nike.com/il/a/cold-weather-soccer-gear": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cold-weather-soccer-gear",
+    "description": "For cold-weather football matches and training, gear up in Nike styles designed to keep warm and comfortable.",
+    "h1": "What to Wear for Soccer in Cold Weather: Nike Therma, Dri-FIT, and Winter Warrior Gear",
+    "title": "The Best Nike Football Apparel and Gear for Cold Weather. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "dcf304a9edd9"
   },
   "https://www.nike.com/il/a/comfortable-outfit-tips-for-athletes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/comfortable-outfit-tips-for-athletes",
+    "description": "Tailored for all-day comfort, the Nike 24.7 Collection offers versatility for active lifestyles.",
+    "h1": "6 comfortable outfit tips for athletes by Nike",
+    "title": "6 comfortable outfit tips for athletes by Nike . Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "4faece995d16"
   },
   "https://www.nike.com/il/a/common-running-injuries": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/common-running-injuries",
+    "description": "Physiotherapists weigh in on the symptoms and warning signs of several common running injuries runners often encounter.",
+    "h1": "Common Running Injuries to Watch Out For, According to Physiotherapists",
+    "title": "Common Running Injuries to Watch Out For as You Train. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "9c24d28c3ff3"
   },
   "https://www.nike.com/il/a/common-soccer-injuries": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/common-soccer-injuries",
+    "description": "Physiotherapists explain six football injuries that commonly occur on the pitch.",
+    "h1": "The Most Common Football Injuries, Explained",
+    "title": "The Most Common Football Injuries, Explained. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "fab09c2fc63d"
   },
   "https://www.nike.com/il/a/community-partners": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/community-partners",
+    "description": "Nike supports people and communities that are uplifting kids across the world. Learn more about their initiatives and where they are creating an impact.",
+    "h1": null,
+    "title": "Community Partners - Nike. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "b1cf1e89acf0"
   },
   "https://www.nike.com/il/a/compound-exercise": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/compound-exercise",
+    "description": "Personal trainers and certified strength-and-conditioning coaches identify the best compound exercises and explain a variety of different benefits they can provide the body.",
+    "h1": "Everything You Need To Know About Compound Exercises",
+    "title": "Compound Exercises: What They Are and How to Do Them. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "761a6c90e82c"
   },
   "https://www.nike.com/il/a/compression-sleeve-calf": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -11653,6 +11773,22 @@
   "https://www.nike.com/il/a/what-is-iron-deficiency": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/a/what-is-nike-fit": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/what-is-nike-fit",
+    "description": "Here's a crash course on the four members of the Nike FIT franchise.",
+    "h1": "What Is Nike FIT? Dri-FIT, Aero-FIT, Therma-FIT and Storm-FIT, Explained",
+    "title": "What Is Nike FIT? Dri-FIT, Aero-FIT, Therma-FIT and Storm-FIT, Explained. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "9a94c4e2b6b1"
   },
   "https://www.nike.com/il/a/what-is-overtraining-syndrome": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -19739,10 +19875,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/air-force-1-07-lv8-mens-shoes-v1GH2ES9": {
-   "first_seen": "2026-11-03T12:33:32Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/air-force-1-07-lv8-usa-mens-shoes-3N6tb4i2": {
    "first_seen": "2026-10-23T05:20:33Z",
    "http": {
@@ -23687,6 +23819,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/chicago-bulls-nike-standard-issue-mens-woven-basketball-trousers-wsoNkQd0": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chicago-bulls-nike-standard-issue-mens-woven-basketball-trousers-wsoNkQd0",
+    "description": "Find the Chicago Bulls Nike Standard Issue Men's Woven Basketball Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Chicago Bulls Nike Standard Issue",
+    "title": "Chicago Bulls Nike Standard Issue Men's Woven Basketball Trousers. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "e2926c35a0ba"
+  },
   "https://www.nike.com/il/t/chicago-bulls-standard-issue-mens-15cm-approx-nba-shorts-WgW8PCHF": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24727,6 +24875,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/elite-cushioned-basketball-crew-socks-1-pair-Uh9aCqyf": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/elite-cushioned-basketball-crew-socks-1-pair-Uh9aCqyf",
+    "description": "Find the Nike Elite Cushioned Basketball Crew Socks (1 Pair) at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Elite",
+    "title": "Nike Elite Cushioned Basketball Crew Socks (1 Pair). Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "eb775b44009d"
+  },
   "https://www.nike.com/il/t/elite-lightweight-quarter-running-socks-pJf9P5": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25250,6 +25414,22 @@
   "https://www.nike.com/il/t/fairway-fresh-mens-loose-golf-cardigan-8FQZK54N": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/fairway-fresh-mens-loose-knit-long-sleeve-golf-polo-ihuzAcKb": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/fairway-fresh-mens-loose-knit-long-sleeve-golf-polo-ihuzAcKb",
+    "description": "Find the Nike Fairway Fresh Men's Loose Knit Long-Sleeve Golf Polo at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Fairway Fresh",
+    "title": "Nike Fairway Fresh Men's Loose Knit Long-Sleeve Golf Polo. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "e06a5ed8905d"
   },
   "https://www.nike.com/il/t/fairway-fresh-womens-dri-fit-fleece-golf-top-jfhQB8xk": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -26503,6 +26683,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/free-metcon-7-se-womens-training-shoes-o7Hp2qpb": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/free-metcon-7-se-womens-training-shoes-o7Hp2qpb",
+    "description": "Find the Nike Free Metcon 7 SE Women's Training Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Free Metcon 7 SE",
+    "title": "Nike Free Metcon 7 SE Women's Training Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "91bda9a9ff10"
+  },
   "https://www.nike.com/il/t/free-metcon-7-womens-training-shoes-QjtmNuIV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26679,21 +26875,21 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/golden-state-warriors-essentials-mens-nike-nba-statement-t-shirt-Hc4x1f": {
-   "first_seen": "2026-10-07T05:08:09Z",
+  "https://www.nike.com/il/t/golden-state-warriors-essentials-mens-jordan-nba-statement-t-shirt-Hc4x1f": {
+   "first_seen": "2026-11-06T12:38:57Z",
    "http": {
     "redirect": null,
     "status": 200
    },
    "lastmod": null,
    "seo": {
-    "canonical": "https://www.nike.com/il/t/golden-state-warriors-essentials-mens-nike-nba-statement-t-shirt-Hc4x1f",
-    "description": "Find the Golden State Warriors Essentials Men's Nike NBA Statement T-Shirt at Nike.com. Shop online at Nike.com.",
+    "canonical": "https://www.nike.com/il/t/golden-state-warriors-essentials-mens-jordan-nba-statement-t-shirt-Hc4x1f",
+    "description": "Find the Golden State Warriors Essentials Men's Jordan NBA Statement T-Shirt at Nike.com. Shop online at Nike.com.",
     "h1": "Golden State Warriors Essentials",
-    "title": "Golden State Warriors Essentials Men's Nike NBA Statement T-Shirt. Nike IL"
+    "title": "Golden State Warriors Essentials Men's Jordan NBA Statement T-Shirt. Nike IL"
    },
-   "seo_checked": "2026-10-07T05:08:09Z",
-   "seo_hash": "6b9e6b242593"
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "2c02e1055017"
   },
   "https://www.nike.com/il/t/golden-state-warriors-mens-basketball-t-shirt-cAFG5Lwr": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -27530,6 +27726,22 @@
   "https://www.nike.com/il/t/inter-milan-tech-fleece-windrunner-mens-nike-football-full-zip-hoodie-NWgcRGdR": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/inter-milan-tech-mens-fleece-football-joggers-with-reflective-design-accents-OISQuQLf": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/inter-milan-tech-mens-fleece-football-joggers-with-reflective-design-accents-OISQuQLf",
+    "description": "Find the Inter Milan Tech Men's Fleece Football Joggers with Reflective Design Accents at Nike.com. Shop online at Nike.com.",
+    "h1": "Inter Milan Tech",
+    "title": "Inter Milan Tech Men's Fleece Football Joggers with Reflective Design Accents. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "23ed18d9c5cf"
   },
   "https://www.nike.com/il/t/inter-milan-tech-mens-nike-fleece-windrunner-football-jacket-with-reflective-design-accents-EMEP3GJL": {
    "first_seen": "2026-11-05T12:52:43Z",
@@ -31779,21 +31991,21 @@
    "seo_checked": "2026-10-20T05:19:59Z",
    "seo_hash": "139a2b932c15"
   },
-  "https://www.nike.com/il/t/los-angeles-lakers-essentials-mens-nike-nba-statement-t-shirt-noy1YZux": {
-   "first_seen": "2026-10-07T05:08:09Z",
+  "https://www.nike.com/il/t/los-angeles-lakers-essentials-mens-jordan-nba-statement-t-shirt-noy1YZux": {
+   "first_seen": "2026-11-06T12:38:57Z",
    "http": {
     "redirect": null,
     "status": 200
    },
    "lastmod": null,
    "seo": {
-    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-essentials-mens-nike-nba-statement-t-shirt-noy1YZux",
-    "description": "Find the Los Angeles Lakers Essentials Men's Nike NBA Statement T-Shirt at Nike.com. Shop online at Nike.com.",
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-essentials-mens-jordan-nba-statement-t-shirt-noy1YZux",
+    "description": "Find the Los Angeles Lakers Essentials Men's Jordan NBA Statement T-Shirt at Nike.com. Shop online at Nike.com.",
     "h1": "Los Angeles Lakers Essentials",
-    "title": "Los Angeles Lakers Essentials Men's Nike NBA Statement T-Shirt. Nike IL"
+    "title": "Los Angeles Lakers Essentials Men's Jordan NBA Statement T-Shirt. Nike IL"
    },
-   "seo_checked": "2026-10-07T05:08:09Z",
-   "seo_hash": "05386f225ae0"
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "de44ca90a6df"
   },
   "https://www.nike.com/il/t/los-angeles-lakers-icon-edition-mens-nike-nba-swingman-shorts-0FdZ1b": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31858,6 +32070,22 @@
    },
    "seo_checked": "2026-10-20T05:19:59Z",
    "seo_hash": "81dd2c551ccf"
+  },
+  "https://www.nike.com/il/t/los-angeles-lakers-nike-standard-issue-mens-woven-basketball-trousers-ZUhriX96": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/los-angeles-lakers-nike-standard-issue-mens-woven-basketball-trousers-ZUhriX96",
+    "description": "Find the Los Angeles Lakers Nike Standard Issue Men's Woven Basketball Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "Los Angeles Lakers Nike Standard Issue",
+    "title": "Los Angeles Lakers Nike Standard Issue Men's Woven Basketball Trousers. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "ed2d57ad6a8a"
   },
   "https://www.nike.com/il/t/los-angeles-lakers-standard-issue-mens-basketball-shorts-91u1RH3C": {
    "first_seen": "2026-10-20T05:19:59Z",
@@ -32603,6 +32831,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/metcon-10-se-womens-training-shoes-roo8RbmE": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/metcon-10-se-womens-training-shoes-roo8RbmE",
+    "description": "Find the Nike Metcon 10 SE Women's Training Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Metcon 10 SE",
+    "title": "Nike Metcon 10 SE Women's Training Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "7478a5b3ef71"
+  },
   "https://www.nike.com/il/t/metcon-10-womens-workout-shoes-AMYx8UFd": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -33299,6 +33543,22 @@
    "seo_checked": "2026-10-20T05:19:59Z",
    "seo_hash": "b5ea02635ef0"
   },
+  "https://www.nike.com/il/t/new-york-knicks-nike-standard-issue-mens-woven-basketball-trousers-4bIsuURx": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/new-york-knicks-nike-standard-issue-mens-woven-basketball-trousers-4bIsuURx",
+    "description": "Find the New York Knicks Nike Standard Issue Men's Woven Basketball Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "New York Knicks Nike Standard Issue",
+    "title": "New York Knicks Nike Standard Issue Men's Woven Basketball Trousers. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "e60dddb2a3f1"
+  },
   "https://www.nike.com/il/t/new-york-knicks-standard-issue-mens-dri-fit-12-5cm-approx-basketball-mesh-shorts-WtLkdnJA": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -33698,22 +33958,6 @@
    },
    "seo_checked": "2026-10-07T05:08:09Z",
    "seo_hash": "759b1fa0be81"
-  },
-  "https://www.nike.com/il/t/nikelab-running-flash-womens-therma-fit-gilet-VRJTENff": {
-   "first_seen": "2026-10-02T05:06:40Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/nikelab-running-flash-womens-therma-fit-gilet-VRJTENff",
-    "description": "Find the NikeLab | Running Flash Women's Therma-FIT Gilet at Nike.com. Shop online at Nike.com.",
-    "h1": "NikeLab | Running Flash",
-    "title": "NikeLab | Running Flash Women's Therma-FIT Gilet. Nike IL"
-   },
-   "seo_checked": "2026-10-02T05:06:40Z",
-   "seo_hash": "8b88e2562203"
   },
   "https://www.nike.com/il/t/nikelab-running-mens-12-5cm-approx-2-in-1-shorts-hd9GqEWk": {
    "first_seen": "2026-10-21T05:20:43Z",
@@ -34214,6 +34458,22 @@
   "https://www.nike.com/il/t/nikeskims-studio-stretch-womens-triangle-sports-bra-1RI9WyNb": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-waffle-racer-womens-shoes-etCIbGEJ": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-waffle-racer-womens-shoes-etCIbGEJ",
+    "description": "Find the NikeSKIMS Waffle Racer Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Waffle Racer",
+    "title": "NikeSKIMS Waffle Racer Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "e8f497447f1c"
   },
   "https://www.nike.com/il/t/nikeskims-weightless-womens-mock-neck-long-sleeve-top-BMCVHOjG": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -36459,6 +36719,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/pro-womens-mid-rise-full-length-leggings-vaj3t3gT": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/pro-womens-mid-rise-full-length-leggings-vaj3t3gT",
+    "description": "Find the Nike Pro Women's Mid-Rise Full-Length Leggings at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Pro",
+    "title": "Nike Pro Women's Mid-Rise Full-Length Leggings. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "6b3f41c09644"
+  },
   "https://www.nike.com/il/t/pro-womens-therma-fit-fleece-hoodie-55cV0x": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -36866,6 +37142,22 @@
    },
    "seo_checked": "2026-11-05T12:52:43Z",
    "seo_hash": "7b01220fa32b"
+  },
+  "https://www.nike.com/il/t/san-antonio-spurs-nike-standard-issue-mens-woven-basketball-trousers-YQPuGUj6": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/san-antonio-spurs-nike-standard-issue-mens-woven-basketball-trousers-YQPuGUj6",
+    "description": "Find the San Antonio Spurs Nike Standard Issue Men's Woven Basketball Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "San Antonio Spurs Nike Standard Issue",
+    "title": "San Antonio Spurs Nike Standard Issue Men's Woven Basketball Trousers. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "d9f6c925f10e"
   },
   "https://www.nike.com/il/t/san-antonio-spurs-standard-issue-mens-dri-fit-12-5cm-basketball-mesh-shorts-x9Un75Xy": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -40139,6 +40431,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/swift-womens-high-waisted-18cm-approx-running-shorts-pSKj14MI": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/swift-womens-high-waisted-18cm-approx-running-shorts-pSKj14MI",
+    "description": "Find the Nike Swift Women's High-Waisted 18cm (Approx.) Running Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Swift",
+    "title": "Nike Swift Women's High-Waisted 18cm (Approx.) Running Shorts. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "b3bf26239456"
+  },
   "https://www.nike.com/il/t/swift-womens-high-waisted-7-8-running-leggings-with-pockets-F3QZxQ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -40166,6 +40474,22 @@
    },
    "seo_checked": "2026-10-30T11:08:02Z",
    "seo_hash": "5cf46d51f020"
+  },
+  "https://www.nike.com/il/t/swift-womens-therma-fit-repel-running-jacket-ELvO38pi": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/swift-womens-therma-fit-repel-running-jacket-ELvO38pi",
+    "description": "Find the Nike Swift Women's Therma-FIT Repel Running Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Swift",
+    "title": "Nike Swift Women's Therma-FIT Repel Running Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "4ce83c175ba1"
   },
   "https://www.nike.com/il/t/swift-womens-therma-fit-running-gilet-oHFlIp4e": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -41859,6 +42183,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/unlimited-mens-therma-fit-training-gilet-Tu7sq1iK": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/unlimited-mens-therma-fit-training-gilet-Tu7sq1iK",
+    "description": "Find the Nike Unlimited Men's Therma-FIT Training Gilet at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Unlimited",
+    "title": "Nike Unlimited Men's Therma-FIT Training Gilet. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "0bf4e90dc466"
+  },
   "https://www.nike.com/il/t/unlimited-mens-therma-fit-versatile-jacket-bztrWt": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -42391,6 +42731,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/victory-womens-dri-fit-1-4-zip-golf-top-g7wnqF": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/victory-womens-dri-fit-1-4-zip-golf-top-g7wnqF",
+    "description": "Find the Nike Victory Women's Dri-FIT 1/4-Zip Golf Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Victory",
+    "title": "Nike Victory Women's Dri-FIT 1/4-Zip Golf Top. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "d424cc1c91e0"
+  },
   "https://www.nike.com/il/t/victory-womens-dri-fit-flouncy-tennis-skirt-dKTPjF": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -42470,6 +42826,22 @@
   "https://www.nike.com/il/t/vomero-18-womens-road-running-shoes-TwumZExH": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/vomero-18-womens-road-running-shoes-lOtkGRDW": {
+   "first_seen": "2026-11-06T12:38:57Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/vomero-18-womens-road-running-shoes-lOtkGRDW",
+    "description": "Find the Nike Vomero 18 Women's Road-Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Vomero 18",
+    "title": "Nike Vomero 18 Women's Road-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-06T12:38:57Z",
+   "seo_hash": "d2db327788ff"
   },
   "https://www.nike.com/il/t/vomero-18-womens-road-running-shoes-rLVnqIw2": {
    "first_seen": "2026-10-30T11:08:02Z",
