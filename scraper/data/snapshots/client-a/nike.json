@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-06T12:38:57Z",
+  "last_run": "2026-11-07T11:26:10Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -7528,43 +7528,163 @@
   },
   "https://www.nike.com/il/a/compression-sleeve-calf": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/compression-sleeve-calf",
+    "description": "Calf compression sleeves are a runner’s best kept secret. They can help improve performance, relieve pain and assist in recovery between sessions.",
+    "h1": "3 Things to Consider When Choosing a Calf Compression Sleeve",
+    "title": "How to Find a Compression Sleeve for Calf. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "6742f9baa00e"
   },
   "https://www.nike.com/il/a/compression-socks-while-sleeping": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/compression-socks-while-sleeping",
+    "description": "Research suggests compression socks can be beneficial for athletic performance, but is it necessary to wear them when you sleep?",
+    "h1": "Are there benefits to wearing compression socks to bed?",
+    "title": "Are there benefits to wearing compression socks to bed?. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "2b499f6d21b8"
   },
   "https://www.nike.com/il/a/connected-kids": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/connected-kids",
+    "description": "​Coaching tips to keep kids motivated and moving by keeping them connected to sport",
+    "h1": "Connected Kids",
+    "title": "Keeping Kids Connected to Sport. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "cd07cabe456a"
   },
   "https://www.nike.com/il/a/cortez-history": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cortez-history",
+    "description": "All the details on the revolutionary running shoe.",
+    "h1": "The history of the Cortez",
+    "title": "The history of the Nike Cortez. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "683a202b3430"
   },
   "https://www.nike.com/il/a/cozy-clothing": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cozy-clothing",
+    "description": "Bust out this cosy clothing guide when you're looking for something soft and plush to wear.",
+    "h1": "The Best Cosy Clothing by Nike to Shop Now",
+    "title": "The Best Cosy Clothing by Nike to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "2aeaf575517e"
   },
   "https://www.nike.com/il/a/create-a-bed-time-ritual": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/create-a-bed-time-ritual",
+    "description": "We know that having a bedtime ritual is effective for our kids, so why aren't we doing it for ourselves?",
+    "h1": "Create a Bedtime Ritual",
+    "title": "Create Your Own Bedtime Routine. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "f39f97b4283d"
   },
   "https://www.nike.com/il/a/create-a-stronger-mindset": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/create-a-stronger-mindset",
+    "description": "A strong mind creates a stronger body. Learn how to train your brain.",
+    "h1": "Create a Stronger Mindset",
+    "title": "Create a Stronger Mindset. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "53d29ffa0654"
   },
   "https://www.nike.com/il/a/create-at-home-yoga-studio": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/create-at-home-yoga-studio",
+    "description": "Putting together an at-home yoga space doesn’t have to be complicated. Achieve the same feeling of strolling into your favourite yoga studio at home with unique personal touches.",
+    "h1": "Five Simple Ways to Create a Relaxing At-Home Yoga Space",
+    "title": "How to Create an At-Home Yoga Studio. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "87bf7a3b1116"
   },
   "https://www.nike.com/il/a/create-connection": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/create-connection",
+    "description": "Experts say that girls do better physically, mentally, emotionally and socially when they get the chance to play. But today, girls are dropping out of sport at twice the rate of boys.",
+    "h1": "Create connection",
+    "title": "Create connection. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "6cf1b00d1e07"
   },
   "https://www.nike.com/il/a/create-your-ideal-yoga-space": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/create-your-ideal-yoga-space",
+    "description": "Expert tips for creating an inviting space for your yoga practice, regardless of the amount of space or equipment you have (or lack thereof).",
+    "h1": "3 Ways to Create Your Yoga Space",
+    "title": "3 Ways to Create Your Ideal Yoga Space. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "7d6662a1fb3f"
   },
   "https://www.nike.com/il/a/crop-top-styles": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -14594,10 +14714,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/groundwork-air-liquid-max-redblack-with-mey": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/groundwork-air-max-95-comet-with-bruno-ceci-1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -15306,10 +15422,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/launch/t/nikecraft-general-purpose-shoe-demerits-black-and-white": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/launch/t/nikecraft-general-purpose-shoe-launch-details": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -15951,10 +16063,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/launch/t/snkrs-service-0408": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/launch/t/snkrs-service-0504": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -18515,6 +18623,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/academy-football-duffel-bag-small-40l-Qe3I1SQ7": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/academy-football-duffel-bag-small-40l-Qe3I1SQ7",
+    "description": "Find the Nike Academy Football Duffel Bag (Small, 40L) at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Academy",
+    "title": "Nike Academy Football Duffel Bag (Small, 40L). Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "cfc8fca975eb"
+  },
   "https://www.nike.com/il/t/academy-football-gUZSvMYu": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -18702,6 +18826,22 @@
    },
    "seo_checked": "2026-10-13T05:09:48Z",
    "seo_hash": "d5a49b7b043e"
+  },
+  "https://www.nike.com/il/t/academy-womens-dri-fit-football-pants-MQqvzx": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/academy-womens-dri-fit-football-pants-MQqvzx",
+    "description": "Find the Nike Academy Women's Dri-FIT Football Pants at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Academy",
+    "title": "Nike Academy Women's Dri-FIT Football Pants. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "1c7705102397"
   },
   "https://www.nike.com/il/t/acg-air-deschutz-sandals-33llbp": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -24443,6 +24583,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/court-mens-dri-fit-tennis-t-shirt-bt9zSZbI": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/court-mens-dri-fit-tennis-t-shirt-bt9zSZbI",
+    "description": "Find the Nike Court Men's Dri-FIT Tennis T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Court",
+    "title": "Nike Court Men's Dri-FIT Tennis T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "1aa80ae338e3"
+  },
   "https://www.nike.com/il/t/court-vision-alta-womens-shoes-GvwX8r": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -25246,6 +25402,22 @@
   "https://www.nike.com/il/t/everyday-cushioned-metcon-training-crew-socks-22HnJ0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/everyday-cushioned-older-kids-crew-socks-6-pairs-h9dHdm1B": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/everyday-cushioned-older-kids-crew-socks-6-pairs-h9dHdm1B",
+    "description": "Find the Nike Everyday Cushioned Older Kids' Crew Socks (6 Pairs) at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Everyday Cushioned",
+    "title": "Nike Everyday Cushioned Older Kids' Crew Socks (6 Pairs). Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "08a15e8c9d53"
   },
   "https://www.nike.com/il/t/everyday-cushioned-training-ankle-socks-3-pairs-jlm914": {
    "first_seen": "2026-10-02T05:06:40Z",
@@ -26646,6 +26818,22 @@
   "https://www.nike.com/il/t/france-national-team-2026-stadium-home-womens-nike-dri-fit-football-shirt-9If5rRC4": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/france-x-jacquemus-mens-academy-pro-short-sleeved-football-top-kcITCVXE": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/france-x-jacquemus-mens-academy-pro-short-sleeved-football-top-kcITCVXE",
+    "description": "Find the France x Jacquemus Men's Academy Pro Short-Sleeved Football Top at Nike.com. Shop online at Nike.com.",
+    "h1": "France x Jacquemus",
+    "title": "France x Jacquemus Men's Academy Pro Short-Sleeved Football Top. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "f99ac3bb15ad"
   },
   "https://www.nike.com/il/t/france-x-jacquemus-older-kids-short-sleeved-football-top-tYEp4zaO": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -33235,6 +33423,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/moon-shoe-og-se-satin-womens-shoes-QsyrGua3": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/moon-shoe-og-se-satin-womens-shoes-QsyrGua3",
+    "description": "Find the Nike Moon Shoe OG SE Satin Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Moon Shoe OG SE Satin",
+    "title": "Nike Moon Shoe OG SE Satin Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "ffdeb8b9be92"
+  },
   "https://www.nike.com/il/t/moon-shoe-og-womens-shoes-bS5DPId9": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -33812,10 +34016,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikecourt-mens-dri-fit-tennis-t-shirt-6oaNbl9f": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/nikecourt-mens-dri-fit-tennis-t-shirt-bt9zSZbI": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -36382,6 +36582,22 @@
   "https://www.nike.com/il/t/primary-nanoknit-mens-dri-fit-uv-protection-full-zip-performance-hoodie-mSQxqGDN": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/primary-nanoknit-mens-therma-fit-joggers-KPhpbtja": {
+   "first_seen": "2026-11-07T11:26:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/primary-nanoknit-mens-therma-fit-joggers-KPhpbtja",
+    "description": "Find the Nike Primary NanoKnit Men's Therma-FIT Joggers at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Primary Nanoknit",
+    "title": "Nike Primary NanoKnit Men's Therma-FIT Joggers. Nike IL"
+   },
+   "seo_checked": "2026-11-07T11:26:10Z",
+   "seo_hash": "9b1099087e63"
   },
   "https://www.nike.com/il/t/pro-365-womens-12-5cm-approx-mid-rise-shorts-Wo9GADOE": {
    "first_seen": "2026-09-24T08:34:55Z",

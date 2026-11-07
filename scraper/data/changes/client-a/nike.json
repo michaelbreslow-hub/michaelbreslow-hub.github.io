@@ -7,6 +7,122 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Academy",
+    "title": "Nike Academy Football Duffel Bag (Small, 40L). Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/academy-football-duffel-bag-small-40l-Qe3I1SQ7"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "France x Jacquemus",
+    "title": "France x Jacquemus Men's Academy Pro Short-Sleeved Football Top. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/france-x-jacquemus-mens-academy-pro-short-sleeved-football-top-kcITCVXE"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Moon Shoe OG SE Satin",
+    "title": "Nike Moon Shoe OG SE Satin Women's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/moon-shoe-og-se-satin-womens-shoes-QsyrGua3"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Court",
+    "title": "Nike Court Men's Dri-FIT Tennis T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/court-mens-dri-fit-tennis-t-shirt-bt9zSZbI"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Primary Nanoknit",
+    "title": "Nike Primary NanoKnit Men's Therma-FIT Joggers. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/primary-nanoknit-mens-therma-fit-joggers-KPhpbtja"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Academy",
+    "title": "Nike Academy Women's Dri-FIT Football Pants. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/academy-womens-dri-fit-football-pants-MQqvzx"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Everyday Cushioned",
+    "title": "Nike Everyday Cushioned Older Kids' Crew Socks (6 Pairs). Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/everyday-cushioned-older-kids-crew-socks-6-pairs-h9dHdm1B"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/groundwork-air-liquid-max-redblack-with-mey"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/nikecraft-general-purpose-shoe-demerits-black-and-white"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "section": "/launch",
+   "type": "removed",
+   "url": "https://www.nike.com/il/launch/t/snkrs-service-0504"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-07T11:26:10Z",
+   "lastmod": null,
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/nikecourt-mens-dri-fit-tennis-t-shirt-bt9zSZbI"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-06T12:38:57Z",
    "keywords": [
     "basketball"
@@ -19891,6 +20007,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 7,
+    "removed": 4
+   },
+   "date": "2026-11-07T11:26:10Z",
+   "status": "ok",
+   "total_urls": 11985
+  },
   {
    "counts": {
     "added": 19,
