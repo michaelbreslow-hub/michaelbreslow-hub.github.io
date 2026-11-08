@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-07T11:26:10Z",
+  "last_run": "2026-11-08T11:38:10Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -7688,43 +7688,163 @@
   },
   "https://www.nike.com/il/a/crop-top-styles": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/crop-top-styles",
+    "description": "Whether you're relaxing at home or hitting a workout class, there are no shortage of ways to style a crop top.",
+    "h1": "5 Ways to Style a Nike Crop Top",
+    "title": "5 Ways to Style a Nike Crop Top. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "8b3b74487db9"
   },
   "https://www.nike.com/il/a/cropped-womens-joggers-pants": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cropped-womens-joggers-pants",
+    "description": "Cropped athletic trousers and joggers are a comfy, versatile staple.",
+    "h1": "The Best Women's Cropped Trousers by Nike to Shop Now",
+    "title": "The Best Women's Cropped Trousers by Nike to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "3eba401d9914"
   },
   "https://www.nike.com/il/a/cross-country-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cross-country-running",
+    "description": "If you're considering trying cross country, check out this guide to help get you started.",
+    "h1": "Everything You Need To Know About Cross Country",
+    "title": "What Is Cross Country?. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "0a0b4263c10b"
   },
   "https://www.nike.com/il/a/cross-train-into-a-better-runner": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cross-train-into-a-better-runner",
+    "description": "Running is wonderful. But it shouldn't be the only training you do, even if you're a pro. Learn how to prevent injury, build strength and actively recover through cross-training.",
+    "h1": "Become a Better Runner by Not Running",
+    "title": "Cross-Train to Become a Better Runner. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "06e7d93e484c"
   },
   "https://www.nike.com/il/a/crossfit-athlete-chandler-smith-shares-mental-training-tips": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/crossfit-athlete-chandler-smith-shares-mental-training-tips",
+    "description": "CrossFit's highest-ranked Black athlete and former US Army officer Chandler Smith is focused on maximising his potential as a competitor and a role model. Here, he shares the mental strategies and training methods he uses to turn his weaknesses into strength—and how you can too.",
+    "h1": "Trained Podcast: Meet Any Challenge With Chandler Smith",
+    "title": "Hit Your Goals With Mental Training Tips From CrossFit Athlete Chandler Smith. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "f90940f280b0"
   },
   "https://www.nike.com/il/a/crossfit-athlete-logan-aldridge-on-building-confidence-and-strength": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/crossfit-athlete-logan-aldridge-on-building-confidence-and-strength",
+    "description": "Got a goal in or outside the gym? CrossFit athlete Logan Aldridge, the third-Fittest One-Armed Man on Earth, can help you achieve it—even if people around you say you can’t. Learn the mindset shifts that led to his impressive physical and mental strength, as well as the techniques that can help anyo",
+    "h1": "Trained Podcast: Shatter Expectations With Logan Aldridge",
+    "title": "CrossFit Athlete Logan Aldridge Can Help Anybody Build Confidence. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "3811d9e44e9e"
   },
   "https://www.nike.com/il/a/crossfit-wod": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/crossfit-wod",
+    "description": "Two certified trainers unpack everything you need to know about CrossFit's workouts of the day (WODs).",
+    "h1": "What Are The Top CrossFit WODs To Try?",
+    "title": "What Are Top CrossFit WODs To Try?. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "126eda9af095"
   },
   "https://www.nike.com/il/a/cute-baby-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cute-baby-shoes",
+    "description": "From sandals to boots to iconic shoes, shop these cute shoes for baby boys and girls.",
+    "h1": "5 Baby Shoe Styles by Nike to Shop Now",
+    "title": "5 Cute Baby Shoe Styles by Nike to Shop Now. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "acf9f7beb94a"
   },
   "https://www.nike.com/il/a/cycling-good-for-knees": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cycling-good-for-knees",
+    "description": "Learn about the benefits of the low-impact exercise.",
+    "h1": "Is cycling good for your knees?",
+    "title": "Is cycling good for your knees? . Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "35f8adaea6ed"
   },
   "https://www.nike.com/il/a/cycling-instructor-tunde-oyeneyin-on-practicing-gratitude": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/cycling-instructor-tunde-oyeneyin-on-practicing-gratitude",
+    "description": "Cycling instructor and Nike athlete Tunde Oyeneyin is one of the biggest names in fitness. But the former make-up artist didn’t earn a reputation for being one of today’s most inspirational and motivational trainers overnight. Hear the lessons she learned from the loss of her mother, and how her bod",
+    "h1": "Trained Podcast: Tap Into Gratitude With Tunde Oyeneyin",
+    "title": "How to Practise Gratitude and Grace, According to Tunde Oyeneyin. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "0d9650c9f011"
   },
   "https://www.nike.com/il/a/dead-bug-exercise": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -22371,6 +22491,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/atletico-madrid-energy-mens-nike-dri-fit-football-shirt-1nGIz6Bx": {
+   "first_seen": "2026-11-08T11:38:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/atletico-madrid-energy-mens-nike-dri-fit-football-shirt-1nGIz6Bx",
+    "description": "Find the Atlético Madrid Energy Men's Nike Dri-FIT Football Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Atlético Madrid Energy",
+    "title": "Atlético Madrid Energy Men's Nike Dri-FIT Football Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "7ae4aa4a34a2"
+  },
   "https://www.nike.com/il/t/atletico-madrid-home-mens-nike-dri-fit-football-pre-match-top-CPiZhtZi": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23638,6 +23774,22 @@
   "https://www.nike.com/il/t/chelsea-fc-club-older-kids-boys-nike-football-pullover-hoodie-0NozaWn8": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/chelsea-fc-energy-home-mens-nike-dri-fit-football-jersey-sxG494ZO": {
+   "first_seen": "2026-11-08T11:38:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/chelsea-fc-energy-home-mens-nike-dri-fit-football-jersey-sxG494ZO",
+    "description": "Find the Chelsea FC Energy Home Men's Nike Dri-FIT Football Jersey at Nike.com. Shop online at Nike.com.",
+    "h1": "Chelsea FC Energy Home",
+    "title": "Chelsea FC Energy Home Men's Nike Dri-FIT Football Jersey. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "dbf7adcdaa85"
   },
   "https://www.nike.com/il/t/chelsea-fc-energy-third-mens-nike-dri-fit-football-long-sleeve-shirt-WaCNQuLa": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -43098,6 +43250,22 @@
   "https://www.nike.com/il/t/vomero-plus-mens-road-running-shoes-4tf4vOhs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/vomero-plus-mens-road-running-shoes-Cl5tEa08": {
+   "first_seen": "2026-11-08T11:38:10Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/vomero-plus-mens-road-running-shoes-Cl5tEa08",
+    "description": "Find the Nike Vomero Plus Men's Road-Running Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Vomero Plus",
+    "title": "Nike Vomero Plus Men's Road-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-08T11:38:10Z",
+   "seo_hash": "427eca8beef4"
   },
   "https://www.nike.com/il/t/vomero-plus-mens-road-running-shoes-f2KZmKr1": {
    "first_seen": "2026-09-24T08:34:55Z",

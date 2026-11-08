@@ -7,6 +7,45 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-08T11:38:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Atlético Madrid Energy",
+    "title": "Atlético Madrid Energy Men's Nike Dri-FIT Football Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/atletico-madrid-energy-mens-nike-dri-fit-football-shirt-1nGIz6Bx"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-08T11:38:10Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Chelsea FC Energy Home",
+    "title": "Chelsea FC Energy Home Men's Nike Dri-FIT Football Jersey. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/chelsea-fc-energy-home-mens-nike-dri-fit-football-jersey-sxG494ZO"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-08T11:38:10Z",
+   "keywords": [
+    "running"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Vomero Plus",
+    "title": "Nike Vomero Plus Men's Road-Running Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/vomero-plus-mens-road-running-shoes-Cl5tEa08"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-07T11:26:10Z",
    "lastmod": null,
    "page": {
@@ -20007,6 +20046,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 3,
+    "keyword_hits": 1
+   },
+   "date": "2026-11-08T11:38:10Z",
+   "status": "ok",
+   "total_urls": 11988
+  },
   {
    "counts": {
     "added": 7,
