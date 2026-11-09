@@ -6,6 +6,117 @@
  },
  "events": [
   {
+   "after": "2026-11-08T08:20:32+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-09T13:31:40Z",
+   "page": {
+    "h1": "Lifestyle Sale",
+    "title": "Lifestyle Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_lifestyle"
+  },
+  {
+   "after": "2026-11-08T07:25:09+00:00",
+   "asset_type": "category",
+   "before": "2026-11-01T06:25:38+00:00",
+   "date": "2026-11-09T13:31:40Z",
+   "page": {
+    "h1": "November Sale",
+    "title": "November Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale"
+  },
+  {
+   "after": "2026-11-08T08:21:34+00:00",
+   "asset_type": "category",
+   "before": "2026-10-26T08:26:15+00:00",
+   "date": "2026-11-09T13:31:40Z",
+   "page": {
+    "h1": "Kids Sale",
+    "title": "Kids Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids"
+  },
+  {
+   "after": "2026-11-08T08:20:54+00:00",
+   "asset_type": "category",
+   "before": "2026-10-19T08:18:29+00:00",
+   "date": "2026-11-09T13:31:40Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Running Sale",
+    "title": "Running Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_running"
+  },
+  {
+   "after": "2026-11-09T12:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-11-07T12:00:03+00:00",
+   "date": "2026-11-09T13:31:40Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
+   "after": {
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על November Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "November Sale",
+    "title": "November Sale - New Balance"
+   },
+   "asset_type": "category",
+   "before": {
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shopping IL, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shopping IL",
+    "title": "Shopping IL - New Balance"
+   },
+   "date": "2026-11-09T13:31:40Z",
+   "fields": [
+    "title",
+    "description",
+    "h1"
+   ],
+   "section": "/shop",
+   "type": "seo_changed",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale"
+  },
+  {
+   "after": {
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Kids Sale, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Kids Sale",
+    "title": "Kids Sale - New Balance"
+   },
+   "asset_type": "category",
+   "before": {
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Shoppinh Kids, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Shoppinh Kids",
+    "title": "Shoppinh Kids - New Balance"
+   },
+   "date": "2026-11-09T13:31:40Z",
+   "fields": [
+    "title",
+    "description",
+    "h1"
+   ],
+   "section": "/shop",
+   "type": "seo_changed",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids"
+  },
+  {
    "after": "2026-11-07T12:00:03+00:00",
    "asset_type": "other",
    "before": "2026-11-06T12:00:03+00:00",
@@ -1354,6 +1465,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "keyword_hits": 1,
+    "seo_changed": 2,
+    "updated": 5
+   },
+   "date": "2026-11-09T13:31:40Z",
+   "status": "ok",
+   "total_urls": 230
+  },
   {
    "counts": {
     "updated": 1

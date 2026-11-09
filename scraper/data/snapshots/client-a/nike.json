@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-08T11:38:10Z",
+  "last_run": "2026-11-09T13:31:40Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -7848,43 +7848,163 @@
   },
   "https://www.nike.com/il/a/dead-bug-exercise": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dead-bug-exercise",
+    "description": "Work out your core muscles and hip flexors thanks to the dead bug exercise.",
+    "h1": "Why the Dead Bug Exercise Belongs in Your Next Workout",
+    "title": "The Benefits of the Dead Bug Exercise, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "415a80534e83"
   },
   "https://www.nike.com/il/a/deadlift-benefits-and-tips": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/deadlift-benefits-and-tips",
+    "description": "Discover the muscles that deadlifts work, the benefits of deadlifts and more with this expert guide.",
+    "h1": "The Benefits of Deadlifts, According to Experts",
+    "title": "The Benefits of Deadlifts, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "382b8fc009e2"
   },
   "https://www.nike.com/il/a/dehydration-symptoms": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dehydration-symptoms",
+    "description": "Experts address key signs of dehydration and provide actionable tips on how you can prevent it from happening.",
+    "h1": "How To Tell If You're Dehydrated—And What To Do About It",
+    "title": "How To Tell If You’re Dehydrated—And What To Do About It. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "aac1a48b470b"
   },
   "https://www.nike.com/il/a/delayed-onset-muscle-soreness": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/delayed-onset-muscle-soreness",
+    "description": "Muscle stiffness and aches are common side effects of exercise. Here's why it happens—and tips to ease symptoms.",
+    "h1": "What Is Delayed Onset Muscle Soreness?",
+    "title": "What Is Delayed Onset Muscle Soreness?. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "b9d528f69e59"
   },
   "https://www.nike.com/il/a/derrick-henry-on-working-out": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/derrick-henry-on-working-out",
+    "description": "Tennessee Titans running back Derrick Henry, AKA \"King Henry\", is known for being a beast on the pitch and in the gym. As he goes into his seventh NFL season, he shares why he’s so passionate about football and working out, how his family kept him motivated while he was out with an injury, and his a",
+    "h1": "Trained Podcast: Harness Your Drive With Derrick Henry",
+    "title": "Derrick Henry Shares His Fitness Motivation. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "2bdac5c4b197"
   },
   "https://www.nike.com/il/a/devin-booker-book-1-release-info": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/devin-booker-book-1-release-info",
+    "description": "The shoe design features lifestyle aesthetics blended with performance functionality.",
+    "h1": "Nike debuts first shoe in Devin Booker partnership, Nike Book 1",
+    "title": "Nike debuts first shoe in Devin Booker partnership, Nike Book 1. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "faf5bd5d526c"
   },
   "https://www.nike.com/il/a/diamond-push-ups-muscles-worked": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/diamond-push-ups-muscles-worked",
+    "description": "The diamond push-up is a variation of the popular exercise that targets the triceps. Here’s how to do diamond push-ups with proper form to work the intended muscles.",
+    "h1": "What Muscles Do Diamond Push-Ups Work—And How Do You Do Them?",
+    "title": "What Muscles Do Diamond Push-Ups Work—And How Do You Do Them?. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "63b0b388f3a5"
   },
   "https://www.nike.com/il/a/diet-exercise-more-important": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/diet-exercise-more-important",
+    "description": "Is regular exercise more important than a healthy diet? That depends on your goal. Here are the pros and cons of focusing on exercise vs. diet.",
+    "h1": "Diet vs. Exercise: Which Is More Important for Weight Loss?",
+    "title": "Diet vs. Exercise: Which is More Important for Weight Loss?. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "a340570488ef"
   },
   "https://www.nike.com/il/a/dietitian-reshaunda-thornton-helps-us-build-healthy-relationships-with-food": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dietitian-reshaunda-thornton-helps-us-build-healthy-relationships-with-food",
+    "description": "The host of \"The Dietitian Against Diets\" helps you navigate how you think about and connect with food so you can make positive changes for the long haul.",
+    "h1": "Trained Podcast: Love Food More With Reshaunda Thornton",
+    "title": "How to Build a Healthy Relationship With Food, According to Dietitian Reshaunda Thornton. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "15555a1c7ccb"
   },
   "https://www.nike.com/il/a/difference-between-running-walking-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/difference-between-running-walking-shoes",
+    "description": "Cut back on your confusion with this informative guide.",
+    "h1": "Running Shoes vs Walking Shoes: What's the Difference?",
+    "title": "What is the difference between running & walking shoes?. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "73a6f7535ee3"
   },
   "https://www.nike.com/il/a/difference-between-training-running-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -19987,6 +20107,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-brief-lined-running-shorts-GzZYdqhA": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-brief-lined-running-shorts-GzZYdqhA",
+    "description": "Find the Nike AeroSwift Women's Dri-FIT ADV Brief-Lined Running Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike AeroSwift",
+    "title": "Nike AeroSwift Women's Dri-FIT ADV Brief-Lined Running Shorts. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "849c8c799287"
+  },
   "https://www.nike.com/il/t/aeroswift-womens-dri-fit-adv-cropped-running-tank-top-RdF4Zj": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -22827,22 +22963,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/basketball-x-lego-collection-full-zip-hoodie-GdcSumc1": {
-   "first_seen": "2026-11-01T11:36:35Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/basketball-x-lego-collection-full-zip-hoodie-GdcSumc1",
-    "description": "Find the Nike Basketball x LEGO® Collection Full-Zip Hoodie at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Basketball x LEGO® Collection",
-    "title": "Nike Basketball x LEGO® Collection Full-Zip Hoodie. Nike IL"
-   },
-   "seo_checked": "2026-11-01T11:36:35Z",
-   "seo_hash": "03f74698d423"
-  },
   "https://www.nike.com/il/t/basketball-x-lego-collection-older-kids-basketball-shorts-TgXoMT8c": {
    "first_seen": "2026-11-01T11:36:35Z",
    "http": {
@@ -22874,6 +22994,22 @@
    },
    "seo_checked": "2026-11-01T11:36:35Z",
    "seo_hash": "3119631e5fe1"
+  },
+  "https://www.nike.com/il/t/basketball-x-lego-collection-older-kids-full-zip-hoodie-GdcSumc1": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/basketball-x-lego-collection-older-kids-full-zip-hoodie-GdcSumc1",
+    "description": "Find the Nike Basketball x LEGO® Collection Older Kids' Full-Zip Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Basketball x LEGO® Collection",
+    "title": "Nike Basketball x LEGO® Collection Older Kids' Full-Zip Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "f0459ee25d99"
   },
   "https://www.nike.com/il/t/bella-7-womens-workout-shoes-qMvjCk": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -24623,15 +24759,39 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/court-borough-low-baby-toddler-shoes-heBFxm1R": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+  "https://www.nike.com/il/t/court-borough-low-shine-baby-toddler-shoes-heBFxm1R": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/court-borough-low-shine-baby-toddler-shoes-heBFxm1R",
+    "description": "Find the Nike Court Borough Low Shine Baby & Toddler Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Court Borough Low Shine",
+    "title": "Nike Court Borough Low Shine Baby & Toddler Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "11237c3ece29"
+  },
+  "https://www.nike.com/il/t/court-borough-low-shine-younger-kids-shoes-ZxvTLKxl": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/court-borough-low-shine-younger-kids-shoes-ZxvTLKxl",
+    "description": "Find the Nike Court Borough Low Shine Younger Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Court Borough Low Shine",
+    "title": "Nike Court Borough Low Shine Younger Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "2966a98b7fd8"
   },
   "https://www.nike.com/il/t/court-borough-low-younger-kids-shoes-SAuDLeP6": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/court-borough-low-younger-kids-shoes-ZxvTLKxl": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -26110,6 +26270,22 @@
   "https://www.nike.com/il/t/fc-barcelona-city-side-mens-nike-football-trousers-87F1XEGP": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/fc-barcelona-energy-mens-nike-dri-fit-football-shirt-620jL7QQ": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/fc-barcelona-energy-mens-nike-dri-fit-football-shirt-620jL7QQ",
+    "description": "Find the F.C. Barcelona Energy Men's Nike Dri-FIT Football Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "F.C. Barcelona Energy",
+    "title": "F.C. Barcelona Energy Men's Nike Dri-FIT Football Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "278250c82141"
   },
   "https://www.nike.com/il/t/fc-barcelona-energy-third-mens-nike-dri-fit-football-long-sleeve-shirt-bA8hhRQ3": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -28427,22 +28603,6 @@
    "seo_checked": "2026-10-10T05:07:09Z",
    "seo_hash": "6cff8efda2a3"
   },
-  "https://www.nike.com/il/t/jordan-1-mid-se-space-jam-younger-kids-shoes-48oixfld": {
-   "first_seen": "2026-11-04T12:43:37Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/jordan-1-mid-se-space-jam-younger-kids-shoes-48oixfld",
-    "description": "Find the Jordan 1 Mid SE 'Space Jam' Younger Kids' Shoes at Nike.com. Shop online at Nike.com.",
-    "h1": "Jordan 1 Mid SE 'Space Jam'",
-    "title": "Jordan 1 Mid SE 'Space Jam' Younger Kids' Shoes. Nike IL"
-   },
-   "seo_checked": "2026-11-04T12:43:37Z",
-   "seo_hash": "c9470bdc040a"
-  },
   "https://www.nike.com/il/t/jordan-1-mid-se-younger-kids-shoes-5C0nxPXa": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -28790,6 +28950,22 @@
   "https://www.nike.com/il/t/jordan-brooklyn-mens-festival-shorts-Q9qpJAak": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-brooklyn-mens-fleece-crew-neck-sweatshirt-VyULkPMs": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-brooklyn-mens-fleece-crew-neck-sweatshirt-VyULkPMs",
+    "description": "Find the Jordan Brooklyn Men's Fleece Crew-Neck Sweatshirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Brooklyn",
+    "title": "Jordan Brooklyn Men's Fleece Crew-Neck Sweatshirt. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "a99587d2ebd4"
   },
   "https://www.nike.com/il/t/jordan-brooklyn-mens-fleece-trousers-zKXhTz5O": {
    "first_seen": "2026-11-04T12:43:37Z",
@@ -29955,22 +30131,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/jordan-flight-space-jam-mens-varsity-jacket-CRlytaDY": {
-   "first_seen": "2026-11-04T12:43:37Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/jordan-flight-space-jam-mens-varsity-jacket-CRlytaDY",
-    "description": "Find the Jordan Flight Space Jam Men's Varsity Jacket at Nike.com. Shop online at Nike.com.",
-    "h1": "Jordan Flight Space Jam",
-    "title": "Jordan Flight Space Jam Men's Varsity Jacket. Nike IL"
-   },
-   "seo_checked": "2026-11-04T12:43:37Z",
-   "seo_hash": "cd0f8b1ad178"
-  },
   "https://www.nike.com/il/t/jordan-flight-space-jam-mens-vault-1996-crew-neck-t-shirt-VDaNNS2g": {
    "first_seen": "2026-10-10T05:07:09Z",
    "http": {
@@ -30922,6 +31082,22 @@
   "https://www.nike.com/il/t/jordan-sport-mens-knit-golf-polo-HDH28VzC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/jordan-sport-mens-midweight-jacket-Znw6EPSH": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-sport-mens-midweight-jacket-Znw6EPSH",
+    "description": "Find the Jordan Sport Men's Midweight Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Sport",
+    "title": "Jordan Sport Men's Midweight Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "8e378ceadf8b"
   },
   "https://www.nike.com/il/t/jordan-sport-mens-pullover-golf-hoodie-m8pkkT": {
    "first_seen": "2026-10-15T05:19:12Z",
@@ -38443,6 +38619,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-essentials-womens-t-shirt-kjAiKfAy": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-essentials-womens-t-shirt-kjAiKfAy",
+    "description": "Find the Nike Sportswear Essentials Women's T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear Essentials",
+    "title": "Nike Sportswear Essentials Women's T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "f68d8fffb949"
+  },
   "https://www.nike.com/il/t/sportswear-faux-fur-slouchy-bag-19l-mIKUS6FC": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -39455,6 +39647,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-womens-oversized-mid-rise-parachute-shorts-4GyWBU8n": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-womens-oversized-mid-rise-parachute-shorts-4GyWBU8n",
+    "description": "Find the Nike Sportswear Women's Oversized Mid-Rise Parachute Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Women's Oversized Mid-Rise Parachute Shorts. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "88c47182e99c"
+  },
   "https://www.nike.com/il/t/sportswear-womens-oversized-plaid-high-pile-fleece-jacket-Jj8tvEjb": {
    "first_seen": "2026-10-01T05:07:14Z",
    "http": {
@@ -40198,6 +40406,22 @@
   "https://www.nike.com/il/t/stride-mens-storm-fit-adv-waterproof-running-jacket-54XoqHLJ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/stride-mens-therma-fit-winterized-running-gilet-WKdMKQHH": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/stride-mens-therma-fit-winterized-running-gilet-WKdMKQHH",
+    "description": "Find the Nike Stride Men's Therma-FIT Winterized Running Gilet at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Stride",
+    "title": "Nike Stride Men's Therma-FIT Winterized Running Gilet. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "bbc1b8c81355"
   },
   "https://www.nike.com/il/t/stride-mens-therma-fit-winterized-running-mid-layer-k2k0ceqi": {
    "first_seen": "2026-10-21T05:20:43Z",
@@ -41810,6 +42034,22 @@
    },
    "seo_checked": "2026-10-07T05:08:09Z",
    "seo_hash": "51a9cdc6c878"
+  },
+  "https://www.nike.com/il/t/tottenham-hotspur-energy-mens-nike-dri-fit-football-jersey-xTbr28hn": {
+   "first_seen": "2026-11-09T13:31:40Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tottenham-hotspur-energy-mens-nike-dri-fit-football-jersey-xTbr28hn",
+    "description": "Find the Tottenham Hotspur Energy Men's Nike Dri-FIT Football Jersey at Nike.com. Shop online at Nike.com.",
+    "h1": "Tottenham Hotspur Energy",
+    "title": "Tottenham Hotspur Energy Men's Nike Dri-FIT Football Jersey. Nike IL"
+   },
+   "seo_checked": "2026-11-09T13:31:40Z",
+   "seo_hash": "5b3d09306121"
   },
   "https://www.nike.com/il/t/tottenham-hotspur-energy-third-mens-nike-dri-fit-football-long-sleeve-shirt-rsgvIbBE": {
    "first_seen": "2026-09-24T08:34:55Z",
