@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-09T13:31:40Z",
+  "last_run": "2026-11-10T13:10:56Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -8008,43 +8008,163 @@
   },
   "https://www.nike.com/il/a/difference-between-training-running-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/difference-between-training-running-shoes",
+    "description": "Running and training shoes support different types of movement, and knowing the distinction is essential to getting the best results from every workout.",
+    "h1": "Training Shoes vs Running Shoes: What's the Difference and Which Should You Wear?",
+    "title": "Training Shoes vs. Running Shoes: What’s the Difference?. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "68a08723b1a4"
   },
   "https://www.nike.com/il/a/dina-about-sports-bras": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dina-about-sports-bras",
+    "description": "Sports bra queen, Dina Asher-Smith, is our first (Bra) by takeover guest editor. Jump into the British World Champion's mind on bras, breasts and exercise.",
+    "h1": null,
+    "title": "(Bra) by Dina | About Sports Bras. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "edd22a724bec"
   },
   "https://www.nike.com/il/a/dina-asher-smith-new-icons": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dina-asher-smith-new-icons",
+    "description": "Boobs. Cramps. Periods. Taboo topics? Not for Dina Asher-Smith. See how this world champion sprinter is changing the conversation for the next generation of female.",
+    "h1": "New Icons",
+    "title": "New Icons: Dina Asher-Smith. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "960e5cb29b14"
   },
   "https://www.nike.com/il/a/dina-choosing-a-sports-bra-for-friend": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dina-choosing-a-sports-bra-for-friend",
+    "description": "Find out what happens when our (Bra) by Dina takeover guest editor, Dina Asher-Smith, turns her hand to choosing a sports bra for a friend.",
+    "h1": null,
+    "title": "(Bra) by Dina | Choosing a Sports Bra For a Friend. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "138749d314b7"
   },
   "https://www.nike.com/il/a/dina-how-to-wear-a-sports-bra": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dina-how-to-wear-a-sports-bra",
+    "description": "In this week's (Bra) by Dina takeover, find out how the queen of sports bras (and sprinting) Dina Asher-Smith has styled up her fave Nike sports bras.",
+    "h1": null,
+    "title": "(Bra) by Dina | How To Wear a Sports Bra. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "744f2031aef4"
   },
   "https://www.nike.com/il/a/dina-letter-to-my-12-year-old-self": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dina-letter-to-my-12-year-old-self",
+    "description": "This week in our (Bra) by Dina takeover, read a letter written by the queen of sports bras (and sprinting), Dina Asher-Smith, to her 12-year-old self.",
+    "h1": null,
+    "title": "(Bra) by Dina | Letter To My 12-Year-Old Self. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "8169876e6620"
   },
   "https://www.nike.com/il/a/dina-sports-bra-style": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/dina-sports-bra-style",
+    "description": "Check out how our (Bra) by Dina guest editor, athlete Dina Asher-Smith, has styled her favourite Nike sports bras this week using her own wardrobe.",
+    "h1": null,
+    "title": "(Bra) by Dina | Sports Bra Style. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "af101e4eba84"
   },
   "https://www.nike.com/il/a/discover-your-purpose-to-get-motivated": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/discover-your-purpose-to-get-motivated",
+    "description": "Figuring out your purpose can make navigating even the toughest situations a little easier. Here’s how to find it and what to do if you ever lose it.",
+    "h1": "Unlock Endless Motivation With Your \"Why\"",
+    "title": "How to Find Your Purpose to Get Motivated. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "c33fff52a98c"
   },
   "https://www.nike.com/il/a/disinfect-deodorise-shoes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/disinfect-deodorise-shoes",
+    "description": "Don't let your sneakers bring viruses and bacteria into your home. Disinfect your shoes safely and easily with these tips.",
+    "h1": "6 Ways to Disinfect Your Sneakers",
+    "title": "6 Ways to Disinfect Your Sneakers. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "d5d635b93178"
   },
   "https://www.nike.com/il/a/distance-runner-shalane-flanagan-on-achieving-goals-and-inspiring-others": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/distance-runner-shalane-flanagan-on-achieving-goals-and-inspiring-others",
+    "description": "Shalane Flanagan made history by becoming the first American woman to win the New York City marathon in 40 years. Then she came out of retirement to run the six World Marathon Majors in less than seven weeks, or what she called “Project Eclipse.” Find out the training and recovery plan that helped h",
+    "h1": "Trained Podcast: Hit Your Goals with Shalane Flanagan",
+    "title": "How to Achieve Goals and Inspire Others, According to Shalane Flanagan. Nike IL"
+   },
+   "seo_checked": "2026-11-10T13:10:56Z",
+   "seo_hash": "9cf44a60a4a7"
   },
   "https://www.nike.com/il/a/do-i-need-more-iron-in-my-diet": {
    "first_seen": "2026-09-24T08:34:55Z",

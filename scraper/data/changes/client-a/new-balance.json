@@ -6,6 +6,786 @@
  },
  "events": [
   {
+   "after": "2026-11-10T08:37:16+00:00",
+   "asset_type": "other",
+   "before": "2026-11-04T07:35:59+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "696v6 Tennis Shoes",
+    "title": "696v6 Tennis Shoes"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/root/WCH696V6.html"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-11-04T07:39:33+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-07-05T08:59:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "327",
+    "title": "327 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-327"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-12T07:06:07+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "574",
+    "title": "574 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-574"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-11-04T07:39:33+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "997",
+    "title": "997 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-9060"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-07-06T07:47:55+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Kids",
+    "title": "Kids - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/kids"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/Running"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Football",
+    "title": "Football - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/sports/sport-football"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-13T11:35:32+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "880",
+    "title": "880 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/880"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-11-04T07:39:33+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "SHOES",
+    "title": "SHOES - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shoes"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-09-23T14:15:01+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "CLOTHING",
+    "title": "CLOTHING - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-clothing"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Shop men",
+    "title": "Shop men - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/new/new-men"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-13T11:50:02+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Stability",
+    "title": "Stability - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/running/Stability"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Neutral Cushioned",
+    "title": "Neutral Cushioned - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/running/Neutral%20Cushioned"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-10T11:52:39+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Competition",
+    "title": "Competition - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/running/Competition"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-11T09:06:34+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Diabetes",
+    "title": "Diabetes - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/%D7%A1%D7%9B%D7%A8%D7%AA"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "373",
+    "title": "373 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-373"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Motion Control",
+    "title": "Motion Control - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/running/Motion%20Control"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-04-29T06:38:38+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Tech collection",
+    "title": "Tech collection - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/BlackFriday_TECH"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Unisex",
+    "title": "Unisex - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/unisex"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-13T10:36:32+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "530",
+    "title": "530 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-shopbystyle/women-shopbystyle-530"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "New",
+    "title": "New - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/new"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-07-27T06:19:08+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Shop women",
+    "title": "Shop women - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/new/new-women"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Shop kids",
+    "title": "Shop kids - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/new/new-kids"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Men",
+    "title": "Men - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "SHOES",
+    "title": "SHOES - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "All Shoes",
+    "title": "All Shoes - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/allshoes"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/running"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Lifestyle",
+    "title": "Lifestyle - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/Lifestyle"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-13T06:09:08+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Made in UK & US",
+    "title": "Made in UK & US - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/MadeinUK%26US"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-11T11:44:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "page": {
+    "h1": "Trail Running",
+    "title": "Trail Running - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/TrailRunning"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Training",
+    "title": "Training - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/Training"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-13T06:09:08+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Walking",
+    "title": "Walking - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/walking"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-13T06:09:08+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Wide Shoes",
+    "title": "Wide Shoes - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/wideshoes"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Spikes",
+    "title": "Spikes - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shoes/spikes"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-09-23T14:32:55+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "CLOTHING",
+    "title": "CLOTHING - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-13T12:05:25+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "All clothing",
+    "title": "All clothing - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/allclothing"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Hoodies & Sweatshirts",
+    "title": "Hoodies & Sweatshirts - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/hoodies%26sweatshirts"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Jackets",
+    "title": "Jackets - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/jackets"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Long Sleeve Shirts",
+    "title": "Long Sleeve Shirts - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/longsleeveshirts"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-13T12:05:25+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "T-Shirts & Tops",
+    "title": "T-Shirts & Tops - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/shortsleeveshirts"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Pants & Tights",
+    "title": "Pants & Tights - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/pants%26tights"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Shorts",
+    "title": "Shorts - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/clothing/shorts"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "SPORTS",
+    "title": "SPORTS - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/sports"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-12T12:11:16+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "running"
+   ],
+   "page": {
+    "h1": "Running",
+    "title": "Running - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/sports/sports-running"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-11T08:24:19+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "keywords": [
+    "basketball"
+   ],
+   "page": {
+    "h1": "Basketball",
+    "title": "Basketball - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/sports/sports-basketball"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Tennis",
+    "title": "Tennis - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/sports/sports-tennis"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-01-28T13:22:09+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Athletics",
+    "title": "Athletics - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/sports/sports-athletics"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-10-29T08:40:58+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "SHOP BY STYLE",
+    "title": "SHOP BY STYLE - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-07T07:47:24+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "1080",
+    "title": "1080 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/1080"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-10T11:56:56+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "860",
+    "title": "860 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/860"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-08-13T06:09:08+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "990",
+    "title": "990 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/990"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-13T11:42:22+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "327",
+    "title": "327 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/327"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-10T06:55:23+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "574",
+    "title": "574 - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/men/shopbystyle/574"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-11-04T07:39:33+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "Women",
+    "title": "Women - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women"
+  },
+  {
+   "after": "2026-11-10T08:37:21+00:00",
+   "asset_type": "category",
+   "before": "2026-05-24T06:34:05+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "h1": "SPORTS",
+    "title": "SPORTS - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/women/women-sports"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-10T13:10:56Z",
+   "lastmod": "2026-11-10T09:28:51+00:00",
+   "page": {
+    "h1": "Industrial",
+    "title": "Industrial - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes"
+  },
+  {
+   "after": "2026-11-10T12:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-11-09T12:00:03+00:00",
+   "date": "2026-11-10T13:10:56Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
    "after": "2026-11-08T08:20:32+00:00",
    "asset_type": "category",
    "before": "2026-10-29T08:40:58+00:00",
@@ -1465,6 +2245,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 1,
+    "keyword_hits": 9,
+    "updated": 57
+   },
+   "date": "2026-11-10T13:10:56Z",
+   "status": "ok",
+   "total_urls": 231
+  },
   {
    "counts": {
     "keyword_hits": 1,
