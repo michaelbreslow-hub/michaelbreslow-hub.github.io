@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-12T13:28:53Z",
+  "last_run": "2026-11-13T12:45:29Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -8488,43 +8488,163 @@
   },
   "https://www.nike.com/il/a/easy-one-pot-meals": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/easy-one-pot-meals",
+    "description": "Whip up one of these nutritious one-pot meals after your next sweat sesh.",
+    "h1": "4 One-Pot Meals to Make After a Workout, According to a Registered Dietitian",
+    "title": "4 One-pot Meals to Make After a Workout, According to a Registered Dietitian. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "37a3c360a9c8"
   },
   "https://www.nike.com/il/a/eat-before-after-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/eat-before-after-workout",
+    "description": "Get ready to move and maximise your gains with this expert-approved guide on what to eat before and after exercise.",
+    "h1": "What to Eat Before and After a Workout, According to Experts",
+    "title": "What to Eat Before and After a Workout. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "fe4e86fc36c8"
   },
   "https://www.nike.com/il/a/eat-before-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/eat-before-running",
+    "description": "You know you need to fuel up for maximum performance before you race, but what exactly does that look like on your plate? Sports dietitians and Nike Running Global Head Coach Chris Bennett share their thoughts.",
+    "h1": "What to Eat Before You Run a Race, According to Experts",
+    "title": "What to Eat Before Running a Race, According to Dietitians. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "0ab68eee72ac"
   },
   "https://www.nike.com/il/a/eat-your-way-to-better-immunity": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/eat-your-way-to-better-immunity",
+    "description": "How your immune system works and how to target your \"micro heroes\" with nutrients.",
+    "h1": "Can You Eat Your Way to Better Immunity?",
+    "title": "Can You Eat Your Way to Better Immunity?. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "5282a431c6f0"
   },
   "https://www.nike.com/il/a/effects-of-sugar-on-body": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/effects-of-sugar-on-body",
+    "description": "Too much sugar can invite health concerns, but different types of sugar have different effects. Here’s what to know about naturally occurring sugars and added sugars, including natural and processed ones.",
+    "h1": "Sugar Is Sugar Is Sugar. Or Is It?",
+    "title": "How Sugar Affects the Body. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "07bac0096162"
   },
   "https://www.nike.com/il/a/electric-pack-release-date": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/electric-pack-release-date",
+    "description": "The new looks combine an iconic ostrich print with a bold new performance colour.",
+    "h1": "The Electric Pack: a futuristic new colourway with a nod to the past",
+    "title": "The Electric Pack: a futuristic new colourway with a nod to the past. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "3b60fe12c0c9"
   },
   "https://www.nike.com/il/a/eliud-kipchoge": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/eliud-kipchoge",
+    "description": "Eliud Kipchoge's historic 1:59:40 marathon was just the beginning. Now, he's using his super-human achievements to inspire people everywhere.",
+    "h1": null,
+    "title": "Eliud Kipchoge. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "ae9c6f8a338d"
   },
   "https://www.nike.com/il/a/eliud-kipchoge-new-wins": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/eliud-kipchoge-new-wins",
+    "description": "Eliud Kipchoge’s historic 1:59:40 marathon was just the beginning. Now, he’s using his super-human achievements to inspire people everywhere to rethink their potential. Play New.",
+    "h1": "New Wins: Eliud Kipchoge",
+    "title": "New Wins. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "42636006a64f"
   },
   "https://www.nike.com/il/a/ellen-ramasedi-sports-for-girls": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/ellen-ramasedi-sports-for-girls",
+    "description": "Find out how coach Ellen Ramasedi's passion for long jump, netball and dance inspired her to help young girls worldwide find a sport of their own.",
+    "h1": null,
+    "title": "Ellen Ramasedi Champions Sports for Girls. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "3264a0177533"
   },
   "https://www.nike.com/il/a/elliptical-treadmill-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/elliptical-treadmill-running",
+    "description": "The elliptical and treadmill are two popular cardio machines. But which is best? Is it better to take your workout outdoors? Let's compare the pros and cons.",
+    "h1": "Elliptical vs Treadmill vs Outdoor Running: Which Is Best for Fitness, Joints and Weight Loss?",
+    "title": "Elliptical vs Treadmill vs Running Outside: What's Better?. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "c6466c27e1e5"
   },
   "https://www.nike.com/il/a/emma-meesseman-new-examples": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -19436,6 +19556,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/academy-winter-warrior-older-kids-therma-fit-football-pants-8RS4A0Ht": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/academy-winter-warrior-older-kids-therma-fit-football-pants-8RS4A0Ht",
+    "description": "Find the Nike Academy Winter Warrior Older Kids' Therma-FIT Football Pants at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Academy Winter Warrior",
+    "title": "Nike Academy Winter Warrior Older Kids' Therma-FIT Football Pants. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "e6b090aadf69"
+  },
   "https://www.nike.com/il/t/academy-winter-warrior-womens-therma-fit-football-drill-top-1wwDjN9C": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -26236,6 +26372,70 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/erling-haaland-academy-older-kids-nike-dri-fit-knit-football-tracksuit-tJTs7TWq": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/erling-haaland-academy-older-kids-nike-dri-fit-knit-football-tracksuit-tJTs7TWq",
+    "description": "Find the Erling Haaland Academy Older Kids' Nike Dri-FIT Knit Football Tracksuit at Nike.com. Shop online at Nike.com.",
+    "h1": "Erling Haaland Academy",
+    "title": "Erling Haaland Academy Older Kids' Nike Dri-FIT Knit Football Tracksuit. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "0c93f128b9e4"
+  },
+  "https://www.nike.com/il/t/erling-haaland-academy-older-kids-nike-dri-fit-short-sleeve-football-top-i7eEPOjU": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/erling-haaland-academy-older-kids-nike-dri-fit-short-sleeve-football-top-i7eEPOjU",
+    "description": "Find the Erling Haaland Academy Older Kids' Nike Dri-FIT Short-Sleeve Football Top at Nike.com. Shop online at Nike.com.",
+    "h1": "Erling Haaland Academy",
+    "title": "Erling Haaland Academy Older Kids' Nike Dri-FIT Short-Sleeve Football Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "4bd45e7ce567"
+  },
+  "https://www.nike.com/il/t/erling-haaland-club-fleece-older-kids-nike-football-hoodie-lFcYVVZb": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/erling-haaland-club-fleece-older-kids-nike-football-hoodie-lFcYVVZb",
+    "description": "Find the Erling Haaland Club Fleece Older Kids' Nike Football Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Erling Haaland Club Fleece",
+    "title": "Erling Haaland Club Fleece Older Kids' Nike Football Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "11966d168f1e"
+  },
+  "https://www.nike.com/il/t/erling-haaland-club-fleece-older-kids-nike-football-joggers-pObVYA0V": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/erling-haaland-club-fleece-older-kids-nike-football-joggers-pObVYA0V",
+    "description": "Find the Erling Haaland Club Fleece Older Kids' Nike Football Joggers at Nike.com. Shop online at Nike.com.",
+    "h1": "Erling Haaland Club Fleece",
+    "title": "Erling Haaland Club Fleece Older Kids' Nike Football Joggers. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "3b5c2acce212"
+  },
   "https://www.nike.com/il/t/essential-womens-dri-fit-mesh-basketball-shorts-mCH3Bm": {
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
@@ -27616,6 +27816,22 @@
    "first_seen": "2026-10-15T05:19:12Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/force-1-low-younger-kids-shoes-OK450ufE": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/force-1-low-younger-kids-shoes-OK450ufE",
+    "description": "Find the Nike Force 1 Low Younger Kids' Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Force 1 Low",
+    "title": "Nike Force 1 Low Younger Kids' Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "bc2ddae31fdb"
+  },
   "https://www.nike.com/il/t/force-1-low-younger-kids-shoes-TubxXR46": {
    "first_seen": "2026-10-15T05:19:12Z",
    "lastmod": null
@@ -27770,6 +27986,10 @@
   },
   "https://www.nike.com/il/t/free-metcon-7-se-womens-training-shoes-INv1FG6L": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/free-metcon-7-se-womens-training-shoes-Ib1YS2c8": {
+   "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/free-metcon-7-se-womens-training-shoes-OEJkz1Hd": {
@@ -30736,6 +30956,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/jordan-flight-mountainside-mens-fleece-trousers-7ND6hbch": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/jordan-flight-mountainside-mens-long-sleeve-top-cOvzoFdX": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -32680,6 +32904,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/kobe-3-low-older-kids-basketball-shoes-eyV5yyT0": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/kobe-3-low-protro-basketball-shoes-RlRrvcbs": {
    "first_seen": "2026-10-31T10:41:23Z",
    "http": {
@@ -32697,10 +32925,6 @@
    "seo_hash": "42fcb2d5ca97"
   },
   "https://www.nike.com/il/t/kobe-3-low-protro-older-kids-basketball-shoes-bbvm9hAu": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/kobe-iii-low-older-kids-basketball-shoes-eyV5yyT0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -33988,6 +34212,22 @@
    "first_seen": "2026-10-02T05:06:40Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/mercurial-lite-erling-haaland-football-shinguards-RfoRrTCp": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/mercurial-lite-erling-haaland-football-shinguards-RfoRrTCp",
+    "description": "Find the Nike Mercurial Lite 'Erling Haaland' Football Shinguards at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Mercurial Lite 'Erling Haaland'",
+    "title": "Nike Mercurial Lite 'Erling Haaland' Football Shinguards. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "b7d79f528d7e"
+  },
   "https://www.nike.com/il/t/mercurial-lite-football-shinguards-zNpFcc": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -34318,6 +34558,10 @@
   },
   "https://www.nike.com/il/t/metcon-10-by-you-custom-workout-shoes-qhhhxh5z": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/metcon-10-se-womens-training-shoes-4OkoX4n7": {
+   "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/metcon-10-se-womens-training-shoes-HPaw1aiQ": {
@@ -34722,6 +34966,10 @@
   },
   "https://www.nike.com/il/t/modern-plaque-womens-golf-belt-EoLzqG": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/moon-shoe-og-leather-womens-shoes-xVBAE3wg": {
+   "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/moon-shoe-og-mens-shoes-s2ohokdl": {
@@ -35664,9 +35912,73 @@
    "seo_checked": "2026-10-17T05:16:42Z",
    "seo_hash": "ca2953aef0cb"
   },
+  "https://www.nike.com/il/t/nikeskims-dri-fit-knee-high-sock-1-pair-2NIdm6CP": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-dri-fit-knee-high-sock-1-pair-2NIdm6CP",
+    "description": "Find the NikeSKIMS Dri-FIT Knee-High Sock (1 Pair) at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Dri-FIT",
+    "title": "NikeSKIMS Dri-FIT Knee-High Sock (1 Pair). Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "8c91c9558bdd"
+  },
   "https://www.nike.com/il/t/nikeskims-dri-fit-womens-dri-fit-crew-socks-3-pairs-bnqFJhi0": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-filled-iridescent-womens-hooded-puffer-jacket-RdzMpnF3": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-filled-iridescent-womens-hooded-puffer-jacket-RdzMpnF3",
+    "description": "Find the NikeSKIMS Filled Iridescent Women's Hooded Puffer Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Filled Iridescent",
+    "title": "NikeSKIMS Filled Iridescent Women's Hooded Puffer Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "fa6f70162d80"
+  },
+  "https://www.nike.com/il/t/nikeskims-filled-iridescent-womens-wrap-bz6CyUpb": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-filled-iridescent-womens-wrap-bz6CyUpb",
+    "description": "Find the NikeSKIMS Filled Iridescent Women's Wrap at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Filled Iridescent",
+    "title": "NikeSKIMS Filled Iridescent Women's Wrap. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "bdb1fffd1e57"
+  },
+  "https://www.nike.com/il/t/nikeskims-filled-puffer-womens-hooded-jacket-QIxMldRY": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-filled-puffer-womens-hooded-jacket-QIxMldRY",
+    "description": "Find the NikeSKIMS Filled Puffer Women's Hooded Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Filled Puffer",
+    "title": "NikeSKIMS Filled Puffer Women's Hooded Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "4b3e2628f1a1"
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-balconette-bra-SeHUp41a": {
    "first_seen": "2026-10-20T05:19:59Z",
@@ -35683,6 +35995,10 @@
    },
    "seo_checked": "2026-10-20T05:19:59Z",
    "seo_hash": "3bb3599b8372"
+  },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-bandeau-bra-Zj6icBJP": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-double-layer-plunge-bra-dlCAdPA0": {
    "first_seen": "2026-10-20T05:19:59Z",
@@ -35712,12 +36028,20 @@
    "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-flared-fold-over-waistband-trousers-ivgrKmv3": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-18cm-approx-biker-shorts-AW8KNWkm": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-66cm-approx-leggings-9S7eSubt": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-73-5cm-approx-lace-up-leggings-Xak9NUcm": {
+   "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-matte-womens-high-waisted-73-5cm-approx-leggings-kcvhaxn6": {
@@ -35752,6 +36076,22 @@
    "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-matte-womens-mock-neck-full-zip-jacket-WRHRVdzl": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-matte-womens-mock-neck-full-zip-jacket-WRHRVdzl",
+    "description": "Find the NikeSKIMS Matte Women's Mock-Neck Full-Zip Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Matte",
+    "title": "NikeSKIMS Matte Women's Mock-Neck Full-Zip Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "d47d80004dcd"
+  },
   "https://www.nike.com/il/t/nikeskims-matte-womens-mock-neck-racerback-tank-top-l06ALVuw": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35760,13 +36100,81 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-short-sleeve-top-L8tdN71z": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-short-sleeve-top-L8tdN71z",
+    "description": "Find the NikeSKIMS Performance Cotton Blend Women's Cropped Short-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Performance Cotton Blend",
+    "title": "NikeSKIMS Performance Cotton Blend Women's Cropped Short-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "a23afc87fd26"
+  },
+  "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-short-sleeve-top-m07l8RGi": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-short-sleeve-top-m07l8RGi",
+    "description": "Find the NikeSKIMS Performance Cotton Blend Women's Cropped Short-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Performance Cotton Blend",
+    "title": "NikeSKIMS Performance Cotton Blend Women's Cropped Short-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "fec8201a5520"
+  },
   "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-tank-top-y8fLJLzZ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-twist-tank-top-k3Ng9EWi": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-twist-tank-top-k3Ng9EWi",
+    "description": "Find the NikeSKIMS Performance Cotton Blend Women's Cropped Twist Tank Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Performance Cotton Blend",
+    "title": "NikeSKIMS Performance Cotton Blend Women's Cropped Twist Tank Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "00416581c5e1"
+  },
   "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-cropped-twist-tank-top-r96RCvfi": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-oversized-long-sleeve-top-6cARyvP3": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-oversized-short-sleeve-top-sbloISUK": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-oversized-short-sleeve-top-sbloISUK",
+    "description": "Find the NikeSKIMS Performance Cotton Blend Women's Oversized Short-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Performance Cotton Blend",
+    "title": "NikeSKIMS Performance Cotton Blend Women's Oversized Short-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "aab28546d87e"
   },
   "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-oversized-short-sleeve-top-v87BGWpx": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -35775,6 +36183,22 @@
   "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-short-sleeve-top-6jdh117D": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-short-sleeve-top-GZQESC8A": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-short-sleeve-top-GZQESC8A",
+    "description": "Find the NikeSKIMS Performance Cotton Blend Women's Short-Sleeve Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Performance Cotton Blend",
+    "title": "NikeSKIMS Performance Cotton Blend Women's Short-Sleeve Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "db65c336a95c"
   },
   "https://www.nike.com/il/t/nikeskims-performance-cotton-blend-womens-v-neck-cropped-twist-short-sleeve-top-pXullTxr": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -35792,9 +36216,89 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-high-waisted-12-5cm-approx-biker-shorts-Y1v8EEwR": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-high-waisted-12-5cm-approx-biker-shorts-Y1v8EEwR",
+    "description": "Find the NikeSKIMS Ribbed Seamless Women's High-Waisted 12.5cm (Approx.) Biker Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Ribbed Seamless",
+    "title": "NikeSKIMS Ribbed Seamless Women's High-Waisted 12.5cm (Approx.) Biker Shorts. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "16949fa61d8b"
+  },
+  "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-high-waisted-66cm-approx-leggings-kfVuJnpD": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-high-waisted-66cm-approx-leggings-kfVuJnpD",
+    "description": "Find the NikeSKIMS Ribbed Seamless Women's High-Waisted 66cm (approx.) Leggings at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Ribbed Seamless",
+    "title": "NikeSKIMS Ribbed Seamless Women's High-Waisted 66cm (approx.) Leggings. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "b8b5013ef000"
+  },
+  "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-light-support-strappy-back-sports-bra-Z6SEhBvy": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-light-support-strappy-back-sports-bra-Z6SEhBvy",
+    "description": "Find the NikeSKIMS Ribbed Seamless Women's Light-Support Strappy-Back Sports Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Ribbed Seamless",
+    "title": "NikeSKIMS Ribbed Seamless Women's Light-Support Strappy-Back Sports Bra. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "fc56772f7c29"
+  },
+  "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-padded-scoop-neck-racerback-bra-47KZOyX2": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-padded-scoop-neck-racerback-bra-47KZOyX2",
+    "description": "Find the NikeSKIMS Ribbed Seamless Women's Padded Scoop-Neck Racerback Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Ribbed Seamless",
+    "title": "NikeSKIMS Ribbed Seamless Women's Padded Scoop-Neck Racerback Bra. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "ddf73f55764f"
+  },
   "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-scoop-neck-12-5cm-approx-bodysuit-1IlYROIv": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-short-sleeve-cropped-top-CPADRkOr": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-ribbed-seamless-womens-short-sleeve-cropped-top-CPADRkOr",
+    "description": "Find the NikeSKIMS Ribbed Seamless Women's Short-Sleeve Cropped Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Ribbed Seamless",
+    "title": "NikeSKIMS Ribbed Seamless Women's Short-Sleeve Cropped Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "230902f102c4"
   },
   "https://www.nike.com/il/t/nikeskims-rift-mesh-womens-shoes-AykMviIM": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -35820,6 +36324,42 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-rift-womens-shoes-vOetAIhO": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-rift-womens-shoes-vOetAIhO",
+    "description": "Find the NikeSKIMS Rift Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Rift",
+    "title": "NikeSKIMS Rift Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "70d472a47b77"
+  },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-1-2-zip-tank-top-jsWoGfew": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-satin-shine-womens-1-2-zip-tank-top-jsWoGfew",
+    "description": "Find the NikeSKIMS Satin Shine Women's 1/2-Zip Tank Top at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Satin Shine",
+    "title": "NikeSKIMS Satin Shine Women's 1/2-Zip Tank Top. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "020cad73ddd3"
+  },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-boxing-shorts-SUyXq5io": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-cami-bodysuit-d91dS2g1": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35832,12 +36372,20 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-half-zip-7-5cm-approx-bodysuit-5rIt154D": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-halter-bra-jcSuucD6": {
    "first_seen": "2026-11-11T12:19:35Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-12-5cm-approx-biker-shorts-J2Xkuxy7": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-12-5cm-approx-biker-shorts-QFUBhvr8": {
+   "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-12-5cm-approx-biker-shorts-gz22PWsa": {
@@ -35847,6 +36395,22 @@
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-26-66cm-approx-leggings-WJxUTG9d": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-73-5cm-approx-leggings-blwqwKf2": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-73-5cm-approx-leggings-blwqwKf2",
+    "description": "Find the NikeSKIMS Satin Shine Women's High-Waisted 73.5cm (Approx.) Leggings at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Satin Shine",
+    "title": "NikeSKIMS Satin Shine Women's High-Waisted 73.5cm (Approx.) Leggings. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "e7ee1e6fe0f6"
   },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-high-waisted-bonded-66cm-approx-leggings-jMeZR1xy": {
    "first_seen": "2026-10-07T05:08:09Z",
@@ -35880,6 +36444,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-padded-scoop-neck-bra-i7mvlV89": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-picot-bodysuit-xJJQIizZ": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35890,6 +36458,26 @@
   },
   "https://www.nike.com/il/t/nikeskims-satin-shine-womens-scoop-cami-bra-kBmdrBLm": {
    "first_seen": "2026-09-24T08:34:55Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-satin-shine-womens-triangle-bra-JaY4HaqT": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-satin-shine-womens-triangle-bra-JaY4HaqT",
+    "description": "Find the NikeSKIMS Satin Shine Women's Triangle Bra at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Satin Shine",
+    "title": "NikeSKIMS Satin Shine Women's Triangle Bra. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "c57f08adb0db"
+  },
+  "https://www.nike.com/il/t/nikeskims-satin-womens-joggers-vAscyT5Q": {
+   "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
   "https://www.nike.com/il/t/nikeskims-sherpa-womens-oversized-3-4-zip-jacket-SfnFnX8r": {
@@ -35903,6 +36491,22 @@
   "https://www.nike.com/il/t/nikeskims-shine-womens-high-waisted-12-5cm-approx-biker-shorts-CuFTR1zM": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-shiny-tricot-womens-side-press-stud-trousers-V8AUPscX": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-shiny-tricot-womens-side-press-stud-trousers-V8AUPscX",
+    "description": "Find the NikeSKIMS Shiny Tricot Women's Side Press-Stud Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Shiny Tricot",
+    "title": "NikeSKIMS Shiny Tricot Women's Side Press-Stud Trousers. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "be969bc7030b"
   },
   "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-13cm-approx-shorts-mi7C7dUe": {
    "first_seen": "2026-10-20T05:19:59Z",
@@ -35932,6 +36536,10 @@
    "first_seen": "2026-10-20T05:19:59Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-stretch-knit-womens-v-neck-short-sleeve-top-yj6Zi7uj": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-stretch-nylon-womens-12-5cm-approx-track-shorts-P2dVdMjr": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35956,6 +36564,10 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/nikeskims-studio-stretch-womens-long-sleeve-top-77vFZ4I5": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
   "https://www.nike.com/il/t/nikeskims-studio-stretch-womens-micro-sports-bra-g9pCGaNM": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -35971,6 +36583,26 @@
   "https://www.nike.com/il/t/nikeskims-studio-stretch-womens-triangle-sports-bra-1RI9WyNb": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-vintage-sport-fleece-womens-micro-shorts-tSHmS0Up": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "lastmod": null
+  },
+  "https://www.nike.com/il/t/nikeskims-vintage-sport-fleece-womens-oversized-trousers-7i0gtPn3": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-vintage-sport-fleece-womens-oversized-trousers-7i0gtPn3",
+    "description": "Find the NikeSKIMS Vintage Sport Fleece Women's Oversized Trousers at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS Vintage Sport Fleece",
+    "title": "NikeSKIMS Vintage Sport Fleece Women's Oversized Trousers. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "0aebee30188b"
   },
   "https://www.nike.com/il/t/nikeskims-waffle-racer-womens-shoes-etCIbGEJ": {
    "first_seen": "2026-11-06T12:38:57Z",
@@ -36051,6 +36683,22 @@
    },
    "seo_checked": "2026-10-11T05:07:15Z",
    "seo_hash": "3203d33c81f6"
+  },
+  "https://www.nike.com/il/t/nikeskims-womens-hip-pack-keychain-N5zPbwiO": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/nikeskims-womens-hip-pack-keychain-N5zPbwiO",
+    "description": "Find the NikeSKIMS Women's Hip Pack Keychain at Nike.com. Shop online at Nike.com.",
+    "h1": "NikeSKIMS",
+    "title": "NikeSKIMS Women's Hip Pack Keychain. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "14860648d032"
   },
   "https://www.nike.com/il/t/nikeskims-womens-training-gloves-1-pair-2SyY9NiB": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -43591,6 +44239,22 @@
    },
    "seo_checked": "2026-10-27T10:09:33Z",
    "seo_hash": "58d86857cfd6"
+  },
+  "https://www.nike.com/il/t/united-jr-phantom-6-low-academy-older-kids-multi-ground-football-boot-TfK34v5V": {
+   "first_seen": "2026-11-13T12:45:29Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/united-jr-phantom-6-low-academy-older-kids-multi-ground-football-boot-TfK34v5V",
+    "description": "Find the Nike United Jr Phantom 6 Low Academy Older Kids' Multi-Ground Football Boot at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike United Jr Phantom 6 Low Academy",
+    "title": "Nike United Jr Phantom 6 Low Academy Older Kids' Multi-Ground Football Boot. Nike IL"
+   },
+   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_hash": "fc95741fab1f"
   },
   "https://www.nike.com/il/t/united-jr-phantom-6-low-pro-older-kids-multi-ground-football-boot-jurY5Nlz": {
    "first_seen": "2026-10-23T05:20:33Z",
