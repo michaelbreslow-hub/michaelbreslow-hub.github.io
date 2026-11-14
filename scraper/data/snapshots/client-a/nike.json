@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-13T12:45:29Z",
+  "last_run": "2026-11-14T11:53:15Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -8648,43 +8648,163 @@
   },
   "https://www.nike.com/il/a/emma-meesseman-new-examples": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/emma-meesseman-new-examples",
+    "description": "Fly High. Stay Rooted. Despite everything she’s achieved, see why WNBA player Emma Meesseman will always just be ‘Emma from Ypres’.",
+    "h1": "New Perspectives",
+    "title": "New Examples. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "d10930141d91"
   },
   "https://www.nike.com/il/a/emma-raducanu-letting-go-of-perfection": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/emma-raducanu-letting-go-of-perfection",
+    "description": "Learn how tennis star Emma Raducanu finds the confidence to take risks and lets go of perfection in our next 'What Are You Working On?' film.",
+    "h1": "Emma Raducanu: Letting Go of Perfect",
+    "title": "Emma Raducanu: Letting Go of Perfection. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "723a74ee0755"
   },
   "https://www.nike.com/il/a/epd-cushioning-modal-51ty50bg": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/epd-cushioning-modal-51ty50bg",
+    "description": null,
+    "h1": null,
+    "title": ". Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "f89b13f604d4"
   },
   "https://www.nike.com/il/a/equipment-substitutions-and-modifications": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/equipment-substitutions-and-modifications",
+    "description": "Substitute household items for weights or try these alternatives to get just as much burn, no matter your workout space setup.",
+    "h1": "Lacking Workout Equipment? Try These Modifications",
+    "title": "Lacking Workout Equipment? Try These Modifications. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "f0ea416a1861"
   },
   "https://www.nike.com/il/a/every-kid-belongs": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/every-kid-belongs",
+    "description": "Every kid deserves to belong, whether at home, in school or with their friends. It's no different when it comes to play, movement and sport.",
+    "h1": "Every kid belongs",
+    "title": "Every kid belongs. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "413815283feb"
   },
   "https://www.nike.com/il/a/exercise-after-a-c-section": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-after-a-c-section",
+    "description": "There’s a lot to consider when trying to get back into movement after a C-section. Learn from this group of obstetricians and gynaecologists, physiotherapists and kinesiologists how you can get back into fitness safely and how light movements and breathing exercises can help with the recovery proces",
+    "h1": "How to Safely Start Exercising After a C-Section",
+    "title": "How to Exercise Safely After a C-Section, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "2abf968be5fb"
   },
   "https://www.nike.com/il/a/exercise-and-immune-system": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-and-immune-system",
+    "description": "Experts weigh in on the ways exercise can impact immune function.",
+    "h1": "How Exercise Impacts Your Immune System",
+    "title": "How Exercise Affects Your Immune System. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "191def8b520a"
   },
   "https://www.nike.com/il/a/exercise-benefits-mental-health": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-benefits-mental-health",
+    "description": "Exercise can transform your mental health, helping to reduce or alleviate mental health symptoms. Learn more now.",
+    "h1": "How exercise boosts mental health: science-backed benefits, explained",
+    "title": "What Are the Benefits of Exercise on Mental Health?. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "67dba360473a"
   },
   "https://www.nike.com/il/a/exercise-during-period": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-during-period",
+    "description": "When that time of the month hits, working out can lose its appeal. But getting active regulates the hormones responsible for PMS, helping you feel and function at your best.",
+    "h1": "On Your Period? No Problem—Here's How You Can Crush Your Workout",
+    "title": "4 Tips on How to Exercise During Your Period. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "7f468d4eb73f"
   },
   "https://www.nike.com/il/a/exercise-during-period-naqs": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-during-period-naqs",
+    "description": "Should you avoid swimming or yoga inversions when your period comes? Here's what you need to know about exercising during your period.",
+    "h1": null,
+    "title": "Exercising During Your Period. NAQs. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "51a7693aa02a"
   },
   "https://www.nike.com/il/a/exercise-for-depression-anxiety": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -16043,6 +16163,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/launch/t/nike-carhartt-wip-apparel-launch-details": {
+   "first_seen": "2026-11-14T11:53:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/nike-carhartt-wip-apparel-launch-details",
+    "description": null,
+    "h1": null,
+    "title": "Nike x Carhartt WIP Apparel Launch Details Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "e876c6b320a4"
+  },
   "https://www.nike.com/il/launch/t/nike-dunk-high-x-wu-tang-clan-the-hive-teaser-av": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -23031,6 +23167,22 @@
    },
    "seo_checked": "2026-10-30T11:08:02Z",
    "seo_hash": "bac7c886b7ba"
+  },
+  "https://www.nike.com/il/t/alphafly-4-womens-road-racing-shoes-FZNvkhHk": {
+   "first_seen": "2026-11-14T11:53:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/alphafly-4-womens-road-racing-shoes-FZNvkhHk",
+    "description": "Find the Nike Alphafly 4 Women's Road-Racing Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Alphafly 4",
+    "title": "Nike Alphafly 4 Women's Road-Racing Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "9c5f25c2e290"
   },
   "https://www.nike.com/il/t/apex-dri-fit-bucket-hat-dkr7v1": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -31435,6 +31587,22 @@
    },
    "seo_checked": "2026-10-30T11:08:02Z",
    "seo_hash": "2d8d46a30177"
+  },
+  "https://www.nike.com/il/t/jordan-peak-beanie-WWoKIP4G": {
+   "first_seen": "2026-11-14T11:53:15Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/jordan-peak-beanie-WWoKIP4G",
+    "description": "Find the Jordan Peak Beanie at Nike.com. Shop online at Nike.com.",
+    "h1": "Jordan Peak",
+    "title": "Jordan Peak Beanie. Nike IL"
+   },
+   "seo_checked": "2026-11-14T11:53:15Z",
+   "seo_hash": "4424a09fe9a8"
   },
   "https://www.nike.com/il/t/jordan-peak-essential-beanie-PjzjCl": {
    "first_seen": "2026-09-24T08:34:55Z",

@@ -7,6 +7,44 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-14T11:53:15Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Alphafly 4",
+    "title": "Nike Alphafly 4 Women's Road-Racing Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/alphafly-4-womens-road-racing-shoes-FZNvkhHk"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-14T11:53:15Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Jordan Peak",
+    "title": "Jordan Peak Beanie. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/jordan-peak-beanie-WWoKIP4G"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-14T11:53:15Z",
+   "lastmod": null,
+   "page": {
+    "title": "Nike x Carhartt WIP Apparel Launch Details Release Date. Nike SNKRS"
+   },
+   "section": "/launch",
+   "type": "added",
+   "url": "https://www.nike.com/il/launch/t/nike-carhartt-wip-apparel-launch-details"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-13T12:45:29Z",
    "lastmod": null,
    "page": {
@@ -22150,6 +22188,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 3,
+    "keyword_hits": 1
+   },
+   "date": "2026-11-14T11:53:15Z",
+   "status": "ok",
+   "total_urls": 12120
+  },
   {
    "counts": {
     "added": 47,
