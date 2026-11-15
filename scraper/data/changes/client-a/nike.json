@@ -7,6 +7,36 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-15T12:25:19Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 4",
+    "title": "Air Jordan 4 'Bred' (IX8180-001) Release Date. Nike SNKRS"
+   },
+   "section": "/launch",
+   "type": "added",
+   "url": "https://www.nike.com/il/launch/t/air-jordan-4-bred"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-15T12:25:19Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 11",
+    "title": "Air Jordan 11 'Green Screen' (IQ5700-900) Release Date. Nike SNKRS"
+   },
+   "section": "/launch",
+   "type": "added",
+   "url": "https://www.nike.com/il/launch/t/air-jordan-11-green-screen-snkrs"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-14T11:53:15Z",
    "lastmod": null,
    "page": {
@@ -22188,6 +22218,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 2,
+    "keyword_hits": 2
+   },
+   "date": "2026-11-15T12:25:19Z",
+   "status": "ok",
+   "total_urls": 12122
+  },
   {
    "counts": {
     "added": 3,

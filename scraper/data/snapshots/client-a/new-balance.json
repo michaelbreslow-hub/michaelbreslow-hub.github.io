@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-11-14T11:53:15Z",
+  "last_run": "2026-11-15T12:25:19Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-13T12:00:03+00:00",
+   "lastmod": "2026-11-15T12:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-11-13T12:45:29Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -775,7 +775,7 @@
     "h1": "New Collection",
     "title": "New Collection - New Balance"
    },
-   "seo_checked": "2026-10-22T05:21:45Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "2668585a1c57"
   },
   "https://www.newbalance.co.il/en/shop/New_Collection_clothing": {
@@ -791,7 +791,7 @@
     "h1": "New Collection",
     "title": "New Collection - New Balance"
    },
-   "seo_checked": "2026-10-22T05:21:45Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "21a1021a9ebd"
   },
   "https://www.newbalance.co.il/en/shop/November%20Sale": {
@@ -871,7 +871,7 @@
     "h1": "Numeric Sale",
     "title": "Numeric Sale - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "48f68a7d499a"
   },
   "https://www.newbalance.co.il/en/shop/RYW_WINTER": {
@@ -887,7 +887,7 @@
     "h1": "Cold-Weather Performance Essentials",
     "title": "Cold-Weather Performance Essentials - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "09d5a4554ac2"
   },
   "https://www.newbalance.co.il/en/shop/Race%20Day": {
@@ -903,7 +903,7 @@
     "h1": "תחרות",
     "title": "תחרות - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "6b0f32bedcbe"
   },
   "https://www.newbalance.co.il/en/shop/Retro": {
@@ -919,7 +919,7 @@
     "h1": "Retro Sneakers",
     "title": "Retro Sneakers - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "4984bcce9e8e"
   },
   "https://www.newbalance.co.il/en/shop/Running": {
@@ -951,7 +951,7 @@
     "h1": "DISTANCE",
     "title": "DISTANCE - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "8e9e812b6a17"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance/Long_distance_run": {
@@ -967,7 +967,7 @@
     "h1": "Long distance run (Half marathons and beyond)",
     "title": "Long distance run (Half marathons and beyond) - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "830bfc643e7e"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance/Mid_distance_run": {
@@ -983,7 +983,7 @@
     "h1": "Mid distance run (5ks to half marathons)",
     "title": "Mid distance run (5ks to half marathons) - New Balance"
    },
-   "seo_checked": "2026-10-23T05:20:33Z",
+   "seo_checked": "2026-11-15T12:25:19Z",
    "seo_hash": "4207580a6df5"
   },
   "https://www.newbalance.co.il/en/shop/Running/Distance/Short_distance_run": {

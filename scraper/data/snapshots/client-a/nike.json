@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-14T11:53:15Z",
+  "last_run": "2026-11-15T12:25:19Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -8808,43 +8808,163 @@
   },
   "https://www.nike.com/il/a/exercise-for-depression-anxiety": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-for-depression-anxiety",
+    "description": "Regular exercise offers more than just physical benefits—it can also improve symptoms of depression and anxiety.",
+    "h1": "How an Exercise Routine Can Help with Depression and Anxiety",
+    "title": "How an Exercise Routine Can Help with Depression and Anxiety. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "04837bb3ab84"
   },
   "https://www.nike.com/il/a/exercise-health-benefits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-health-benefits",
+    "description": "Exercise benefits your mental and physical health in a variety of ways, including helping you live a longer, healthier life.",
+    "h1": "5 Benefits of Regular Exercise for Your Body and Mind",
+    "title": "What Are the Health Benefits of Exercise?. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "318998ce7055"
   },
   "https://www.nike.com/il/a/exercise-lower-blood-pressure": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-lower-blood-pressure",
+    "description": "Research indicates that engaging in regular physical activity can help you lower your blood pressure levels.",
+    "h1": "How Does Exercise Lower Blood Pressure?",
+    "title": "How Does Exercise Lower Blood Pressure?. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "fa73f8c59f93"
   },
   "https://www.nike.com/il/a/exercise-motivation-after-having-a-baby": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-motivation-after-having-a-baby",
+    "description": "Ready to get back into fitness after you had your baby but can't find the motivation? Once you're cleared by your doctor, this expert-backed mindset and movement advice can help anyone find the ambition to exercise while still prioritising recovery.",
+    "h1": "Overcome These Common Mental Blocks to Post-partum Training",
+    "title": "How to Find Motivation to Work Out After Having a Baby. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "c4f8c1e0dd2f"
   },
   "https://www.nike.com/il/a/exercise-reduce-stress": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-reduce-stress",
+    "description": "Physical activity can rewire your brain so that it copes with stress more efficiently—here’s how.",
+    "h1": "How Exactly Does Exercise Reduce Stress?",
+    "title": "How Does Exercise Reduce Stress? . Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "fdc613fb418b"
   },
   "https://www.nike.com/il/a/exercise-with-no-equipment": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercise-with-no-equipment",
+    "description": "Just because you don’t have any workout equipment at home doesn’t mean you have to skip your sweat sessions. Here are some tips to exercise at home with no equipment.",
+    "h1": "No-Equipment Workouts: Tips to Modify Your At-Home Workouts",
+    "title": "How to Exercise at Home With No Equipment. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "4adee3e09485"
   },
   "https://www.nike.com/il/a/exercises-for-arthritis": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercises-for-arthritis",
+    "description": "An array of health professionals explain all of the appropriate exercises to do for arthritis and explain how they help offset symptoms.",
+    "h1": "How to Exercise With Osteoarthritis, According to Experts",
+    "title": "How to Exercise With Osteoarthritis, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "4e672931697b"
   },
   "https://www.nike.com/il/a/exercises-for-knee-pain": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercises-for-knee-pain",
+    "description": "Experts share a handful of exercises for knee pain.",
+    "h1": "4 Exercises for Knee Pain, According to Doctors",
+    "title": "4 Exercises for Knee Pain, According to Doctors. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "4b129c9dfd24"
   },
   "https://www.nike.com/il/a/exercises-strengthening-inner-thighs": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercises-strengthening-inner-thighs",
+    "description": "Burn fat and build muscle with these inner thigh exercises you can do at home or in the gym during leg day.",
+    "h1": "6 Exercises To Strengthen Your Inner Thighs",
+    "title": "Best Exercises for Toning Inner Thighs. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "52dafc7b1273"
   },
   "https://www.nike.com/il/a/exercises-to-strengthen-lower-back": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/exercises-to-strengthen-lower-back",
+    "description": "Physiotherapists share eight moves to support your lower back strength and walk you through how to do them.",
+    "h1": "Exercises To Strengthen Your Lower Back, According to Experts",
+    "title": "Exercises to Strengthen Your Lower Back, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "2a85c6481490"
   },
   "https://www.nike.com/il/a/eyekonz-girls-lacrosse-philadelphia": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -14226,6 +14346,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/launch/t/air-jordan-11-green-screen-snkrs": {
+   "first_seen": "2026-11-15T12:25:19Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/air-jordan-11-green-screen-snkrs",
+    "description": null,
+    "h1": "Air Jordan 11",
+    "title": "Air Jordan 11 'Green Screen' (IQ5700-900) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "d3b8d31954b7"
+  },
   "https://www.nike.com/il/launch/t/air-jordan-11-low-cement-grey-adult-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -14341,6 +14477,22 @@
   "https://www.nike.com/il/launch/t/air-jordan-4-black-cat-by-solebox-with-jamal-musiala-snkrs": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/launch/t/air-jordan-4-bred": {
+   "first_seen": "2026-11-15T12:25:19Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/air-jordan-4-bred",
+    "description": null,
+    "h1": "Air Jordan 4",
+    "title": "Air Jordan 4 'Bred' (IX8180-001) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-11-15T12:25:19Z",
+   "seo_hash": "c9b657ed695f"
   },
   "https://www.nike.com/il/launch/t/air-jordan-4-bred-reimagined-shot-by-satchel-lee": {
    "first_seen": "2026-09-24T08:34:55Z",
