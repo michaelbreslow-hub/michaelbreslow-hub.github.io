@@ -22219,6 +22219,12 @@
  ],
  "runs": [
   {
+   "counts": {},
+   "date": "2026-11-16T13:17:08Z",
+   "status": "ok",
+   "total_urls": 12122
+  },
+  {
    "counts": {
     "added": 2,
     "keyword_hits": 2

@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-15T12:25:19Z",
+  "last_run": "2026-11-16T13:17:08Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -8968,43 +8968,163 @@
   },
   "https://www.nike.com/il/a/eyekonz-girls-lacrosse-philadelphia": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/eyekonz-girls-lacrosse-philadelphia",
+    "description": "Join us as we discuss sisterhood, affirmations and overcoming prejudice with Coach Jaz Smith and the girls of Philadelphia’s Eyekonz Sports lacrosse and field hockey league who are challenging the status quo one “I am” statement at a time.",
+    "h1": "In Good Company: Eyekonz",
+    "title": "Meet Philadelphia’s Eyekonz Girls Lacrosse Team. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "c4395616f2fe"
   },
   "https://www.nike.com/il/a/fabian-domenech-on-discovering-yourself-through-meditation-and-yoga": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/fabian-domenech-on-discovering-yourself-through-meditation-and-yoga",
+    "description": "Between travelling the world, his time in the fashion industry, and becoming a coach and yoga teacher, Fabian Domenech has learned a lot about who he is. Hear how the Nike yoga teacher finds community in sport, how meditation has helped him improve his mental health, and what he’s learned about fitn",
+    "h1": "Trained Podcast: Find Authenticity with Fabian Domenech",
+    "title": "Nike Yoga Teacher Fabian Domenech on Being Your True Self. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "5cd72797b28a"
   },
   "https://www.nike.com/il/a/family-activation-station-workout": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/family-activation-station-workout",
+    "description": "Get the whole family moving with this workout, including tips to make it fun so the kids stick with it!",
+    "h1": "To Your Activation Station",
+    "title": "Get the Kids Moving and Work Out as a Family. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "2e6466dc53d1"
   },
   "https://www.nike.com/il/a/family-freeze": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/family-freeze",
+    "description": "Working out as a family can be fun, and this one is about as fun as it gets! Round up your family to see who can make it through each ‘freeze’ without losing their cool.",
+    "h1": "Family Freeze",
+    "title": "Family Freeze. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "17baa59f7de1"
   },
   "https://www.nike.com/il/a/family-play-guide": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/family-play-guide",
+    "description": "Get tips and advice on tapping into your sense of fun in our family play guide, created in collaboration with expert Emma of The Playful Den.",
+    "h1": null,
+    "title": "Family Play Guide. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "482636ffb768"
   },
   "https://www.nike.com/il/a/family-yoga-flow": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/family-yoga-flow",
+    "description": "Get the family together to stretch out the tension with this kid-friendly flow.",
+    "h1": "Family Yoga Flow",
+    "title": "Fun Family Yoga Flow. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "458960627300"
   },
   "https://www.nike.com/il/a/fathers-day-gift-ideas": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/fathers-day-gift-ideas",
+    "description": "These Father's Day gift ideas for dads—from the sport fan to the sneaker-obsessed—have got you covered.",
+    "h1": "7 Nike Gift Ideas for Father's Day",
+    "title": "7 Nike Gift Ideas for Father's Day. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "012da31721b4"
   },
   "https://www.nike.com/il/a/feel-better-after-bad-sleep": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/feel-better-after-bad-sleep",
+    "description": "Follow this plan the morning after a sleepless night to feel better and stop the bad-sleep cycle.",
+    "h1": "Bad Night's Sleep? Bounce Back Now",
+    "title": "Feel Better After a Bad Night’s Sleep. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "0dc127d36624"
   },
   "https://www.nike.com/il/a/feel-more-present": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/feel-more-present",
+    "description": "Presence is power. Branden Collinsworth shares his 3 expert tips for feeling more present",
+    "h1": "3 Ways to Feel More Present",
+    "title": "3 Ways to Feel More Present. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "0e45fad9ae30"
   },
   "https://www.nike.com/il/a/feet-numb-running-causes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/feet-numb-running-causes",
+    "description": "Having numb feet on a run is quite common, but the cause isn't always obvious. Here are some possibilities, along with prevention steps.",
+    "h1": "Why Do My Feet Go Numb When Running? Experts Explain",
+    "title": "Why Do My Feet Go Numb When Running? Experts Explain. Nike IL"
+   },
+   "seo_checked": "2026-11-16T13:17:08Z",
+   "seo_hash": "39a5d62d9976"
   },
   "https://www.nike.com/il/a/fight-first-trimester-fatigue": {
    "first_seen": "2026-09-24T08:34:55Z",
