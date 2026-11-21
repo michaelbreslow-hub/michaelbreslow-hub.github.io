@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-20T13:46:16Z",
+  "last_run": "2026-11-21T13:11:27Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -9768,43 +9768,163 @@
   },
   "https://www.nike.com/il/a/game-recognises-game-playground-coffee-brooklyn-zenat-begum-elle-clay": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/game-recognises-game-playground-coffee-brooklyn-zenat-begum-elle-clay",
+    "description": "In this \"Game Recognises Game\", Brooklyn-proud entrepreneurs Elle and Zenat talk about how lessons from the basketball court inspire their off-court success, including community initiatives for their Bed-Stuy neighbourhood.",
+    "h1": "For Two Brooklyn Entrepreneurs, Wins On and Off the Court Start With Teamwork",
+    "title": "Game Recognises Game: Playground Coffee's Zenat Begum with Producer Elle Clay. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "13e09560a45b"
   },
   "https://www.nike.com/il/a/game-recognises-game-shev-robinson-tanisha-scott-fitness-choreography": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/game-recognises-game-shev-robinson-tanisha-scott-fitness-choreography",
+    "description": "Shev and Tanisha’s energies motivate others every day. In this “Game Recognises Game,” they talk about how empowerment first has to come from within.",
+    "h1": "Self-Confidence Allows This Duo to Execute as Leaders in Dance and Fitness",
+    "title": "Game Recognises Game: Fitness Coach Shev Robinson and Choreographer Tanisha Scott. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "d56d2dddf775"
   },
   "https://www.nike.com/il/a/get-more-out-of-every-run": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/get-more-out-of-every-run",
+    "description": "Think about why you run. Pinpointing your purpose for running can help you celebrate the little moments versus the metrics.",
+    "h1": "How to Get More Out of Every Run",
+    "title": "Getting More Out of Every Run. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "6876b84e941d"
   },
   "https://www.nike.com/il/a/get-stronger-with-eccentric-movements": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/get-stronger-with-eccentric-movements",
+    "description": "Eccentric movement is the lowering part of a movement where your muscles are lengthening. It's a great way to build strength without equipment.",
+    "h1": "Get Stronger with Eccentric Movements",
+    "title": "Get Stronger with Eccentric Movements. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "62d73dd0a058"
   },
   "https://www.nike.com/il/a/get-sweat-smell-out-of-clothes": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/get-sweat-smell-out-of-clothes",
+    "description": "Love working up a sweat but hate the lingering smell of sweaty gym clothes? Try these five tips for odour-free gear.",
+    "h1": "How to Get Rid of the Smell of Sweat in Workout Clothes",
+    "title": "How to Get Rid of the Smell of Sweat in Workout Clothes. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "1c55129df585"
   },
   "https://www.nike.com/il/a/giannis-antetokounbros-academy": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/giannis-antetokounbros-academy",
+    "description": "Each year, basketball icon Giannis’ AntetokounBros Academy welcomes kids from vulnerable social groups, giving them the chance to develop their potential through sport. See them in action.",
+    "h1": "No Hoop Is Too High",
+    "title": "The AntetokounBros Academy In Action. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "d70c398cc161"
   },
   "https://www.nike.com/il/a/giannis-freak-6-release-date": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/giannis-freak-6-release-date",
+    "description": "Anticipating the Giannis Freak 6 release date? Read on for the info on Giannis Freak 6 colourways and more.",
+    "h1": "The Giannis Freak 6 is the latest signature shoe from super hooper Giannis",
+    "title": "The Giannis Freak 6 is the latest signature shoe from super hooper Giannis. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "a3ad2a1e1794"
   },
   "https://www.nike.com/il/a/gift-ideas": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gift-ideas",
+    "description": "Nike fitness experts share what they will be giving their loved ones this festive season—and beyond.",
+    "h1": "The best gift ideas, according to Nike Trainers",
+    "title": "The best gift ideas, according to Nike Trainers. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "5231595bc3bb"
   },
   "https://www.nike.com/il/a/gift-ideas-for-best-friends": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gift-ideas-for-best-friends",
+    "description": "Whether they prefer cheering for their favourite sports team from the sofa, or hitting the town in unexpectedly cool outfits, consider these thoughtful presents for your BFF.",
+    "h1": "7 Nike gift ideas for your best friend",
+    "title": "7 Nike gift ideas for your best friend. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "4f253f6273f6"
   },
   "https://www.nike.com/il/a/gift-ideas-for-brother": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gift-ideas-for-brother",
+    "description": "These top gift ideas from Nike are curated for all kinds of brothers, from athletes and sports fans to gamers and sneakerheads—and everything in between.",
+    "h1": "The 9 best gift ideas by Nike for your brother",
+    "title": "9 Nike Gift Ideas for Your Brother. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "484b2fdc5065"
   },
   "https://www.nike.com/il/a/gift-ideas-for-coworkers": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -14973,6 +15093,22 @@
   "https://www.nike.com/il/launch/t/air-jordan-11-neapolitan-w-leikeli47": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/launch/t/air-jordan-11-retro-og-space-jam-black-and-varsity-royal": {
+   "first_seen": "2026-11-21T13:11:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/launch/t/air-jordan-11-retro-og-space-jam-black-and-varsity-royal",
+    "description": null,
+    "h1": "Air Jordan 11 Retro OG 'Space Jam'",
+    "title": "Air Jordan 11 Retro OG 'Space Jam' 'Black and Varsity Royal' (CT8012-900) Release Date. Nike SNKRS"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "119a3ef1ad43"
   },
   "https://www.nike.com/il/launch/t/air-jordan-11-varsity-red-adult-emea": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -48352,6 +48488,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/acg-zegama-trail-running-shoes-75jcnzmr31zy7ok": {
+   "first_seen": "2026-11-21T13:11:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/acg-zegama-trail-running-shoes-75jcnzmr31zy7ok",
+    "description": "Tackle tough terrain in Nike Zegama shoes. Bouncy cushioning and rugged outsoles are made for trail running. Free delivery and returns.",
+    "h1": "Nike Zegama Trail-Running Shoes",
+    "title": "Zegama Trail-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "2e72e53ab3f6"
+  },
   "https://www.nike.com/il/w/air-basketball-shoes-3glsmzjj95zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -55318,6 +55470,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/mens-acg-zegama-trail-running-shoes-75jcnzmr31znik1zy7ok": {
+   "first_seen": "2026-11-21T13:11:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/mens-acg-zegama-trail-running-shoes-75jcnzmr31znik1zy7ok",
+    "description": "Tear up the trail in men's Zegma running shoes. Find lightweight, durable trainers for every challenge at Nike. Free delivery and returns.",
+    "h1": "Men's Nike Zegama Trail-Running Shoes",
+    "title": "Men's Nike Zegama Trail-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "7e2e717ea266"
+  },
   "https://www.nike.com/il/w/mens-air-force-1-high-top-shoes-5sj3yz6lqy0znik1zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -57355,10 +57523,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/w/mens-nike-waffle-shoes-2wk64znik1zy7ok": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/w/mens-nike-zegama-trail-running-shoes-75jcnzmr31znik1zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -60264,10 +60428,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/w/nike-waffle-shoes-2wk64zy7ok": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/w/nike-zegama-trail-running-shoes-75jcnzmr31zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -63344,6 +63504,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/w/womens-acg-zegama-trail-running-shoes-5e1x6z75jcnzmr31zy7ok": {
+   "first_seen": "2026-11-21T13:11:27Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/w/womens-acg-zegama-trail-running-shoes-5e1x6z75jcnzmr31zy7ok",
+    "description": "Nike Zegama women's shoes give you traction on any trail. Move freely from the mountains to the woods. Free delivery and returns.",
+    "h1": "Women's Nike Zegama Trail-Running Shoes",
+    "title": "Women's Nike Zegama Trail-Running Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_hash": "38367ab731e7"
+  },
   "https://www.nike.com/il/w/womens-adjustable-straps-sports-bras-40qgmz5e1x6z5j8ra": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -65229,10 +65405,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/w/womens-nike-waffle-shoes-2wk64z5e1x6zy7ok": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/w/womens-nike-zegama-trail-running-shoes-5e1x6z75jcnzmr31zy7ok": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },

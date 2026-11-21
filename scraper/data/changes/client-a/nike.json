@@ -7,6 +7,105 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "jordan"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Air Jordan 11 Retro OG 'Space Jam'",
+    "title": "Air Jordan 11 Retro OG 'Space Jam' 'Black and Varsity Royal' (CT8012-900) Release Date. Nike SNKRS"
+   },
+   "section": "/launch",
+   "type": "added",
+   "url": "https://www.nike.com/il/launch/t/air-jordan-11-retro-og-space-jam-black-and-varsity-royal"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Zegama Trail-Running Shoes",
+    "title": "Zegama Trail-Running Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/acg-zegama-trail-running-shoes-75jcnzmr31zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Women's Nike Zegama Trail-Running Shoes",
+    "title": "Women's Nike Zegama Trail-Running Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/womens-acg-zegama-trail-running-shoes-5e1x6z75jcnzmr31zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "page": {
+    "h1": "Men's Nike Zegama Trail-Running Shoes",
+    "title": "Men's Nike Zegama Trail-Running Shoes. Nike IL"
+   },
+   "section": "/w",
+   "type": "added",
+   "url": "https://www.nike.com/il/w/mens-acg-zegama-trail-running-shoes-75jcnzmr31znik1zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "section": "/w",
+   "type": "removed",
+   "url": "https://www.nike.com/il/w/mens-nike-zegama-trail-running-shoes-75jcnzmr31znik1zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "section": "/w",
+   "type": "removed",
+   "url": "https://www.nike.com/il/w/nike-zegama-trail-running-shoes-75jcnzmr31zy7ok"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-21T13:11:27Z",
+   "keywords": [
+    "running",
+    "trail"
+   ],
+   "lastmod": null,
+   "section": "/w",
+   "type": "removed",
+   "url": "https://www.nike.com/il/w/womens-nike-zegama-trail-running-shoes-5e1x6z75jcnzmr31zy7ok"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-20T13:46:16Z",
    "lastmod": null,
    "page": {
@@ -25994,6 +26093,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 4,
+    "keyword_hits": 7,
+    "removed": 3
+   },
+   "date": "2026-11-21T13:11:27Z",
+   "status": "ok",
+   "total_urls": 12221
+  },
   {
    "counts": {
     "added": 52,
