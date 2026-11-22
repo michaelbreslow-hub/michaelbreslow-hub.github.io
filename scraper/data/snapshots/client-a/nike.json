@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-21T13:11:27Z",
+  "last_run": "2026-11-22T12:59:02Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -9928,43 +9928,163 @@
   },
   "https://www.nike.com/il/a/gift-ideas-for-coworkers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gift-ideas-for-coworkers",
+    "description": "Find gift ideas for co-workers, including blue-light-blocking glasses, fuzzy sweaters, socks and more.",
+    "h1": "The best Nike gifts for colleagues",
+    "title": "The Best Nike Gift Ideas for Co-Workers. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "c2ec5ecb18e8"
   },
   "https://www.nike.com/il/a/gift-ideas-for-sister": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gift-ideas-for-sister",
+    "description": "From the latest Nike apparel and sneakers to fun, budget-friendly accessories, check out the top Nike gift ideas for sisters.",
+    "h1": "9 Nike Gift Ideas for Your Sister",
+    "title": "9 Nike Gift Ideas for Your Sister. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "d03b221a88ea"
   },
   "https://www.nike.com/il/a/gift-ideas-for-skiers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gift-ideas-for-skiers",
+    "description": "Snow sports enthusiasts will appreciate these slope-ready staples, from toasty gloves to après-ski-worthy sweatshirts.",
+    "h1": "Best gift ideas for skiers and snowboarders",
+    "title": "Best gift ideas for skiers and snowboarders. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "e26abc49313d"
   },
   "https://www.nike.com/il/a/gifts-for-a-gymnast": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-a-gymnast",
+    "description": "Gymnasts of all ages will appreciate any of the Nike gifts on this list.",
+    "h1": "10 Nike Gift Ideas for Gymnasts",
+    "title": "10 Nike Gift Ideas for Gymnasts. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "db62ccbcc4f9"
   },
   "https://www.nike.com/il/a/gifts-for-basketball-players": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-basketball-players",
+    "description": "Looking for a gift for the everyday player or the hoops-obsessed fan? Here's the game-changing guide from Nike.",
+    "h1": "From the Court to the Locker Room: Top Gifts for Basketball Players",
+    "title": "From the Court to the Locker Room: Top Gifts for Basketball Players. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "c3f65b19d5e4"
   },
   "https://www.nike.com/il/a/gifts-for-coaches": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-coaches",
+    "description": "Want to show your appreciation for a beloved coach? Check out these top Nike gifts for coaches as a way to say “thank you.”",
+    "h1": "8 Nike gift ideas for coaches",
+    "title": "8 Nike Gift Ideas for Coaches. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "41ccba97460f"
   },
   "https://www.nike.com/il/a/gifts-for-cyclists": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-cyclists",
+    "description": "From clip-in shoes to must-have layers, no cyclist will be disappointed with a gift from Nike.",
+    "h1": "The 11 Best Nike Gifts for Cyclists",
+    "title": "The 11 Best Nike Gifts for Cyclists. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "063a7b94eac3"
   },
   "https://www.nike.com/il/a/gifts-for-fitness-lovers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-fitness-lovers",
+    "description": "These gift ideas will help the athlete in your life take their training, comfort and style to the next level.",
+    "h1": "The Best Fitness Gifts From Nike",
+    "title": "The best fitness gifts from Nike. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "fc9e358063b7"
   },
   "https://www.nike.com/il/a/gifts-for-golfers": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-golfers",
+    "description": "For tee time and beyond.",
+    "h1": "The 6 Best Gifts For Golfers From Nike",
+    "title": "The 6 Best Gifts For Golfers From Nike. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "7b2eb27613b2"
   },
   "https://www.nike.com/il/a/gifts-for-grandma": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/gifts-for-grandma",
+    "description": "Check out this round-up of gift ideas for grandmothers.",
+    "h1": "8 Nike Gift Ideas for Grandmothers",
+    "title": "8 Nike Gift Ideas for Grandma. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "f0b9ff312b79"
   },
   "https://www.nike.com/il/a/gifts-for-grandpa": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -23980,6 +24100,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/air-max-muse-womens-shoes-Pq1hXn": {
+   "first_seen": "2026-11-22T12:59:02Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-max-muse-womens-shoes-Pq1hXn",
+    "description": "Find the Nike Air Max Muse Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Max Muse",
+    "title": "Nike Air Max Muse Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "cf03683b1c2e"
+  },
   "https://www.nike.com/il/t/air-max-muse-womens-shoes-nVyRd04Z": {
    "first_seen": "2026-11-11T12:19:35Z",
    "http": {
@@ -25441,10 +25577,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/brazil-academy-pro-mens-nike-dri-fit-football-tracksuit-jacket-hlOqjllV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/brazil-academy-pro-older-kids-nike-dri-fit-football-knit-drill-top-AwSAHxWj": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -27756,10 +27888,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/england-2026-stadium-away-younger-kids-nike-football-replica-3-piece-kit-7e6MlwZj": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/england-2026-stadium-goalkeeper-mens-nike-dri-fit-football-replica-short-sleeve-shirt-kZbolrgh": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -27941,10 +28069,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/england-tech-fleece-mens-nike-football-joggers-4FjZOLh8": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/england-tech-fleece-older-kids-boys-nike-football-pants-vgJx7uWV": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29144,10 +29268,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/fff-2026-stadium-goalkeeper-older-kids-nike-dri-fit-soccer-replica-short-sleeve-shirt-9D5ToT7n": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/fff-2026-stadium-home-younger-kids-nike-football-replica-3-piece-kit-JlqB7DJo": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29217,10 +29337,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/fff-strike-mens-nike-dri-fit-football-knit-shorts-AkLWZ1vp": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/fff-strike-mens-nike-football-dri-fit-short-sleeve-top-cXCqO0or": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -29560,14 +29676,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/france-national-team-2026-match-away-mens-nike-aero-fit-football-shirt-H0xXeoEt": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/france-national-team-2026-match-away-older-kids-nike-aero-fit-football-shirt-GsYiMxfS": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/france-national-team-2026-match-home-mens-nike-aero-fit-football-shirt-IfxlKsgr": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -29589,10 +29697,6 @@
    "lastmod": null
   },
   "https://www.nike.com/il/t/france-national-team-2026-stadium-home-older-kids-nike-dri-fit-football-shirt-1h2syPP4": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/france-national-team-2026-stadium-home-womens-nike-dri-fit-football-shirt-9If5rRC4": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -37028,21 +37132,37 @@
    "seo_checked": "2026-11-20T13:46:16Z",
    "seo_hash": "d9fdecc522c1"
   },
-  "https://www.nike.com/il/t/mind-002-mens-pre-game-shoes-Ivli88gE": {
-   "first_seen": "2026-11-20T13:46:16Z",
+  "https://www.nike.com/il/t/mind-002-mens-pre-game-shoes-EXcDbD7R": {
+   "first_seen": "2026-11-22T12:59:02Z",
    "http": {
     "redirect": null,
     "status": 200
    },
    "lastmod": null,
    "seo": {
-    "canonical": "https://www.nike.com/il/t/mind-002-mens-pre-game-shoes-Ivli88gE",
+    "canonical": "https://www.nike.com/il/t/mind-002-mens-pre-game-shoes-EXcDbD7R",
     "description": "Find the Nike Mind 002 Men's Pre-Game Shoes at Nike.com. Shop online at Nike.com.",
     "h1": "Nike Mind 002",
     "title": "Nike Mind 002 Men's Pre-Game Shoes. Nike IL"
    },
-   "seo_checked": "2026-11-20T13:46:16Z",
-   "seo_hash": "5b2e7cacbd03"
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "a3e2cd02e89b"
+  },
+  "https://www.nike.com/il/t/mind-002-womens-pre-game-shoes-8PacajEd": {
+   "first_seen": "2026-11-22T12:59:02Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/mind-002-womens-pre-game-shoes-8PacajEd",
+    "description": "Find the Nike Mind 002 Women's Pre-Game Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Mind 002",
+    "title": "Nike Mind 002 Women's Pre-Game Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "7e5e963d9ee6"
   },
   "https://www.nike.com/il/t/minnesota-timberwolves-icon-edition-mens-nike-dri-fit-nba-swingman-shorts-g2WVKp2t": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -37108,10 +37228,6 @@
    "first_seen": "2026-11-13T12:45:29Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/moon-shoe-og-mens-shoes-s2ohokdl": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/moon-shoe-og-se-satin-womens-shoes-QsyrGua3": {
    "first_seen": "2026-11-07T11:26:10Z",
    "http": {
@@ -37127,14 +37243,6 @@
    },
    "seo_checked": "2026-11-07T11:26:10Z",
    "seo_hash": "ffdeb8b9be92"
-  },
-  "https://www.nike.com/il/t/moon-shoe-og-womens-shoes-bS5DPId9": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/moon-shoe-womens-shoes-Ast4Yir8": {
-   "first_seen": "2026-10-15T05:19:12Z",
-   "lastmod": null
   },
   "https://www.nike.com/il/t/multi-older-kids-knit-trousers-nBSk19": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -38952,23 +39060,7 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/norway-2026-stadium-away-mens-nike-dri-fit-football-replica-jersey-CeqSSUJ5": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/norway-2026-stadium-goalkeeper-mens-nike-dri-fit-football-replica-short-sleeve-shirt-plkPgjkh": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-2026-stadium-goalkeeper-older-kids-nike-dri-fit-football-replica-short-sleeve-shirt-oK8cZIIV": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-2026-stadium-third-mens-nike-dri-fit-football-replica-shirt-9MtcHa8k": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-2026-stadium-third-older-kids-nike-dri-fit-football-replica-shirt-F9wL6Fv4": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -39036,39 +39128,7 @@
    "seo_checked": "2026-11-17T14:02:01Z",
    "seo_hash": "751ddce53cdb"
   },
-  "https://www.nike.com/il/t/norway-national-team-2026-match-away-mens-nike-aero-fit-football-shirt-iodqvptO": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-national-team-2026-match-home-mens-nike-aero-fit-football-shirt-MMhGLXPj": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-national-team-2026-match-home-older-kids-nike-aero-fit-football-shirt-al3XTmtu": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-national-team-2026-stadium-away-older-kids-nike-dri-fit-football-shirt-n3I7NTTo": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-national-team-2026-stadium-away-womens-nike-dri-fit-football-shirt-DN6g79Ir": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
   "https://www.nike.com/il/t/norway-national-team-2026-stadium-home-mens-nike-dri-fit-football-shirt-xaR6u79T": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-national-team-2026-stadium-home-older-kids-nike-dri-fit-football-shirt-3jVpke2X": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-national-team-2026-stadium-home-womens-nike-dri-fit-football-shirt-2kGlNpvD": {
-   "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
-  },
-  "https://www.nike.com/il/t/norway-strike-mens-nike-dri-fit-football-knit-pants-ZjHHi41S": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
@@ -41183,6 +41243,22 @@
   "https://www.nike.com/il/t/pro-sculpt-womens-dri-fit-1-4-zip-long-sleeve-top-eE0l8j4z": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/pro-sculpt-womens-dri-fit-high-waisted-12-5cm-approx-biker-shorts-LcpuyHfN": {
+   "first_seen": "2026-11-22T12:59:02Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/pro-sculpt-womens-dri-fit-high-waisted-12-5cm-approx-biker-shorts-LcpuyHfN",
+    "description": "Find the Nike Pro Sculpt Women's Dri-FIT High-Waisted 12.5cm (approx.) Biker Shorts at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Pro Sculpt",
+    "title": "Nike Pro Sculpt Women's Dri-FIT High-Waisted 12.5cm (approx.) Biker Shorts. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "e5aad8f8fdb5"
   },
   "https://www.nike.com/il/t/pro-sculpt-womens-dri-fit-high-waisted-12-5cm-approx-shorts-dskgasgg": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -46515,6 +46591,22 @@
   "https://www.nike.com/il/t/tottenham-hotspur-third-mens-nike-dri-fit-football-pre-match-top-GEPMAVkH": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/tottenham-hotspur-third-mens-nike-repel-i96-tracksuit-jacket-0LTxa51s": {
+   "first_seen": "2026-11-22T12:59:02Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/tottenham-hotspur-third-mens-nike-repel-i96-tracksuit-jacket-0LTxa51s",
+    "description": "Find the Tottenham Hotspur Third Men's Nike Repel i96 Tracksuit Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Tottenham Hotspur Third",
+    "title": "Tottenham Hotspur Third Men's Nike Repel i96 Tracksuit Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "221ed5ead913"
   },
   "https://www.nike.com/il/t/tottenham-hotspur-third-older-kids-nike-dri-fit-football-hooded-tracksuit-c1EKcxOk": {
    "first_seen": "2026-09-24T08:34:55Z",

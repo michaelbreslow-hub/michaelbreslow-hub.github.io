@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-11-21T13:11:27Z",
+  "last_run": "2026-11-22T12:59:02Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-21T12:00:03+00:00",
+   "lastmod": "2026-11-22T12:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-11-21T13:11:27Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -816,15 +816,15 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-08T07:25:09+00:00",
+   "lastmod": "2026-11-22T06:45:13+00:00",
    "seo": {
     "canonical": "https://www.newbalance.co.il/en/shop/November%20Sale",
-    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על November Sale, צפו בקטלוג והזמינו בחנות אונליין.",
-    "h1": "November Sale",
-    "title": "November Sale - New Balance"
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Black Friday, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Black Friday",
+    "title": "Black Friday - New Balance"
    },
-   "seo_checked": "2026-11-09T13:31:40Z",
-   "seo_hash": "443c443d61a9"
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "db78d38187de"
   },
   "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids": {
    "first_seen": "2026-11-02T12:59:39Z",
@@ -1289,6 +1289,22 @@
    },
    "seo_checked": "2026-11-17T14:02:01Z",
    "seo_hash": "5eb0461bdc47"
+  },
+  "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes": {
+   "first_seen": "2026-11-22T12:59:02Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": "2026-11-22T08:57:48+00:00",
+   "seo": {
+    "canonical": "https://www.newbalance.co.il/en/shop/Safety%20%26%20Worke%20Shoes",
+    "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על Industrial, צפו בקטלוג והזמינו בחנות אונליין.",
+    "h1": "Industrial",
+    "title": "Industrial - New Balance"
+   },
+   "seo_checked": "2026-11-22T12:59:02Z",
+   "seo_hash": "a52bd26d2099"
   },
   "https://www.newbalance.co.il/en/shop/Shoes_327": {
    "first_seen": "2026-09-25T11:29:53Z",
@@ -1959,7 +1975,7 @@
     "h1": "T-Shirts & Tops",
     "title": "T-Shirts & Tops - New Balance"
    },
-   "seo_checked": "2026-10-30T11:08:02Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "6ef891685983"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes": {
@@ -2007,7 +2023,7 @@
     "h1": "Big Sizes (Up to 51)",
     "title": "Big Sizes (Up to 51) - New Balance"
    },
-   "seo_checked": "2026-10-30T11:08:02Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "c739aa0c506f"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/Lifestyle": {
@@ -2055,7 +2071,7 @@
     "h1": "Sandals",
     "title": "Sandals - New Balance"
    },
-   "seo_checked": "2026-10-30T11:08:02Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "7273954bf576"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/TrailRunning": {
@@ -2071,7 +2087,7 @@
     "h1": "Trail Running",
     "title": "Trail Running - New Balance"
    },
-   "seo_checked": "2026-10-30T11:08:02Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "c1c6166d1d28"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/Training": {
@@ -2087,7 +2103,7 @@
     "h1": "Training",
     "title": "Training - New Balance"
    },
-   "seo_checked": "2026-10-30T11:08:02Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "a6ee8498e123"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/Work%20Shoes": {
@@ -2103,7 +2119,7 @@
     "h1": "Safety & Work Shoes",
     "title": "Safety & Work Shoes - New Balance"
    },
-   "seo_checked": "2026-10-30T11:08:02Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "d950b4d87319"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/allshoes": {
@@ -2215,7 +2231,7 @@
     "h1": "Spikes",
     "title": "Spikes - New Balance"
    },
-   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "81f3dcfc2972"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/walking": {
@@ -2231,7 +2247,7 @@
     "h1": "Walking",
     "title": "Walking - New Balance"
    },
-   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "21373e852c8b"
   },
   "https://www.newbalance.co.il/en/shop/men/shoes/wideshoes": {
@@ -2247,7 +2263,7 @@
     "h1": "Wide Shoes",
     "title": "Wide Shoes - New Balance"
    },
-   "seo_checked": "2026-10-31T10:41:23Z",
+   "seo_checked": "2026-11-22T12:59:02Z",
    "seo_hash": "22d3c4a3c86a"
   },
   "https://www.newbalance.co.il/en/shop/men/shopbystyle": {
