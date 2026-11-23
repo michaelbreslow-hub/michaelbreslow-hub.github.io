@@ -6,6 +6,104 @@
  },
  "events": [
   {
+   "after": "2026-11-23T07:13:06+00:00",
+   "asset_type": "category",
+   "before": "2026-11-22T06:45:13+00:00",
+   "date": "2026-11-23T15:35:51Z",
+   "page": {
+    "h1": "Black Friday",
+    "title": "Black Friday - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale"
+  },
+  {
+   "after": "2026-11-23T07:13:21+00:00",
+   "asset_type": "category",
+   "before": "2026-11-08T08:21:34+00:00",
+   "date": "2026-11-23T15:35:51Z",
+   "page": {
+    "h1": "Kids Sale",
+    "title": "Kids Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_Kids"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-23T15:35:51Z",
+   "lastmod": "2026-05-13T10:10:57+00:00",
+   "page": {
+    "h1": "Women's clothing",
+    "title": "Women's clothing - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_clothing/Clothing_women"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-23T15:35:51Z",
+   "lastmod": "2026-05-13T09:53:00+00:00",
+   "page": {
+    "h1": "Men's clothing",
+    "title": "Men's clothing - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_clothing/Clothing_men"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-23T15:35:51Z",
+   "lastmod": "2026-11-23T07:25:48+00:00",
+   "page": {
+    "h1": "Clothing Sale",
+    "title": "Clothing Sale - New Balance"
+   },
+   "section": "/shop",
+   "type": "added",
+   "url": "https://www.newbalance.co.il/en/shop/November%20Sale/NOV_clothing"
+  },
+  {
+   "after": "2026-11-23T12:00:03+00:00",
+   "asset_type": "other",
+   "before": "2026-11-22T12:00:03+00:00",
+   "date": "2026-11-23T15:35:51Z",
+   "page": {
+    "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
+   },
+   "section": "(other pages)",
+   "type": "updated",
+   "url": "https://www.newbalance.co.il/en/home"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-23T15:35:51Z",
+   "lastmod": "2026-05-13T09:53:00+00:00",
+   "page": {
+    "h1": "Men's clothing",
+    "title": "Men's clothing - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/Clothing_men"
+  },
+  {
+   "asset_type": "category",
+   "date": "2026-11-23T15:35:51Z",
+   "lastmod": "2026-05-13T10:10:57+00:00",
+   "page": {
+    "h1": "Women's clothing",
+    "title": "Women's clothing - New Balance"
+   },
+   "section": "/shop",
+   "type": "removed",
+   "url": "https://www.newbalance.co.il/en/shop/Clothing_women"
+  },
+  {
    "after": "2026-11-22T06:45:13+00:00",
    "asset_type": "category",
    "before": "2026-11-08T07:25:09+00:00",
@@ -2474,6 +2572,16 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 3,
+    "removed": 2,
+    "updated": 3
+   },
+   "date": "2026-11-23T15:35:51Z",
+   "status": "ok",
+   "total_urls": 233
+  },
   {
    "counts": {
     "added": 1,
