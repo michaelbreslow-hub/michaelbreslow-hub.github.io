@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-11-24T15:27:51Z",
+  "last_run": "2026-11-25T15:13:24Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-24T12:00:03+00:00",
+   "lastmod": "2026-11-25T12:00:06+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-11-24T15:27:51Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -96,14 +96,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-19T11:03:12+00:00",
+   "lastmod": "2026-11-24T14:42:53+00:00",
    "seo": {
     "canonical": "https://www.newbalance.co.il/en/root/WCH696V6.html",
     "description": "Buy 696v6 Tennis Shoes at New Balance.",
     "h1": "696v6 Tennis Shoes",
     "title": "696v6 Tennis Shoes"
    },
-   "seo_checked": "2026-11-19T14:03:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "4adfc7e33c1b"
   },
   "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99": {
@@ -375,7 +375,7 @@
     "h1": "Lifestyle",
     "title": "Lifestyle - New Balance"
    },
-   "seo_checked": "2026-11-04T12:43:37Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "1e3192b98657"
   },
   "https://www.newbalance.co.il/en/shop/All_Running": {
@@ -1351,7 +1351,7 @@
     "h1": "9060",
     "title": "9060 - New Balance"
    },
-   "seo_checked": "2026-11-04T12:43:37Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "2eb9c298fec8"
   },
   "https://www.newbalance.co.il/en/shop/Shoes_BTS": {
@@ -2695,7 +2695,7 @@
     "h1": "Running shoes 20%",
     "title": "Running shoes 20% - New Balance"
    },
-   "seo_checked": "2026-11-03T12:33:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "66cfa47bceb7"
   },
   "https://www.newbalance.co.il/en/shop/running20%25-2": {
@@ -2711,7 +2711,7 @@
     "h1": "20% off running shoes",
     "title": "20% off running shoes - New Balance"
    },
-   "seo_checked": "2026-11-03T12:33:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "6066a151604e"
   },
   "https://www.newbalance.co.il/en/shop/sale-kids": {
@@ -2727,7 +2727,7 @@
     "h1": "KIDS",
     "title": "KIDS - New Balance"
    },
-   "seo_checked": "2026-11-03T12:33:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "c93c74ad2cd4"
   },
   "https://www.newbalance.co.il/en/shop/sale-kids/sale-kids-shoes": {
@@ -2743,7 +2743,7 @@
     "h1": "Shoes",
     "title": "Shoes - New Balance"
    },
-   "seo_checked": "2026-11-03T12:33:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "2dc541e0bc03"
   },
   "https://www.newbalance.co.il/en/shop/sale-men": {
@@ -2759,7 +2759,7 @@
     "h1": "MEN",
     "title": "MEN - New Balance"
    },
-   "seo_checked": "2026-11-03T12:33:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "5e40c8a04757"
   },
   "https://www.newbalance.co.il/en/shop/sale-men/sale-men-clothing": {
@@ -2775,7 +2775,7 @@
     "h1": "Clothing",
     "title": "Clothing - New Balance"
    },
-   "seo_checked": "2026-11-03T12:33:32Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "a8490a5ada61"
   },
   "https://www.newbalance.co.il/en/shop/sale-men/sale-men-shoes": {
@@ -2791,7 +2791,7 @@
     "h1": "Shoes",
     "title": "Shoes - New Balance"
    },
-   "seo_checked": "2026-11-04T12:43:37Z",
+   "seo_checked": "2026-11-25T15:13:24Z",
    "seo_hash": "d041a7cfbb65"
   },
   "https://www.newbalance.co.il/en/shop/sale-women": {
