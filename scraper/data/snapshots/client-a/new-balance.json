@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-25T11:29:53Z",
-  "last_run": "2026-11-26T14:38:22Z",
+  "last_run": "2026-11-27T14:34:53Z",
   "pending_drop": null,
   "sitemaps_fetched": 4
  },
@@ -76,14 +76,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-26T12:00:03+00:00",
+   "lastmod": "2026-11-27T12:00:03+00:00",
    "seo": {
     "canonical": null,
     "description": "ניו באלאנס הוא מותג שמכיר את צרכי האתלט ומתמקד בשיפור טכנולוגי כדי להשיג התאמה מושלמת וביצועים מושלמים. בקרו באתר למידע על חנות נעליים, צפו בקטלוג והזמינו בחנות אונליין.",
     "h1": null,
     "title": "חנות נעליים אונליין - נעלי ריצה, הליכה, סניקרס לגברים ונשים - New Balance"
    },
-   "seo_checked": "2026-11-26T14:38:22Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "9aecbc3943db"
   },
   "https://www.newbalance.co.il/en/inst": {
@@ -96,14 +96,14 @@
     "redirect": null,
     "status": 200
    },
-   "lastmod": "2026-11-26T07:27:43+00:00",
+   "lastmod": "2026-11-26T09:28:52+00:00",
    "seo": {
     "canonical": "https://www.newbalance.co.il/en/root/WCH696V6.html",
     "description": "Buy 696v6 Tennis Shoes at New Balance.",
     "h1": "696v6 Tennis Shoes",
     "title": "696v6 Tennis Shoes"
    },
-   "seo_checked": "2026-11-26T14:38:22Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "4adfc7e33c1b"
   },
   "https://www.newbalance.co.il/en/shop/%D7%97%D7%9C%D7%99%D7%A4%D7%95%D7%AA%20%D7%A4%D7%95%D7%98%D7%A8%20%D7%9B%D7%9C%D7%9C%D7%99": {
@@ -2967,7 +2967,7 @@
     "h1": "Bags",
     "title": "Bags - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "0d30d3db6121"
   },
   "https://www.newbalance.co.il/en/shop/women/Accessories_women/Hats_women": {
@@ -2983,7 +2983,7 @@
     "h1": "Hats",
     "title": "Hats - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "8551f5c148f8"
   },
   "https://www.newbalance.co.il/en/shop/women/Accessories_women/Socks_women": {
@@ -2999,7 +2999,7 @@
     "h1": "Socks",
     "title": "Socks - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "45f763c0e1bb"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing": {
@@ -3031,7 +3031,7 @@
     "h1": "New Collection",
     "title": "New Collection - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "db212f253513"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/Women_Matching%20Sets": {
@@ -3047,7 +3047,7 @@
     "h1": "Matching Sets",
     "title": "Matching Sets - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "e07b93e30f61"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/woman-dresses": {
@@ -3063,7 +3063,7 @@
     "h1": "Dresses",
     "title": "Dresses - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "b3a95401b60a"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-allclothing": {
@@ -3079,7 +3079,7 @@
     "h1": "All Clothing",
     "title": "All Clothing - New Balance"
    },
-   "seo_checked": "2026-11-05T12:52:43Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "6b0ec31a6eb0"
   },
   "https://www.newbalance.co.il/en/shop/women/women-clothing/women-hoodies%26sweatshirts": {
@@ -3239,7 +3239,7 @@
     "h1": "All Shoes",
     "title": "All Shoes - New Balance"
    },
-   "seo_checked": "2026-11-04T12:43:37Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "c08722fb5d14"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-lifestyle": {
@@ -3255,7 +3255,7 @@
     "h1": "Lifestyle",
     "title": "Lifestyle - New Balance"
    },
-   "seo_checked": "2026-11-04T12:43:37Z",
+   "seo_checked": "2026-11-27T14:34:53Z",
    "seo_hash": "e0bb5a6ea906"
   },
   "https://www.newbalance.co.il/en/shop/women/women-shoes/women-madeinuk%26us": {
