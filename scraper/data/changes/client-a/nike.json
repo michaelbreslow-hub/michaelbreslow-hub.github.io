@@ -7,6 +7,126 @@
  "events": [
   {
    "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Rejuven8 Run",
+    "title": "Nike Rejuven8 Run Women's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/rejuven8-run-womens-shoes-YGNTn391"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Air Superfly LX Pony Hair Leather",
+    "title": "Nike Air Superfly LX Pony Hair Leather Women's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/air-superfly-lx-pony-hair-leather-womens-shoes-M4gxOhHw"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Shox R4",
+    "title": "Nike Shox R4 Women's Shoes. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/shox-r4-womens-shoes-pMCg79"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Younger Kids' Embroidered Futura T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-younger-kids-embroidered-futura-t-shirt-2nka0dqn"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear City Utility",
+    "title": "Nike Sportswear City Utility Older Kids' Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-city-utility-older-kids-jacket-twZBnR"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear Club Fleece",
+    "title": "Nike Sportswear Club Fleece Older Kids' Hoodie. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-hoodie-cxtLF6"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear Club Fleece",
+    "title": "Nike Sportswear Club Fleece Older Kids' Sweatshirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-sweatshirt-1F21Tf"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Older Kids' T-Shirt. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-older-kids-t-shirt-zqnOXBHo"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Sportswear Windrunner",
+    "title": "Nike Sportswear Windrunner Older Kids' Hooded Repel Jacket. Nike IL"
+   },
+   "section": "/t",
+   "type": "added",
+   "url": "https://www.nike.com/il/t/sportswear-windrunner-older-kids-hooded-repel-jacket-mb1F5j"
+  },
+  {
+   "asset_type": "product",
+   "date": "2026-11-28T13:48:04Z",
+   "lastmod": null,
+   "page": {
+    "h1": "Nike Academy 25",
+    "title": "Nike Academy 25 Men's Dri-FIT Football Knit Pants. Nike IL"
+   },
+   "section": "/t",
+   "type": "removed",
+   "url": "https://www.nike.com/il/t/academy-25-mens-dri-fit-football-knit-pants-XTdWLC"
+  },
+  {
+   "asset_type": "product",
    "date": "2026-11-27T14:34:53Z",
    "keywords": [
     "jordan"
@@ -31663,6 +31783,15 @@
   }
  ],
  "runs": [
+  {
+   "counts": {
+    "added": 9,
+    "removed": 1
+   },
+   "date": "2026-11-28T13:48:04Z",
+   "status": "ok",
+   "total_urls": 12045
+  },
   {
    "counts": {
     "added": 72,

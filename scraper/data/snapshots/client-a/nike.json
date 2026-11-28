@@ -1,7 +1,7 @@
 {
  "meta": {
   "baseline_at": "2026-09-24T08:34:55Z",
-  "last_run": "2026-11-27T14:34:53Z",
+  "last_run": "2026-11-28T13:48:04Z",
   "pending_drop": null,
   "sitemaps_fetched": 13
  },
@@ -10888,43 +10888,163 @@
   },
   "https://www.nike.com/il/a/help-your-kids-fall-in-love-with-movement": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/help-your-kids-fall-in-love-with-movement",
+    "description": "You love working out, and you want your kids to love it, too. Here are three ways you can gear up your kids for a lifetime of fitness.",
+    "h1": "Help Your Kids Fall in Love With Movement",
+    "title": "Help Your Kids Fall in Love With Movement. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "8b9cd52da42d"
   },
   "https://www.nike.com/il/a/herniated-disc-exercises": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/herniated-disc-exercises",
+    "description": "Here, doctors and physiotherapists share exercises for a herniated disc to ease pain while also addressing the root problem.",
+    "h1": "Exercises for Herniated Discs, According to Experts",
+    "title": "Exercises for Herniated Discs, According to Experts. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "ecaa375fca43"
   },
   "https://www.nike.com/il/a/high-energy-family-workouts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/high-energy-family-workouts",
+    "description": "Tap into your strength as a family with these 2 high-energy burners, best done back-to-back.",
+    "h1": "Basic Burner Back to Back",
+    "title": "High-Energy Family Workouts. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "12feca4a2e80"
   },
   "https://www.nike.com/il/a/high-waisted-workout-shorts": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/high-waisted-workout-shorts",
+    "description": "Move through a variety of activities—in comfort—with these high-waisted workout shorts from Nike.",
+    "h1": "5 Best High-waisted Workout Shorts",
+    "title": "5 Best High-Waisted Workout Shorts. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "70f9cc0c33b8"
   },
   "https://www.nike.com/il/a/hiking-outfit-ideas": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/hiking-outfit-ideas",
+    "description": "Your guide to hitting the trail in style.",
+    "h1": "What to Wear Hiking for Every Season (And Condition)",
+    "title": "What to Wear Hiking for Every Season (And Condition). Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "a82e9466a001"
   },
   "https://www.nike.com/il/a/hiking-snacks": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/hiking-snacks",
+    "description": "A registered dietitian said these are the best hiking snacks to have as you traverse the trails.",
+    "h1": "4 Snacks To Bring On Your Next Hiking Adventure",
+    "title": "4 Hiking Snacks to Take On Your Next Adventure . Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "30272e79a6fa"
   },
   "https://www.nike.com/il/a/hill-sprints-workout-benefits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/hill-sprints-workout-benefits",
+    "description": "Hill workouts develop muscle tone and improve running economy. Here are four types to incorporate and why.",
+    "h1": "4 Powerful Hill Workouts That Provide Major Benefits",
+    "title": "4 Types of Hill Workouts and Their Benefits. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "992c88126602"
   },
   "https://www.nike.com/il/a/hip-hop-dance-outfits": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/hip-hop-dance-outfits",
+    "description": "The expert-approved look that combines style and comfort.",
+    "h1": "6 Hip-Hop Dance Outfits That Celebrate Music and Movement",
+    "title": "6 Hip-Hop Dance Outfits That Celebrate Music and Movement. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "3c032450a380"
   },
   "https://www.nike.com/il/a/hip-mobility-exercises-stretches": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/hip-mobility-exercises-stretches",
+    "description": "Three experts share their top choices for hip mobility exercises and stretches.",
+    "h1": "The Top Exercises and Stretches for Hip Mobility, According to Physiotherapists",
+    "title": "The Top Exercises and Stretches for Hip Mobility, According to Physical Therapists. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "8f63b14ed4f0"
   },
   "https://www.nike.com/il/a/hip-pain-after-running": {
    "first_seen": "2026-09-24T08:34:55Z",
-   "lastmod": null
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/a/hip-pain-after-running",
+    "description": "Whether your hip pain starts while you're running or begins afterwards, it can affect your performance. Here are some clues about what may be going on—and how to prevent it in the first place.",
+    "h1": "The most common causes of hip pain from running—and how to prevent it",
+    "title": "The most common causes of hip pain from running—and how to prevent it. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "41d3836a471c"
   },
   "https://www.nike.com/il/a/hit-maximises-time-and-results": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -21100,22 +21220,6 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
-  "https://www.nike.com/il/t/academy-25-mens-dri-fit-football-knit-pants-XTdWLC": {
-   "first_seen": "2026-10-15T05:19:12Z",
-   "http": {
-    "redirect": null,
-    "status": 200
-   },
-   "lastmod": null,
-   "seo": {
-    "canonical": "https://www.nike.com/il/t/academy-25-mens-dri-fit-football-knit-pants-XTdWLC",
-    "description": "Find the Nike Academy 25 Men's Dri-FIT Football Knit Pants at Nike.com. Shop online at Nike.com.",
-    "h1": "Nike Academy 25",
-    "title": "Nike Academy 25 Men's Dri-FIT Football Knit Pants. Nike IL"
-   },
-   "seo_checked": "2026-10-15T05:19:12Z",
-   "seo_hash": "909ce5ac5c1d"
-  },
   "https://www.nike.com/il/t/academy-alexia-putellas-older-kids-girls-dri-fit-football-top-JhLjFXAw": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -24967,6 +25071,22 @@
   "https://www.nike.com/il/t/air-rift-womens-shoes-oBcUMarl": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/air-superfly-lx-pony-hair-leather-womens-shoes-M4gxOhHw": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/air-superfly-lx-pony-hair-leather-womens-shoes-M4gxOhHw",
+    "description": "Find the Nike Air Superfly LX Pony Hair Leather Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Air Superfly LX Pony Hair Leather",
+    "title": "Nike Air Superfly LX Pony Hair Leather Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "1280a30e4c3e"
   },
   "https://www.nike.com/il/t/air-superfly-womens-shoes-6kHaiejw": {
    "first_seen": "2026-11-18T13:36:41Z",
@@ -42176,6 +42296,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/rejuven8-run-womens-shoes-YGNTn391": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/rejuven8-run-womens-shoes-YGNTn391",
+    "description": "Find the Nike Rejuven8 Run Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Rejuven8 Run",
+    "title": "Nike Rejuven8 Run Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "221701622f3f"
+  },
   "https://www.nike.com/il/t/revolution-4-flyease-younger-kids-shoe-dcjXWz": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -42652,6 +42788,22 @@
    "first_seen": "2026-10-22T05:21:45Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/shox-r4-womens-shoes-pMCg79": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/shox-r4-womens-shoes-pMCg79",
+    "description": "Find the Nike Shox R4 Women's Shoes at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Shox R4",
+    "title": "Nike Shox R4 Women's Shoes. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "ce558ad7f2c7"
+  },
   "https://www.nike.com/il/t/shox-ride-2-mens-shoes-xFaPDkiW": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -43065,6 +43217,22 @@
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-city-utility-older-kids-jacket-twZBnR": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-city-utility-older-kids-jacket-twZBnR",
+    "description": "Find the Nike Sportswear City Utility Older Kids' Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear City Utility",
+    "title": "Nike Sportswear City Utility Older Kids' Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "e77dc4fa49a5"
+  },
   "https://www.nike.com/il/t/sportswear-city-utility-older-kids-shorts-RuOJxBrA": {
    "first_seen": "2026-11-18T13:36:41Z",
    "http": {
@@ -43181,6 +43349,22 @@
    "first_seen": "2026-10-21T05:20:43Z",
    "lastmod": null
   },
+  "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-hoodie-cxtLF6": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-hoodie-cxtLF6",
+    "description": "Find the Nike Sportswear Club Fleece Older Kids' Hoodie at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear Club Fleece",
+    "title": "Nike Sportswear Club Fleece Older Kids' Hoodie. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "ae98aa1db2fc"
+  },
   "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-loose-trousers-w9LOkCSj": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -43196,6 +43380,22 @@
   "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-pullover-hoodie-1Xyrr14T": {
    "first_seen": "2026-11-27T14:34:53Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-sweatshirt-1F21Tf": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-sweatshirt-1F21Tf",
+    "description": "Find the Nike Sportswear Club Fleece Older Kids' Sweatshirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear Club Fleece",
+    "title": "Nike Sportswear Club Fleece Older Kids' Sweatshirt. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "b26855077f24"
   },
   "https://www.nike.com/il/t/sportswear-club-fleece-older-kids-sweatshirt-ntMKKl": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -44045,6 +44245,22 @@
    "seo_checked": "2026-10-17T05:16:42Z",
    "seo_hash": "bebe2304addc"
   },
+  "https://www.nike.com/il/t/sportswear-older-kids-t-shirt-zqnOXBHo": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-older-kids-t-shirt-zqnOXBHo",
+    "description": "Find the Nike Sportswear Older Kids' T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Older Kids' T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "62ed36ae192c"
+  },
   "https://www.nike.com/il/t/sportswear-older-kids-tank-top-KjXXxx": {
    "first_seen": "2026-09-24T08:34:55Z",
    "lastmod": null
@@ -44204,6 +44420,22 @@
   "https://www.nike.com/il/t/sportswear-windpuffer-womens-loose-storm-fit-hooded-down-parka-9y9P6SAH": {
    "first_seen": "2026-10-10T05:07:09Z",
    "lastmod": null
+  },
+  "https://www.nike.com/il/t/sportswear-windrunner-older-kids-hooded-repel-jacket-mb1F5j": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-windrunner-older-kids-hooded-repel-jacket-mb1F5j",
+    "description": "Find the Nike Sportswear Windrunner Older Kids' Hooded Repel Jacket at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear Windrunner",
+    "title": "Nike Sportswear Windrunner Older Kids' Hooded Repel Jacket. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "ba70bb4e5ca4"
   },
   "https://www.nike.com/il/t/sportswear-windrunner-older-kids-hooded-repel-jacket-yK0c5BH9": {
    "first_seen": "2026-09-24T08:34:55Z",
@@ -44680,6 +44912,22 @@
    },
    "seo_checked": "2026-11-18T13:36:41Z",
    "seo_hash": "15274096aabe"
+  },
+  "https://www.nike.com/il/t/sportswear-younger-kids-embroidered-futura-t-shirt-2nka0dqn": {
+   "first_seen": "2026-11-28T13:48:04Z",
+   "http": {
+    "redirect": null,
+    "status": 200
+   },
+   "lastmod": null,
+   "seo": {
+    "canonical": "https://www.nike.com/il/t/sportswear-younger-kids-embroidered-futura-t-shirt-2nka0dqn",
+    "description": "Find the Nike Sportswear Younger Kids' Embroidered Futura T-Shirt at Nike.com. Shop online at Nike.com.",
+    "h1": "Nike Sportswear",
+    "title": "Nike Sportswear Younger Kids' Embroidered Futura T-Shirt. Nike IL"
+   },
+   "seo_checked": "2026-11-28T13:48:04Z",
+   "seo_hash": "0ead32a17ca6"
   },
   "https://www.nike.com/il/t/sprint-sister-womens-shoes-5RaPWBqI": {
    "first_seen": "2026-09-24T08:34:55Z",

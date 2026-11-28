@@ -8,6 +8,12 @@
  "runs": [
   {
    "counts": {},
+   "date": "2026-11-28T13:48:04Z",
+   "status": "ok",
+   "total_urls": 11931
+  },
+  {
+   "counts": {},
    "date": "2026-11-27T14:34:53Z",
    "status": "ok",
    "total_urls": 11931
